@@ -1,0 +1,5257 @@
+[
+  {
+    "subject_inst_id": "378956",
+    "subject_id": "209148",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Integration in a Global Context",
+    "subject_code": "MGNT912",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject outline/subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Nelly Liyanagamage",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37895601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-248",
+        "week": "4-10",
+        "activity_seq": "37895602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378961",
+    "subject_id": "209149",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Management of Change",
+    "subject_code": "MGNT915",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject outline / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Shamika Almeida",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37896101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37896102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378924",
+    "subject_id": "209144",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Organisational Behaviour and Management",
+    "subject_code": "MGNT803",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject outline/subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Anil Chandrakumara",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Irit Alony",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37892401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-304",
+        "week": "1-10",
+        "activity_seq": "37892402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378929",
+    "subject_id": "209144",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Organisational Behaviour and Management",
+    "subject_code": "MGNT803",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject outline/subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Irit Alony",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37892901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "37892902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378933",
+    "subject_id": "209144",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Organisational Behaviour and Management",
+    "subject_code": "MGNT803",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject outline/subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Irit Alony",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37893301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37893302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378939",
+    "subject_id": "209145",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Leading in Contemporary Organisations",
+    "subject_code": "MGNT903",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kanchana Wijayawardena",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37893901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "390-304",
+        "week": "1-10",
+        "activity_seq": "37893902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378945",
+    "subject_id": "209146",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Human Resources Development",
+    "subject_code": "MGNT908",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Iresha Donmanige",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37894501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37894502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378741",
+    "subject_id": "209112",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Economic Analysis for Modern Business",
+    "subject_code": "MBA 900",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject outline/subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Martin O'Brien",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37874101"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378747",
+    "subject_id": "209113",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting For Managerial Decision-making",
+    "subject_code": "MBA 901",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Anura De Zoysa",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Luka Raznatovic",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "37874701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378752",
+    "subject_id": "209114",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Marketing Management",
+    "subject_code": "MBA 902",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Muhammad Saleem",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Stuart Coleman",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "37875201"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378767",
+    "subject_id": "209118",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Strategy and Governance",
+    "subject_code": "MBA 906",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Adam Corbett",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Martin O'Brien",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37876701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378774",
+    "subject_id": "209119",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Contemporary Global Perspectives on Strategy",
+    "subject_code": "MBA 907",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Martin O'Brien",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Michael Britza",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop B",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37877401"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378779",
+    "subject_id": "209120",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Business Project",
+    "subject_code": "MBA 908",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr John Hesketh",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop A",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "1,3,5,7,9",
+        "activity_seq": "37877901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop B",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-237",
+        "week": "2,4,6,8,10",
+        "activity_seq": "37877902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378859",
+    "subject_id": "209130",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Analytics for Services and Operations",
+    "subject_code": "MBAS904",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently.",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37885901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-304",
+        "week": "1-10",
+        "activity_seq": "37885902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378871",
+    "subject_id": "209131",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advanced Business Analytics",
+    "subject_code": "MBAS905",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently.",
+    "staff": [
+      {
+        "staff_name": "Doctor Martin Gold",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37887101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-248 &amp; 390-249",
+        "week": "1-10",
+        "activity_seq": "37887102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378783",
+    "subject_id": "209120",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Business Project",
+    "subject_code": "MBA 908",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr John Hesketh",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Martin O'Brien",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop B",
+        "day": "Sat",
+        "start_time": "09:30",
+        "end_time": "12:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37878301"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378786",
+    "subject_id": "209120",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Business Project",
+    "subject_code": "MBA 908",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Brendan Lyon",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop A",
+        "day": "Sat",
+        "start_time": "09:30",
+        "end_time": "12:30",
+        "location": "390-230",
+        "week": "1,3,5,7,9",
+        "activity_seq": "37878601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop B",
+        "day": "Sat",
+        "start_time": "09:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "37878602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378798",
+    "subject_id": "209121",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Responsible Leadership for a Global World",
+    "subject_code": "MBA 909",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr John Hesketh",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37879801"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378809",
+    "subject_id": "209123",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "People and Culture",
+    "subject_code": "MBA 914",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Martin O'Brien",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Renee Whiteside",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Sat",
+        "start_time": "13:30",
+        "end_time": "16:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37880901"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378812",
+    "subject_id": "209124",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Leading Business Transformation in the age of AI",
+    "subject_code": "MBA 915",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr Mathew Mytka",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop A",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "1,3,5,7,9",
+        "activity_seq": "37881201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop B",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-237",
+        "week": "2,4,6,8,10",
+        "activity_seq": "37881202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378815",
+    "subject_id": "209125",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Project and Supply Chain Management",
+    "subject_code": "MBA 916",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Tillmann Boehme",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "37881501"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378875",
+    "subject_id": "209131",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advanced Business Analytics",
+    "subject_code": "MBAS905",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently.",
+    "staff": [
+      {
+        "staff_name": "Doctor Stephen Wu",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37887501"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378883",
+    "subject_id": "209132",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Analytics Research Capstone",
+    "subject_code": "MBAS906",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently.",
+    "staff": [
+      {
+        "staff_name": "Doctor Nelly Liyanagamage",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37888301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "390-230",
+        "week": "1-3",
+        "activity_seq": "37888302"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888303"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888304"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888305"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888306"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888307"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378887",
+    "subject_id": "209132",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Analytics Research Capstone",
+    "subject_code": "MBAS906",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently.",
+    "staff": [
+      {
+        "staff_name": "Doctor Nelly Liyanagamage",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37888701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "390-306",
+        "week": "1-3",
+        "activity_seq": "37888702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888703"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888704"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888705"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888706"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888707"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378890",
+    "subject_id": "209132",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Analytics Research Capstone",
+    "subject_code": "MBAS906",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently.",
+    "staff": [
+      {
+        "staff_name": "Professor Millicent Chang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37889001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "390-306",
+        "week": "1-3",
+        "activity_seq": "37889002"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889003"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889004"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889005"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889006"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889007"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378966",
+    "subject_id": "209150",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing Employment Relations in Organisations",
+    "subject_code": "MGNT918",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject outline / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Renee Cunial",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37896601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37896602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378970",
+    "subject_id": "209151",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Organisational Analysis",
+    "subject_code": "MGNT920",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Ananda Dasily Wickramasinghe",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37897001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37897002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378995",
+    "subject_id": "209157",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Performance Management",
+    "subject_code": "MGNT949",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject outline / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Oriana Price",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37899501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-248 &amp; 390-249",
+        "week": "1-10",
+        "activity_seq": "37899502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378999",
+    "subject_id": "209158",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Management of Workplace Health and Safety",
+    "subject_code": "MGNT963",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Renee Cunial",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37899901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37899902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379005",
+    "subject_id": "209159",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Job Analysis, Recruitment and Selection",
+    "subject_code": "MGNT969",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject outline / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Geraldine Hardie",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37900501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "37900502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379009",
+    "subject_id": "209160",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Cross Cultural Management",
+    "subject_code": "MGNT978",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject outline / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Anil Chandrakumara",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37900901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37900902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379024",
+    "subject_id": "209163",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Operations Management",
+    "subject_code": "OPS 802",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Martin Gold",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37902401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "37902402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379028",
+    "subject_id": "209163",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Operations Management",
+    "subject_code": "OPS 802",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Albert Munoz Aneiros",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37902802"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37902801"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379031",
+    "subject_id": "209163",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Operations Management",
+    "subject_code": "OPS 802",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Spring Zhou",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37903101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37903102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379041",
+    "subject_id": "209165",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Sustainable Organisational Performance",
+    "subject_code": "OPS 909",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Edmund Brownlow",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37904101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37904102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379047",
+    "subject_id": "209166",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Supply Chain Analytics",
+    "subject_code": "OPS 910",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Spring Zhou",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37904701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37904702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379054",
+    "subject_id": "209167",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Procurement Management",
+    "subject_code": "OPS 911",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr Rennie Cristini",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37905401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-3,5-10",
+        "activity_seq": "37905402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "390-250",
+        "week": "4",
+        "activity_seq": "37905403"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379066",
+    "subject_id": "209170",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Contemporary Issues in Supply Chain Management",
+    "subject_code": "OPS 920",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr Rennie Cristini",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37906601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37906602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379069",
+    "subject_id": "209170",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Contemporary Issues in Supply Chain Management",
+    "subject_code": "OPS 920",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mr Rennie Cristini",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37906901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37906902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379076",
+    "subject_id": "209172",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Logistics Systems",
+    "subject_code": "OPS 928",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Ethan Nikookar",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37907601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37907602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379080",
+    "subject_id": "209173",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing Complex Projects",
+    "subject_code": "OPS 932",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail.",
+    "staff": [
+      {
+        "staff_name": "Doctor Javad Bakhshi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37908001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "37908002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379086",
+    "subject_id": "209173",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing Complex Projects",
+    "subject_code": "OPS 932",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail.",
+    "staff": [
+      {
+        "staff_name": "Doctor Javad Bakhshi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37908601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37908602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379092",
+    "subject_id": "209175",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing and Leading Project Teams",
+    "subject_code": "OPS 937",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Ann Rogerson",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37909201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37909202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379095",
+    "subject_id": "209176",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Negotiation Theory and Practice for Project Management",
+    "subject_code": "OPS 938",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Rodney Clarke",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37909501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37909502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379098",
+    "subject_id": "209177",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Project Management in Practice",
+    "subject_code": "OPS 939",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Javad Bakhshi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37909801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37909802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379106",
+    "subject_id": "209182",
+    "owner_unit": "LAWS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Law",
+    "subject_code": "LAW 931",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "3",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Andy Schmulow",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Seminar",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37910601"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "LAWS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379224",
+    "subject_id": "209214",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting and Financial Management",
+    "subject_code": "ACCY801",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Walid El Hamad",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37922401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-304",
+        "week": "1-10",
+        "activity_seq": "37922402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379228",
+    "subject_id": "209214",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting and Financial Management",
+    "subject_code": "ACCY801",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Andy Wang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37922801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37922802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379232",
+    "subject_id": "209214",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting and Financial Management",
+    "subject_code": "ACCY801",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor David Johnstone",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Kellie McCombie",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37923201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37923202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379237",
+    "subject_id": "209215",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Accounting",
+    "subject_code": "ACCY901",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail.",
+    "staff": [
+      {
+        "staff_name": "Doctor Jenny (Jing)_ Wang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37923702"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37923701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379241",
+    "subject_id": "209215",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Accounting",
+    "subject_code": "ACCY901",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail.",
+    "staff": [
+      {
+        "staff_name": "Doctor Sanja Pupovac",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37924101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37924102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379243",
+    "subject_id": "209216",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Accounting",
+    "subject_code": "ACCY902",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Mona Nikidehaghani",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Swadip Bhattacharjee",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37924301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "37924302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379247",
+    "subject_id": "209217",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting in Organisations and Society",
+    "subject_code": "ACCY903",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Mona Nikidehaghani",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37924701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37924702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379249",
+    "subject_id": "209218",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Management and Cost Accounting",
+    "subject_code": "ACCY918",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Anura De Zoysa",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37924901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37924902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379251",
+    "subject_id": "209219",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Information Technology and Systems for Accounting",
+    "subject_code": "ACCY936",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kevin Huang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37925101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "390-305",
+        "week": "1-10",
+        "activity_seq": "37925102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379253",
+    "subject_id": "209220",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Accounting Capstone",
+    "subject_code": "ACCY941",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Abdullah Al Mamun",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37925301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-304",
+        "week": "1-10",
+        "activity_seq": "37925302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379255",
+    "subject_id": "209221",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Auditing and Assurance",
+    "subject_code": "ACCY962",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Mohammed Bhuyan",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Kevin Huang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37925501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37925502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379257",
+    "subject_id": "209222",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Practice - Taxation",
+    "subject_code": "ACCY963",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Abdullah Al Mamun",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37925701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37925702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379266",
+    "subject_id": "209225",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Research Capstone",
+    "subject_code": "BUS 922",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Nelly Liyanagamage",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37926601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "390-230",
+        "week": "1-3",
+        "activity_seq": "37926602"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37926603"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37926604"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37926605"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37926606"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37926607"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379270",
+    "subject_id": "209225",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Research Capstone",
+    "subject_code": "BUS 922",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Nelly Liyanagamage",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37927001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "390-306",
+        "week": "1-3",
+        "activity_seq": "37927002"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927003"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927004"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927005"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927006"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927007"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379274",
+    "subject_id": "209225",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Research Capstone",
+    "subject_code": "BUS 922",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Millicent Chang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37927401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "390-306",
+        "week": "1-3",
+        "activity_seq": "37927402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927403"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927404"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927405"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927406"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927407"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379301",
+    "subject_id": "209231",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Economics for Professionals",
+    "subject_code": "ECON910",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kai (David) Du",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37930101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37930102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379308",
+    "subject_id": "209233",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Statistics",
+    "subject_code": "ECON940",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kai (David) Du",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37930801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37930802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379311",
+    "subject_id": "209233",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Statistics",
+    "subject_code": "ECON940",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kai (David) Du",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37931101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "37931102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379313",
+    "subject_id": "209233",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Business Statistics",
+    "subject_code": "ECON940",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kai (David) Du",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37931301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37931302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379355",
+    "subject_id": "209240",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managerial Finance",
+    "subject_code": "FIN 921",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Swadip Bhattacharjee",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37935501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37935502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379359",
+    "subject_id": "209240",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managerial Finance",
+    "subject_code": "FIN 921",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Freda Hui-Truscott",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37935901"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379363",
+    "subject_id": "209240",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managerial Finance",
+    "subject_code": "FIN 921",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Maria Kim",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Xiaofei Pan",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37936301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37936302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379368",
+    "subject_id": "209242",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Portfolio Management",
+    "subject_code": "FIN 923",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Sarah Wang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37936801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37936802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379375",
+    "subject_id": "209243",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Statement Analysis For Business",
+    "subject_code": "FIN 924",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Sarah Wang",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37937501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-248 &amp; 390-249",
+        "week": "1-10",
+        "activity_seq": "37937502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379385",
+    "subject_id": "209245",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advanced Managerial Finance",
+    "subject_code": "FIN 926",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Xiaofei Pan",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37938501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-248 &amp; 390-249",
+        "week": "1-10",
+        "activity_seq": "37938502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379394",
+    "subject_id": "209247",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Tokenised Assets and Decentralised Finance",
+    "subject_code": "FIN 945",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Ivy Zhou",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37939401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37939402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379403",
+    "subject_id": "209249",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "FinTech Applications in Banking and Insurance",
+    "subject_code": "FIN 947",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Bin Liu",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37940301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-248 &amp; 390-249",
+        "week": "1-10",
+        "activity_seq": "37940302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379410",
+    "subject_id": "209250",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fintech Data Analysis and Machine Learning",
+    "subject_code": "FIN 948",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Tina Prodromou",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Fri",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "390-305",
+        "week": "1-10",
+        "activity_seq": "37941001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37941002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379419",
+    "subject_id": "209251",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Socially Responsible Finance",
+    "subject_code": "FIN 950",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Searat Ali",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37941901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37941902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379424",
+    "subject_id": "209252",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Alternative Investments",
+    "subject_code": "FIN 954",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Swadip Bhattacharjee",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37942401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37942402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379443",
+    "subject_id": "209255",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Trading and Dealing in Capital Markets",
+    "subject_code": "FIN 957",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Tina Prodromou",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-305",
+        "week": "1-10",
+        "activity_seq": "37944301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37944302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379449",
+    "subject_id": "209256",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Institutions",
+    "subject_code": "FIN 958",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37944901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37944902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379469",
+    "subject_id": "209260",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Risk Management",
+    "subject_code": "FIN 962",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Ivy Zhou",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37946901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37946902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379475",
+    "subject_id": "209261",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Marketing Management",
+    "subject_code": "MARK804",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Seyed Momeni",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37947501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37947502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379481",
+    "subject_id": "209261",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Marketing Management",
+    "subject_code": "MARK804",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Seyed Momeni",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37948101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-306",
+        "week": "1-10",
+        "activity_seq": "37948102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379484",
+    "subject_id": "209261",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Marketing Management",
+    "subject_code": "MARK804",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Ping Kattiyapornpong",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Thomas Lee",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37948401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37948402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379496",
+    "subject_id": "209262",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Digital Marketing",
+    "subject_code": "MARK901",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Ms Xiaoshan He",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37949601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "37949602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379499",
+    "subject_id": "209263",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Big Data & Marketing Analytics",
+    "subject_code": "MARK902",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Shahriar Akter",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "17:30",
+        "location": "390-238",
+        "week": "2,4,6,8,10",
+        "activity_seq": "37949901"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379508",
+    "subject_id": "209266",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Social Marketing",
+    "subject_code": "MARK920",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kelis Nguyen",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37950801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "37950802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379513",
+    "subject_id": "209267",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Marketing Strategy",
+    "subject_code": "MARK935",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Ping Kattiyapornpong",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37951301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37951302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379518",
+    "subject_id": "209268",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Consumer Behaviour",
+    "subject_code": "MARK936",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Nadia Zainuddin",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Kelis Nguyen",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Beo Thai",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37951801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "37951802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379525",
+    "subject_id": "209270",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Marketing Communications",
+    "subject_code": "MARK940",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Ms Xiaoshan He",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37952501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37952502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383322",
+    "subject_id": "209126",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Business Analytics",
+    "subject_code": "MBAS900",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Edmund Brownlow",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38332201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "38332202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383323",
+    "subject_id": "209126",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Business Analytics",
+    "subject_code": "MBAS900",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38332301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "38332302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383330",
+    "subject_id": "209126",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Business Analytics",
+    "subject_code": "MBAS900",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Stephen Wu",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "38333002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383337",
+    "subject_id": "209138",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Predictive Analytics and Forecasting",
+    "subject_code": "MBAS921",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mostafa Khatami",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "38333702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383343",
+    "subject_id": "209141",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "AI-driven Customer Insights and Market Intelligence",
+    "subject_code": "MBAS924",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "38334302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383346",
+    "subject_id": "209141",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "AI-driven Customer Insights and Market Intelligence",
+    "subject_code": "MBAS924",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "38334602"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334601"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383349",
+    "subject_id": "209142",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Prescriptive Analytics and Business Decision Making",
+    "subject_code": "MBAS925",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mostafa Khatami",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "38334902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383332",
+    "subject_id": "209139",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Applied Machine Learning & AI for Business",
+    "subject_code": "MBAS922",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mehrdad Amirghasemi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "38333202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383336",
+    "subject_id": "209137",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Data Storytelling & Visual Intelligence",
+    "subject_code": "MBAS920",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mehrdad Amirghasemi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-237",
+        "week": "1-10",
+        "activity_seq": "38333602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383340",
+    "subject_id": "209140",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Big Data Management & Integration",
+    "subject_code": "MBAS923",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "2",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Stephen Wu",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-230",
+        "week": "1-10",
+        "activity_seq": "38334002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  }
+]
