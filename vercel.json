@@ -1,0 +1,8 @@
+{
+  "ignoreCommand": "node scripts/ignore-build-step.js",
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  }
+}
