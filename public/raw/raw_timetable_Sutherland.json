@@ -316,16 +316,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37764801"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -334,6 +324,16 @@
         "location": "SU-105",
         "week": "2-13",
         "activity_seq": "37764802"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37764801"
       }
     ],
     "units": [
@@ -428,16 +428,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37766501"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Wed",
@@ -446,6 +436,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37766502"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37766501"
       }
     ],
     "units": [
@@ -705,16 +705,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "SU-G06",
-        "week": "4,7,10,12",
-        "activity_seq": "37774901"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture",
         "day": "Wed",
@@ -743,6 +733,16 @@
         "location": "SU-G06",
         "week": "2-3,5-6,8-9,11,13",
         "activity_seq": "37774904"
+      },
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "4,7,10,12",
+        "activity_seq": "37774901"
       }
     ],
     "units": [
@@ -806,6 +806,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38385701"
+      },
+      {
         "and_or": "OR",
         "activity": "Tutorial A",
         "day": "Wed",
@@ -844,16 +854,6 @@
         "location": "Class Online",
         "week": "03/06/2026",
         "activity_seq": "38385705"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial A",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "SU-105",
-        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
-        "activity_seq": "38385701"
       },
       {
         "and_or": "OR",
@@ -1373,16 +1373,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37790101"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Fri",
@@ -1391,6 +1381,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37790102"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37790101"
       }
     ],
     "units": [
@@ -1939,16 +1939,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "SU-G03",
-        "week": "2-13",
-        "activity_seq": "37853602"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Wed",
@@ -1957,6 +1947,16 @@
         "location": "Lecture Online",
         "week": "1-13",
         "activity_seq": "37853601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37853602"
       }
     ],
     "units": [
@@ -2251,16 +2251,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Lecture Online",
-        "week": "1",
-        "activity_seq": "37801901"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -2269,6 +2259,16 @@
         "location": "Refer to Moodle",
         "week": "2-13",
         "activity_seq": "37801902"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1",
+        "activity_seq": "37801901"
       },
       {
         "and_or": "AND",
@@ -2491,16 +2491,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "SU-103",
-        "week": "2,4,6,8,10,12",
-        "activity_seq": "37805003"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Mon",
@@ -2519,6 +2509,16 @@
         "location": "Refer to Moodle",
         "week": "10-11",
         "activity_seq": "37805002"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-103",
+        "week": "2,4,6,8,10,12",
+        "activity_seq": "37805003"
       }
     ],
     "units": [
@@ -2676,16 +2676,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "37809501"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Fri",
@@ -2694,6 +2684,16 @@
         "location": "SU-G03",
         "week": "2-13",
         "activity_seq": "37809502"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37809501"
       }
     ],
     "units": [
@@ -3918,6 +3918,46 @@
     ],
     "timetable": [
       {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-107",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38082206"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082207"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082208"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082209"
+      },
+      {
         "and_or": "",
         "activity": "Practical",
         "day": "Mon",
@@ -3966,46 +4006,6 @@
         "location": "SU-107",
         "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
         "activity_seq": "38082205"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "SU-107",
-        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
-        "activity_seq": "38082206"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "SU-105",
-        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
-        "activity_seq": "38082207"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "SU-105",
-        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
-        "activity_seq": "38082208"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "SU-105",
-        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
-        "activity_seq": "38082209"
       }
     ],
     "units": [
@@ -4546,16 +4546,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "SU-103",
-        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
-        "activity_seq": "38380803"
-      },
-      {
         "and_or": "",
         "activity": "Tutorial",
         "day": "Fri",
@@ -4574,6 +4564,16 @@
         "location": "SU-103",
         "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
         "activity_seq": "38380802"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-103",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38380803"
       }
     ],
     "units": [
@@ -5220,46 +5220,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Fri",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "SU-107",
-        "week": "07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
-        "activity_seq": "38361605"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "SU-105",
-        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
-        "activity_seq": "38361606"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "SU-105",
-        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
-        "activity_seq": "38361607"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "SU-G03",
-        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
-        "activity_seq": "38361608"
-      },
-      {
         "and_or": "",
         "activity": "Practical",
         "day": "Thu",
@@ -5298,6 +5258,46 @@
         "location": "SU-107",
         "week": "07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
         "activity_seq": "38361604"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38361605"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361606"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361607"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G03",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38361608"
       }
     ],
     "units": [
@@ -5373,36 +5373,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "SU-103",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
-        "activity_seq": "38381507"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "SU-103",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
-        "activity_seq": "38381508"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "SU-103",
-        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
-        "activity_seq": "38381509"
-      },
-      {
         "and_or": "",
         "activity": "Practical",
         "day": "Tue",
@@ -5461,6 +5431,36 @@
         "location": "SU-107",
         "week": "04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
         "activity_seq": "38381506"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381507"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-103",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381508"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
+        "activity_seq": "38381509"
       }
     ],
     "units": [
@@ -5518,16 +5518,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026",
-        "activity_seq": "38376301"
-      },
-      {
         "and_or": "OR",
         "activity": "Workshop",
         "day": "Tue",
@@ -5556,6 +5546,16 @@
         "location": "Class Online",
         "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026",
         "activity_seq": "38376304"
+      },
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026",
+        "activity_seq": "38376301"
       }
     ],
     "units": [

@@ -42,16 +42,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-112",
-        "week": "1",
-        "activity_seq": "37911501"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture B",
         "day": "Tue",
@@ -90,6 +80,16 @@
         "location": "233-112",
         "week": "1",
         "activity_seq": "37911505"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-112",
+        "week": "1",
+        "activity_seq": "37911501"
       }
     ],
     "units": [
@@ -322,6 +322,26 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "To be advised",
+        "week": "20/07/2026",
+        "activity_seq": "37912701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture B",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "To be advised",
+        "week": "21/07/2026",
+        "activity_seq": "37912702"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture C",
         "day": "Wed",
@@ -350,26 +370,6 @@
         "location": "233-G12",
         "week": "24/07/2026",
         "activity_seq": "37912705"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "To be advised",
-        "week": "20/07/2026",
-        "activity_seq": "37912701"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture B",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "To be advised",
-        "week": "21/07/2026",
-        "activity_seq": "37912702"
       }
     ],
     "units": [
