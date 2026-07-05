@@ -1,0 +1,121 @@
+name: Backup Database
+
+on:
+  schedule:
+    # Daily at 00:00 AEST/AEDT.
+    - cron: "0 0 * * *"
+    - timezone: Australia/Sydney
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: backup-database
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout backups repo
+        uses: actions/checkout@v4
+        with:
+          repository: tahayparker/vacansee-db-backups
+          token: ${{ secrets.BACKUP_REPO_TOKEN }}
+          path: backups-repo
+          fetch-depth: 0
+
+      - name: Install PostgreSQL client (v16)
+        run: |
+          # Supabase currently runs PG15/16; client must be >= server.
+          sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+          wget -qO - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+          sudo apt-get update
+          sudo apt-get install -y postgresql-client-16
+
+      - name: Dump public schema
+        env:
+          DIRECT_URL: ${{ secrets.DIRECT_URL }}
+        run: |
+          set -euo pipefail
+          cd backups-repo
+          mkdir -p backups
+
+          TS_UTC=$(date -u +%Y-%m-%d)
+          TMP_SQL="/tmp/${TS_UTC}.sql"
+          OUT="backups/${TS_UTC}.sql.gz"
+          LATEST="backups/latest.sql.gz"
+
+          # Force SSL. Supabase rejects plaintext; pg_dump does not add
+          # sslmode=require by default when it is missing from the URL.
+          CONN="$DIRECT_URL"
+          if [[ "$CONN" != *"sslmode="* ]]; then
+            if [[ "$CONN" == *"?"* ]]; then
+              CONN="${CONN}&sslmode=require"
+            else
+              CONN="${CONN}?sslmode=require"
+            fi
+          fi
+
+          echo "Running pg_dump (public schema) -> ${TMP_SQL}"
+          # Dump to a plain file, not a pipeline, so a pg_dump failure
+          # surfaces with a real exit code instead of masquerading as a
+          # broken pipe from the downstream gzip.
+          pg_dump \
+            --schema=public \
+            --no-owner \
+            --no-privileges \
+            --format=plain \
+            --clean \
+            --if-exists \
+            --quote-all-identifiers \
+            --no-sync \
+            --file="${TMP_SQL}" \
+            "$CONN"
+
+          # Verify the dump before trusting it.
+          if [[ ! -s "${TMP_SQL}" ]]; then
+            echo "::error::pg_dump produced an empty file"
+            exit 1
+          fi
+
+          BYTES=$(stat -c%s "${TMP_SQL}")
+          echo "Dump size: ${BYTES} bytes"
+
+          if ! grep -q 'CREATE TABLE.*"Timings"' "${TMP_SQL}"; then
+            echo "::error::Dump missing Timings table — showing first 80 lines"
+            head -n 80 "${TMP_SQL}" >&2 || true
+            echo "::error::...last 40 lines"
+            tail -n 40 "${TMP_SQL}" >&2 || true
+            exit 1
+          fi
+
+          gzip -9 < "${TMP_SQL}" > "${OUT}"
+          cp "${OUT}" "${LATEST}"
+          rm -f "${TMP_SQL}"
+
+          ls -la backups | head -n 20
+          echo "dump_size_bytes=$(stat -c%s "${OUT}")" >> "$GITHUB_OUTPUT"
+
+      - name: Prune backups older than 90 days
+        run: |
+          set -euo pipefail
+          cd backups-repo/backups
+          # Never prune the `latest` pointer.
+          find . -maxdepth 1 -name "*.sql.gz" ! -name "latest.sql.gz" -type f -mtime +90 -print -delete || true
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          cd backups-repo
+          git config user.name "Taha Parker"
+          git config user.email "98612931+tahayparker@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes (schema + data unchanged since last backup)."
+            exit 0
+          fi
+          git commit -m "backup: $(date -u +%Y-%m-%d)"
+          git push
