@@ -1,0 +1,47 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider = "postgresql"
+  // Connection URLs live in prisma.config.ts (migrations) and
+  // src/lib/prisma.ts (runtime via driver adapter) as of Prisma 7.
+}
+
+model Rooms {
+  id         Int     @id @default(autoincrement())
+  Name       String
+  Building   String
+  RoomNumber String  @default("")
+  Campus     String?
+  Capacity   Int?
+
+  @@index([Building])
+  @@index([Name])
+  @@index([Campus])
+  @@map("AU-Rooms")
+}
+
+model Timings {
+  id        Int    @id @default(autoincrement())
+  SubCode   String
+  Class     String
+  Day       String
+  StartTime String
+  EndTime   String
+  Room      String
+  // Resolved calendar date for this occurrence (ISO YYYY-MM-DD from the scraper).
+  Date      String @default("")
+  Campus    String @default("")
+
+  // Composite indexes for common query patterns
+  @@index([Day, StartTime, EndTime])
+  @@index([Date, StartTime, EndTime])
+  @@index([Room])
+  @@index([Date, Room])
+  @@index([Day])
+  @@index([Campus])
+  // Shared Supabase project with the Dubai app: namespace the table.
+  @@map("AU-Timings")
+}
