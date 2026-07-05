@@ -1,0 +1,6176 @@
+[
+  {
+    "subject_inst_id": "384160",
+    "subject_id": "209838",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Experience Placement 1",
+    "subject_code": "SNUG192",
+    "subject_year": "2026",
+    "session_id": "4148",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "2hr workshop per week",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Helen Petsas",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Simone Yeats",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Suzi Villeneuve-Smith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
+        "activity_seq": "38416001"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
+        "activity_seq": "38416002"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
+        "activity_seq": "38416003"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026",
+        "activity_seq": "38416004"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026",
+        "activity_seq": "38416005"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383773",
+    "subject_id": "209847",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Pathophysiology and Pharmacology for Nurses 1",
+    "subject_code": "SNUG221",
+    "subject_year": "2026",
+    "session_id": "4144",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Yvette Bartholomew",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38377303"
+      },
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38377301"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38377302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377622",
+    "subject_id": "208875",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advanced Financial Accounting",
+    "subject_code": "ACCY201",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Erin Twyford",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37762201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-105",
+        "week": "2-13",
+        "activity_seq": "37762202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377638",
+    "subject_id": "208876",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Management Accounting ",
+    "subject_code": "ACCY211",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Parulian Silaen",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37763801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37763802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377648",
+    "subject_id": "208877",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Taxation: Law, Policy and Practice",
+    "subject_code": "ACCY228",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Erin Twyford",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37764801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "2-13",
+        "activity_seq": "37764802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377657",
+    "subject_id": "208878",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Information Systems in Accounting",
+    "subject_code": "ACCY231",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Kevin Huang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Fri",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37765701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1,7",
+        "activity_seq": "37765702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-6,8-13",
+        "activity_seq": "37765703"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377665",
+    "subject_id": "208879",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Sustainability Accounting",
+    "subject_code": "ACCY244",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Stephanie Perkiss",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37766502"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37766501"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377675",
+    "subject_id": "208880",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting and Professional Practice",
+    "subject_code": "ACCY305",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Mona Nikidehaghani",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37767501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37767502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377684",
+    "subject_id": "208881",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advanced Management Accounting",
+    "subject_code": "ACCY312",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Parulian Silaen",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37768401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37768402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377694",
+    "subject_id": "208883",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Auditing and Assurance",
+    "subject_code": "ACCY342",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Jenny (Jing)_ Wang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37769401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37769402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377734",
+    "subject_id": "208889",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Responsible Business",
+    "subject_code": "BUS 101",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Geraldine Hardie",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Ms Nadia Verrucci",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37773401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37773402"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37773403"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377749",
+    "subject_id": "208890",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Statistics for Business",
+    "subject_code": "BUS 121",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Amir Arjomandi",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Tia Nguyen",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "4,7,10,12",
+        "activity_seq": "37774901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1,5,13",
+        "activity_seq": "37774902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-4,6-12",
+        "activity_seq": "37774903"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "2-3,5-6,8-9,11,13",
+        "activity_seq": "37774904"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383857",
+    "subject_id": "209854",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Pathophysiology and Pharmacology for Nurses 2",
+    "subject_code": "SNUG331",
+    "subject_year": "2026",
+    "session_id": "4145",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Belinda Munroe",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Peter Thomas",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Yvette Bartholomew",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38385701"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38385702"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38385703"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "03/06/2026",
+        "activity_seq": "38385704"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "03/06/2026",
+        "activity_seq": "38385705"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "03/06/2026",
+        "activity_seq": "38385706"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378696",
+    "subject_id": "209101",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advertising Practice and Creative Strategies",
+    "subject_code": "MARK250",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mrs Anna Wong-Ng",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Mercedez Hinchcliff",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-12",
+        "activity_seq": "37869602"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37869603"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Lecture Online",
+        "week": "1,13",
+        "activity_seq": "37869601"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377796",
+    "subject_id": "208897",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Economics and Finance Applied Research Project",
+    "subject_code": "BUS 330",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "3",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Professor Sandy Suardi",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37779601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37779602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377816",
+    "subject_id": "208898",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Integrative Business Capstone",
+    "subject_code": "BUS 331",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Kanchana Wijayawardena",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Yuwei Sun",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Lecture Online",
+        "week": "1,6,12",
+        "activity_seq": "37781601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-5,7-11,13",
+        "activity_seq": "37781602"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "SU-105",
+        "week": "2,4,6,8,10,12",
+        "activity_seq": "37781603"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377835",
+    "subject_id": "208902",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Economic Essentials for Business",
+    "subject_code": "ECON100",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Professor Rabindra Nepal",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Tikiri Agalewatte",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1,3,6,9",
+        "activity_seq": "37783501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-5,7-8,10-13",
+        "activity_seq": "37783502"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37783503"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377858",
+    "subject_id": "208903",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Economics and Society",
+    "subject_code": "ECON102",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Sandy Suardi",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "SU-103",
+        "week": "5,10",
+        "activity_seq": "37785801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-4,6-9,11-13",
+        "activity_seq": "37785802"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "SU-105",
+        "week": "2-13",
+        "activity_seq": "37785803"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377867",
+    "subject_id": "208916",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Microeconomic Theory and Policy",
+    "subject_code": "ECON215",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Professor Alfredo Paloyo",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37786701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37786702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377872",
+    "subject_id": "208905",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Mathematics for Business",
+    "subject_code": "ECON222",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Eduardo Fernandez-Pol",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37787201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37787202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377879",
+    "subject_id": "208906",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Data Analysis I",
+    "subject_code": "ECON253",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "3 hours per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Oleg Yerokhin",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37787901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Fri",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1",
+        "activity_seq": "37787902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37787903"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377901",
+    "subject_id": "208910",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Data Analysis II",
+    "subject_code": "ECON353",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "3 hours per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Oleg Yerokhin",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37790101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37790102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377906",
+    "subject_id": "208912",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Contemporary Economic Issues",
+    "subject_code": "ECON360",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2 hours of lecture and 1 hour of tutorial",
+    "staff": [
+      {
+        "staff_name": "Doctor Eduardo Fernandez-Pol",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37790601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37790602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377910",
+    "subject_id": "208913",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Explorations in Microeconomics",
+    "subject_code": "ECON361",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Kai (David) Du",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1,13",
+        "activity_seq": "37791001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-12",
+        "activity_seq": "37791002"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37791003"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377915",
+    "subject_id": "208914",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Explorations in Macroeconomics",
+    "subject_code": "ECON362",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Thanh Le",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37791501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G04",
+        "week": "3,5,7,9,11,13",
+        "activity_seq": "37791502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377924",
+    "subject_id": "208915",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Introductory Principles of Finance",
+    "subject_code": "FIN 111",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Akiko Phillips",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Liangbo Ma",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Sarah Wang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37792401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37792402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377937",
+    "subject_id": "208904",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Macroeconomic Theory and Policy",
+    "subject_code": "ECON205",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Eduardo Fernandez-Pol",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37793701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "3-5,7-13",
+        "activity_seq": "37793702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377945",
+    "subject_id": "209108",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Social and Sustainability Marketing",
+    "subject_code": "MARK330",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Jennifer Algie",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Muhammad Saleem",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37794501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37794502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378484",
+    "subject_id": "208917",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Corporate Finance",
+    "subject_code": "FIN 222",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Aelee Jun",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Thi Han",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Liangbo Ma",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37848401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial\\Workshop",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37848402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378505",
+    "subject_id": "209074",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Investment Analysis",
+    "subject_code": "FIN 223",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Andrew Ainsworth",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "SU-103",
+        "week": "1-13",
+        "activity_seq": "37850501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37850502"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37850503"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378524",
+    "subject_id": "209076",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "International Financial Management",
+    "subject_code": "FIN 241",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Searat Ali",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37852401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37852402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378536",
+    "subject_id": "209077",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Sustainable Finance",
+    "subject_code": "FIN 244",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "3 hours per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Muhammad Saleem",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Searat Ali",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37853601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37853602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378550",
+    "subject_id": "209080",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Advanced Corporate Finance",
+    "subject_code": "FIN 322",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Liangbo Ma",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37855001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37855002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377954",
+    "subject_id": "208918",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Digital and AI Marketing Communications",
+    "subject_code": "MARK332",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 x lecture + 2 hr workshops",
+    "staff": [
+      {
+        "staff_name": "Mrs Anna Wong-Ng",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Michael Mehmet",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Thu",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "SU-G04",
+        "week": "2-13",
+        "activity_seq": "37795401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1",
+        "activity_seq": "37795402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37795403"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377979",
+    "subject_id": "208921",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Marketing Strategy & Innovation",
+    "subject_code": "MARK344",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Beo Thai",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37797901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37797902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377987",
+    "subject_id": "208922",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Sport Marketing",
+    "subject_code": "MARK380",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Hughes",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture\\Tutorial",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "16:30",
+        "location": "SU-103",
+        "week": "1-3,5-7,9,11-13",
+        "activity_seq": "37798701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377998",
+    "subject_id": "208924",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Communication: Concepts and Practices",
+    "subject_code": "MGNT102",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Mary Papakosmas",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37799801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G03",
+        "week": "2-3,5,7,9-10,12-13",
+        "activity_seq": "37799802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378019",
+    "subject_id": "208925",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Introduction to Management",
+    "subject_code": "MGNT110",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Rebekah Schulz",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1",
+        "activity_seq": "37801901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37801902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37801903"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378705",
+    "subject_id": "209102",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "AI Marketing Implementation",
+    "subject_code": "MARK255",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Michael Mehmet",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G04",
+        "week": "2-13",
+        "activity_seq": "37870501"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Computer Lab",
+        "day": "Tue",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "SU-G04",
+        "week": "2-13",
+        "activity_seq": "37870502"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "1",
+        "activity_seq": "37870503"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37870504"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378721",
+    "subject_id": "209104",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Digital Marketing",
+    "subject_code": "MARK301",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Ms Xiaoshan He",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37872101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Online",
+        "week": "2-13",
+        "activity_seq": "37872102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378041",
+    "subject_id": "208926",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Organisational Behaviour",
+    "subject_code": "MGNT201",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Eunice Quintana-Smark",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Laura Rook",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37804101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37804102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378050",
+    "subject_id": "208927",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Recruitment & Selection",
+    "subject_code": "MGNT205",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Shamika Almeida",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-103",
+        "week": "2,4,6,8,10,12",
+        "activity_seq": "37805003"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-9,12-13",
+        "activity_seq": "37805001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "10-11",
+        "activity_seq": "37805002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378059",
+    "subject_id": "208928",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Human Resource Management",
+    "subject_code": "MGNT206",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Anne Vo",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Mark Middleton",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37805901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37805902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378078",
+    "subject_id": "208929",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Employment Relations",
+    "subject_code": "MGNT207",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Renee Cunial",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "8,13",
+        "activity_seq": "37807801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-7,9-12",
+        "activity_seq": "37807802"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37807803"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378095",
+    "subject_id": "208931",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing Across Cultures",
+    "subject_code": "MGNT210",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Kumar Biswas",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Mohammad Uddin",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37809501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37809502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378111",
+    "subject_id": "208933",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Understanding Organisations",
+    "subject_code": "MGNT220",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Oriana Price",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37811101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37811102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378119",
+    "subject_id": "208934",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Management of Change",
+    "subject_code": "MGNT311",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Geraldine Hardie",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37811901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37811902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378142",
+    "subject_id": "208935",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategic Management",
+    "subject_code": "MGNT314",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Kumar Biswas",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37814201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37814202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378154",
+    "subject_id": "208936",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Workplace Health and Safety Management",
+    "subject_code": "MGNT321",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mrs Renee Cunial",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "13",
+        "activity_seq": "37815401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-12",
+        "activity_seq": "37815402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "3-13",
+        "activity_seq": "37815403"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378162",
+    "subject_id": "208937",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Learning and Development in Organisations",
+    "subject_code": "MGNT322",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Rebekah Schulz",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37816201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37816202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378171",
+    "subject_id": "208938",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing Employee Performance and Rewards",
+    "subject_code": "MGNT323",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2hrs per week (pre-recorded online videos); one hour weekly tutorial",
+    "staff": [
+      {
+        "staff_name": "Doctor Oriana Price",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37817101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37817102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378180",
+    "subject_id": "208940",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Responsible Leadership",
+    "subject_code": "MGNT351",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Professor Mario Fernando",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37818001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37818002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378559",
+    "subject_id": "209081",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Statement Analysis",
+    "subject_code": "FIN 324",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Sarah Wang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G03",
+        "week": "7",
+        "activity_seq": "37855901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37855902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37855903"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378570",
+    "subject_id": "209084",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Alternative Assets",
+    "subject_code": "FIN 330",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "3 hours per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Liangbo Ma",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37857001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37857002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378577",
+    "subject_id": "209085",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Banking and Digital Finance",
+    "subject_code": "FIN 331",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "3 hours per week",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Andrew Ainsworth",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37857701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37857702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378584",
+    "subject_id": "209086",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Trading in Financial Markets",
+    "subject_code": "FIN 332",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "3 hours per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Tina Prodromou",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37858401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37858402"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378598",
+    "subject_id": "209092",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Marketing Principles",
+    "subject_code": "MARK101",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Anna Wong-Ng",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1,5,12",
+        "activity_seq": "37859801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-4,6-11,13",
+        "activity_seq": "37859802"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "SU-G06",
+        "week": "2-9,11-13",
+        "activity_seq": "37859803"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378616",
+    "subject_id": "209093",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Marketing Research and Consumer Insights",
+    "subject_code": "MARK205",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Thomas Lee",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G04",
+        "week": "9-13",
+        "activity_seq": "37861601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37861602"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G03",
+        "week": "2-8",
+        "activity_seq": "37861603"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378642",
+    "subject_id": "209095",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Consumer Behaviour",
+    "subject_code": "MARK217",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Nadia Zainuddin",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Kelis Nguyen",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37864201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Fri",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "2,4,7,9,11,13",
+        "activity_seq": "37864202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378193",
+    "subject_id": "208942",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "International Business Management",
+    "subject_code": "MGNT389",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Mathew Todres",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "1-3,6,8,13",
+        "activity_seq": "37819301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "4-7,9-12",
+        "activity_seq": "37819302"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37819303"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378209",
+    "subject_id": "208944",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Principles of Supply Chain Management",
+    "subject_code": "OPS 157",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Edmund Brownlow",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37820901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37820902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "2-13",
+        "activity_seq": "37820903"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378240",
+    "subject_id": "208951",
+    "owner_unit": "LAWS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Introduction to Law",
+    "subject_code": "LAW 101",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hr seminar and the equivalent of 1 hr lecture",
+    "staff": [
+      {
+        "staff_name": "Mr Harry Abelas",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Afroza Begum",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Gabriel Garcia",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Mohd Qazi Zada",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Seminar",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "37824001"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "LAWS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "378256",
+    "subject_id": "208956",
+    "owner_unit": "LAWS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Law of Business Organisations",
+    "subject_code": "LAW 302",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 hour Lecture, 2 hour Seminar",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Andy Schmulow",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Seminar",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "37825601"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "LAWS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377577",
+    "subject_id": "208872",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting for Decision Making",
+    "subject_code": "ACCY121",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mrs Akiko Phillips",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Walid El Hamad",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "1,5,8,13",
+        "activity_seq": "37757701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-4,6-7,9-12",
+        "activity_seq": "37757702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "SU-103",
+        "week": "2-13",
+        "activity_seq": "37757703"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377592",
+    "subject_id": "208873",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Accounting Principles",
+    "subject_code": "ACCY122",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2hr lecture 2 hr tutorial",
+    "staff": [
+      {
+        "staff_name": "Mrs Akiko Phillips",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Sanja Pupovac",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "1",
+        "activity_seq": "37759201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37759202"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G06",
+        "week": "2-13",
+        "activity_seq": "37759203"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "377609",
+    "subject_id": "208874",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Accounting",
+    "subject_code": "ACCY200",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Please refer to subject timetable/subject's Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Mrs Kellie McCombie",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37760901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G03",
+        "week": "2-13",
+        "activity_seq": "37760902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380822",
+    "subject_id": "209831",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Nursing 1",
+    "subject_code": "SNUG101",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hours tutorial and 2 hours practical per week",
+    "staff": [
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082201"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082202"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082203"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-107",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082204"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38082205"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-107",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38082206"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082207"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082208"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "02/03/2026; 09/03/2026; 16/03/2026; 23/03/2026; 13/04/2026; 20/04/2026; 27/04/2026; 04/05/2026; 11/05/2026; 18/05/2026",
+        "activity_seq": "38082209"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380828",
+    "subject_id": "209832",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Nursing as a Profession",
+    "subject_code": "SNUG102",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hours online activities per week, 2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Ms Anna Rebikov-Vincent",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Amanda Wells",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
+        "activity_seq": "38082801"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
+        "activity_seq": "38082802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380844",
+    "subject_id": "209834",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Primary Health Care",
+    "subject_code": "SNUG107",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Della Maneze",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Joby Alex",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G06",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084401"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084402"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084403"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380850",
+    "subject_id": "209835",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Bioscience for Nurses 1",
+    "subject_code": "SNUG111",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Mrs Ashley Matthews",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Sabine Allida",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
+        "activity_seq": "38085001"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-103",
+        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
+        "activity_seq": "38085002"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-103",
+        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
+        "activity_seq": "38085003"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383621",
+    "subject_id": "209837",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Bioscience for Nurses 2",
+    "subject_code": "SNUG113",
+    "subject_year": "2026",
+    "session_id": "4146",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Mrs Ashley Matthews",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Lorraine Fields",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G06",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38362101"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38362102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383783",
+    "subject_id": "209845",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "First Nations Health",
+    "subject_code": "SNUG207",
+    "subject_year": "2026",
+    "session_id": "4146",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Rebecca Bosworth",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Caitlin Rabone",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Gemma Brooks",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Helen Pratt",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Ms Jenny Riga",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Kelly Lewer",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Kerrianne McGahey",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Luke Molloy",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Jacinta Mackay",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Mussarat Kausar",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mr Simehlani Nyanyiwa",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Ms Ravina Raidu",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Vincy Jojo",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38378303"
+      },
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38378301"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38378302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383808",
+    "subject_id": "209840",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Evidence Based Practice",
+    "subject_code": "SNUG202",
+    "subject_year": "2026",
+    "session_id": "4146",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Kyrie Rodgers",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Lorna Moxham",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Peta Drury",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Sarah Smith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38380801"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-103",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38380802"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-103",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38380803"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383829",
+    "subject_id": "202270",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managing Deterioration",
+    "subject_code": "SNUG301",
+    "subject_year": "2026",
+    "session_id": "4145",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Joanne Cordina",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Lorenza Harrowell",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026; 04/06/2026",
+        "activity_seq": "38382901"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026; 04/06/2026",
+        "activity_seq": "38382902"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026; 04/06/2026",
+        "activity_seq": "38382903"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "06/02/2026; 13/02/2026; 20/02/2026; 27/02/2026; 17/04/2026; 24/04/2026; 01/05/2026; 05/06/2026",
+        "activity_seq": "38382904"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "06/02/2026; 13/02/2026; 20/02/2026; 27/02/2026; 17/04/2026; 24/04/2026; 01/05/2026; 05/06/2026",
+        "activity_seq": "38382905"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026",
+        "activity_seq": "38382906"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-G06",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026",
+        "activity_seq": "38382907"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026",
+        "activity_seq": "38382908"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "04/06/2026",
+        "activity_seq": "38382909"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "04/06/2026",
+        "activity_seq": "38382910"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "04/06/2026",
+        "activity_seq": "38382911"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383847",
+    "subject_id": "202272",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Transition to Professional Practice",
+    "subject_code": "SNUG306",
+    "subject_year": "2026",
+    "session_id": "4145",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Kyrie Rodgers",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Maree Gair",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G06",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38384701"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G06",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38384702"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-G06",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38384703"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "03/06/2026",
+        "activity_seq": "38384704"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "03/06/2026",
+        "activity_seq": "38384705"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "03/06/2026",
+        "activity_seq": "38384706"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383885",
+    "subject_id": "202274",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Experience Placement 4",
+    "subject_code": "SNUG391",
+    "subject_year": "2026",
+    "session_id": "4145",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Julie Chase",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Tanya Moraga",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "02/02/2026; 16/02/2026; 01/06/2026",
+        "activity_seq": "38388501"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "03/02/2026; 17/02/2026; 02/06/2026",
+        "activity_seq": "38388502"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "04/02/2026; 18/02/2026; 03/06/2026",
+        "activity_seq": "38388503"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "05/02/2026; 19/02/2026; 04/06/2026",
+        "activity_seq": "38388504"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Fri",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "06/02/2026; 20/02/2026; 05/06/2026",
+        "activity_seq": "38388505"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383896",
+    "subject_id": "202275",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Experience Placement 5",
+    "subject_code": "SNUG392",
+    "subject_year": "2026",
+    "session_id": "4147",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-06",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Julie Chase",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Tanya Moraga",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Class Online",
+        "week": "20/07/2026; 03/08/2026; 26/10/2026",
+        "activity_seq": "38389601"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "20/07/2026; 03/08/2026; 26/10/2026",
+        "activity_seq": "38389602"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Class Online",
+        "week": "22/07/2026; 05/08/2026; 28/10/2026",
+        "activity_seq": "38389603"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "22/07/2026; 05/08/2026; 28/10/2026",
+        "activity_seq": "38389604"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "22/07/2026; 05/08/2026; 28/10/2026",
+        "activity_seq": "38389605"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383606",
+    "subject_id": "209833",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Nursing Care of the Older Person",
+    "subject_code": "SNUG106",
+    "subject_year": "2026",
+    "session_id": "4146",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "2hr tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Jo-Anne Gray",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G06",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38360601"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-G06",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38360602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383616",
+    "subject_id": "209836",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Nursing 2",
+    "subject_code": "SNUG112",
+    "subject_year": "2026",
+    "session_id": "4146",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "2hrs tutorial, 2hrs practical per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Alex Chan",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Lorenza Harrowell",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Rachel Churchward",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361601"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361602"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361603"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38361604"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38361605"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361606"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38361607"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-G03",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38361608"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383815",
+    "subject_id": "209839",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Acute Care Nursing",
+    "subject_code": "SNUG201",
+    "subject_year": "2026",
+    "session_id": "4144",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "Tutorials 2 hours, Simulated nursing tutorial 2 hours, Online activities 1 hour",
+    "staff": [
+      {
+        "staff_name": "Mr Angus Hillman",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Naomi Keith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Sarah Smith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381501"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381502"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381503"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-107",
+        "week": "03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381504"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
+        "activity_seq": "38381505"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
+        "activity_seq": "38381506"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381507"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-103",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
+        "activity_seq": "38381508"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
+        "activity_seq": "38381509"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383763",
+    "subject_id": "209848",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Experience Placement 2",
+    "subject_code": "SNUG291",
+    "subject_year": "2026",
+    "session_id": "4144",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Jenny Riga",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Peta Drury",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026",
+        "activity_seq": "38376301"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026",
+        "activity_seq": "38376302"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026",
+        "activity_seq": "38376303"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026",
+        "activity_seq": "38376304"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383796",
+    "subject_id": "209843",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Continuing Care",
+    "subject_code": "SNUG205",
+    "subject_year": "2026",
+    "session_id": "4146",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Belinda Munroe",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Carley Jans",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Jessie Austin",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Rachel Churchward",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379608"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379609"
+      },
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38379601"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-107",
+        "week": "04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38379602"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379603"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379604"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379605"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "SU-107",
+        "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379606"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38379607"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383825",
+    "subject_id": "209849",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Experience Placement 3",
+    "subject_code": "SNUG292",
+    "subject_year": "2026",
+    "session_id": "4148",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-13",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Helen Petsas",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Jenny Riga",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Peta Drury",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Simone Yeats",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Suzi Villeneuve-Smith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
+        "activity_seq": "38382501"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
+        "activity_seq": "38382502"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026",
+        "activity_seq": "38382503"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026",
+        "activity_seq": "38382504"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026",
+        "activity_seq": "38382505"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383837",
+    "subject_id": "202271",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Contemporary Leadership in Nursing",
+    "subject_code": "SNUG302",
+    "subject_year": "2026",
+    "session_id": "4147",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-06",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Ms Anna Rebikov-Vincent",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Brandon Smith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "07/07/2026; 14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
+        "activity_seq": "38383701"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-103",
+        "week": "07/07/2026; 14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
+        "activity_seq": "38383702"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-103",
+        "week": "07/07/2026; 14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
+        "activity_seq": "38383703"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383872",
+    "subject_id": "202273",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Skills Consolidation for Professional Practice",
+    "subject_code": "SNUG332",
+    "subject_year": "2026",
+    "session_id": "4147",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-06",
+    "contact_hours": "Tutorials 2 hours, Simulated practical class 2 hours, Online activities 1 hour 2",
+    "staff": [
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Kate Taylor",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Naomi Keith",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387201"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387202"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-107",
+        "week": "13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387203"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-107",
+        "week": "14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
+        "activity_seq": "38387204"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-107",
+        "week": "14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
+        "activity_seq": "38387205"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-105",
+        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387206"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-105",
+        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387207"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-105",
+        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387208"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383898",
+    "subject_id": "209844",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Mental Health-Psychiatric Nursing Care",
+    "subject_code": "SNUG206",
+    "subject_year": "2026",
+    "session_id": "4144",
+    "campus_id": "38",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-01-26",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Christopher Patterson",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Joel Zugai",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "SU-103",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
+        "activity_seq": "38389801"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "SU-103",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
+        "activity_seq": "38389802"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "SU-103",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
+        "activity_seq": "38389803"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  }
+]
