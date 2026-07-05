@@ -41,12 +41,12 @@ jobs:
         run: |
           set -euo pipefail
           cd backups-repo
-          mkdir -p backups
+          mkdir -p backups-au
 
           TS_UTC=$(date -u +%Y-%m-%d)
           TMP_SQL="/tmp/${TS_UTC}.sql"
-          OUT="backups/${TS_UTC}.sql.gz"
-          LATEST="backups/latest.sql.gz"
+          OUT="backups-au/${TS_UTC}.sql.gz"
+          LATEST="backups-au/latest.sql.gz"
 
           # Force SSL. Supabase rejects plaintext; pg_dump does not add
           # sslmode=require by default when it is missing from the URL.
@@ -96,13 +96,13 @@ jobs:
           cp "${OUT}" "${LATEST}"
           rm -f "${TMP_SQL}"
 
-          ls -la backups | head -n 20
+          ls -la backups-au | head -n 20
           echo "dump_size_bytes=$(stat -c%s "${OUT}")" >> "$GITHUB_OUTPUT"
 
       - name: Prune backups older than 90 days
         run: |
           set -euo pipefail
-          cd backups-repo/backups
+          cd backups-repo/backups-au
           # Never prune the `latest` pointer.
           find . -maxdepth 1 -name "*.sql.gz" ! -name "latest.sql.gz" -type f -mtime +90 -print -delete || true
 
