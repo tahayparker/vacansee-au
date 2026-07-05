@@ -102,8 +102,8 @@ jobs:
       - name: Commit and push data changes
         if: steps.csv.outputs.changed == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Taha Parker"
+          git config user.email "98612931+tahayparker@users.noreply.github.com"
           git add public/classes.csv public/scheduleData.json public/raw last_run.txt
           if git diff --staged --quiet; then
             echo "Nothing staged to commit."
