@@ -1,0 +1,202 @@
+/* src/styles/globals.css */
+@import "tailwindcss";
+@config "../../tailwind.config.js"; /* Ensure this path is correct */
+
+@layer base {
+  :root {
+    /* Using HSL format (e.g., "240 10% 3.9%") */
+    /* --- ADJUST THESE HSL VALUES FOR YOUR THEME --- */
+    --background: 240 10% 3.9%; /* Default background */
+    --foreground: 0 0% 98%; /* Default text */
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+
+    --primary: 0 0% 98%; /* Primary buttons, accents */
+    --primary-foreground: 240 5.9% 10%; /* Text on primary elements */
+
+    --secondary: 240 3.7% 15.9%; /* Secondary buttons */
+    --secondary-foreground: 0 0% 98%; /* Text on secondary elements */
+
+    --accent: 240 3.7% 15.9%; /* Hover states, subtle highlights */
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%; /* Destructive actions (e.g., delete) */
+    --destructive-foreground: 0 0% 98%; /* Text on destructive elements */
+
+    --ring: 240 4.9% 83.9%; /* Focus rings */
+
+    --radius: 0.5rem; /* Default border radius */
+  }
+
+  .dark {
+    /* Define variables for dark mode - often similar if base IS dark */
+    /* You can override specific ones if needed */
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --ring: 240 4.9% 83.9%;
+  }
+
+  /* Apply minimal base resets */
+  * {
+    @apply border-border; /* Sets default border color */
+    box-sizing: border-box; /* Recommended reset */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE/Edge */
+    user-select: none; /* Standard */
+  }
+
+  html {
+    background-color: #000000; /* Pure black background to prevent white flash */
+    height: 100%; /* Ensure body can fill height */
+  }
+
+  body {
+    background-color: #000000; /* Pure black background to prevent white flash */
+    height: 100%; /* Ensure body can fill height */
+    /* Font applied via font-sans in _app.tsx which reads from theme config */
+    /* Background/color applied via utilities in _app.tsx */
+    @apply antialiased;
+    overflow-x: hidden;
+    font-family:
+      var(--font-montserrat), ui-sans-serif, system-ui, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+      "Noto Color Emoji";
+  }
+
+  /* --- ADD THIS RULE --- */
+  button,
+  input,
+  optgroup, /* Added optgroup */
+  select,
+  textarea {
+    font-family: inherit; /* Force form elements to inherit the font */
+    font-feature-settings: inherit; /* Inherit font features */
+    font-variation-settings: inherit; /* Inherit font variations */
+    font-size: 100%; /* Reset font size for consistency */
+    font-weight: inherit; /* Inherit font weight */
+    line-height: inherit; /* Inherit line height */
+    color: inherit; /* Inherit text color */
+    margin: 0; /* Reset margin */
+    padding: 0; /* Reset padding */
+  }
+  /* --- End Added Rule --- */
+
+  /* Allow text selection in input fields and textareas */
+  input,
+  textarea {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+  }
+
+  /* --- Targeted font overrides for Shadcn Select and Command Items --- */
+  /* Target SelectItem directly */
+  .select-item-root, /* Assuming a data-slot or class on SelectItem root */
+  [data-slot='select-item'] {
+    /* More robust selector using data-slot */
+    font-family:
+      var(--font-montserrat), sans-serif !important; /* !important for higher specificity */
+  }
+
+  /* Target CommandItem directly */
+  .command-item-root, /* Assuming a data-slot or class on CommandItem root */
+  [data-slot='command-item'] {
+    /* More robust selector using data-slot */
+    font-family:
+      var(--font-montserrat), sans-serif !important; /* !important for higher specificity */
+  }
+  /* --- End Targeted font overrides --- */
+
+  /* --- Accessibility: Focus Visible Styles --- */
+  /* Enhanced focus styles for keyboard navigation */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-purple-500 ring-offset-2 ring-offset-black;
+    transition: box-shadow 0.2s ease-in-out;
+  }
+
+  button:focus-visible,
+  a:focus-visible,
+  [role="button"]:focus-visible {
+    @apply ring-2 ring-purple-500 ring-offset-2 ring-offset-black;
+  }
+
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    @apply ring-2 ring-purple-500 ring-offset-1 ring-offset-black border-purple-500;
+  }
+
+  /* Focus within for composite components */
+  [role="combobox"]:focus-within,
+  [role="listbox"]:focus-within {
+    @apply ring-2 ring-purple-500;
+  }
+
+  /* Ensure focus is visible on interactive elements */
+  [tabindex="0"]:focus-visible,
+  [tabindex]:not([tabindex="-1"]):focus-visible {
+    @apply ring-2 ring-purple-500 ring-offset-2 ring-offset-black;
+  }
+  /* --- End Accessibility Styles --- */
+
+  /* --- Global Scrollbar Hiding --- */
+  /* Hide scrollbars on all elements while preserving scroll functionality */
+  * {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+  }
+
+  *::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Opera */
+  }
+
+  /* Ensure scrolling is still possible */
+  html {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  /* Legacy class for backward compatibility */
+  .hide-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* --- End Global Scrollbar Hiding --- */
+}
+
+/* Keep other layers */
+@layer components {
+}
+@layer utilities {
+}
