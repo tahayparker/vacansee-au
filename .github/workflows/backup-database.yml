@@ -117,5 +117,5 @@ jobs:
             echo "No changes (schema + data unchanged since last backup)."
             exit 0
           fi
-          git commit -m "backup: $(date -u +%Y-%m-%d)"
+          git commit -m "backup-au: $(date -u +%Y-%m-%d)"
           git push
