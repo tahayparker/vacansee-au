@@ -1,0 +1,113 @@
+name: Update Timetable Data
+
+on:
+  schedule:
+    # Every 20 minutes. The scraper's preload publish-date check is cheap;
+    # a full multi-campus scrape only runs when SOLSS data actually changes.
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+permissions:
+  # Job pushes regenerated CSV/JSON commits back to main.
+  contents: write
+
+jobs:
+  update-timetable:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    concurrency:
+      group: update-timetable
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Restore academic calendar cache
+        uses: actions/cache@v4
+        with:
+          path: academic_calendar_cache.json
+          key: solss-calendar-cache-v1
+          restore-keys: solss-calendar-cache-
+
+      - name: Validate required secrets
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          for v in SUPABASE_URL SUPABASE_SERVICE_ROLE_KEY; do
+            if [ -z "${!v}" ]; then echo "::error::Secret $v not set."; exit 1; fi
+          done
+
+      - name: Scrape SOLSS timetable
+        run: |
+          FORCE=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FORCE="--force"
+          fi
+          python scripts/scrape_timetable.py \
+            --output public/classes.csv \
+            --raw-dir public/raw \
+            $FORCE
+
+      - name: Detect CSV changes
+        id: csv
+        run: |
+          if git diff --quiet -- public/classes.csv; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No timetable changes — skipping DB upload and commit."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Update Rooms table
+        if: steps.csv.outputs.changed == 'true'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python scripts/update_rooms.py
+
+      - name: Upload timetable to DB
+        if: steps.csv.outputs.changed == 'true'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python scripts/upload_timetable.py
+
+      - name: Generate schedule JSON
+        if: steps.csv.outputs.changed == 'true'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python scripts/generate_schedule.py
+
+      - name: Format scheduleData.json
+        if: steps.csv.outputs.changed == 'true'
+        run: |
+          npm install --no-save prettier
+          npx prettier public/scheduleData.json --write
+
+      - name: Commit and push data changes
+        if: steps.csv.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/classes.csv public/scheduleData.json public/raw last_run.txt
+          if git diff --staged --quiet; then
+            echo "Nothing staged to commit."
+          else
+            git commit -m "Update timetable data [skip deploy]"
+            git push
+          fi
