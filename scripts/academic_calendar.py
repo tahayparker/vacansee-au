@@ -442,7 +442,7 @@ class AcademicCalendar:
         max_age: timedelta = timedelta(days=7),
     ) -> "AcademicCalendar":
         """Return a calendar from disk cache when fresh, else scrape and save."""
-        cache_file = cache_file or Path("academic_calendar_cache.json")
+        cache_file = cache_file or Path("public/cache/academic_calendar_cache.json")
 
         if cache_file.exists():
             try:
