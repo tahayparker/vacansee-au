@@ -4,7 +4,7 @@ on:
   schedule:
     # Daily at 00:00 AEST/AEDT.
     - cron: "0 0 * * *"
-    - timezone: Australia/Sydney
+      timezone: Australia/Sydney
   workflow_dispatch:
 
 permissions:
