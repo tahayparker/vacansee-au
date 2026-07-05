@@ -1,0 +1,7 @@
+# Public SOLSS scraper + Supabase upload pipeline
+requests
+python-dotenv
+supabase>=2.31.0
+postgrest
+beautifulsoup4
+pdfplumber
