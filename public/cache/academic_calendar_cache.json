@@ -1,0 +1,458 @@
+{
+  "cached_at": "2026-07-03T17:16:59",
+  "calendar": {
+    "standard": {
+      "Autumn|2026": {
+        "name": "Autumn",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 7,
+            "date_start": "2026-03-02"
+          },
+          {
+            "week_start": 8,
+            "week_end": 13,
+            "date_start": "2026-04-27"
+          }
+        ]
+      },
+      "Spring|2026": {
+        "name": "Spring",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 9,
+            "date_start": "2026-07-27"
+          },
+          {
+            "week_start": 10,
+            "week_end": 13,
+            "date_start": "2026-10-05"
+          }
+        ]
+      },
+      "Annual|2026": {
+        "name": "Annual",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 7,
+            "date_start": "2026-03-02"
+          },
+          {
+            "week_start": 8,
+            "week_end": 13,
+            "date_start": "2026-04-27"
+          },
+          {
+            "week_start": 14,
+            "week_end": 22,
+            "date_start": "2026-07-27"
+          },
+          {
+            "week_start": 23,
+            "week_end": 26,
+            "date_start": "2026-10-05"
+          }
+        ]
+      },
+      "Summer|2026": {
+        "name": "Summer",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 3,
+            "date_start": "2026-11-30"
+          },
+          {
+            "week_start": 4,
+            "week_end": 7,
+            "date_start": "2027-01-04"
+          }
+        ]
+      },
+      "Trimester 1|2026": {
+        "name": "Trimester 1",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 11,
+            "date_start": "2026-02-09"
+          }
+        ]
+      },
+      "Trimester 2|2026": {
+        "name": "Trimester 2",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 10,
+            "date_start": "2026-05-18"
+          }
+        ]
+      },
+      "Trimester 3|2026": {
+        "name": "Trimester 3",
+        "year": 2026,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 10,
+            "date_start": "2026-08-24"
+          }
+        ]
+      },
+      "Autumn|2027": {
+        "name": "Autumn",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 7,
+            "date_start": "2027-03-01"
+          },
+          {
+            "week_start": 8,
+            "week_end": 13,
+            "date_start": "2027-04-26"
+          }
+        ]
+      },
+      "Spring|2027": {
+        "name": "Spring",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 9,
+            "date_start": "2027-07-26"
+          },
+          {
+            "week_start": 10,
+            "week_end": 13,
+            "date_start": "2027-10-04"
+          }
+        ]
+      },
+      "Annual|2027": {
+        "name": "Annual",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 7,
+            "date_start": "2027-03-01"
+          },
+          {
+            "week_start": 8,
+            "week_end": 13,
+            "date_start": "2027-04-26"
+          },
+          {
+            "week_start": 14,
+            "week_end": 22,
+            "date_start": "2027-07-26"
+          },
+          {
+            "week_start": 23,
+            "week_end": 26,
+            "date_start": "2027-10-04"
+          }
+        ]
+      },
+      "Summer|2027": {
+        "name": "Summer",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 3,
+            "date_start": "2027-11-29"
+          },
+          {
+            "week_start": 4,
+            "week_end": 7,
+            "date_start": "2028-01-03"
+          }
+        ]
+      },
+      "Trimester 1|2027": {
+        "name": "Trimester 1",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 11,
+            "date_start": "2027-02-08"
+          }
+        ]
+      },
+      "Trimester 2|2027": {
+        "name": "Trimester 2",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 10,
+            "date_start": "2027-05-17"
+          }
+        ]
+      },
+      "Trimester 3|2027": {
+        "name": "Trimester 3",
+        "year": 2027,
+        "blocks": [
+          {
+            "week_start": 1,
+            "week_end": 10,
+            "date_start": "2027-08-23"
+          }
+        ]
+      }
+    },
+    "nonstandard": {
+      "Autumn Extended": {
+        "name": "Autumn Extended",
+        "start": "2026-01-27",
+        "end": "2026-06-25"
+      },
+      "BUS Summer 2026/2027": {
+        "name": "BUS Summer 2026/2027",
+        "start": "2026-11-16",
+        "end": "2027-01-08"
+      },
+      "Bridging Course": {
+        "name": "Bridging Course",
+        "start": "2026-02-02",
+        "end": "2026-02-20"
+      },
+      "DIET Annual": {
+        "name": "DIET Annual",
+        "start": "2026-01-12",
+        "end": "2026-11-22"
+      },
+      "DIET Autumn": {
+        "name": "DIET Autumn",
+        "start": "2026-01-12",
+        "end": "2026-06-12"
+      },
+      "GSM Ph1 S1": {
+        "name": "GSM Ph1 S1",
+        "start": "2026-01-27",
+        "end": "2026-06-26"
+      },
+      "GSM Ph1 S2": {
+        "name": "GSM Ph1 S2",
+        "start": "2026-07-20",
+        "end": "2026-11-13"
+      },
+      "GSM Ph1 S3": {
+        "name": "GSM Ph1 S3",
+        "start": "2026-02-02",
+        "end": "2026-06-05"
+      },
+      "GSM Ph2 S1": {
+        "name": "GSM Ph2 S1",
+        "start": "2026-07-13",
+        "end": "2026-12-18"
+      },
+      "GSM Ph2 S2": {
+        "name": "GSM Ph2 S2",
+        "start": "2026-01-27",
+        "end": "2026-05-29"
+      },
+      "GSM Ph3 S1": {
+        "name": "GSM Ph3 S1",
+        "start": "2026-07-20",
+        "end": "2026-12-18"
+      },
+      "GSM Ph3 S2": {
+        "name": "GSM Ph3 S2",
+        "start": "2026-01-27",
+        "end": "2026-06-12"
+      },
+      "GSM Ph4 S1": {
+        "name": "GSM Ph4 S1",
+        "start": "2026-07-27",
+        "end": "2026-12-02"
+      },
+      "ITRP June": {
+        "name": "ITRP June",
+        "start": "2026-06-15",
+        "end": "2026-11-20"
+      },
+      "LIP Session 1": {
+        "name": "LIP Session 1",
+        "start": "2026-03-02",
+        "end": "2026-06-05"
+      },
+      "LIP Session 2": {
+        "name": "LIP Session 2",
+        "start": "2026-06-08",
+        "end": "2026-10-30"
+      },
+      "LIP Summer": {
+        "name": "LIP Summer",
+        "start": "2025-11-03",
+        "end": "2026-02-27"
+      },
+      "NURS Autumn A": {
+        "name": "NURS Autumn A",
+        "start": "2026-01-26",
+        "end": "2026-06-26"
+      },
+      "NURS Autumn A - Green": {
+        "name": "NURS Autumn A - Green",
+        "start": "2026-01-26",
+        "end": "2026-06-26"
+      },
+      "NURS Autumn A - Yellow": {
+        "name": "NURS Autumn A - Yellow",
+        "start": "2026-01-26",
+        "end": "2026-06-26"
+      },
+      "NURS Autumn B - Green": {
+        "name": "NURS Autumn B - Green",
+        "start": "2026-01-26",
+        "end": "2026-06-12"
+      },
+      "NURS Autumn B - Yellow": {
+        "name": "NURS Autumn B - Yellow",
+        "start": "2026-01-26",
+        "end": "2026-06-12"
+      },
+      "NURS Autumn C": {
+        "name": "NURS Autumn C",
+        "start": "2026-02-16",
+        "end": "2026-06-19"
+      },
+      "NURS Spring A": {
+        "name": "NURS Spring A",
+        "start": "2026-07-13",
+        "end": "2026-11-19"
+      },
+      "NURS Spring A - Green": {
+        "name": "NURS Spring A - Green",
+        "start": "2026-07-13",
+        "end": "2026-11-19"
+      },
+      "NURS Spring A - Yellow": {
+        "name": "NURS Spring A - Yellow",
+        "start": "2026-07-13",
+        "end": "2026-11-19"
+      },
+      "NURS Spring B - Green": {
+        "name": "NURS Spring B - Green",
+        "start": "2026-07-06",
+        "end": "2026-11-19"
+      },
+      "NURS Spring B - Yellow": {
+        "name": "NURS Spring B - Yellow",
+        "start": "2026-07-06",
+        "end": "2026-11-19"
+      },
+      "NURS Spring P - Green": {
+        "name": "NURS Spring P - Green",
+        "start": "2026-07-13",
+        "end": "2026-12-18"
+      },
+      "NURS Spring P - Yellow": {
+        "name": "NURS Spring P - Yellow",
+        "start": "2026-07-13",
+        "end": "2026-12-18"
+      },
+      "NURSE Jan": {
+        "name": "NURSE Jan",
+        "start": "2026-01-14",
+        "end": "2026-02-13"
+      },
+      "Pathways Summer": {
+        "name": "Pathways Summer",
+        "start": "2026-01-05",
+        "end": "2026-01-23"
+      },
+      "Pathways Winter": {
+        "name": "Pathways Winter",
+        "start": "2026-04-06",
+        "end": "2026-08-22"
+      },
+      "SMAH Annual": {
+        "name": "SMAH Annual",
+        "start": "2026-02-09",
+        "end": "2026-10-30"
+      },
+      "SMAH Annual 2026/2027": {
+        "name": "SMAH Annual 2026/2027",
+        "start": "2026-07-27",
+        "end": "2027-04-28"
+      },
+      "Session 1": {
+        "name": "Session 1",
+        "start": "2026-01-26",
+        "end": "2026-04-03"
+      },
+      "Session 2": {
+        "name": "Session 2",
+        "start": "2026-04-20",
+        "end": "2026-06-26"
+      },
+      "Session 3": {
+        "name": "Session 3",
+        "start": "2026-07-13",
+        "end": "2026-09-18"
+      },
+      "Session 4": {
+        "name": "Session 4",
+        "start": "2026-10-05",
+        "end": "2026-12-11"
+      },
+      "Spring 2026/Autumn 2027": {
+        "name": "Spring 2026/Autumn 2027",
+        "start": "2026-07-27",
+        "end": "2027-06-24"
+      },
+      "Spring 2026/Summer 2026": {
+        "name": "Spring 2026/Summer 2026",
+        "start": "2026-07-27",
+        "end": "2027-02-12"
+      },
+      "Summer 2025/Autumn 2026": {
+        "name": "Summer 2025/Autumn 2026",
+        "start": "2025-12-01",
+        "end": "2026-06-25"
+      },
+      "Spring (Part-time only)": {
+        "name": "Spring (Part-time only)",
+        "start": "2026-07-27",
+        "end": "2026-11-19"
+      },
+      "Trimester 1/Trimester 2": {
+        "name": "Trimester 1/Trimester 2",
+        "start": "2026-02-09",
+        "end": "2026-08-07"
+      },
+      "Trimester 2/Trimester 3": {
+        "name": "Trimester 2/Trimester 3",
+        "start": "2026-05-18",
+        "end": "2026-11-19"
+      },
+      "Winter": {
+        "name": "Winter",
+        "start": "2026-06-29",
+        "end": "2026-07-31"
+      },
+      "Winter/Spring": {
+        "name": "Winter/Spring",
+        "start": "2026-06-29",
+        "end": "2026-11-19"
+      }
+    }
+  }
+}
