@@ -42,16 +42,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-112",
-        "week": "1",
-        "activity_seq": "37911501"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture B",
         "day": "Tue",
@@ -90,6 +80,16 @@
         "location": "233-112",
         "week": "1",
         "activity_seq": "37911505"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-112",
+        "week": "1",
+        "activity_seq": "37911501"
       }
     ],
     "units": [
@@ -141,6 +141,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911701"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture B",
         "day": "Tue",
@@ -179,16 +189,6 @@
         "location": "233-G12",
         "week": "1",
         "activity_seq": "37911705"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911701"
       }
     ],
     "units": [
