@@ -238,16 +238,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37766402"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -256,6 +246,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37766401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37766402"
       }
     ],
     "units": [
@@ -391,16 +391,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37769301"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -409,6 +399,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37769302"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37769301"
       }
     ],
     "units": [
@@ -1012,14 +1012,14 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
+        "and_or": "",
+        "activity": "Computer Lab",
         "day": "Thu",
-        "start_time": "14:30",
-        "end_time": "15:30",
+        "start_time": "15:30",
+        "end_time": "16:30",
         "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37850403"
+        "week": "1-13",
+        "activity_seq": "37850401"
       },
       {
         "and_or": "AND",
@@ -1032,14 +1032,14 @@
         "activity_seq": "37850402"
       },
       {
-        "and_or": "",
-        "activity": "Computer Lab",
+        "and_or": "AND",
+        "activity": "Tutorial",
         "day": "Thu",
-        "start_time": "15:30",
-        "end_time": "16:30",
+        "start_time": "14:30",
+        "end_time": "15:30",
         "location": "Class Online",
-        "week": "1-13",
-        "activity_seq": "37850401"
+        "week": "2-13",
+        "activity_seq": "37850403"
       }
     ],
     "units": [
@@ -1299,16 +1299,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37797802"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -1317,6 +1307,16 @@
         "location": "Refer to Moodle",
         "week": "2-13",
         "activity_seq": "37797801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37797802"
       }
     ],
     "units": [
@@ -1898,16 +1898,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37814102"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Thu",
@@ -1916,6 +1906,16 @@
         "location": "Lecture Online",
         "week": "1-13",
         "activity_seq": "37814101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37814102"
       }
     ],
     "units": [
@@ -2163,16 +2163,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "HI-G03",
-        "week": "7",
-        "activity_seq": "37855801"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -2191,6 +2181,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37855803"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "HI-G03",
+        "week": "7",
+        "activity_seq": "37855801"
       }
     ],
     "units": [
@@ -2804,16 +2804,6 @@
     "timetable": [
       {
         "and_or": "AND",
-        "activity": "Lecture Q",
-        "day": "Thu",
-        "start_time": "15:30",
-        "end_time": "16:30",
-        "location": "HI-G01",
-        "week": "1",
-        "activity_seq": "38104325"
-      },
-      {
-        "and_or": "AND",
         "activity": "Lecture R",
         "day": "Fri",
         "start_time": "08:30",
@@ -3131,6 +3121,16 @@
         "location": "Refer to Moodle",
         "week": "1",
         "activity_seq": "38104324"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Q",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "HI-G01",
+        "week": "1",
+        "activity_seq": "38104325"
       }
     ],
     "units": [
@@ -3259,26 +3259,6 @@
       }
     ],
     "timetable": [
-      {
-        "and_or": "",
-        "activity": "Anatomy Lab ALA",
-        "day": "Wed",
-        "start_time": "09:00",
-        "end_time": "13:00",
-        "location": "41-G65",
-        "week": "1-16",
-        "activity_seq": "38104601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Anatomy Lab ALB",
-        "day": "Wed",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "41-G65",
-        "week": "1-16",
-        "activity_seq": "38104602"
-      },
       {
         "and_or": "AND",
         "activity": "Case Base Lecture A",
@@ -3538,6 +3518,26 @@
         "location": "HI-G01",
         "week": "03/03/2026; 17/03/2026; 28/04/2026; 12/05/2026; 26/05/2026",
         "activity_seq": "38104628"
+      },
+      {
+        "and_or": "",
+        "activity": "Anatomy Lab ALA",
+        "day": "Wed",
+        "start_time": "09:00",
+        "end_time": "13:00",
+        "location": "41-G65",
+        "week": "1-16",
+        "activity_seq": "38104601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Anatomy Lab ALB",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "41-G65",
+        "week": "1-16",
+        "activity_seq": "38104602"
       }
     ],
     "units": [
@@ -3708,6 +3708,16 @@
       },
       {
         "and_or": "AND",
+        "activity": "Clinical Symposium",
+        "day": "Thu",
+        "start_time": "13:00",
+        "end_time": "14:30",
+        "location": "38-G01",
+        "week": "1-16",
+        "activity_seq": "38104905"
+      },
+      {
+        "and_or": "AND",
         "activity": "Lecture A",
         "day": "Mon",
         "start_time": "11:30",
@@ -3778,6 +3788,36 @@
       },
       {
         "and_or": "AND",
+        "activity": "Practical B",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02;HI-G03",
+        "week": "18/08/2026; 01/09/2026; 15/09/2026; 06/10/2026; 13/10/2026; 10/11/2026",
+        "activity_seq": "38104921"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical C",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "15:30",
+        "location": "HI-G01",
+        "week": "15",
+        "activity_seq": "38104922"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical D",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02;HI-G03",
+        "week": "15",
+        "activity_seq": "38104923"
+      },
+      {
+        "and_or": "AND",
         "activity": "Lecture H",
         "day": "Tue",
         "start_time": "15:30",
@@ -3785,16 +3825,6 @@
         "location": "HI-G01",
         "week": "2,4,6,8,10,12,14,16",
         "activity_seq": "38104913"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Clinical Symposium",
-        "day": "Thu",
-        "start_time": "13:00",
-        "end_time": "14:30",
-        "location": "38-G01",
-        "week": "1-16",
-        "activity_seq": "38104905"
       },
       {
         "and_or": "AND",
@@ -3865,36 +3895,6 @@
         "location": "HI-G02",
         "week": "4,6,8,10,13",
         "activity_seq": "38104920"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical B",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02;HI-G03",
-        "week": "18/08/2026; 01/09/2026; 15/09/2026; 06/10/2026; 13/10/2026; 10/11/2026",
-        "activity_seq": "38104921"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical C",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "15:30",
-        "location": "HI-G01",
-        "week": "15",
-        "activity_seq": "38104922"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical D",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02;HI-G03",
-        "week": "15",
-        "activity_seq": "38104923"
       }
     ],
     "units": [
@@ -5381,16 +5381,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial C",
-        "day": "Thu",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "10-13",
-        "activity_seq": "38247703"
-      },
-      {
         "and_or": "",
         "activity": "Tutorial A",
         "day": "Thu",
@@ -5409,6 +5399,16 @@
         "location": "Class Online",
         "week": "1-2,9",
         "activity_seq": "38247702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial C",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "10-13",
+        "activity_seq": "38247703"
       }
     ],
     "units": [
