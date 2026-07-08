@@ -10,12 +10,18 @@ datasource db {
 }
 
 model Rooms {
-  id         Int     @id @default(autoincrement())
-  Name       String
-  Building   String
-  RoomNumber String  @default("")
-  Campus     String?
-  Capacity   Int?
+  id              Int     @id @default(autoincrement())
+  Name            String
+  Building        String
+  RoomNumber      String  @default("")
+  Campus          String?
+  Capacity        Int?
+  RoomType        String?
+  EquipmentTier   String?
+  SpecialFeatures String?
+  SimilarVenues   String?
+  FrontImage      String?
+  RearImage       String?
 
   @@index([Building])
   @@index([Name])

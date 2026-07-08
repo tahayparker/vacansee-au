@@ -15,6 +15,12 @@ export function mapPrismaRoom(room: {
   RoomNumber: string;
   Campus: string | null;
   Capacity: number | null;
+  RoomType?: string | null;
+  EquipmentTier?: string | null;
+  SpecialFeatures?: string | null;
+  SimilarVenues?: string | null;
+  FrontImage?: string | null;
+  RearImage?: string | null;
 }): Room {
   return {
     name: room.Name,
@@ -22,6 +28,12 @@ export function mapPrismaRoom(room: {
     roomNumber: room.RoomNumber,
     campus: room.Campus,
     capacity: room.Capacity,
+    roomType: room.RoomType ?? null,
+    equipmentTier: room.EquipmentTier ?? null,
+    specialFeatures: room.SpecialFeatures ?? null,
+    similarVenues: room.SimilarVenues ?? null,
+    frontImage: room.FrontImage ?? null,
+    rearImage: room.RearImage ?? null,
   };
 }
 

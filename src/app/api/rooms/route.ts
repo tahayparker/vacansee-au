@@ -48,6 +48,12 @@ export async function GET(req: NextRequest) {
             RoomNumber: true,
             Campus: true,
             Capacity: true,
+            RoomType: true,
+            EquipmentTier: true,
+            SpecialFeatures: true,
+            SimilarVenues: true,
+            FrontImage: true,
+            RearImage: true,
           },
         });
 

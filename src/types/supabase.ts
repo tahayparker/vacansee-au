@@ -62,6 +62,12 @@ export type Database = {
           Building: string;
           Campus: string | null;
           Capacity: number | null;
+          EquipmentTier: string | null;
+          FrontImage: string | null;
+          RearImage: string | null;
+          RoomType: string | null;
+          SimilarVenues: string | null;
+          SpecialFeatures: string | null;
           id: number;
           Name: string;
           RoomNumber: string;
@@ -70,6 +76,12 @@ export type Database = {
           Building: string;
           Campus?: string | null;
           Capacity?: number | null;
+          EquipmentTier?: string | null;
+          FrontImage?: string | null;
+          RearImage?: string | null;
+          RoomType?: string | null;
+          SimilarVenues?: string | null;
+          SpecialFeatures?: string | null;
           id?: number;
           Name: string;
           RoomNumber?: string;
@@ -78,6 +90,12 @@ export type Database = {
           Building?: string;
           Campus?: string | null;
           Capacity?: number | null;
+          EquipmentTier?: string | null;
+          FrontImage?: string | null;
+          RearImage?: string | null;
+          RoomType?: string | null;
+          SimilarVenues?: string | null;
+          SpecialFeatures?: string | null;
           id?: number;
           Name?: string;
           RoomNumber?: string;

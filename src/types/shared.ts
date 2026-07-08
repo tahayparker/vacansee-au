@@ -25,6 +25,18 @@ export interface Room {
   campus: string | null;
   /** Maximum capacity of the room (null if unknown) */
   capacity: number | null;
+  /** Teaching space type from UOW room catalogue */
+  roomType: string | null;
+  /** AV / equipment tier */
+  equipmentTier: string | null;
+  /** Special features (video conferencing, whiteboard, etc.) */
+  specialFeatures: string | null;
+  /** Similar venues listed in the catalogue */
+  similarVenues: string | null;
+  /** Local path to front-of-room photo under /public */
+  frontImage: string | null;
+  /** Local path to rear-of-room photo under /public */
+  rearImage: string | null;
 }
 
 /**
