@@ -1,6 +1,6 @@
 """Enrich AU-Rooms from the UOW teaching-spaces CSV.
 
-Downloads room photos into public/roomGallery and updates existing DB rows.
+Stores UOW image URLs directly in the database (no local downloads).
 Image URLs that are directory stubs (no file extension) are skipped.
 """
 
@@ -8,14 +8,12 @@ from __future__ import annotations
 
 import argparse
 import csv
-import re
 import sys
 import traceback
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
-import requests
 from postgrest.exceptions import APIError
 from httpx import HTTPStatusError, RequestError
 
@@ -24,11 +22,9 @@ from db_connection import get_supabase_client
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
 DEFAULT_CSV = REPO_ROOT / "data" / "uow_teaching_spaces_complete.csv"
-GALLERY_DIR = REPO_ROOT / "public" / "roomGallery"
 ROOMS_TABLE = "AU-Rooms"
 
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"}
-SAFE_NAME_RE = re.compile(r'[<>:"/\\|?*]')
 
 try:
     supabase = get_supabase_client()
@@ -62,38 +58,6 @@ def is_valid_image_url(url: str | None) -> bool:
         return False
     ext = Path(path).suffix.lower()
     return ext in IMAGE_EXTENSIONS
-
-
-def safe_room_slug(name: str) -> str:
-    return SAFE_NAME_RE.sub("_", name.strip())
-
-
-def local_image_path(room_name: str, suffix: str, source_url: str) -> str:
-    ext = Path(urlparse(source_url).path).suffix.lower() or ".jpg"
-    filename = f"{safe_room_slug(room_name)}-{suffix}{ext}"
-    return f"/roomGallery/{filename}"
-
-
-def gallery_file_path(web_path: str) -> Path:
-    return REPO_ROOT / "public" / web_path.lstrip("/")
-
-
-def download_image(url: str, dest: Path) -> bool:
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists() and dest.stat().st_size > 0:
-        return True
-    try:
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-        content_type = response.headers.get("content-type", "").lower()
-        if content_type and not content_type.startswith("image/"):
-            print(f"  Skipping non-image content-type ({content_type}) for {url}")
-            return False
-        dest.write_bytes(response.content)
-        return True
-    except requests.RequestException as err:
-        print(f"  Failed to download {url}: {err}", file=sys.stderr)
-        return False
 
 
 def parse_capacity(raw: str) -> int | None:
@@ -172,11 +136,7 @@ def fetch_existing_rooms() -> dict[str, dict[str, Any]]:
         raise RuntimeError("Failed to fetch rooms.") from err
 
 
-def build_update_payload(
-    csv_row: dict[str, Any],
-    *,
-    download_images: bool,
-) -> dict[str, Any] | None:
+def build_update_payload(csv_row: dict[str, Any]) -> dict[str, Any] | None:
     payload: dict[str, Any] = {
         "Capacity": csv_row["Capacity"],
         "RoomType": csv_row["RoomType"],
@@ -187,40 +147,26 @@ def build_update_payload(
         "RearImage": None,
     }
 
-    room_name = csv_row["Name"]
-    changed = False
+    if is_valid_image_url(csv_row["FrontImageUrl"]):
+        payload["FrontImage"] = csv_row["FrontImageUrl"].strip()
+    if is_valid_image_url(csv_row["RearImageUrl"]):
+        payload["RearImage"] = csv_row["RearImageUrl"].strip()
 
-    for field, url_key, suffix in (
-        ("FrontImage", "FrontImageUrl", "F"),
-        ("RearImage", "RearImageUrl", "R"),
-    ):
-        url = csv_row[url_key]
-        if not is_valid_image_url(url):
-            continue
-        web_path = local_image_path(room_name, suffix, url)
-        if download_images:
-            dest = gallery_file_path(web_path)
-            print(f"  Downloading {suffix} image for {room_name}")
-            if not download_image(url, dest):
-                continue
-        payload[field] = web_path
-        changed = True
-
-    # Always update metadata fields when we have a CSV match, even without images.
     metadata_fields = (
         "Capacity",
         "RoomType",
         "EquipmentTier",
         "SpecialFeatures",
         "SimilarVenues",
+        "FrontImage",
+        "RearImage",
     )
     if any(payload[key] is not None for key in metadata_fields):
-        changed = True
+        return payload
+    return None
 
-    return payload if changed else None
 
-
-def update_rooms(csv_path: Path, *, download_images: bool = True) -> bool:
+def update_rooms(csv_path: Path) -> bool:
     csv_rows = read_teaching_spaces(csv_path)
     existing = fetch_existing_rooms()
 
@@ -236,7 +182,7 @@ def update_rooms(csv_path: Path, *, download_images: bool = True) -> bool:
             print(f"No DB match for CSV room '{name}' — skipping.")
             continue
 
-        payload = build_update_payload(csv_row, download_images=download_images)
+        payload = build_update_payload(csv_row)
         if not payload:
             skipped_unchanged += 1
             continue
@@ -271,12 +217,7 @@ if __name__ == "__main__":
         default=DEFAULT_CSV,
         help=f"Teaching spaces CSV (default: {DEFAULT_CSV})",
     )
-    parser.add_argument(
-        "--skip-download",
-        action="store_true",
-        help="Update DB paths only; do not download images.",
-    )
     args = parser.parse_args()
 
-    success = update_rooms(args.csv, download_images=not args.skip_download)
+    success = update_rooms(args.csv)
     sys.exit(0 if success else 1)

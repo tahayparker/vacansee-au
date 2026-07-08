@@ -2,17 +2,16 @@
 
 import { useState, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Input } from "@/components/ui/input"; // Shadcn Input
-import { AlertCircle, Search, ArrowUp, ArrowDown } from "lucide-react"; // Icons
+import { Input } from "@/components/ui/input";
+import { AlertCircle, Search, ArrowUp, ArrowDown } from "lucide-react";
 import Fuse from "fuse.js";
-import { cn } from "@/lib/utils"; // Utility for conditional classes
+import { cn } from "@/lib/utils";
 import { LoadingSpinner } from "@/components/LoadingSpinner";
 import { useRequireAuth } from "@/hooks/useRequireAuth";
 
 import type { Room } from "@/types/shared";
 import { compareRoomsByBuilding } from "@/services/roomParsing";
 
-// Columns shown in the table
 type SortKey = "name" | "campus" | "capacity";
 
 function EmptyCell() {
@@ -26,20 +25,54 @@ function displayCell(value: string | number | null | undefined) {
   return value;
 }
 
+function PhotoLinks({
+  frontImage,
+  rearImage,
+}: {
+  frontImage: string | null;
+  rearImage: string | null;
+}) {
+  const links: { label: string; href: string }[] = [];
+  if (frontImage) links.push({ label: "Pic 1", href: frontImage });
+  if (rearImage) links.push({ label: "Pic 2", href: rearImage });
+
+  if (links.length === 0) return <EmptyCell />;
+
+  return (
+    <span className="inline-flex flex-wrap items-center justify-center gap-x-2 gap-y-1">
+      {links.map((link, index) => (
+        <span key={link.label}>
+          {index > 0 && (
+            <span className="text-gray-600 mr-2" aria-hidden="true">
+              ·
+            </span>
+          )}
+          <a
+            href={link.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-purple-400 hover:text-purple-300 hover:underline"
+          >
+            {link.label}
+          </a>
+        </span>
+      ))}
+    </span>
+  );
+}
+
 type RoomData = Room;
 
-// Define sort configuration state
 interface SortConfig {
   key: SortKey | null;
   direction: "asc" | "desc";
 }
 
-// --- Main Page Component ---
+const COL_COUNT = 8;
+
 export default function RoomDetailsPage() {
-  // Check authentication first
   const { loading: authLoading, isAuthenticated } = useRequireAuth();
 
-  // State
   const [allRooms, setAllRooms] = useState<RoomData[]>([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [isLoading, setIsLoading] = useState(true);
@@ -51,7 +84,6 @@ export default function RoomDetailsPage() {
 
   const isSearching = searchQuery.trim() !== "";
 
-  // --- Fetch All Rooms ---
   useEffect(() => {
     const fetchRooms = async () => {
       setIsLoading(true);
@@ -71,9 +103,11 @@ export default function RoomDetailsPage() {
         const data: { total: number; rooms: RoomData[] } =
           await response.json();
         setAllRooms(data.rooms);
-      } catch (err: any) {
+      } catch (err: unknown) {
+        const message =
+          err instanceof Error ? err.message : "Failed to load room details.";
         console.error("Error fetching room details:", err);
-        setError(err.message || "Failed to load room details.");
+        setError(message);
       } finally {
         setIsLoading(false);
       }
@@ -81,21 +115,23 @@ export default function RoomDetailsPage() {
     fetchRooms();
   }, []);
 
-  // --- Fuzzy Search Logic ---
   const fuse = useMemo(() => {
     if (allRooms.length === 0) return null;
     return new Fuse(allRooms, {
       keys: [
-        { name: "name", weight: 0.6 },
-        { name: "building", weight: 0.2 },
-        { name: "campus", weight: 0.2 },
+        { name: "name", weight: 0.35 },
+        { name: "building", weight: 0.1 },
+        { name: "campus", weight: 0.15 },
+        { name: "roomType", weight: 0.15 },
+        { name: "equipmentTier", weight: 0.15 },
+        { name: "specialFeatures", weight: 0.05 },
+        { name: "similarVenues", weight: 0.05 },
       ],
       threshold: 0.4,
       includeScore: false,
     });
   }, [allRooms]);
 
-  // --- Combined Filter & Sort Logic ---
   const processedRooms = useMemo(() => {
     let results: RoomData[];
     if (!fuse || !isSearching) {
@@ -116,23 +152,22 @@ export default function RoomDetailsPage() {
         let comparison = 0;
 
         if (key === "capacity") {
-          // Sort by capacity first
           const aCap = a.capacity === null ? -Infinity : a.capacity;
           const bCap = b.capacity === null ? -Infinity : b.capacity;
           comparison = aCap - bCap;
 
-          // Apply direction to capacity
           if (sortConfig.direction === "desc") {
             comparison = comparison * -1;
           }
 
-          // If capacities are equal, sort by building then room number
           if (comparison === 0) {
             comparison = compareRoomsByBuilding(a.name, b.name);
           }
 
           return comparison;
-        } else if (key === "campus") {
+        }
+
+        if (key === "campus") {
           const av = (a.campus ?? "").toLowerCase();
           const bv = (b.campus ?? "").toLowerCase();
           if (av < bv) comparison = -1;
@@ -150,7 +185,6 @@ export default function RoomDetailsPage() {
     return results;
   }, [searchQuery, isSearching, allRooms, fuse, sortConfig]);
 
-  // --- Sorting Handler ---
   const handleSort = (key: SortKey) => {
     if (isSearching) return;
     let direction: "asc" | "desc" = "asc";
@@ -160,7 +194,6 @@ export default function RoomDetailsPage() {
     setSortConfig({ key, direction });
   };
 
-  // --- Get Sort Icon ---
   const getSortIcon = (key: SortKey) => {
     if (isSearching || sortConfig.key !== key) {
       return null;
@@ -175,7 +208,6 @@ export default function RoomDetailsPage() {
     );
   };
 
-  // --- Animation Variants ---
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -216,7 +248,13 @@ export default function RoomDetailsPage() {
     },
   };
 
-  // Show loading spinner while checking auth
+  const sortableTh = (key: SortKey) =>
+    cn(
+      "group px-4 py-3 text-left text-sm font-semibold text-white border-b border-white/20 whitespace-nowrap",
+      !isSearching && "cursor-pointer",
+      isSearching && "cursor-default",
+    );
+
   if (authLoading) {
     return (
       <div className="flex items-center justify-center min-h-screen">
@@ -225,14 +263,12 @@ export default function RoomDetailsPage() {
     );
   }
 
-  // Don't render page content if not authenticated
   if (!isAuthenticated) {
     return null;
   }
 
-  // --- Render Page ---
   return (
-    <div className="w-full max-w-5xl mx-auto px-4 py-6 pt-20 md:pt-24 flex flex-col items-center">
+    <div className="w-full max-w-[95rem] mx-auto px-4 py-6 pt-20 md:pt-24 flex flex-col items-center">
       <motion.div
         variants={pageHeaderVariant}
         initial="hidden"
@@ -240,8 +276,7 @@ export default function RoomDetailsPage() {
         className="flex-shrink-0"
       >
         <h1 className="text-3xl md:text-4xl font-bold mb-8 text-center text-white">
-          {" "}
-          Room Details{" "}
+          Room Details
         </h1>
       </motion.div>
 
@@ -254,7 +289,7 @@ export default function RoomDetailsPage() {
         <Search className="absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400 pointer-events-none" />
         <Input
           type="text"
-          placeholder={`Search from ${allRooms.length} rooms by name or campus...`}
+          placeholder={`Search ${allRooms.length} rooms by name, campus, type, or equipment...`}
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           className="w-full pl-10 pr-4 h-11 py-2.5 bg-black/30 border-white/25 text-white placeholder:text-gray-500 focus:ring-1 focus:ring-purple-500 focus:border-purple-500 rounded-full"
@@ -265,68 +300,50 @@ export default function RoomDetailsPage() {
         variants={tableContainerVariant}
         initial="hidden"
         animate="visible"
-        className="border border-white/20 rounded-lg shadow-lg overflow-hidden bg-black/60 backdrop-blur-md flex flex-col min-h-0 w-full max-w-4xl mb-6"
+        className="border border-white/20 rounded-lg shadow-lg overflow-hidden bg-black/60 backdrop-blur-md flex flex-col min-h-0 w-full mb-6"
       >
-        <div className="overflow-y-auto hide-scrollbar max-h-[65vh]">
-          <table className="w-full border-collapse table-fixed">
+        <div className="overflow-x-auto overflow-y-auto hide-scrollbar max-h-[65vh]">
+          <table className="w-full min-w-[72rem] border-collapse">
             <thead className="sticky top-0 z-10 bg-gradient-to-b from-black/90 via-black/80 to-black/70 backdrop-blur-lg">
               <tr>
                 <th
-                  className={cn(
-                    "group w-[50%] md:w-[45%] px-6 py-3 text-left text-base font-semibold text-white border-b border-r border-white/20",
-                    !isSearching && "cursor-pointer",
-                    isSearching && "cursor-default",
-                  )}
+                  className={sortableTh("name")}
                   onClick={() => handleSort("name")}
-                  aria-sort={
-                    isSearching || sortConfig.key !== "name"
-                      ? "none"
-                      : sortConfig.direction === "asc"
-                        ? "ascending"
-                        : "descending"
-                  }
                 >
                   <div className="flex items-center">
-                    Room Name {getSortIcon("name")}
+                    Room {getSortIcon("name")}
                   </div>
                 </th>
                 <th
-                  className={cn(
-                    "group w-[25%] md:w-[30%] px-6 py-3 text-center text-base font-semibold text-white border-b border-r border-white/20",
-                    !isSearching && "cursor-pointer",
-                    isSearching && "cursor-default",
-                  )}
+                  className={sortableTh("campus")}
                   onClick={() => handleSort("campus")}
-                  aria-sort={
-                    isSearching || sortConfig.key !== "campus"
-                      ? "none"
-                      : sortConfig.direction === "asc"
-                        ? "ascending"
-                        : "descending"
-                  }
                 >
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     Campus {getSortIcon("campus")}
                   </div>
                 </th>
                 <th
-                  className={cn(
-                    "group w-[25%] md:w-[25%] px-6 py-3 text-center text-base font-semibold text-white border-b border-white/20",
-                    !isSearching && "cursor-pointer",
-                    isSearching && "cursor-default",
-                  )}
+                  className={cn(sortableTh("capacity"), "text-center")}
                   onClick={() => handleSort("capacity")}
-                  aria-sort={
-                    isSearching || sortConfig.key !== "capacity"
-                      ? "none"
-                      : sortConfig.direction === "asc"
-                        ? "ascending"
-                        : "descending"
-                  }
                 >
                   <div className="flex items-center justify-center">
-                    Capacity {getSortIcon("capacity")}
+                    Cap. {getSortIcon("capacity")}
                   </div>
+                </th>
+                <th className="px-4 py-3 text-left text-sm font-semibold text-white border-b border-white/20 whitespace-nowrap">
+                  Type
+                </th>
+                <th className="px-4 py-3 text-left text-sm font-semibold text-white border-b border-white/20 min-w-[10rem]">
+                  Equipment
+                </th>
+                <th className="px-4 py-3 text-left text-sm font-semibold text-white border-b border-white/20 min-w-[10rem]">
+                  Features
+                </th>
+                <th className="px-4 py-3 text-left text-sm font-semibold text-white border-b border-white/20 min-w-[8rem]">
+                  Similar
+                </th>
+                <th className="px-4 py-3 text-center text-sm font-semibold text-white border-b border-white/20 whitespace-nowrap">
+                  Photos
                 </th>
               </tr>
             </thead>
@@ -336,12 +353,11 @@ export default function RoomDetailsPage() {
               animate="visible"
               className="divide-y divide-white/15"
             >
-              {/* Loading State - Responsive ColSpan */}
               {isLoading && (
                 <tr>
                   <td
-                    colSpan={3}
-                    className="h-40 text-center text-gray-400 py-4 px-6 border-b border-white/15"
+                    colSpan={COL_COUNT}
+                    className="h-40 text-center text-gray-400 py-4 px-6"
                   >
                     <div className="flex justify-center items-center">
                       <LoadingSpinner size="medium" />
@@ -351,10 +367,7 @@ export default function RoomDetailsPage() {
               )}
               {!isLoading && error && (
                 <tr>
-                  <td
-                    colSpan={3}
-                    className="h-24 text-center p-4 py-4 px-6 border-b border-white/15"
-                  >
+                  <td colSpan={COL_COUNT} className="h-24 text-center p-4">
                     <div className="flex items-center justify-center text-red-400 gap-2 bg-red-950/40 border border-red-500/50 p-3 rounded-md max-w-md mx-auto">
                       <AlertCircle className="w-5 h-5" />
                       <span>Error: {error}</span>
@@ -365,8 +378,8 @@ export default function RoomDetailsPage() {
               {!isLoading && !error && processedRooms.length === 0 && (
                 <tr>
                   <td
-                    colSpan={3}
-                    className="h-24 text-center text-gray-400 italic py-4 px-6 border-b border-white/15"
+                    colSpan={COL_COUNT}
+                    className="h-24 text-center text-gray-400 italic py-4 px-6"
                   >
                     {isSearching
                       ? "No rooms found matching your search."
@@ -374,7 +387,6 @@ export default function RoomDetailsPage() {
                   </td>
                 </tr>
               )}
-              {/* Data Rows */}
               {!isLoading && !error && processedRooms.length > 0 && (
                 <AnimatePresence>
                   {processedRooms.map((room) => (
@@ -387,27 +399,44 @@ export default function RoomDetailsPage() {
                       layout
                       className="hover:bg-white/10 transition-colors duration-150"
                     >
-                      <td className="font-medium text-white py-4 px-6 border-b border-r border-white/15 text-left">
+                      <td className="font-medium text-white py-3 px-4 text-sm whitespace-nowrap">
                         {displayCell(room.name)}
                       </td>
-                      <td className="text-gray-300 py-4 px-6 border-b border-r border-white/15 text-center">
+                      <td className="text-gray-300 py-3 px-4 text-sm whitespace-nowrap">
                         {displayCell(room.campus)}
                       </td>
-                      <td className="text-gray-300 py-4 px-6 border-b border-white/15 text-center">
+                      <td className="text-gray-300 py-3 px-4 text-sm text-center whitespace-nowrap">
                         {displayCell(room.capacity)}
+                      </td>
+                      <td className="text-gray-300 py-3 px-4 text-sm">
+                        {displayCell(room.roomType)}
+                      </td>
+                      <td className="text-gray-300 py-3 px-4 text-sm">
+                        {displayCell(room.equipmentTier)}
+                      </td>
+                      <td className="text-gray-300 py-3 px-4 text-sm">
+                        {displayCell(room.specialFeatures)}
+                      </td>
+                      <td className="text-gray-300 py-3 px-4 text-sm">
+                        {displayCell(room.similarVenues)}
+                      </td>
+                      <td className="text-gray-300 py-3 px-4 text-sm text-center whitespace-nowrap">
+                        <PhotoLinks
+                          frontImage={room.frontImage}
+                          rearImage={room.rearImage}
+                        />
                       </td>
                     </motion.tr>
                   ))}
                 </AnimatePresence>
               )}
-              {/* "End of results" Indicator - Responsive ColSpan */}
               {!isLoading &&
                 !error &&
                 processedRooms.length > 0 &&
                 isSearching && (
                   <tr className="bg-transparent">
                     <td
-                      colSpan={3}
+                      colSpan={COL_COUNT}
                       className="text-center text-xs text-gray-400 py-3 px-6 border-t border-white/15"
                     >
                       End of search results

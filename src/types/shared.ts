@@ -33,9 +33,9 @@ export interface Room {
   specialFeatures: string | null;
   /** Similar venues listed in the catalogue */
   similarVenues: string | null;
-  /** Local path to front-of-room photo under /public */
+  /** UOW LTC front-of-room photo URL */
   frontImage: string | null;
-  /** Local path to rear-of-room photo under /public */
+  /** UOW LTC rear-of-room photo URL */
   rearImage: string | null;
 }
 
