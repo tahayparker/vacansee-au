@@ -47,6 +47,9 @@ def resolve_room_name(building: str, room: str) -> str:
     room = room.strip()
     if not room:
         return building
+    # Liverpool teaching spaces: CSV uses LP_400-105; timetable/DB use 400-105.
+    if room.startswith("LP_400-"):
+        return room.replace("LP_400-", "400-", 1)
     if room.startswith(f"{building}-"):
         return room
     return f"{building}-{room}"
