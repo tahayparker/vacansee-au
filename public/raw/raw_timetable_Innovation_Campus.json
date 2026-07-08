@@ -99,105 +99,6 @@
     ]
   },
   {
-    "subject_inst_id": "379117",
-    "subject_id": "209185",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Foundations of Ocean Law and Policy",
-    "subject_code": "SEA 901",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Erik van Doorn",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Kristine Dalaker",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Associate Professor Sarah Lothian",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Ms Ruth Davis",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911701"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture B",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911702"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture C",
-        "day": "Wed",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911703"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture D",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911704"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture E",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911705"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "379120",
     "subject_id": "209186",
     "owner_unit": "ANCO",
@@ -236,228 +137,6 @@
         "location": "233-112",
         "week": "2-13",
         "activity_seq": "37912001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "379122",
-    "subject_id": "209186",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Law of the Sea",
-    "subject_code": "SEA 902",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2hr per week",
-    "staff": [
-      {
-        "staff_name": "Doctor Aline Jaeckel",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Professor Clive Schofield",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "233-112",
-        "week": "2-13",
-        "activity_seq": "37912201"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "379127",
-    "subject_id": "209187",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Strategy and Sea Power",
-    "subject_code": "SEA 903",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2hrs per week",
-    "staff": [
-      {
-        "staff_name": "Associate Professor Chris Rahman",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Prakash Gopal",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "AND",
-        "activity": "Lecture C",
-        "day": "Wed",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "To be advised",
-        "week": "22/07/2026",
-        "activity_seq": "37912703"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture D",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "23/07/2026",
-        "activity_seq": "37912704"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture E",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "24/07/2026",
-        "activity_seq": "37912705"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "To be advised",
-        "week": "20/07/2026",
-        "activity_seq": "37912701"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture B",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "To be advised",
-        "week": "21/07/2026",
-        "activity_seq": "37912702"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "379132",
-    "subject_id": "209188",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Maritime Regulation and Enforcement",
-    "subject_code": "SEA 904",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2hrs per week",
-    "staff": [
-      {
-        "staff_name": "Associate Professor Sarah Lothian",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "233-112",
-        "week": "1-13",
-        "activity_seq": "37913201"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "379137",
-    "subject_id": "209189",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Legal Regulation of Shipping",
-    "subject_code": "SEA 905",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2hrs per week",
-    "staff": [
-      {
-        "staff_name": "Doctor Dawoon Jung",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Randa Sacedon",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "233-112",
-        "week": "1-13",
-        "activity_seq": "37913701"
       }
     ],
     "units": [
@@ -725,53 +404,6 @@
     ]
   },
   {
-    "subject_inst_id": "379177",
-    "subject_id": "209198",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "International Fisheries Law",
-    "subject_code": "SEA 914",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2 hrs per week",
-    "staff": [
-      {
-        "staff_name": "Ms Frances Anggadi",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Ms Ruth Davis",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "233-112",
-        "week": "1-13",
-        "activity_seq": "37917701"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "379179",
     "subject_id": "209199",
     "owner_unit": "ANCO",
@@ -860,6 +492,427 @@
     ]
   },
   {
+    "subject_inst_id": "379200",
+    "subject_id": "209204",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Ocean Law and Policy Capstone",
+    "subject_code": "SEA 920",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hrs per week",
+    "staff": [
+      {
+        "staff_name": "Professor Clive Schofield",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Frances Anggadi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Kamal Azmi",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "233-112",
+        "week": "2-13",
+        "activity_seq": "37920001"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379117",
+    "subject_id": "209185",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Foundations of Ocean Law and Policy",
+    "subject_code": "SEA 901",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Erik van Doorn",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Kristine Dalaker",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Sarah Lothian",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Ruth Davis",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture B",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture C",
+        "day": "Wed",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911703"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture D",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911704"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture E",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911705"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379122",
+    "subject_id": "209186",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Law of the Sea",
+    "subject_code": "SEA 902",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2hr per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Aline Jaeckel",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Clive Schofield",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "233-112",
+        "week": "2-13",
+        "activity_seq": "37912201"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379127",
+    "subject_id": "209187",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Strategy and Sea Power",
+    "subject_code": "SEA 903",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2hrs per week",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Chris Rahman",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Prakash Gopal",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "To be advised",
+        "week": "20/07/2026",
+        "activity_seq": "37912701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture B",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "To be advised",
+        "week": "21/07/2026",
+        "activity_seq": "37912702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture C",
+        "day": "Wed",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "To be advised",
+        "week": "22/07/2026",
+        "activity_seq": "37912703"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture D",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "23/07/2026",
+        "activity_seq": "37912704"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture E",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "24/07/2026",
+        "activity_seq": "37912705"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379132",
+    "subject_id": "209188",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Maritime Regulation and Enforcement",
+    "subject_code": "SEA 904",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2hrs per week",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Sarah Lothian",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "233-112",
+        "week": "1-13",
+        "activity_seq": "37913201"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379137",
+    "subject_id": "209189",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Legal Regulation of Shipping",
+    "subject_code": "SEA 905",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2hrs per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Dawoon Jung",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Randa Sacedon",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "233-112",
+        "week": "1-13",
+        "activity_seq": "37913701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "379177",
+    "subject_id": "209198",
+    "owner_unit": "ANCO",
+    "sub_instance_name": "Class 1",
+    "subject_name": "International Fisheries Law",
+    "subject_code": "SEA 914",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "52",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2 hrs per week",
+    "staff": [
+      {
+        "staff_name": "Ms Frances Anggadi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Ruth Davis",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "233-112",
+        "week": "1-13",
+        "activity_seq": "37917701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "ANCO"
+      }
+    ]
+  },
+  {
     "subject_inst_id": "379190",
     "subject_id": "209201",
     "owner_unit": "ANCO",
@@ -910,59 +963,6 @@
         "location": "233-112",
         "week": "1-13",
         "activity_seq": "37919001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "ANCO"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "379200",
-    "subject_id": "209204",
-    "owner_unit": "ANCO",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Ocean Law and Policy Capstone",
-    "subject_code": "SEA 920",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "52",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "2 hrs per week",
-    "staff": [
-      {
-        "staff_name": "Professor Clive Schofield",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Ms Frances Anggadi",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Kamal Azmi",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Fri",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "233-112",
-        "week": "2-13",
-        "activity_seq": "37920001"
       }
     ],
     "units": [
