@@ -1,8 +1,7 @@
 """Enrich AU-Rooms from the UOW teaching-spaces CSV.
 
-Stores UOW image URLs in the database and mirrors valid images under
-public/roomGallery/ as a local backup. Directory-stub URLs (no extension)
-are skipped for both DB and gallery.
+Stores UOW image URLs in the database. public/roomGallery/ is a one-time
+local backup — run with --download-gallery only when initially seeding it.
 """
 
 from __future__ import annotations
@@ -277,11 +276,11 @@ if __name__ == "__main__":
         help=f"Teaching spaces CSV (default: {DEFAULT_CSV})",
     )
     parser.add_argument(
-        "--skip-gallery",
+        "--download-gallery",
         action="store_true",
-        help="Skip downloading backup images to public/roomGallery.",
+        help="One-time: download backup images to public/roomGallery (off by default).",
     )
     args = parser.parse_args()
 
-    success = update_rooms(args.csv, download_gallery=not args.skip_gallery)
+    success = update_rooms(args.csv, download_gallery=args.download_gallery)
     sys.exit(0 if success else 1)
