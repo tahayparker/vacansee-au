@@ -1609,451 +1609,6 @@
     ]
   },
   {
-    "subject_inst_id": "381453",
-    "subject_id": "210150",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Understanding Literature and Film",
-    "subject_code": "ENGL120",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Jake Goetz",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Michael Griffiths",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Online Optional Room Available",
-        "week": "1-5,7-13",
-        "activity_seq": "38145301"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "Online Optional Room Available",
-        "week": "1-5,7-13",
-        "activity_seq": "38145302"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381478",
-    "subject_id": "210155",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Dreams and Visions in Literature and Film",
-    "subject_code": "ENGL276",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "2",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "09:30",
-        "location": "Online Optional Room Available",
-        "week": "1-5,7-12",
-        "activity_seq": "38147801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "Online Optional Room Available",
-        "week": "2-5,7-13",
-        "activity_seq": "38147802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381493",
-    "subject_id": "210159",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Desiring Bodies: Gender & Sexuality in Literature & Film",
-    "subject_code": "ENGL379",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "1 hour lecture, 2 hour tutorial",
-    "staff": [
-      {
-        "staff_name": "Professor Guy Davidson",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Holden Walker",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Online Optional Room Available",
-        "week": "1-5,7-12",
-        "activity_seq": "38149301"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Online Optional Room Available",
-        "week": "2-5,7-13",
-        "activity_seq": "38149302"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Online Optional Room Available",
-        "week": "2-5,7-13",
-        "activity_seq": "38149303"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380818",
-    "subject_id": "209831",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Fundamentals of Nursing 1",
-    "subject_code": "SNUG101",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "2 hours tutorial and 2 hours practical per week",
-    "staff": [
-      {
-        "staff_name": "Mrs Emily Detourettes",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Grant Kinghorn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Karla Kuzmins",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Miss Michelle Fishburn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Therese Picot",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Practical",
-        "day": "Tue",
-        "start_time": "11:30",
-        "end_time": "13:30",
-        "location": "BE-G16",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
-        "activity_seq": "38081801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "BE-19LCS",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
-        "activity_seq": "38081802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380824",
-    "subject_id": "209832",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Nursing as a Profession",
-    "subject_code": "SNUG102",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "2 hours online activities per week, 2 hour tutorial per week",
-    "staff": [
-      {
-        "staff_name": "Ms Anna Rebikov-Vincent",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Grant Kinghorn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Miss Michelle Fishburn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Therese Picot",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Ms Amanda Wells",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "BE-G12",
-        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
-        "activity_seq": "38082401"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380840",
-    "subject_id": "209834",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Primary Health Care",
-    "subject_code": "SNUG107",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "2 hour tutorial per week",
-    "staff": [
-      {
-        "staff_name": "Doctor Della Maneze",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Grant Kinghorn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Joby Alex",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Miss Michelle Fishburn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Therese Picot",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "BE-G12",
-        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
-        "activity_seq": "38084001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380846",
-    "subject_id": "209835",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Bioscience for Nurses 1",
-    "subject_code": "SNUG111",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "2 hour tutorial per week",
-    "staff": [
-      {
-        "staff_name": "Mrs Ashley Matthews",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Grant Kinghorn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Miss Michelle Fishburn",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Sabine Allida",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Therese Picot",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "BE-G12",
-        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
-        "activity_seq": "38084601"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "381805",
     "subject_id": "210296",
     "owner_unit": "SOSS",
@@ -2709,16 +2264,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-13",
-        "activity_seq": "38237102"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Thu",
@@ -2727,6 +2272,16 @@
         "location": "Online Optional Room Available",
         "week": "1-6,8-13",
         "activity_seq": "38237101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-13",
+        "activity_seq": "38237102"
       }
     ],
     "units": [
@@ -3183,26 +2738,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "BE-G11",
-        "week": "1-6,8-13",
-        "activity_seq": "38244703"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "location": "BE-G11",
-        "week": "1-6,8-13",
-        "activity_seq": "38244704"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Tue",
@@ -3221,6 +2756,26 @@
         "location": "Refer to Moodle",
         "week": "1-6,8-13",
         "activity_seq": "38244702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "BE-G11",
+        "week": "1-6,8-13",
+        "activity_seq": "38244703"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "BE-G11",
+        "week": "1-6,8-13",
+        "activity_seq": "38244704"
       }
     ],
     "units": [
@@ -3567,6 +3122,451 @@
     ]
   },
   {
+    "subject_inst_id": "381453",
+    "subject_id": "210150",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Understanding Literature and Film",
+    "subject_code": "ENGL120",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Jake Goetz",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Michael Griffiths",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Online Optional Room Available",
+        "week": "1-5,7-13",
+        "activity_seq": "38145302"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Online Optional Room Available",
+        "week": "1-5,7-13",
+        "activity_seq": "38145301"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381478",
+    "subject_id": "210155",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Dreams and Visions in Literature and Film",
+    "subject_code": "ENGL276",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Online Optional Room Available",
+        "week": "2-5,7-13",
+        "activity_seq": "38147802"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Online Optional Room Available",
+        "week": "1-5,7-12",
+        "activity_seq": "38147801"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381493",
+    "subject_id": "210159",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Desiring Bodies: Gender & Sexuality in Literature & Film",
+    "subject_code": "ENGL379",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 hour lecture, 2 hour tutorial",
+    "staff": [
+      {
+        "staff_name": "Professor Guy Davidson",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Holden Walker",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Online Optional Room Available",
+        "week": "1-5,7-12",
+        "activity_seq": "38149301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Online Optional Room Available",
+        "week": "2-5,7-13",
+        "activity_seq": "38149302"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Online Optional Room Available",
+        "week": "2-5,7-13",
+        "activity_seq": "38149303"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380818",
+    "subject_id": "209831",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Nursing 1",
+    "subject_code": "SNUG101",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hours tutorial and 2 hours practical per week",
+    "staff": [
+      {
+        "staff_name": "Mrs Emily Detourettes",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Karla Kuzmins",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "BE-G16",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
+        "activity_seq": "38081801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "BE-19LCS",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
+        "activity_seq": "38081802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380824",
+    "subject_id": "209832",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Nursing as a Profession",
+    "subject_code": "SNUG102",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hours online activities per week, 2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Ms Anna Rebikov-Vincent",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Amanda Wells",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "BE-G12",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38082401"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380840",
+    "subject_id": "209834",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Primary Health Care",
+    "subject_code": "SNUG107",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Della Maneze",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Joby Alex",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "BE-G12",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38084001"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380846",
+    "subject_id": "209835",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Bioscience for Nurses 1",
+    "subject_code": "SNUG111",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "2 hour tutorial per week",
+    "staff": [
+      {
+        "staff_name": "Mrs Ashley Matthews",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Grant Kinghorn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Miss Michelle Fishburn",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Sabine Allida",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Therese Picot",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "BE-G12",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38084601"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
     "subject_inst_id": "377643",
     "subject_id": "208877",
     "owner_unit": "BUSN",
@@ -3703,16 +3703,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Online Optional Room Available",
-        "week": "2-13",
-        "activity_seq": "37766002"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -3721,6 +3711,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37766001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37766002"
       }
     ],
     "units": [
@@ -4372,6 +4372,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Workshop B",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "9,11-13",
+        "activity_seq": "38586504"
+      },
+      {
         "and_or": "",
         "activity": "Help Session",
         "day": "Tue",
@@ -4400,16 +4410,6 @@
         "location": "Class Online",
         "week": "1-2",
         "activity_seq": "38586503"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Workshop B",
-        "day": "Tue",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "9,11-13",
-        "activity_seq": "38586504"
       }
     ],
     "units": [
@@ -4551,16 +4551,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37873101"
-      },
-      {
         "and_or": "AND",
         "activity": "Workshop",
         "day": "Wed",
@@ -4569,6 +4559,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37873102"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37873101"
       }
     ],
     "units": [
@@ -4775,16 +4775,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37811401"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Fri",
@@ -4793,6 +4783,16 @@
         "location": "Online Optional Room Available",
         "week": "2-13",
         "activity_seq": "37811402"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37811401"
       }
     ],
     "units": [
@@ -4938,16 +4938,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "12:30",
-        "end_time": "14:30",
-        "location": "Online Optional Room Available",
-        "week": "2-13",
-        "activity_seq": "37816602"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -4956,6 +4946,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37816601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37816602"
       }
     ],
     "units": [
@@ -5152,6 +5152,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Online Optional Room Available",
+        "week": "1-13",
+        "activity_seq": "37820401"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -5170,16 +5180,6 @@
         "location": "Online Optional Room Available",
         "week": "2-13",
         "activity_seq": "37820403"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Online Optional Room Available",
-        "week": "1-13",
-        "activity_seq": "37820401"
       }
     ],
     "units": [
@@ -5303,261 +5303,6 @@
     "units": [
       {
         "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381468",
-    "subject_id": "210153",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Victorians",
-    "subject_code": "ENGL274",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "2",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "09:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38146801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38146802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381483",
-    "subject_id": "210157",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "The Modernists",
-    "subject_code": "ENGL361",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38148301"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38148302"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381503",
-    "subject_id": "210161",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "English and Creative Writing Capstone: Ways of Reading and Writing",
-    "subject_code": "ENGL383",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "1 hour lecture, 2 hour tutorial",
-    "staff": [
-      {
-        "staff_name": "Doctor Michael Griffiths",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-4",
-        "activity_seq": "38150301"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38150302"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381508",
-    "subject_id": "210162",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Literature and Critical Thought",
-    "subject_code": "ENGL385",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Professor Guy Davidson",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38150801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-13",
-        "activity_seq": "38150802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "384929",
-    "subject_id": "208469",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Romantic Literature",
-    "subject_code": "ENGL122",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "4",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "3 hours",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "09:30",
-        "end_time": "10:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-13",
-        "activity_seq": "38492901"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "11:30",
-        "end_time": "13:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-13",
-        "activity_seq": "38492902"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
       }
     ]
   },
@@ -6457,6 +6202,261 @@
     ]
   },
   {
+    "subject_inst_id": "381468",
+    "subject_id": "210153",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Victorians",
+    "subject_code": "ENGL274",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38146801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38146802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381483",
+    "subject_id": "210157",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "The Modernists",
+    "subject_code": "ENGL361",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38148301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38148302"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381503",
+    "subject_id": "210161",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "English and Creative Writing Capstone: Ways of Reading and Writing",
+    "subject_code": "ENGL383",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "1 hour lecture, 2 hour tutorial",
+    "staff": [
+      {
+        "staff_name": "Doctor Michael Griffiths",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38150302"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-4",
+        "activity_seq": "38150301"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381508",
+    "subject_id": "210162",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Literature and Critical Thought",
+    "subject_code": "ENGL385",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Professor Guy Davidson",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38150801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-13",
+        "activity_seq": "38150802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "384929",
+    "subject_id": "208469",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Romantic Literature",
+    "subject_code": "ENGL122",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "4",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "3 hours",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-13",
+        "activity_seq": "38492901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-13",
+        "activity_seq": "38492902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
     "subject_inst_id": "383861",
     "subject_id": "209854",
     "owner_unit": "SNM",
@@ -6598,6 +6598,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Online Optional Room Available",
+        "week": "04/06/2026",
+        "activity_seq": "38383004"
+      },
+      {
         "and_or": "",
         "activity": "Practical",
         "day": "Thu",
@@ -6626,16 +6636,6 @@
         "location": "BE-G12",
         "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 16/04/2026; 23/04/2026; 30/04/2026",
         "activity_seq": "38383003"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Online Optional Room Available",
-        "week": "04/06/2026",
-        "activity_seq": "38383004"
       }
     ],
     "units": [
@@ -7302,16 +7302,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Online Optional Room Available",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026",
-        "activity_seq": "38376701"
-      },
-      {
         "and_or": "OR",
         "activity": "Workshop",
         "day": "Tue",
@@ -7340,6 +7330,16 @@
         "location": "Online Optional Room Available",
         "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026",
         "activity_seq": "38376704"
+      },
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Online Optional Room Available",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026",
+        "activity_seq": "38376701"
       }
     ],
     "units": [

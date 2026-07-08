@@ -1,5 +1,46 @@
 [
   {
+    "subject_inst_id": "382610",
+    "subject_id": "210682",
+    "owner_unit": "MIHS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Major Project",
+    "subject_code": "HAS 942",
+    "subject_year": "2026",
+    "session_id": "2269",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "24",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Amy Bestman",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "1,3,5,7,9,11,13",
+        "activity_seq": "38261001"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "MIHS"
+      }
+    ]
+  },
+  {
     "subject_inst_id": "380721",
     "subject_id": "209786",
     "owner_unit": "SOE",
@@ -47,47 +88,6 @@
     "units": [
       {
         "unit_abb": "SOE"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382610",
-    "subject_id": "210682",
-    "owner_unit": "MIHS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Major Project",
-    "subject_code": "HAS 942",
-    "subject_year": "2026",
-    "session_id": "2269",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "24",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Amy Bestman",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "11:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "1,3,5,7,9,11,13",
-        "activity_seq": "38261001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "MIHS"
       }
     ]
   },
@@ -790,16 +790,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37818101"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Mon",
@@ -808,6 +798,16 @@
         "location": "Class Online",
         "week": "2-10,13",
         "activity_seq": "37818102"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37818101"
       }
     ],
     "units": [
@@ -841,16 +841,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "2-8",
-        "activity_seq": "37861703"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Thu",
@@ -869,6 +859,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37861702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2-8",
+        "activity_seq": "37861703"
       }
     ],
     "units": [
@@ -1231,6 +1231,1190 @@
     "units": [
       {
         "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381809",
+    "subject_id": "210296",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Indigenous Peoples and the Environment",
+    "subject_code": "INDS205",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 hr lecture, 2 hr tutorial 2 hr tutorial",
+    "staff": [
+      {
+        "staff_name": "Mrs Tania Dunn",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-5,7-12",
+        "activity_seq": "38180901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Online Optional Room Available",
+        "week": "1-5,7-12",
+        "activity_seq": "38180902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382251",
+    "subject_id": "210515",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Foundations of Educational Leadership",
+    "subject_code": "EDGL901",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Online lectures + on campus tutorials. On-campus students must attend all lectures and tutorials.  Distance students can either attend lectures and/or tutorials or view the recording on Moodle.",
+    "staff": [
+      {
+        "staff_name": "Mrs Kim Stouse-Lee",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Kylie Lipscombe",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Sharon Tindall-Ford",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38225101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2,5,9,11",
+        "activity_seq": "38225102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382256",
+    "subject_id": "210517",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Leadership of Educational Change, Innovation and Creativity",
+    "subject_code": "EDGL909",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Online lectures + on campus tutorials. On-campus students must attend all lectures and tutorials.  Distance students can either attend lectures and/or tutorials or view the recording on Moodle.",
+    "staff": [
+      {
+        "staff_name": "Doctor Lisa Thomas",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38225601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "2,5,9,11",
+        "activity_seq": "38225602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382262",
+    "subject_id": "210519",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Coaching and Mentoring Educators",
+    "subject_code": "EDGL919",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "Online lectures + on campus tutorials. On-campus students must attend all lectures and tutorials.  Distance students can either attend lectures and/or tutorials or view the recording on Moodle.",
+    "staff": [
+      {
+        "staff_name": "Doctor Janet Lovell",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Kim Stouse-Lee",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Lecture Online",
+        "week": "1-12",
+        "activity_seq": "38226201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "2,5,9,11",
+        "activity_seq": "38226202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382269",
+    "subject_id": "210522",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Minor Research Project in Educational Leadership",
+    "subject_code": "EDGL941",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Janet Lovell",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mrs Kim Stouse-Lee",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Kylie Lipscombe",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Amanda Lloyd",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38226901"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382279",
+    "subject_id": "210525",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Literature for Children and Young People",
+    "subject_code": "EDGR922",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "On campus students are expected to attend 5 network meetings. Distance students complete their studies online.",
+    "staff": [
+      {
+        "staff_name": "Doctor Lauren Weber",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-6,8-13",
+        "activity_seq": "38227901"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382293",
+    "subject_id": "210532",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Autism and Learning",
+    "subject_code": "EDGS951",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Alan Jurgens",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Amanda Webster",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Jonathon Allen",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Ray Handley",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Rebecca Vine Foggo",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229302"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229303"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229304"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229305"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229306"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382297",
+    "subject_id": "210534",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Learning Curriculum for Autistic and Neurodivergent Individuals",
+    "subject_code": "EDGS953",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Alan Jurgens",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Amanda Webster",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Jacob Ramsay",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Mr Jonathon Allen",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229702"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229703"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229704"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229705"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229706"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38229707"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382300",
+    "subject_id": "210537",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Leading Collaborative Communities for Lifelong Learning",
+    "subject_code": "EDGS956",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Alan Jurgens",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Associate Professor Amanda Webster",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Jacob Ramsay",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230002"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230003"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "18:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230004"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382301",
+    "subject_id": "210538",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Pedagogical Grammar",
+    "subject_code": "EDGT917",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Erika Matruglio",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Lungguh Bangga",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:00",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230101"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382308",
+    "subject_id": "210540",
+    "owner_unit": "EDU",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Oral Communication Pedagogy for Adult and Young Language Learners",
+    "subject_code": "EDGT931",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Amanda Baker",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Queenie Mak",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-6,8-13",
+        "activity_seq": "38230801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382488",
+    "subject_id": "210620",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Conflict, Peace & Security",
+    "subject_code": "INTS807",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 hr lecture, 2 hr tutorial",
+    "staff": [
+      {
+        "staff_name": "Doctor Genevieve Quirk",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Joakim Eidenfalk",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Ms Mareen Brosinsky",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Natasa Lazarevic",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-5,7-13",
+        "activity_seq": "38248801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "2-5,7-13",
+        "activity_seq": "38248802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382492",
+    "subject_id": "210622",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Theories of International Relations",
+    "subject_code": "MIR 900",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "12",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Joakim Eidenfalk",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Seminar",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "1-5,7-13",
+        "activity_seq": "38249201"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382500",
+    "subject_id": "210625",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "International Security",
+    "subject_code": "MIR 903",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Eda Gunaydin",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture\\Seminar",
+        "day": "Wed",
+        "start_time": "16:30",
+        "end_time": "19:30",
+        "location": "Lecture Online",
+        "week": "1-5,8-13",
+        "activity_seq": "38250001"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382505",
+    "subject_id": "210627",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Human Rights and Global Politics",
+    "subject_code": "MIR 905",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "12",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Babet de Groot",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Seminar",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-5,7-13",
+        "activity_seq": "38250501"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382507",
+    "subject_id": "210628",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Development Studies in a World in Crisis",
+    "subject_code": "MIR 906",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Susan Engel",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture\\Seminar",
+        "day": "Tue",
+        "start_time": "16:30",
+        "end_time": "19:30",
+        "location": "Lecture Online",
+        "week": "1-5,7-13",
+        "activity_seq": "38250701"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382576",
+    "subject_id": "210653",
+    "owner_unit": "SOSS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Global Inequality",
+    "subject_code": "POL 826",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 hr lecture, 2 hr tutorial",
+    "staff": [
+      {
+        "staff_name": "Doctor Hironori Onuki",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Lewis Powell",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Lecture Online",
+        "week": "1-4",
+        "activity_seq": "38257601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "5,7-13",
+        "activity_seq": "38257602"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2-5,7-13",
+        "activity_seq": "38257603"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOSS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382613",
+    "subject_id": "210682",
+    "owner_unit": "MIHS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Major Project",
+    "subject_code": "HAS 942",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "24",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Amy Bestman",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "1,3,5,7,9,11,13",
+        "activity_seq": "38261301"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "MIHS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382641",
+    "subject_id": "210695",
+    "owner_unit": "MIHS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Epidemiology and Biostatistics in Public Health",
+    "subject_code": "PGPH901",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Miss Bao Anh Vu",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Doctor Kim Kiely",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Megan Hammersley",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "38264101"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "MIHS"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "382660",
+    "subject_id": "210703",
+    "owner_unit": "MIHS",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Observational Epidemiology and Understanding Causes",
+    "subject_code": "PGPH930",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Kim Kiely",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Tam Ha",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "38266001"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "MIHS"
       }
     ]
   },
@@ -1915,1190 +3099,6 @@
     ]
   },
   {
-    "subject_inst_id": "381809",
-    "subject_id": "210296",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Indigenous Peoples and the Environment",
-    "subject_code": "INDS205",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "2",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "1 hr lecture, 2 hr tutorial 2 hr tutorial",
-    "staff": [
-      {
-        "staff_name": "Mrs Tania Dunn",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-5,7-12",
-        "activity_seq": "38180901"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Online Optional Room Available",
-        "week": "1-5,7-12",
-        "activity_seq": "38180902"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382251",
-    "subject_id": "210515",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Foundations of Educational Leadership",
-    "subject_code": "EDGL901",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "Online lectures + on campus tutorials. On-campus students must attend all lectures and tutorials.  Distance students can either attend lectures and/or tutorials or view the recording on Moodle.",
-    "staff": [
-      {
-        "staff_name": "Mrs Kim Stouse-Lee",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Associate Professor Kylie Lipscombe",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Associate Professor Sharon Tindall-Ford",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38225101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Class Online",
-        "week": "2,5,9,11",
-        "activity_seq": "38225102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382256",
-    "subject_id": "210517",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Leadership of Educational Change, Innovation and Creativity",
-    "subject_code": "EDGL909",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "Online lectures + on campus tutorials. On-campus students must attend all lectures and tutorials.  Distance students can either attend lectures and/or tutorials or view the recording on Moodle.",
-    "staff": [
-      {
-        "staff_name": "Doctor Lisa Thomas",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "18:30",
-        "end_time": "20:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38225601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "2,5,9,11",
-        "activity_seq": "38225602"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382262",
-    "subject_id": "210519",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Coaching and Mentoring Educators",
-    "subject_code": "EDGL919",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "Online lectures + on campus tutorials. On-campus students must attend all lectures and tutorials.  Distance students can either attend lectures and/or tutorials or view the recording on Moodle.",
-    "staff": [
-      {
-        "staff_name": "Doctor Janet Lovell",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Mrs Kim Stouse-Lee",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "18:30",
-        "end_time": "20:30",
-        "location": "Lecture Online",
-        "week": "1-12",
-        "activity_seq": "38226201"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "2,5,9,11",
-        "activity_seq": "38226202"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382269",
-    "subject_id": "210522",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Minor Research Project in Educational Leadership",
-    "subject_code": "EDGL941",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Janet Lovell",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Mrs Kim Stouse-Lee",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Associate Professor Kylie Lipscombe",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Doctor Amanda Lloyd",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38226901"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382279",
-    "subject_id": "210525",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Literature for Children and Young People",
-    "subject_code": "EDGR922",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "On campus students are expected to attend 5 network meetings. Distance students complete their studies online.",
-    "staff": [
-      {
-        "staff_name": "Doctor Lauren Weber",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-6,8-13",
-        "activity_seq": "38227901"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382293",
-    "subject_id": "210532",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Autism and Learning",
-    "subject_code": "EDGS951",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Alan Jurgens",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Associate Professor Amanda Webster",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Jonathon Allen",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Doctor Ray Handley",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Doctor Rebecca Vine Foggo",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229301"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229302"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229303"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229304"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229305"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229306"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382297",
-    "subject_id": "210534",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Learning Curriculum for Autistic and Neurodivergent Individuals",
-    "subject_code": "EDGS953",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Alan Jurgens",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Associate Professor Amanda Webster",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Jacob Ramsay",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Mr Jonathon Allen",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229701"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229702"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229703"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229704"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229705"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229706"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38229707"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382300",
-    "subject_id": "210537",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Leading Collaborative Communities for Lifelong Learning",
-    "subject_code": "EDGS956",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Alan Jurgens",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Associate Professor Amanda Webster",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Jacob Ramsay",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230002"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230003"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "18:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230004"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382301",
-    "subject_id": "210538",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Pedagogical Grammar",
-    "subject_code": "EDGT917",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Associate Professor Erika Matruglio",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Lungguh Bangga",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:00",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230101"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382308",
-    "subject_id": "210540",
-    "owner_unit": "EDU",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Oral Communication Pedagogy for Adult and Young Language Learners",
-    "subject_code": "EDGT931",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Associate Professor Amanda Baker",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Ms Queenie Mak",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-6,8-13",
-        "activity_seq": "38230801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "EDU"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382488",
-    "subject_id": "210620",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Conflict, Peace & Security",
-    "subject_code": "INTS807",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "8",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "1 hr lecture, 2 hr tutorial",
-    "staff": [
-      {
-        "staff_name": "Doctor Genevieve Quirk",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Doctor Joakim Eidenfalk",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Ms Mareen Brosinsky",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Doctor Natasa Lazarevic",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-5,7-13",
-        "activity_seq": "38248801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "2-5,7-13",
-        "activity_seq": "38248802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382492",
-    "subject_id": "210622",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Theories of International Relations",
-    "subject_code": "MIR 900",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "12",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Joakim Eidenfalk",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Seminar",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "1-5,7-13",
-        "activity_seq": "38249201"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382500",
-    "subject_id": "210625",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "International Security",
-    "subject_code": "MIR 903",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Eda Gunaydin",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture\\Seminar",
-        "day": "Wed",
-        "start_time": "16:30",
-        "end_time": "19:30",
-        "location": "Lecture Online",
-        "week": "1-5,8-13",
-        "activity_seq": "38250001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382505",
-    "subject_id": "210627",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Human Rights and Global Politics",
-    "subject_code": "MIR 905",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "12",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Babet de Groot",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Seminar",
-        "day": "Wed",
-        "start_time": "14:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-5,7-13",
-        "activity_seq": "38250501"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382507",
-    "subject_id": "210628",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Development Studies in a World in Crisis",
-    "subject_code": "MIR 906",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Associate Professor Susan Engel",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture\\Seminar",
-        "day": "Tue",
-        "start_time": "16:30",
-        "end_time": "19:30",
-        "location": "Lecture Online",
-        "week": "1-5,7-13",
-        "activity_seq": "38250701"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382576",
-    "subject_id": "210653",
-    "owner_unit": "SOSS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Global Inequality",
-    "subject_code": "POL 826",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "8",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "1 hr lecture, 2 hr tutorial",
-    "staff": [
-      {
-        "staff_name": "Doctor Hironori Onuki",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Lewis Powell",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "09:30",
-        "location": "Lecture Online",
-        "week": "1-4",
-        "activity_seq": "38257601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "5,7-13",
-        "activity_seq": "38257602"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Class Online",
-        "week": "2-5,7-13",
-        "activity_seq": "38257603"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOSS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382613",
-    "subject_id": "210682",
-    "owner_unit": "MIHS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Major Project",
-    "subject_code": "HAS 942",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "24",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Amy Bestman",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "11:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "1,3,5,7,9,11,13",
-        "activity_seq": "38261301"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "MIHS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382641",
-    "subject_id": "210695",
-    "owner_unit": "MIHS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Epidemiology and Biostatistics in Public Health",
-    "subject_code": "PGPH901",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Miss Bao Anh Vu",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Doctor Kim Kiely",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Megan Hammersley",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "38264101"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "MIHS"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "382660",
-    "subject_id": "210703",
-    "owner_unit": "MIHS",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Observational Epidemiology and Understanding Causes",
-    "subject_code": "PGPH930",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Kim Kiely",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Associate Professor Tam Ha",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "38266001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "MIHS"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "378957",
     "subject_id": "209148",
     "owner_unit": "BUSN",
@@ -3123,16 +3123,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37895702"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -3141,6 +3131,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37895701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37895702"
       }
     ],
     "units": [
@@ -3276,26 +3276,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37874801"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37874802"
-      },
-      {
         "and_or": "OR",
         "activity": "Workshop",
         "day": "Wed",
@@ -3314,6 +3294,26 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37874804"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37874802"
+      },
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37874801"
       }
     ],
     "units": [
@@ -3667,6 +3667,159 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37888807"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383329",
+    "subject_id": "209126",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Business Analytics",
+    "subject_code": "MBAS900",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38332901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38332902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383345",
+    "subject_id": "209141",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "AI-driven Customer Insights and Market Intelligence",
+    "subject_code": "MBAS924",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38334502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383342",
+    "subject_id": "209140",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Big Data Management & Integration",
+    "subject_code": "MBAS923",
+    "subject_year": "2026",
+    "session_id": "2605",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-05-18",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Stephen Wu",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38334202"
       }
     ],
     "units": [
@@ -4108,16 +4261,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37927107"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -4176,6 +4319,16 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37927106"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927107"
       }
     ],
     "units": [
@@ -4533,159 +4686,6 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37951402"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383329",
-    "subject_id": "209126",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Fundamentals of Business Analytics",
-    "subject_code": "MBAS900",
-    "subject_year": "2026",
-    "session_id": "2605",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-05-18",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Aleksandra Skibinska",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38332901"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38332902"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383345",
-    "subject_id": "209141",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "AI-driven Customer Insights and Market Intelligence",
-    "subject_code": "MBAS924",
-    "subject_year": "2026",
-    "session_id": "2605",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-05-18",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Aleksandra Skibinska",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38334501"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38334502"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383342",
-    "subject_id": "209140",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Big Data Management & Integration",
-    "subject_code": "MBAS923",
-    "subject_year": "2026",
-    "session_id": "2605",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-05-18",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Stephen Wu",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38334201"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38334202"
       }
     ],
     "units": [
@@ -5100,16 +5100,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37881302"
-      },
-      {
         "and_or": "",
         "activity": "Workshop",
         "day": "Mon",
@@ -5118,6 +5108,16 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37881301"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37881302"
       }
     ],
     "units": [
@@ -5202,36 +5202,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "37888401"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial A",
-        "day": "Sat",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "1-3",
-        "activity_seq": "37888402"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-7,9-10",
-        "activity_seq": "37888403"
-      },
-      {
         "and_or": "OR",
         "activity": "Tutorial B",
         "day": "Sat",
@@ -5270,6 +5240,36 @@
         "location": "Class Online",
         "week": "4-7,9-10",
         "activity_seq": "37888407"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37888401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "1-3",
+        "activity_seq": "37888402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888403"
       }
     ],
     "units": [
@@ -5321,6 +5321,210 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37889702"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383541",
+    "subject_id": "209240",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managerial Finance",
+    "subject_code": "FIN 921",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Swadip Bhattacharjee",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38354101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38354102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383325",
+    "subject_id": "209126",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Business Analytics",
+    "subject_code": "MBAS900",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Edmund Brownlow",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38332501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38332502"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383338",
+    "subject_id": "209138",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Predictive Analytics and Forecasting",
+    "subject_code": "MBAS921",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mostafa Khatami",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38333802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383331",
+    "subject_id": "209139",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Applied Machine Learning & AI for Business",
+    "subject_code": "MBAS922",
+    "subject_year": "2026",
+    "session_id": "2597",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-02-09",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mehrdad Amirghasemi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38333102"
       }
     ],
     "units": [
@@ -5670,16 +5874,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37909302"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -5688,6 +5882,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37909301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37909302"
       }
     ],
     "units": [
@@ -6228,210 +6432,6 @@
     ]
   },
   {
-    "subject_inst_id": "383541",
-    "subject_id": "209240",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Managerial Finance",
-    "subject_code": "FIN 921",
-    "subject_year": "2026",
-    "session_id": "2597",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-02-09",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
-    "staff": [
-      {
-        "staff_name": "Doctor Swadip Bhattacharjee",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38354101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38354102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383325",
-    "subject_id": "209126",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Fundamentals of Business Analytics",
-    "subject_code": "MBAS900",
-    "subject_year": "2026",
-    "session_id": "2597",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-02-09",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Edmund Brownlow",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38332501"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38332502"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383338",
-    "subject_id": "209138",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Predictive Analytics and Forecasting",
-    "subject_code": "MBAS921",
-    "subject_year": "2026",
-    "session_id": "2597",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-02-09",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Mostafa Khatami",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38333801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38333802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383331",
-    "subject_id": "209139",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Applied Machine Learning & AI for Business",
-    "subject_code": "MBAS922",
-    "subject_year": "2026",
-    "session_id": "2597",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-02-09",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Mehrdad Amirghasemi",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38333101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38333102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "378934",
     "subject_id": "209144",
     "owner_unit": "BUSN",
@@ -6507,46 +6507,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop B",
-        "day": "Sun",
-        "start_time": "09:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "1,5",
-        "activity_seq": "37874206"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Workshop C",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "10",
-        "activity_seq": "37874207"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop C",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "10",
-        "activity_seq": "37874208"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop C",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "10",
-        "activity_seq": "37874209"
-      },
-      {
         "and_or": "",
         "activity": "Workshop A",
         "day": "Mon",
@@ -6595,6 +6555,46 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37874205"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop B",
+        "day": "Sun",
+        "start_time": "09:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "1,5",
+        "activity_seq": "37874206"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop C",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "10",
+        "activity_seq": "37874207"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop C",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "10",
+        "activity_seq": "37874208"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop C",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "10",
+        "activity_seq": "37874209"
       }
     ],
     "units": [
@@ -6849,6 +6849,273 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37889107"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383542",
+    "subject_id": "209240",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Managerial Finance",
+    "subject_code": "FIN 921",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
+    "staff": [
+      {
+        "staff_name": "Doctor Maria Kim",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Xiaofei Pan",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38354201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38354202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383328",
+    "subject_id": "209126",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Fundamentals of Business Analytics",
+    "subject_code": "MBAS900",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Stephen Wu",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38332801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38332802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383348",
+    "subject_id": "209141",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "AI-driven Customer Insights and Market Intelligence",
+    "subject_code": "MBAS924",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Aleksandra Skibinska",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38334801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38334802"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383351",
+    "subject_id": "209142",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Prescriptive Analytics and Business Decision Making",
+    "subject_code": "MBAS925",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mostafa Khatami",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38335101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38335102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "BUSN"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "383335",
+    "subject_id": "209137",
+    "owner_unit": "BUSN",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Data Storytelling & Visual Intelligence",
+    "subject_code": "MBAS920",
+    "subject_year": "2026",
+    "session_id": "2607",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-08-24",
+    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
+    "staff": [
+      {
+        "staff_name": "Doctor Mehrdad Amirghasemi",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Ha Nguyen",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "38333501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38333502"
       }
     ],
     "units": [
@@ -7296,16 +7563,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37927507"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -7364,6 +7621,16 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37927506"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927507"
       }
     ],
     "units": [
@@ -7761,273 +8028,6 @@
         "location": "Class Online",
         "week": "2,4,6,8,10",
         "activity_seq": "37950001"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383542",
-    "subject_id": "209240",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Managerial Finance",
-    "subject_code": "FIN 921",
-    "subject_year": "2026",
-    "session_id": "2607",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-08-24",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail",
-    "staff": [
-      {
-        "staff_name": "Doctor Maria Kim",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Professor Xiaofei Pan",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38354202"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38354201"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383328",
-    "subject_id": "209126",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Fundamentals of Business Analytics",
-    "subject_code": "MBAS900",
-    "subject_year": "2026",
-    "session_id": "2607",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-08-24",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Stephen Wu",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38332801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38332802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383348",
-    "subject_id": "209141",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "AI-driven Customer Insights and Market Intelligence",
-    "subject_code": "MBAS924",
-    "subject_year": "2026",
-    "session_id": "2607",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-08-24",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Aleksandra Skibinska",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38334801"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38334802"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383351",
-    "subject_id": "209142",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Prescriptive Analytics and Business Decision Making",
-    "subject_code": "MBAS925",
-    "subject_year": "2026",
-    "session_id": "2607",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-08-24",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Mostafa Khatami",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38335101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38335102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "BUSN"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "383335",
-    "subject_id": "209137",
-    "owner_unit": "BUSN",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Data Storytelling & Visual Intelligence",
-    "subject_code": "MBAS920",
-    "subject_year": "2026",
-    "session_id": "2607",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-08-24",
-    "contact_hours": "Please refer to subject timetable / subject Moodle site for contact hours detail. The MBAS timetable is subject to change right up to the start of session. Please review the published timetable frequently. Please refer to subject timetable / Moodle",
-    "staff": [
-      {
-        "staff_name": "Doctor Mehrdad Amirghasemi",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Ha Nguyen",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "38333501"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38333502"
       }
     ],
     "units": [
@@ -8757,16 +8757,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "2-13",
-        "activity_seq": "37870603"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Fri",
@@ -8785,6 +8775,16 @@
         "location": "Class Online",
         "week": "1",
         "activity_seq": "37870602"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-13",
+        "activity_seq": "37870603"
       }
     ],
     "units": [
@@ -8818,16 +8818,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37872201"
-      },
-      {
         "and_or": "AND",
         "activity": "Workshop",
         "day": "Fri",
@@ -8836,6 +8826,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37872202"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37872201"
       }
     ],
     "units": [
@@ -9240,837 +9240,6 @@
     ]
   },
   {
-    "subject_inst_id": "380219",
-    "subject_id": "209535",
-    "owner_unit": "SOE",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Systems Analysis for Maintenance Management",
-    "subject_code": "MECH487",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "4",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Paul McMahon",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Associate Professor Tieling Zhang",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38021901"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Seminar",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "1-13",
-        "activity_seq": "38021902"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOE"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380359",
-    "subject_id": "209615",
-    "owner_unit": "SCIT",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Programming and Data Structures",
-    "subject_code": "CSIT881",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "8",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Joseph Tonien",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Tianbing Xia",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Thu",
-        "start_time": "18:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "2-12",
-        "activity_seq": "38035901"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture A",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38035902"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture B",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "09:30",
-        "location": "Lecture Online",
-        "week": "3,5,7,9,11,13",
-        "activity_seq": "38035903"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SCIT"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380369",
-    "subject_id": "209616",
-    "owner_unit": "SCIT",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Data Management Systems",
-    "subject_code": "CSIT882",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "8",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Tue",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "2-12",
-        "activity_seq": "38036901"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38036902"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "38036903"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SCIT"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380392",
-    "subject_id": "209619",
-    "owner_unit": "SCIT",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Information Visualisation and Decision Support",
-    "subject_code": "CSIT922",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2 hr lecture per week and 5 x 2 hour labs per session",
-    "staff": [
-      {
-        "staff_name": "Doctor Jack Yang",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Wed",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "2,4,6,9,12",
-        "activity_seq": "38039201"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture",
-        "day": "Fri",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38039202"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SCIT"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381118",
-    "subject_id": "209957",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Clinical Governance",
-    "subject_code": "SMAH915",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "Delivered Online",
-    "staff": [
-      {
-        "staff_name": "Doctor Evan Alexandrou",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Professor Yenna Salamonson",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Yvette Bartholomew",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38111801"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381125",
-    "subject_id": "209959",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Effective Leadership and Management in Health",
-    "subject_code": "SNPG902",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Mr Hadwan Aldahmashi",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      },
-      {
-        "staff_name": "Professor Yenna Salamonson",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38112501"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381139",
-    "subject_id": "209961",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Essential Skills for Health Researchers",
-    "subject_code": "SNPG915",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2 hour Workshop online",
-    "staff": [
-      {
-        "staff_name": "Mrs Catherine Stephen",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Professor Liz Halcomb",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38113901"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381148",
-    "subject_id": "209964",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Digital Innovations in Health",
-    "subject_code": "SNPG920",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2 hours per week",
-    "staff": [
-      {
-        "staff_name": "Doctor Leanne Cummins",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mrs Rachel Morland",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Professor Yenna Salamonson",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38114801"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381164",
-    "subject_id": "209968",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Psychoactive Substance and Mental Health",
-    "subject_code": "SNPG939",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "Completion of online modules and readings (6 hours per week); 5 x 2hr workshops",
-    "staff": [
-      {
-        "staff_name": "Professor Timothy Wand",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Fri",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38116401"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381173",
-    "subject_id": "209974",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Rehabilitation: Concepts and Practice",
-    "subject_code": "SNPG957",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Alex Chan",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Della Maneze",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "18:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38117301"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380471",
-    "subject_id": "209640",
-    "owner_unit": "SCIT",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Concepts and Issues in Healthcare Computing",
-    "subject_code": "ISIT929",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "2 hr lecture & 2 hr workshop",
-    "staff": [
-      {
-        "staff_name": "Professor Khin Win",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38047101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "2-12",
-        "activity_seq": "38047102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SCIT"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380680",
-    "subject_id": "209767",
-    "owner_unit": "SOE",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Modelling of Engineering Management Systems",
-    "subject_code": "ENGG953",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Associate Professor Tieling Zhang",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38068001"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial\\Practical",
-        "day": "Tue",
-        "start_time": "12:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "1-13",
-        "activity_seq": "38068002"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial\\Practical",
-        "day": "Tue",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "1-13",
-        "activity_seq": "38068003"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOE"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380690",
-    "subject_id": "209769",
-    "owner_unit": "SOE",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Financial Management for Engineered Assets",
-    "subject_code": "ENGG956",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Professor Attila Mozer",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38069001"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "11:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "1-13",
-        "activity_seq": "38069002"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "MMM"
-      },
-      {
-        "unit_abb": "SOE"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "380702",
-    "subject_id": "209773",
-    "owner_unit": "SOE",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Maintenance Requirement Analysis",
-    "subject_code": "ENGG960",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Paul McMahon",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Associate Professor Tieling Zhang",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38070201"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Seminar",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "1-13",
-        "activity_seq": "38070202"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "MMM"
-      },
-      {
-        "unit_abb": "SOE"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "385983",
-    "subject_id": "211902",
-    "owner_unit": "SOE",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Professional Experience",
-    "subject_code": "ENGG399",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "0",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Faisel Tubbal",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture\\Tutorial",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "25-107",
-        "week": "3",
-        "activity_seq": "38598301"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SOE"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381242",
-    "subject_id": "210011",
-    "owner_unit": "SNM",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Health, Law and Ethics",
-    "subject_code": "SMAH919",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "65",
-    "method_id": "4",
-    "credit_point": "6",
-    "subject_level": "9",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "Five x 2-hour online workshops (UOW Spring Distance)",
-    "staff": [
-      {
-        "staff_name": "Doctor Alex Chan",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Patrick Murray",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "18:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10",
-        "activity_seq": "38124201"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "SNM"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "382254",
     "subject_id": "210516",
     "owner_unit": "EDU",
@@ -10468,36 +9637,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Online Optional Room Available",
-        "week": "1-9,11-12",
-        "activity_seq": "38229101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-9,11-12",
-        "activity_seq": "38229102"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "1-9,11-12",
-        "activity_seq": "38229103"
-      },
-      {
         "and_or": "OR",
         "activity": "Tutorial",
         "day": "Thu",
@@ -10516,6 +9655,36 @@
         "location": "Class Online",
         "week": "1-9,11-12",
         "activity_seq": "38229105"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-9,11-12",
+        "activity_seq": "38229103"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Online Optional Room Available",
+        "week": "1-9,11-12",
+        "activity_seq": "38229101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "1-9,11-12",
+        "activity_seq": "38229102"
       }
     ],
     "units": [
@@ -10660,6 +9829,36 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-9,11-12",
+        "activity_seq": "38229601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Online Optional Room Available",
+        "week": "1-9,11-12",
+        "activity_seq": "38229602"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Online Optional Room Available",
+        "week": "1-9,11-12",
+        "activity_seq": "38229603"
+      },
+      {
         "and_or": "OR",
         "activity": "Tutorial",
         "day": "Mon",
@@ -10718,36 +9917,6 @@
         "location": "Online Optional Room Available",
         "week": "1-9,11-12",
         "activity_seq": "38229609"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Online Optional Room Available",
-        "week": "1-9,11-12",
-        "activity_seq": "38229602"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Online Optional Room Available",
-        "week": "1-9,11-12",
-        "activity_seq": "38229603"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-9,11-12",
-        "activity_seq": "38229601"
       }
     ],
     "units": [
@@ -11603,6 +10772,837 @@
     "units": [
       {
         "unit_abb": "EDU"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380219",
+    "subject_id": "209535",
+    "owner_unit": "SOE",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Systems Analysis for Maintenance Management",
+    "subject_code": "MECH487",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "4",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Paul McMahon",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Tieling Zhang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38021901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Seminar",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "38021902"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOE"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380359",
+    "subject_id": "209615",
+    "owner_unit": "SCIT",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Programming and Data Structures",
+    "subject_code": "CSIT881",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Joseph Tonien",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Tianbing Xia",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Thu",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "2-12",
+        "activity_seq": "38035901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture A",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38035902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture B",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Lecture Online",
+        "week": "3,5,7,9,11,13",
+        "activity_seq": "38035903"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SCIT"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380369",
+    "subject_id": "209616",
+    "owner_unit": "SCIT",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Data Management Systems",
+    "subject_code": "CSIT882",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "8",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "2-12",
+        "activity_seq": "38036901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38036902"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "38036903"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SCIT"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380392",
+    "subject_id": "209619",
+    "owner_unit": "SCIT",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Information Visualisation and Decision Support",
+    "subject_code": "CSIT922",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2 hr lecture per week and 5 x 2 hour labs per session",
+    "staff": [
+      {
+        "staff_name": "Doctor Jack Yang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "2,4,6,9,12",
+        "activity_seq": "38039201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38039202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SCIT"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381118",
+    "subject_id": "209957",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Clinical Governance",
+    "subject_code": "SMAH915",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Delivered Online",
+    "staff": [
+      {
+        "staff_name": "Doctor Evan Alexandrou",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Yenna Salamonson",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Yvette Bartholomew",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38111801"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381125",
+    "subject_id": "209959",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Effective Leadership and Management in Health",
+    "subject_code": "SNPG902",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Mr Hadwan Aldahmashi",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      },
+      {
+        "staff_name": "Professor Yenna Salamonson",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38112501"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381139",
+    "subject_id": "209961",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Essential Skills for Health Researchers",
+    "subject_code": "SNPG915",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2 hour Workshop online",
+    "staff": [
+      {
+        "staff_name": "Mrs Catherine Stephen",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Liz Halcomb",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38113901"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381148",
+    "subject_id": "209964",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Digital Innovations in Health",
+    "subject_code": "SNPG920",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2 hours per week",
+    "staff": [
+      {
+        "staff_name": "Doctor Leanne Cummins",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mrs Rachel Morland",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Professor Yenna Salamonson",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38114801"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381164",
+    "subject_id": "209968",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Psychoactive Substance and Mental Health",
+    "subject_code": "SNPG939",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Completion of online modules and readings (6 hours per week); 5 x 2hr workshops",
+    "staff": [
+      {
+        "staff_name": "Professor Timothy Wand",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38116401"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381173",
+    "subject_id": "209974",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Rehabilitation: Concepts and Practice",
+    "subject_code": "SNPG957",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Alex Chan",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Della Maneze",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38117301"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380471",
+    "subject_id": "209640",
+    "owner_unit": "SCIT",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Concepts and Issues in Healthcare Computing",
+    "subject_code": "ISIT929",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "2 hr lecture & 2 hr workshop",
+    "staff": [
+      {
+        "staff_name": "Professor Khin Win",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38047101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "2-12",
+        "activity_seq": "38047102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SCIT"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380680",
+    "subject_id": "209767",
+    "owner_unit": "SOE",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Modelling of Engineering Management Systems",
+    "subject_code": "ENGG953",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Associate Professor Tieling Zhang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38068001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial\\Practical",
+        "day": "Tue",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "38068002"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial\\Practical",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "38068003"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOE"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380690",
+    "subject_id": "209769",
+    "owner_unit": "SOE",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Financial Management for Engineered Assets",
+    "subject_code": "ENGG956",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Professor Attila Mozer",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38069001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "38069002"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "MMM"
+      },
+      {
+        "unit_abb": "SOE"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "380702",
+    "subject_id": "209773",
+    "owner_unit": "SOE",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Maintenance Requirement Analysis",
+    "subject_code": "ENGG960",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Paul McMahon",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Associate Professor Tieling Zhang",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38070201"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Seminar",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "1-13",
+        "activity_seq": "38070202"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "MMM"
+      },
+      {
+        "unit_abb": "SOE"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "385983",
+    "subject_id": "211902",
+    "owner_unit": "SOE",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Professional Experience",
+    "subject_code": "ENGG399",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "0",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Faisel Tubbal",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture\\Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "25-107",
+        "week": "3",
+        "activity_seq": "38598301"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SOE"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381242",
+    "subject_id": "210011",
+    "owner_unit": "SNM",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Health, Law and Ethics",
+    "subject_code": "SMAH919",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "65",
+    "method_id": "4",
+    "credit_point": "6",
+    "subject_level": "9",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "Five x 2-hour online workshops (UOW Spring Distance)",
+    "staff": [
+      {
+        "staff_name": "Doctor Alex Chan",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Patrick Murray",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10",
+        "activity_seq": "38124201"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "SNM"
       }
     ]
   }
