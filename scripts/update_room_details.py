@@ -1,19 +1,22 @@
 """Enrich AU-Rooms from the UOW teaching-spaces CSV.
 
-Stores UOW image URLs directly in the database (no local downloads).
-Image URLs that are directory stubs (no file extension) are skipped.
+Stores UOW image URLs in the database and mirrors valid images under
+public/roomGallery/ as a local backup. Directory-stub URLs (no extension)
+are skipped for both DB and gallery.
 """
 
 from __future__ import annotations
 
 import argparse
 import csv
+import re
 import sys
 import traceback
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
+import requests
 from postgrest.exceptions import APIError
 from httpx import HTTPStatusError, RequestError
 
@@ -22,9 +25,11 @@ from db_connection import get_supabase_client
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
 DEFAULT_CSV = REPO_ROOT / "data" / "uow_teaching_spaces_complete.csv"
+GALLERY_DIR = REPO_ROOT / "public" / "roomGallery"
 ROOMS_TABLE = "AU-Rooms"
 
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"}
+SAFE_NAME_RE = re.compile(r'[<>:"/\\|?*]')
 
 try:
     supabase = get_supabase_client()
@@ -58,6 +63,50 @@ def is_valid_image_url(url: str | None) -> bool:
         return False
     ext = Path(path).suffix.lower()
     return ext in IMAGE_EXTENSIONS
+
+
+def safe_room_slug(name: str) -> str:
+    return SAFE_NAME_RE.sub("_", name.strip())
+
+
+def gallery_filename(room_name: str, suffix: str, source_url: str) -> str:
+    ext = Path(urlparse(source_url).path).suffix.lower() or ".jpg"
+    return f"{safe_room_slug(room_name)}-{suffix}{ext}"
+
+
+def download_image(url: str, dest: Path) -> bool:
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    if dest.exists() and dest.stat().st_size > 0:
+        return True
+    try:
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        content_type = response.headers.get("content-type", "").lower()
+        if content_type and not content_type.startswith("image/"):
+            print(f"  Skipping non-image content-type ({content_type}) for {url}")
+            return False
+        dest.write_bytes(response.content)
+        return True
+    except requests.RequestException as err:
+        print(f"  Failed to download {url}: {err}", file=sys.stderr)
+        return False
+
+
+def backup_room_images(
+    room_name: str,
+    front_url: str,
+    rear_url: str,
+    *,
+    download: bool,
+) -> None:
+    if not download:
+        return
+    for suffix, url in (("F", front_url), ("R", rear_url)):
+        if not is_valid_image_url(url):
+            continue
+        dest = GALLERY_DIR / gallery_filename(room_name, suffix, url)
+        print(f"  Backing up {suffix} image -> {dest.name}")
+        download_image(url, dest)
 
 
 def parse_capacity(raw: str) -> int | None:
@@ -166,7 +215,7 @@ def build_update_payload(csv_row: dict[str, Any]) -> dict[str, Any] | None:
     return None
 
 
-def update_rooms(csv_path: Path) -> bool:
+def update_rooms(csv_path: Path, *, download_gallery: bool = True) -> bool:
     csv_rows = read_teaching_spaces(csv_path)
     existing = fetch_existing_rooms()
 
@@ -181,6 +230,13 @@ def update_rooms(csv_path: Path) -> bool:
             skipped_missing += 1
             print(f"No DB match for CSV room '{name}' — skipping.")
             continue
+
+        backup_room_images(
+            name,
+            csv_row["FrontImageUrl"],
+            csv_row["RearImageUrl"],
+            download=download_gallery,
+        )
 
         payload = build_update_payload(csv_row)
         if not payload:
@@ -217,7 +273,12 @@ if __name__ == "__main__":
         default=DEFAULT_CSV,
         help=f"Teaching spaces CSV (default: {DEFAULT_CSV})",
     )
+    parser.add_argument(
+        "--skip-gallery",
+        action="store_true",
+        help="Skip downloading backup images to public/roomGallery.",
+    )
     args = parser.parse_args()
 
-    success = update_rooms(args.csv)
+    success = update_rooms(args.csv, download_gallery=not args.skip_gallery)
     sys.exit(0 if success else 1)
