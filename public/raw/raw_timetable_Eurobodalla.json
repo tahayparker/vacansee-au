@@ -415,16 +415,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "18:30",
-        "location": "Online Optional Room Available",
-        "week": "2-13",
-        "activity_seq": "37792002"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Tue",
@@ -433,6 +423,16 @@
         "location": "Online Optional Room Available",
         "week": "1-13",
         "activity_seq": "37792001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "18:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37792002"
       }
     ],
     "units": [
@@ -637,6 +637,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37855503"
+      },
+      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Tue",
@@ -655,16 +665,6 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37855502"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Online Optional Room Available",
-        "week": "2-13",
-        "activity_seq": "37855503"
       }
     ],
     "units": [
@@ -924,16 +924,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Online Optional Room Available",
-        "week": "2-13",
-        "activity_seq": "37803702"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Wed",
@@ -942,6 +932,16 @@
         "location": "Online Optional Room Available",
         "week": "1-13",
         "activity_seq": "37803701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37803702"
       }
     ],
     "units": [
@@ -2485,16 +2485,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Online Optional Room Available",
-        "week": "1-5,7-12",
-        "activity_seq": "38196502"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Mon",
@@ -2503,6 +2493,16 @@
         "location": "Online Optional Room Available",
         "week": "1-5,7-12",
         "activity_seq": "38196501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Online Optional Room Available",
+        "week": "1-5,7-12",
+        "activity_seq": "38196502"
       }
     ],
     "units": [
@@ -4079,6 +4079,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Fri",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Online Optional Room Available",
+        "week": "2-13",
+        "activity_seq": "37870101"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture",
         "day": "Mon",
@@ -4097,16 +4107,6 @@
         "location": "Refer to Moodle",
         "week": "2-13",
         "activity_seq": "37870103"
-      },
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Fri",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Online Optional Room Available",
-        "week": "2-13",
-        "activity_seq": "37870101"
       }
     ],
     "units": [
@@ -4282,6 +4282,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37850103"
+      },
+      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Thu",
@@ -4300,16 +4310,6 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37850102"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "14:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37850103"
       }
     ],
     "units": [
@@ -5113,16 +5113,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Online Optional Room Available",
-        "week": "2-9,11-13",
-        "activity_seq": "37859403"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Thu",
@@ -5141,6 +5131,16 @@
         "location": "Refer to Moodle",
         "week": "2-4,6-11,13",
         "activity_seq": "37859402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Online Optional Room Available",
+        "week": "2-9,11-13",
+        "activity_seq": "37859403"
       }
     ],
     "units": [
@@ -5241,16 +5241,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37758803"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Wed",
@@ -5269,6 +5259,16 @@
         "location": "Refer to Moodle",
         "week": "2-13",
         "activity_seq": "37758802"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37758803"
       }
     ],
     "units": [
@@ -5404,16 +5404,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Online Optional Room Available",
-        "week": "1-6,8-12",
-        "activity_seq": "38148402"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Tue",
@@ -5422,6 +5412,16 @@
         "location": "Online Optional Room Available",
         "week": "1-6,8-12",
         "activity_seq": "38148401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Online Optional Room Available",
+        "week": "1-6,8-12",
+        "activity_seq": "38148402"
       }
     ],
     "units": [
@@ -6626,6 +6626,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Tue",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Online Optional Room Available",
+        "week": "02/06/2026",
+        "activity_seq": "38383203"
+      },
+      {
         "and_or": "",
         "activity": "Practical",
         "day": "Tue",
@@ -6644,16 +6654,6 @@
         "location": "EU-G23",
         "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
         "activity_seq": "38383202"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Tue",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "Online Optional Room Available",
-        "week": "02/06/2026",
-        "activity_seq": "38383203"
       }
     ],
     "units": [
@@ -6786,26 +6786,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Mon",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Online Optional Room Available",
-        "week": "02/02/2026; 16/02/2026; 01/06/2026",
-        "activity_seq": "38387701"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Online Optional Room Available",
-        "week": "03/02/2026; 17/02/2026; 02/06/2026",
-        "activity_seq": "38387702"
-      },
-      {
         "and_or": "OR",
         "activity": "Workshop",
         "day": "Wed",
@@ -6834,6 +6814,26 @@
         "location": "Online Optional Room Available",
         "week": "06/02/2026; 20/02/2026; 05/06/2026",
         "activity_seq": "38387705"
+      },
+      {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Mon",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Online Optional Room Available",
+        "week": "02/02/2026; 16/02/2026; 01/06/2026",
+        "activity_seq": "38387701"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Online Optional Room Available",
+        "week": "03/02/2026; 17/02/2026; 02/06/2026",
+        "activity_seq": "38387702"
       }
     ],
     "units": [
@@ -8153,6 +8153,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "EU-G21",
+        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
+        "activity_seq": "38379103"
+      },
+      {
         "and_or": "",
         "activity": "Practical",
         "day": "Thu",
@@ -8171,16 +8181,6 @@
         "location": "EU-G19",
         "week": "06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
         "activity_seq": "38379102"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "EU-G21",
-        "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
-        "activity_seq": "38379103"
       }
     ],
     "units": [
