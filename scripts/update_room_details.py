@@ -20,6 +20,7 @@ from postgrest.exceptions import APIError
 from httpx import HTTPStatusError, RequestError
 
 from db_connection import get_supabase_client
+from scrape_timetable import clean_room_fragment
 
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
@@ -40,18 +41,27 @@ except Exception as init_err:
     sys.exit(1)
 
 
+# Bega / Euro / Sutherland / Southern Highlands: CSV Room is the timetable Name.
+_SATELLITE_ROOM_PREFIXES = ("BE-", "EU-", "SU-", "HI-")
+
+
 def resolve_room_name(building: str, room: str) -> str:
-    """Map CSV Building + Room columns to the timetable room Name."""
+    """Map CSV Building + Room columns to the AU-Rooms Name (timetable format)."""
     building = building.strip()
     room = room.strip()
     if not room:
         return building
-    # Liverpool teaching spaces: CSV uses LP_400-105; timetable/DB use 400-105.
+
     if room.startswith("LP_400-"):
-        return room.replace("LP_400-", "400-", 1)
-    if room.startswith(f"{building}-"):
-        return room
-    return f"{building}-{room}"
+        room = room.replace("LP_400-", "400-", 1)
+    elif any(room.startswith(p) for p in _SATELLITE_ROOM_PREFIXES):
+        pass  # e.g. BE-G05, EU-G22, SU-103, HI-G01
+    elif room.startswith(f"{building}-"):
+        pass  # e.g. 390-230, 3-237
+    else:
+        room = f"{building}-{room}"  # e.g. 25 + 153 -> 25-153; 304 + G-13 -> 304-G-13
+
+    return clean_room_fragment(room)
 
 
 def is_valid_image_url(url: str | None) -> bool:

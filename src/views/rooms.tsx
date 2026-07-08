@@ -39,23 +39,17 @@ function PhotoLinks({
   if (links.length === 0) return <EmptyCell />;
 
   return (
-    <span className="inline-flex flex-wrap items-center justify-center gap-x-2 gap-y-1">
-      {links.map((link, index) => (
-        <span key={link.label}>
-          {index > 0 && (
-            <span className="text-gray-600 mr-2" aria-hidden="true">
-              ·
-            </span>
-          )}
-          <a
-            href={link.href}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-purple-400 hover:text-purple-300 hover:underline"
-          >
-            {link.label}
-          </a>
-        </span>
+    <span className="inline-flex flex-col items-center gap-0.5">
+      {links.map((link) => (
+        <a
+          key={link.label}
+          href={link.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-purple-400 hover:text-purple-300 hover:underline whitespace-nowrap"
+        >
+          {link.label}
+        </a>
       ))}
     </span>
   );
