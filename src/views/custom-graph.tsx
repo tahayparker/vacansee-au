@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo, useRef } from "react";
+import { useState, useEffect, useMemo, useRef, useTransition } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   pageContainerVariants,
@@ -163,9 +163,9 @@ function rowHasOccupancyInSlots(
 }
 
 function getExcludeWithoutOccupancy(
-  filters: CustomGraphFilters & { excludeEmptyDates?: boolean },
+  filters: CustomGraphFilters,
 ): boolean {
-  return filters.excludeWithoutOccupancy || filters.excludeEmptyDates === true;
+  return filters.excludeWithoutOccupancy;
 }
 
 function parseFiltersFromSearchParams(
@@ -260,11 +260,40 @@ export default function CustomGraphPage() {
   const filters = useFormPersistence(DEFAULT_FILTERS, {
     persist: !hasUrlParams,
     storageKey: "custom-graph-filters",
+    debounceDelay: 0,
   });
+
+  // Local state for instant switch feedback; table update deferred via startTransition
+  const [localExcludeWeekends, setLocalExcludeWeekends] = useState(
+    () => filters.values.excludeWeekends,
+  );
+  const [localExcludeWithoutOccupancy, setLocalExcludeWithoutOccupancy] =
+    useState(() => getExcludeWithoutOccupancy(filters.values));
+  const [, startTransition] = useTransition();
 
   const [selectedCampuses, setSelectedCampuses] = useState<UowCampus[]>([]);
   const [datePickerOpen, setDatePickerOpen] = useState(false);
   const [displayMonth, setDisplayMonth] = useState<Date>(() => new Date());
+
+  // Migrate legacy excludeEmptyDates from localStorage
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    try {
+      const stored = window.localStorage.getItem("custom-graph-filters");
+      if (stored) {
+        const parsed = JSON.parse(stored);
+        if ("excludeEmptyDates" in parsed) {
+          const { excludeEmptyDates, ...rest } = parsed;
+          window.localStorage.setItem(
+            "custom-graph-filters",
+            JSON.stringify(rest),
+          );
+        }
+      }
+    } catch {
+      // ignore migration errors
+    }
+  }, []);
 
   // Room search with persistence and debouncing
   const roomSearch = useSearchPersistence("", {
@@ -360,6 +389,16 @@ export default function CustomGraphPage() {
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [availableDates, urlHydrated]);
+
+  // Sync local toggle state from filter values when they change externally
+  useEffect(() => {
+    setLocalExcludeWeekends(filters.values.excludeWeekends);
+  }, [filters.values.excludeWeekends]);
+  useEffect(() => {
+    setLocalExcludeWithoutOccupancy(
+      getExcludeWithoutOccupancy(filters.values),
+    );
+  }, [filters.values.excludeWithoutOccupancy]);
 
   useEffect(() => {
     if (filters.values.dateRangeStart) {
@@ -1183,10 +1222,13 @@ export default function CustomGraphPage() {
                   <div className="flex items-center justify-between rounded-md border border-white/20 bg-black/20 px-3 py-2.5">
                     <span className="text-sm text-white">Exclude weekends</span>
                     <Switch
-                      checked={filters.values.excludeWeekends}
-                      onCheckedChange={(checked) =>
-                        filters.setField("excludeWeekends", checked)
-                      }
+                      checked={localExcludeWeekends}
+                      onCheckedChange={(checked) => {
+                        setLocalExcludeWeekends(checked);
+                        startTransition(() =>
+                          filters.setField("excludeWeekends", checked),
+                        );
+                      }}
                       className="data-[state=checked]:bg-purple-500"
                     />
                   </div>
@@ -1195,10 +1237,16 @@ export default function CustomGraphPage() {
                       Exclude dates without occupancy
                     </span>
                     <Switch
-                      checked={excludeWithoutOccupancy}
-                      onCheckedChange={(checked) =>
-                        filters.setField("excludeWithoutOccupancy", checked)
-                      }
+                      checked={localExcludeWithoutOccupancy}
+                      onCheckedChange={(checked) => {
+                        setLocalExcludeWithoutOccupancy(checked);
+                        startTransition(() =>
+                          filters.setField(
+                            "excludeWithoutOccupancy",
+                            checked,
+                          ),
+                        );
+                      }}
                       className="data-[state=checked]:bg-purple-500"
                     />
                   </div>
@@ -1649,7 +1697,6 @@ export default function CustomGraphPage() {
                         initial="hidden"
                         animate="visible"
                         exit="exit"
-                        layout="position"
                         className="group"
                       >
                         <td className="sticky left-0 bg-black group-hover:bg-zinc-900 text-white z-20 px-2 md:px-3 py-2 border-r border-b border-white/10 text-right text-sm whitespace-nowrap transition-colors duration-100 w-auto max-w-fit">
