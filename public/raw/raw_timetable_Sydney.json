@@ -75,16 +75,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "37892901"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -93,6 +83,16 @@
         "location": "390-230",
         "week": "1-10",
         "activity_seq": "37892902"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37892901"
       }
     ],
     "units": [
@@ -355,36 +355,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37888705"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "12:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37888706"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37888707"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -423,6 +393,36 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37888704"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888705"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888706"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37888707"
       }
     ],
     "units": [
@@ -456,16 +456,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "390-235 &amp; 390-236",
-        "week": "1-10",
-        "activity_seq": "38332302"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -474,6 +464,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "38332301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-235 &amp; 390-236",
+        "week": "1-10",
+        "activity_seq": "38332302"
       }
     ],
     "units": [
@@ -609,16 +609,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "37899501"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Wed",
@@ -627,6 +617,16 @@
         "location": "390-248 &amp; 390-249",
         "week": "1-10",
         "activity_seq": "37899502"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37899501"
       }
     ],
     "units": [
@@ -762,16 +762,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "390-238",
-        "week": "1-10",
-        "activity_seq": "37902802"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -780,6 +770,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37902801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-238",
+        "week": "1-10",
+        "activity_seq": "37902802"
       }
     ],
     "units": [
@@ -2947,16 +2947,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "37925301"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Fri",
@@ -2965,6 +2955,16 @@
         "location": "390-304",
         "week": "1-10",
         "activity_seq": "37925302"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37925301"
       }
     ],
     "units": [
@@ -3468,16 +3468,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "390-250",
-        "week": "1-10",
-        "activity_seq": "37952502"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -3486,6 +3476,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37952501"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37952502"
       }
     ],
     "units": [
@@ -3802,26 +3802,6 @@
         "end_time": "12:30",
         "location": "Class Online",
         "week": "4-10",
-        "activity_seq": "37889005"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37889006"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
         "activity_seq": "37889007"
       },
       {
@@ -3863,6 +3843,26 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37889004"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889005"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37889006"
       }
     ],
     "units": [
@@ -4469,16 +4469,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "390-250",
-        "week": "1-10",
-        "activity_seq": "37924102"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -4487,6 +4477,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37924101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "390-250",
+        "week": "1-10",
+        "activity_seq": "37924102"
       }
     ],
     "units": [
@@ -4628,6 +4628,16 @@
     ],
     "timetable": [
       {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927407"
+      },
+      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -4686,16 +4696,6 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37927406"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37927407"
       }
     ],
     "units": [

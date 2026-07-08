@@ -986,16 +986,6 @@
       {
         "and_or": "OR",
         "activity": "Practical B",
-        "day": "Thu",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "LP_400-511",
-        "week": "7,9,12",
-        "activity_seq": "37499016"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical B",
         "day": "Wed",
         "start_time": "10:30",
         "end_time": "12:30",
@@ -1032,6 +1022,16 @@
         "location": "LP_400-511",
         "week": "7,9,12",
         "activity_seq": "37499015"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical B",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "LP_400-511",
+        "week": "7,9,12",
+        "activity_seq": "37499016"
       }
     ],
     "units": [
@@ -1603,16 +1603,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-633",
-        "week": "7",
-        "activity_seq": "37855601"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -1631,6 +1621,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37855603"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-633",
+        "week": "7",
+        "activity_seq": "37855601"
       }
     ],
     "units": [
@@ -1910,16 +1910,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-206",
-        "week": "2-13",
-        "activity_seq": "37803802"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Wed",
@@ -1928,6 +1918,16 @@
         "location": "Lecture Online",
         "week": "1-13",
         "activity_seq": "37803801"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-206",
+        "week": "2-13",
+        "activity_seq": "37803802"
       }
     ],
     "units": [
@@ -3436,16 +3436,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "09:30",
-        "end_time": "10:30",
-        "location": "Lecture Online",
-        "week": "1-5,7-12",
-        "activity_seq": "38199501"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Thu",
@@ -3454,6 +3444,16 @@
         "location": "Class Online",
         "week": "1-5,7-12",
         "activity_seq": "38199502"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1-5,7-12",
+        "activity_seq": "38199501"
       }
     ],
     "units": [
@@ -4553,16 +4553,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "2-12",
-        "activity_seq": "38032402"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Mon",
@@ -4571,6 +4561,16 @@
         "location": "Lecture Online",
         "week": "1-13",
         "activity_seq": "38032401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "2-12",
+        "activity_seq": "38032402"
       }
     ],
     "units": [
@@ -4708,6 +4708,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Fri",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "LP_400-207",
+        "week": "2-12",
+        "activity_seq": "38035301"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture A",
         "day": "Tue",
@@ -4726,16 +4736,6 @@
         "location": "Lecture Online",
         "week": "3,5,7,9,11,13",
         "activity_seq": "38035303"
-      },
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Fri",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "LP_400-207",
-        "week": "2-12",
-        "activity_seq": "38035301"
       }
     ],
     "units": [
@@ -4769,16 +4769,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "38036302"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Mon",
@@ -4787,6 +4777,16 @@
         "location": "LP_400-208",
         "week": "2-12",
         "activity_seq": "38036301"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "38036302"
       }
     ],
     "units": [
@@ -5464,6 +5464,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Fri",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "LP_400-208",
+        "week": "3,5,7,9,11",
+        "activity_seq": "38047701"
+      },
+      {
         "and_or": "OR",
         "activity": "Computer Lab",
         "day": "Fri",
@@ -5482,16 +5492,6 @@
         "location": "Lecture Online",
         "week": "1-13",
         "activity_seq": "38047703"
-      },
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Fri",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "LP_400-208",
-        "week": "3,5,7,9,11",
-        "activity_seq": "38047701"
       }
     ],
     "units": [
@@ -6711,46 +6711,6 @@
       {
         "and_or": "OR",
         "activity": "Practical",
-        "day": "Tue",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "LP_400-307",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
-        "activity_seq": "38082015"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-307",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
-        "activity_seq": "38082007"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Tue",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-307",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
-        "activity_seq": "38082008"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-307",
-        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
-        "activity_seq": "38082009"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
         "day": "Wed",
         "start_time": "10:30",
         "end_time": "12:30",
@@ -6797,6 +6757,16 @@
         "location": "LP_400-307",
         "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
         "activity_seq": "38082014"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "LP_400-307",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
+        "activity_seq": "38082015"
       },
       {
         "and_or": "AND",
@@ -6879,6 +6849,16 @@
         "activity_seq": "38082023"
       },
       {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-307",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
+        "activity_seq": "38082009"
+      },
+      {
         "and_or": "",
         "activity": "Practical",
         "day": "Mon",
@@ -6937,6 +6917,26 @@
         "location": "LP_400-307",
         "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
         "activity_seq": "38082006"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-307",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
+        "activity_seq": "38082007"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-307",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026; 12/05/2026; 19/05/2026",
+        "activity_seq": "38082008"
       }
     ],
     "units": [
@@ -6994,16 +6994,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-107",
-        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
-        "activity_seq": "38082605"
-      },
-      {
         "and_or": "",
         "activity": "Tutorial",
         "day": "Thu",
@@ -7042,6 +7032,16 @@
         "location": "LP_400-107",
         "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
         "activity_seq": "38082604"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-107",
+        "week": "06/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 17/04/2026; 24/04/2026; 01/05/2026; 08/05/2026; 15/05/2026; 22/05/2026",
+        "activity_seq": "38082605"
       },
       {
         "and_or": "OR",
@@ -7206,6 +7206,36 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-505",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084201"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-505",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084202"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-505",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084203"
+      },
+      {
         "and_or": "OR",
         "activity": "Tutorial",
         "day": "Fri",
@@ -7254,36 +7284,6 @@
         "location": "LP_400-325",
         "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 15/04/2026; 22/04/2026; 29/04/2026; 06/05/2026; 13/05/2026; 20/05/2026",
         "activity_seq": "38084208"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-505",
-        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
-        "activity_seq": "38084201"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-505",
-        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
-        "activity_seq": "38084202"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-505",
-        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
-        "activity_seq": "38084203"
       }
     ],
     "units": [
@@ -7340,6 +7340,16 @@
       }
     ],
     "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-321",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
+        "activity_seq": "38084801"
+      },
       {
         "and_or": "OR",
         "activity": "Tutorial",
@@ -7399,16 +7409,6 @@
         "location": "LP_400-206",
         "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
         "activity_seq": "38084807"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-321",
-        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026; 14/05/2026; 21/05/2026",
-        "activity_seq": "38084801"
       }
     ],
     "units": [
@@ -7678,16 +7678,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37761901"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -7696,6 +7686,16 @@
         "location": "LP_400-209",
         "week": "2-13",
         "activity_seq": "37761902"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37761901"
       }
     ],
     "units": [
@@ -7780,16 +7780,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "2-6,8-13",
-        "activity_seq": "37765403"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Fri",
@@ -7808,6 +7798,16 @@
         "location": "Lecture Online",
         "week": "1,7",
         "activity_seq": "37765402"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2-6,8-13",
+        "activity_seq": "37765403"
       }
     ],
     "units": [
@@ -8077,6 +8077,16 @@
     ],
     "timetable": [
       {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "LP_400-325",
+        "week": "2-3,5-6,8-9,11,13",
+        "activity_seq": "37774608"
+      },
+      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Thu",
@@ -8145,16 +8155,6 @@
         "location": "LP_400-325",
         "week": "2-3,5-6,8-9,11,13",
         "activity_seq": "37774607"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "LP_400-325",
-        "week": "2-3,5-6,8-9,11,13",
-        "activity_seq": "37774608"
       }
     ],
     "units": [
@@ -9160,6 +9160,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-106",
+        "week": "2,4,6,8,10,12",
+        "activity_seq": "37804703"
+      },
+      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Mon",
@@ -9178,16 +9188,6 @@
         "location": "Lecture Online",
         "week": "10-11",
         "activity_seq": "37804702"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-106",
-        "week": "2,4,6,8,10,12",
-        "activity_seq": "37804703"
       }
     ],
     "units": [
@@ -9930,6 +9930,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37820601"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -9948,16 +9958,6 @@
         "location": "LP_400-206",
         "week": "2-13",
         "activity_seq": "37820603"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "37820601"
       }
     ],
     "units": [
@@ -11330,6 +11330,26 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-505",
+        "week": "27/07/2026; 03/08/2026; 10/08/2026; 17/08/2026; 24/08/2026; 12/10/2026; 19/10/2026; 26/10/2026; 02/11/2026",
+        "activity_seq": "38324505"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-320",
+        "week": "27/07/2026; 03/08/2026; 10/08/2026; 17/08/2026; 24/08/2026; 12/10/2026; 19/10/2026; 26/10/2026; 02/11/2026",
+        "activity_seq": "38324506"
+      },
+      {
         "and_or": "",
         "activity": "Practical",
         "day": "Mon",
@@ -11368,26 +11388,6 @@
         "location": "LP_400-308",
         "week": "27/07/2026; 03/08/2026; 10/08/2026; 17/08/2026; 24/08/2026; 12/10/2026; 19/10/2026; 26/10/2026; 02/11/2026; 09/11/2026",
         "activity_seq": "38324504"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-505",
-        "week": "27/07/2026; 03/08/2026; 10/08/2026; 17/08/2026; 24/08/2026; 12/10/2026; 19/10/2026; 26/10/2026; 02/11/2026",
-        "activity_seq": "38324505"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-320",
-        "week": "27/07/2026; 03/08/2026; 10/08/2026; 17/08/2026; 24/08/2026; 12/10/2026; 19/10/2026; 26/10/2026; 02/11/2026",
-        "activity_seq": "38324506"
       }
     ],
     "units": [
@@ -11508,16 +11508,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-105",
-        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 26/08/2026; 14/10/2026; 21/10/2026; 28/10/2026; 04/11/2026",
-        "activity_seq": "38324702"
-      },
-      {
         "and_or": "",
         "activity": "Tutorial",
         "day": "Wed",
@@ -11526,6 +11516,16 @@
         "location": "LP_400-105",
         "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 26/08/2026; 14/10/2026; 21/10/2026; 28/10/2026; 04/11/2026",
         "activity_seq": "38324701"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-105",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 26/08/2026; 14/10/2026; 21/10/2026; 28/10/2026; 04/11/2026",
+        "activity_seq": "38324702"
       }
     ],
     "units": [
@@ -12099,6 +12099,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "38037703"
+      },
+      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Thu",
@@ -12117,16 +12127,6 @@
         "location": "Lecture Online",
         "week": "1-13",
         "activity_seq": "38037702"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "38037703"
       }
     ],
     "units": [
@@ -13751,26 +13751,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Lecture B",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-209",
-        "week": "1-6,8-13",
-        "activity_seq": "38009803"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "LP_400-209",
-        "week": "2-7,9,11,13",
-        "activity_seq": "38009804"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Mon",
@@ -13789,6 +13769,26 @@
         "location": "LP_400-106",
         "week": "1-13",
         "activity_seq": "38009802"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture B",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-209",
+        "week": "1-6,8-13",
+        "activity_seq": "38009803"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "LP_400-209",
+        "week": "2-7,9,11,13",
+        "activity_seq": "38009804"
       }
     ],
     "units": [
@@ -14043,6 +14043,46 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-633",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
+        "activity_seq": "38385501"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-633",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
+        "activity_seq": "38385502"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-320",
+        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
+        "activity_seq": "38385503"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-320",
+        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
+        "activity_seq": "38385504"
+      },
+      {
         "and_or": "OR",
         "activity": "Tutorial A",
         "day": "Wed",
@@ -14101,46 +14141,6 @@
         "location": "Class Online",
         "week": "03/06/2026",
         "activity_seq": "38385510"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial A",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-633",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
-        "activity_seq": "38385501"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-633",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
-        "activity_seq": "38385502"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-320",
-        "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 14/04/2026; 21/04/2026; 28/04/2026",
-        "activity_seq": "38385503"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-320",
-        "week": "28/01/2026; 04/02/2026; 11/02/2026; 18/02/2026; 25/02/2026; 15/04/2026; 22/04/2026; 29/04/2026",
-        "activity_seq": "38385504"
       }
     ],
     "units": [
@@ -14209,6 +14209,46 @@
       }
     ],
     "timetable": [
+      {
+        "and_or": "OR",
+        "activity": "Practical B",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-307",
+        "week": "30/04/2026",
+        "activity_seq": "38383413"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical B",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-307",
+        "week": "30/04/2026",
+        "activity_seq": "38383414"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-319",
+        "week": "26/01/2026; 02/02/2026; 09/02/2026; 16/02/2026; 23/02/2026; 13/04/2026; 20/04/2026; 27/04/2026",
+        "activity_seq": "38383415"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-319",
+        "week": "26/01/2026; 02/02/2026; 09/02/2026; 16/02/2026; 23/02/2026; 13/04/2026; 20/04/2026; 27/04/2026",
+        "activity_seq": "38383416"
+      },
       {
         "and_or": "",
         "activity": "Practical",
@@ -14328,46 +14368,6 @@
         "location": "LP_400-307",
         "week": "30/04/2026",
         "activity_seq": "38383412"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical B",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-307",
-        "week": "30/04/2026",
-        "activity_seq": "38383413"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical B",
-        "day": "Thu",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-307",
-        "week": "30/04/2026",
-        "activity_seq": "38383414"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial A",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-319",
-        "week": "26/01/2026; 02/02/2026; 09/02/2026; 16/02/2026; 23/02/2026; 13/04/2026; 20/04/2026; 27/04/2026",
-        "activity_seq": "38383415"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-319",
-        "week": "26/01/2026; 02/02/2026; 09/02/2026; 16/02/2026; 23/02/2026; 13/04/2026; 20/04/2026; 27/04/2026",
-        "activity_seq": "38383416"
       },
       {
         "and_or": "OR",
@@ -14785,26 +14785,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "22/07/2026; 05/08/2026; 28/10/2026",
-        "activity_seq": "38389504"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "22/07/2026; 05/08/2026; 28/10/2026",
-        "activity_seq": "38389505"
-      },
-      {
         "and_or": "",
         "activity": "Workshop",
         "day": "Mon",
@@ -14833,6 +14813,26 @@
         "location": "Class Online",
         "week": "22/07/2026; 05/08/2026; 28/10/2026",
         "activity_seq": "38389503"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "22/07/2026; 05/08/2026; 28/10/2026",
+        "activity_seq": "38389504"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "22/07/2026; 05/08/2026; 28/10/2026",
+        "activity_seq": "38389505"
       }
     ],
     "units": [
@@ -15007,46 +15007,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-325",
-        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
-        "activity_seq": "38387111"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-325",
-        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
-        "activity_seq": "38387112"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-325",
-        "week": "07/07/2026; 14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
-        "activity_seq": "38387113"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-325",
-        "week": "08/07/2026; 15/07/2026; 22/07/2026; 29/07/2026; 05/08/2026; 21/10/2026; 28/10/2026",
-        "activity_seq": "38387114"
-      },
-      {
         "and_or": "OR",
         "activity": "Tutorial",
         "day": "Thu",
@@ -15155,6 +15115,46 @@
         "location": "LP_400-311",
         "week": "16/07/2026; 23/07/2026; 30/07/2026; 06/08/2026; 22/10/2026; 29/10/2026",
         "activity_seq": "38387110"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-325",
+        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387111"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-325",
+        "week": "06/07/2026; 13/07/2026; 20/07/2026; 27/07/2026; 03/08/2026; 19/10/2026; 26/10/2026",
+        "activity_seq": "38387112"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-325",
+        "week": "07/07/2026; 14/07/2026; 21/07/2026; 28/07/2026; 04/08/2026; 20/10/2026; 27/10/2026",
+        "activity_seq": "38387113"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-325",
+        "week": "08/07/2026; 15/07/2026; 22/07/2026; 29/07/2026; 05/08/2026; 21/10/2026; 28/10/2026",
+        "activity_seq": "38387114"
       }
     ],
     "units": [
@@ -15491,46 +15491,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-325",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 07/04/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026",
-        "activity_seq": "38381812"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-325",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 07/04/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026",
-        "activity_seq": "38381813"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-325",
-        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 09/04/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026",
-        "activity_seq": "38381814"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-325",
-        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 09/04/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026",
-        "activity_seq": "38381815"
-      },
-      {
         "and_or": "",
         "activity": "Practical",
         "day": "Tue",
@@ -15639,6 +15599,46 @@
         "location": "LP_400-325",
         "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 07/04/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026",
         "activity_seq": "38381811"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-325",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 07/04/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026",
+        "activity_seq": "38381812"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-325",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 07/04/2026; 14/04/2026; 21/04/2026; 28/04/2026; 05/05/2026",
+        "activity_seq": "38381813"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-325",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 09/04/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026",
+        "activity_seq": "38381814"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-325",
+        "week": "05/03/2026; 12/03/2026; 19/03/2026; 26/03/2026; 09/04/2026; 16/04/2026; 23/04/2026; 30/04/2026; 07/05/2026",
+        "activity_seq": "38381815"
       }
     ],
     "units": [
@@ -15910,6 +15910,36 @@
     ],
     "timetable": [
       {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-320",
+        "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
+        "activity_seq": "38362806"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-320",
+        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
+        "activity_seq": "38362807"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-320",
+        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
+        "activity_seq": "38362808"
+      },
+      {
         "and_or": "",
         "activity": "Tutorial A",
         "day": "Mon",
@@ -15958,36 +15988,6 @@
         "location": "LP_400-320",
         "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
         "activity_seq": "38362805"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-320",
-        "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
-        "activity_seq": "38362806"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-320",
-        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
-        "activity_seq": "38362807"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-320",
-        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
-        "activity_seq": "38362808"
       }
     ],
     "units": [
@@ -16110,16 +16110,6 @@
       }
     ],
     "timetable": [
-      {
-        "and_or": "",
-        "activity": "Tutorial A",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "12:30",
-        "location": "LP_400-321",
-        "week": "15/07/2026; 22/07/2026",
-        "activity_seq": "38378601"
-      },
       {
         "and_or": "OR",
         "activity": "Tutorial A",
@@ -16249,6 +16239,16 @@
         "location": "LP_400-320",
         "week": "28/08/2026; 04/09/2026; 11/09/2026; 18/09/2026; 30/10/2026",
         "activity_seq": "38378614"
+      },
+      {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "location": "LP_400-321",
+        "week": "15/07/2026; 22/07/2026",
+        "activity_seq": "38378601"
       }
     ],
     "units": [
@@ -16319,66 +16319,6 @@
     "timetable": [
       {
         "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "17:30",
-        "location": "LP_400-505",
-        "week": "16/07/2026; 23/07/2026",
-        "activity_seq": "38380003"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Fri",
-        "start_time": "08:30",
-        "end_time": "12:30",
-        "location": "LP_400-505",
-        "week": "17/07/2026; 24/07/2026",
-        "activity_seq": "38380004"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Fri",
-        "start_time": "08:30",
-        "end_time": "12:30",
-        "location": "LP_400-506",
-        "week": "17/07/2026; 24/07/2026",
-        "activity_seq": "38380005"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Fri",
-        "start_time": "13:30",
-        "end_time": "17:30",
-        "location": "LP_400-506",
-        "week": "17/07/2026; 24/07/2026",
-        "activity_seq": "38380006"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-506",
-        "week": "27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026; 29/10/2026",
-        "activity_seq": "38380007"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-506",
-        "week": "27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026; 29/10/2026",
-        "activity_seq": "38380008"
-      },
-      {
-        "and_or": "OR",
         "activity": "Tutorial B",
         "day": "Thu",
         "start_time": "13:30",
@@ -16436,6 +16376,66 @@
         "location": "LP_400-505",
         "week": "16/07/2026; 23/07/2026",
         "activity_seq": "38380002"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "17:30",
+        "location": "LP_400-505",
+        "week": "16/07/2026; 23/07/2026",
+        "activity_seq": "38380003"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "location": "LP_400-505",
+        "week": "17/07/2026; 24/07/2026",
+        "activity_seq": "38380004"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "location": "LP_400-506",
+        "week": "17/07/2026; 24/07/2026",
+        "activity_seq": "38380005"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "17:30",
+        "location": "LP_400-506",
+        "week": "17/07/2026; 24/07/2026",
+        "activity_seq": "38380006"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-506",
+        "week": "27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026; 29/10/2026",
+        "activity_seq": "38380007"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-506",
+        "week": "27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026; 29/10/2026",
+        "activity_seq": "38380008"
       }
     ],
     "units": [
@@ -16486,6 +16486,16 @@
       }
     ],
     "timetable": [
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-319",
+        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
+        "activity_seq": "38360210"
+      },
       {
         "and_or": "",
         "activity": "Tutorial A",
@@ -16575,16 +16585,6 @@
         "location": "LP_400-320",
         "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
         "activity_seq": "38360209"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-319",
-        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
-        "activity_seq": "38360210"
       }
     ],
     "units": [
@@ -16980,23 +16980,83 @@
     "timetable": [
       {
         "and_or": "OR",
-        "activity": "Practical B",
-        "day": "Fri",
-        "start_time": "15:30",
+        "activity": "Tutorial B",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-325",
+        "week": "25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026; 27/10/2026",
+        "activity_seq": "38379034"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-319",
+        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
+        "activity_seq": "38379035"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-319",
+        "week": "27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026; 29/10/2026",
+        "activity_seq": "38379036"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-325",
+        "week": "25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026; 27/10/2026",
+        "activity_seq": "38379033"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "location": "LP_400-505",
+        "week": "15/07/2026; 22/07/2026",
+        "activity_seq": "38379029"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "13:30",
         "end_time": "17:30",
-        "location": "LP_400-304",
-        "week": "24/07/2026",
-        "activity_seq": "38379024"
+        "location": "LP_400-505",
+        "week": "15/07/2026; 22/07/2026",
+        "activity_seq": "38379030"
       },
       {
         "and_or": "AND",
-        "activity": "Tutorial A",
+        "activity": "Tutorial B",
         "day": "Mon",
         "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-321",
+        "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
+        "activity_seq": "38379031"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Mon",
+        "start_time": "10:30",
         "end_time": "12:30",
         "location": "LP_400-321",
-        "week": "13/07/2026; 20/07/2026",
-        "activity_seq": "38379025"
+        "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
+        "activity_seq": "38379032"
       },
       {
         "and_or": "",
@@ -17230,6 +17290,26 @@
       },
       {
         "and_or": "OR",
+        "activity": "Practical B",
+        "day": "Fri",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-304",
+        "week": "24/07/2026",
+        "activity_seq": "38379024"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "12:30",
+        "location": "LP_400-321",
+        "week": "13/07/2026; 20/07/2026",
+        "activity_seq": "38379025"
+      },
+      {
+        "and_or": "OR",
         "activity": "Tutorial A",
         "day": "Mon",
         "start_time": "13:30",
@@ -17257,86 +17337,6 @@
         "location": "LP_400-107",
         "week": "14/07/2026; 21/07/2026",
         "activity_seq": "38379028"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "12:30",
-        "location": "LP_400-505",
-        "week": "15/07/2026; 22/07/2026",
-        "activity_seq": "38379029"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "17:30",
-        "location": "LP_400-505",
-        "week": "15/07/2026; 22/07/2026",
-        "activity_seq": "38379030"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-321",
-        "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
-        "activity_seq": "38379031"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-321",
-        "week": "24/08/2026; 31/08/2026; 07/09/2026; 14/09/2026; 26/10/2026",
-        "activity_seq": "38379032"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-325",
-        "week": "25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026; 27/10/2026",
-        "activity_seq": "38379033"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-325",
-        "week": "25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026; 27/10/2026",
-        "activity_seq": "38379034"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-319",
-        "week": "26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026; 28/10/2026",
-        "activity_seq": "38379035"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-319",
-        "week": "27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026; 29/10/2026",
-        "activity_seq": "38379036"
       }
     ],
     "units": [
@@ -17628,26 +17628,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop B",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "Class Online",
-        "week": "26/08/2026",
-        "activity_seq": "38382307"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop B",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "26/08/2026",
-        "activity_seq": "38382308"
-      },
-      {
         "and_or": "",
         "activity": "Workshop A",
         "day": "Tue",
@@ -17706,6 +17686,26 @@
         "location": "Class Online",
         "week": "25/08/2026",
         "activity_seq": "38382306"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop B",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Class Online",
+        "week": "26/08/2026",
+        "activity_seq": "38382307"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop B",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "26/08/2026",
+        "activity_seq": "38382308"
       }
     ],
     "units": [
@@ -17870,26 +17870,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-325",
-        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
-        "activity_seq": "38381111"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-325",
-        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
-        "activity_seq": "38381112"
-      },
-      {
         "and_or": "",
         "activity": "Practical",
         "day": "Tue",
@@ -17988,6 +17968,26 @@
         "location": "LP_400-325",
         "week": "27/01/2026; 03/02/2026; 10/02/2026; 17/02/2026; 24/02/2026; 12/05/2026; 19/05/2026; 26/05/2026; 02/06/2026",
         "activity_seq": "38381110"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-325",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
+        "activity_seq": "38381111"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-325",
+        "week": "29/01/2026; 05/02/2026; 12/02/2026; 19/02/2026; 26/02/2026; 14/05/2026; 21/05/2026; 28/05/2026; 04/06/2026",
+        "activity_seq": "38381112"
       }
     ],
     "units": [
@@ -18241,6 +18241,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
+        "activity_seq": "38416201"
+      },
+      {
         "and_or": "OR",
         "activity": "Workshop",
         "day": "Tue",
@@ -18279,16 +18289,6 @@
         "location": "Class Online",
         "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026",
         "activity_seq": "38416205"
-      },
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "14:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026",
-        "activity_seq": "38416201"
       }
     ],
     "units": [
@@ -18475,6 +18475,36 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-319",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 05/05/2026; 12/05/2026; 19/05/2026; 26/05/2026",
+        "activity_seq": "38385901"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-319",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 05/05/2026; 12/05/2026; 19/05/2026; 26/05/2026",
+        "activity_seq": "38385902"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial A",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-319",
+        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 06/05/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
+        "activity_seq": "38385903"
+      },
+      {
         "and_or": "OR",
         "activity": "Tutorial A",
         "day": "Wed",
@@ -18523,36 +18553,6 @@
         "location": "Class Online",
         "week": "03/06/2026",
         "activity_seq": "38385908"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial A",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-319",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 05/05/2026; 12/05/2026; 19/05/2026; 26/05/2026",
-        "activity_seq": "38385901"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-319",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 05/05/2026; 12/05/2026; 19/05/2026; 26/05/2026",
-        "activity_seq": "38385902"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial A",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-319",
-        "week": "04/03/2026; 11/03/2026; 18/03/2026; 25/03/2026; 06/05/2026; 13/05/2026; 20/05/2026; 27/05/2026; 03/06/2026",
-        "activity_seq": "38385903"
       }
     ],
     "units": [
@@ -18622,66 +18622,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Practical A",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-311",
-        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
-        "activity_seq": "38382801"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical A",
-        "day": "Mon",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-311",
-        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
-        "activity_seq": "38382802"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical A",
-        "day": "Mon",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-311",
-        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
-        "activity_seq": "38382803"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical A",
-        "day": "Mon",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-311",
-        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
-        "activity_seq": "38382804"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical A",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-311",
-        "week": "12/03/2026; 19/03/2026; 26/03/2026; 07/05/2026; 14/05/2026; 21/05/2026; 28/05/2026",
-        "activity_seq": "38382805"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical A",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-311",
-        "week": "12/03/2026; 19/03/2026; 26/03/2026; 07/05/2026; 14/05/2026; 21/05/2026; 28/05/2026",
-        "activity_seq": "38382806"
-      },
-      {
         "and_or": "OR",
         "activity": "Practical A",
         "day": "Thu",
@@ -18720,6 +18660,16 @@
         "location": "LP_400-307",
         "week": "01/06/2026",
         "activity_seq": "38382810"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical B",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-307",
+        "week": "01/06/2026",
+        "activity_seq": "38382811"
       },
       {
         "and_or": "OR",
@@ -18852,14 +18802,64 @@
         "activity_seq": "38382824"
       },
       {
+        "and_or": "",
+        "activity": "Practical A",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-311",
+        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
+        "activity_seq": "38382801"
+      },
+      {
         "and_or": "OR",
-        "activity": "Practical B",
+        "activity": "Practical A",
+        "day": "Mon",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-311",
+        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
+        "activity_seq": "38382802"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical A",
         "day": "Mon",
         "start_time": "13:30",
         "end_time": "15:30",
-        "location": "LP_400-307",
-        "week": "01/06/2026",
-        "activity_seq": "38382811"
+        "location": "LP_400-311",
+        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
+        "activity_seq": "38382803"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical A",
+        "day": "Mon",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-311",
+        "week": "09/03/2026; 16/03/2026; 23/03/2026; 04/05/2026; 11/05/2026; 18/05/2026; 25/05/2026",
+        "activity_seq": "38382804"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical A",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-311",
+        "week": "12/03/2026; 19/03/2026; 26/03/2026; 07/05/2026; 14/05/2026; 21/05/2026; 28/05/2026",
+        "activity_seq": "38382805"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical A",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-311",
+        "week": "12/03/2026; 19/03/2026; 26/03/2026; 07/05/2026; 14/05/2026; 21/05/2026; 28/05/2026",
+        "activity_seq": "38382806"
       }
     ],
     "units": [
@@ -18916,6 +18916,16 @@
       }
     ],
     "timetable": [
+      {
+        "and_or": "",
+        "activity": "Tutorial A",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-105",
+        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 05/05/2026; 12/05/2026; 19/05/2026; 26/05/2026",
+        "activity_seq": "38384901"
+      },
       {
         "and_or": "OR",
         "activity": "Tutorial A",
@@ -18985,16 +18995,6 @@
         "location": "Class Online",
         "week": "03/06/2026",
         "activity_seq": "38384908"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial A",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-105",
-        "week": "03/03/2026; 10/03/2026; 17/03/2026; 24/03/2026; 05/05/2026; 12/05/2026; 19/05/2026; 26/05/2026",
-        "activity_seq": "38384901"
       }
     ],
     "units": [
@@ -19052,16 +19052,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "11/03/2026; 25/03/2026; 03/06/2026",
-        "activity_seq": "38388203"
-      },
-      {
         "and_or": "",
         "activity": "Workshop",
         "day": "Mon",
@@ -19080,6 +19070,16 @@
         "location": "Class Online",
         "week": "10/03/2026; 24/03/2026; 02/06/2026",
         "activity_seq": "38388202"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "11/03/2026; 25/03/2026; 03/06/2026",
+        "activity_seq": "38388203"
       }
     ],
     "units": [
@@ -19415,26 +19415,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-505",
-        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
-        "activity_seq": "38380303"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-505",
-        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
-        "activity_seq": "38380304"
-      },
-      {
         "and_or": "",
         "activity": "Tutorial",
         "day": "Fri",
@@ -19453,6 +19433,26 @@
         "location": "LP_400-505",
         "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
         "activity_seq": "38380302"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-505",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38380303"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-505",
+        "week": "31/07/2026; 07/08/2026; 14/08/2026; 21/08/2026; 02/10/2026; 09/10/2026; 16/10/2026; 23/10/2026; 06/11/2026",
+        "activity_seq": "38380304"
       }
     ],
     "units": [
@@ -19504,6 +19504,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-320",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38360501"
+      },
+      {
         "and_or": "OR",
         "activity": "Tutorial",
         "day": "Tue",
@@ -19542,16 +19552,6 @@
         "location": "LP_400-319",
         "week": "30/07/2026; 06/08/2026; 13/08/2026; 20/08/2026; 01/10/2026; 08/10/2026; 15/10/2026; 22/10/2026; 05/11/2026",
         "activity_seq": "38360505"
-      },
-      {
-        "and_or": "",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-320",
-        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
-        "activity_seq": "38360501"
       }
     ],
     "units": [
@@ -19856,56 +19856,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-304",
-        "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
-        "activity_seq": "38379308"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-106",
-        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
-        "activity_seq": "38379309"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-321",
-        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
-        "activity_seq": "38379310"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-506",
-        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
-        "activity_seq": "38379311"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-506",
-        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
-        "activity_seq": "38379312"
-      },
-      {
         "and_or": "",
         "activity": "Practical",
         "day": "Tue",
@@ -19974,6 +19924,56 @@
         "location": "LP_400-304",
         "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
         "activity_seq": "38379307"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-304",
+        "week": "05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379308"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-106",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38379309"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-321",
+        "week": "28/07/2026; 04/08/2026; 11/08/2026; 18/08/2026; 29/09/2026; 06/10/2026; 13/10/2026; 20/10/2026; 03/11/2026",
+        "activity_seq": "38379310"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-506",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379311"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-506",
+        "week": "29/07/2026; 05/08/2026; 12/08/2026; 19/08/2026; 30/09/2026; 07/10/2026; 14/10/2026; 21/10/2026; 04/11/2026",
+        "activity_seq": "38379312"
       }
     ],
     "units": [
@@ -20116,26 +20116,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-325",
-        "week": "20/08/2026; 27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026",
-        "activity_seq": "38384407"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Thu",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "LP_400-319",
-        "week": "20/08/2026; 27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026",
-        "activity_seq": "38384408"
-      },
-      {
         "and_or": "",
         "activity": "Tutorial A",
         "day": "Thu",
@@ -20194,6 +20174,26 @@
         "location": "LP_400-325",
         "week": "20/08/2026; 27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026",
         "activity_seq": "38384406"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-325",
+        "week": "20/08/2026; 27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026",
+        "activity_seq": "38384407"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "LP_400-319",
+        "week": "20/08/2026; 27/08/2026; 03/09/2026; 10/09/2026; 17/09/2026",
+        "activity_seq": "38384408"
       }
     ],
     "units": [
@@ -20263,6 +20263,36 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "LP_400-311",
+        "week": "11/08/2026; 18/08/2026; 25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026",
+        "activity_seq": "38386801"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "LP_400-311",
+        "week": "11/08/2026; 18/08/2026; 25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026",
+        "activity_seq": "38386802"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Practical",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "LP_400-311",
+        "week": "11/08/2026; 18/08/2026; 25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026",
+        "activity_seq": "38386803"
+      },
+      {
         "and_or": "OR",
         "activity": "Practical",
         "day": "Tue",
@@ -20311,36 +20341,6 @@
         "location": "LP_400-311",
         "week": "12/08/2026; 19/08/2026; 26/08/2026; 02/09/2026; 09/09/2026; 16/09/2026",
         "activity_seq": "38386808"
-      },
-      {
-        "and_or": "",
-        "activity": "Practical",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "LP_400-311",
-        "week": "11/08/2026; 18/08/2026; 25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026",
-        "activity_seq": "38386801"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "LP_400-311",
-        "week": "11/08/2026; 18/08/2026; 25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026",
-        "activity_seq": "38386802"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Practical",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "LP_400-311",
-        "week": "11/08/2026; 18/08/2026; 25/08/2026; 01/09/2026; 08/09/2026; 15/09/2026",
-        "activity_seq": "38386803"
       },
       {
         "and_or": "AND",

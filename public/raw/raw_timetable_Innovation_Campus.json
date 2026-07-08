@@ -347,6 +347,16 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Lecture E",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-112",
+        "week": "24/04/2026",
+        "activity_seq": "37917005"
+      },
+      {
         "and_or": "",
         "activity": "Lecture A",
         "day": "Mon",
@@ -385,16 +395,6 @@
         "location": "233-112",
         "week": "23/04/2026",
         "activity_seq": "37917004"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture E",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-112",
-        "week": "24/04/2026",
-        "activity_seq": "37917005"
       }
     ],
     "units": [
