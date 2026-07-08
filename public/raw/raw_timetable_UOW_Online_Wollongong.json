@@ -24,16 +24,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Consultation Period",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Online",
-        "week": "1-26",
-        "activity_seq": "38072101"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture",
         "day": "Tue",
@@ -42,6 +32,16 @@
         "location": "Lecture Online",
         "week": "1-26",
         "activity_seq": "38072102"
+      },
+      {
+        "and_or": "",
+        "activity": "Consultation Period",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Online",
+        "week": "1-26",
+        "activity_seq": "38072101"
       }
     ],
     "units": [
@@ -841,16 +841,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "2-8",
-        "activity_seq": "37861703"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Thu",
@@ -869,6 +859,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37861702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2-8",
+        "activity_seq": "37861703"
       }
     ],
     "units": [
@@ -1147,6 +1147,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Lecture Online",
+        "week": "1,5,8,13",
+        "activity_seq": "37757801"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -1165,16 +1175,6 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37757803"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Lecture Online",
-        "week": "1,5,8,13",
-        "activity_seq": "37757801"
       }
     ],
     "units": [
@@ -1655,16 +1655,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "24-G02",
-        "week": "2-3,5-7,9-10,12-13",
-        "activity_seq": "38064004"
-      },
-      {
         "and_or": "",
         "activity": "Computer Lab",
         "day": "Fri",
@@ -1693,6 +1683,16 @@
         "location": "24-203",
         "week": "1-13",
         "activity_seq": "38064003"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "24-G02",
+        "week": "2-3,5-7,9-10,12-13",
+        "activity_seq": "38064004"
       }
     ],
     "units": [
@@ -2002,16 +2002,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38225101"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Thu",
@@ -2020,6 +2010,16 @@
         "location": "Class Online",
         "week": "2,5,9,11",
         "activity_seq": "38225102"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38225101"
       }
     ],
     "units": [
@@ -2110,16 +2110,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "18:30",
-        "end_time": "20:30",
-        "location": "Lecture Online",
-        "week": "1-12",
-        "activity_seq": "38226201"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -2128,6 +2118,16 @@
         "location": "Class Online",
         "week": "2,5,9,11",
         "activity_seq": "38226202"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "18:30",
+        "end_time": "20:30",
+        "location": "Lecture Online",
+        "week": "1-12",
+        "activity_seq": "38226201"
       }
     ],
     "units": [
@@ -2507,16 +2507,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38230001"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Thu",
@@ -2545,6 +2535,16 @@
         "location": "Class Online",
         "week": "1-6,8-13",
         "activity_seq": "38230004"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38230001"
       }
     ],
     "units": [
@@ -3420,16 +3420,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop",
-        "day": "Sat",
-        "start_time": "13:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37878402"
-      },
-      {
         "and_or": "",
         "activity": "Workshop",
         "day": "Sat",
@@ -3438,6 +3428,16 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37878401"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop",
+        "day": "Sat",
+        "start_time": "13:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37878402"
       }
     ],
     "units": [
@@ -3477,6 +3477,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Workshop",
+        "day": "Tue",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37881001"
+      },
+      {
         "and_or": "OR",
         "activity": "Workshop",
         "day": "Tue",
@@ -3505,16 +3515,6 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37881004"
-      },
-      {
-        "and_or": "",
-        "activity": "Workshop",
-        "day": "Tue",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37881001"
       }
     ],
     "units": [
@@ -4006,16 +4006,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37909602"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -4024,6 +4014,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37909601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37909602"
       }
     ],
     "units": [
@@ -5049,16 +5049,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "37886002"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -5067,6 +5057,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "37886001"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "37886002"
       }
     ],
     "units": [
@@ -5205,6 +5205,26 @@
         "and_or": "OR",
         "activity": "Tutorial B",
         "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888404"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "12:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37888405"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
         "start_time": "10:30",
         "end_time": "12:30",
         "location": "Class Online",
@@ -5250,26 +5270,6 @@
         "location": "Class Online",
         "week": "4-7,9-10",
         "activity_seq": "37888403"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "12:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "4-7,9-10",
-        "activity_seq": "37888404"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "12:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "4-7,9-10",
-        "activity_seq": "37888405"
       }
     ],
     "units": [
@@ -5782,36 +5782,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "37926701"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial A",
-        "day": "Sat",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "1-3",
-        "activity_seq": "37926702"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-7,9-10",
-        "activity_seq": "37926703"
-      },
-      {
         "and_or": "OR",
         "activity": "Tutorial B",
         "day": "Sat",
@@ -5850,6 +5820,36 @@
         "location": "Class Online",
         "week": "4-7,9-10",
         "activity_seq": "37926707"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37926701"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Sat",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "1-3",
+        "activity_seq": "37926702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-7,9-10",
+        "activity_seq": "37926703"
       }
     ],
     "units": [
@@ -5883,16 +5883,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-10",
-        "activity_seq": "37930901"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -5901,6 +5891,16 @@
         "location": "Class Online",
         "week": "1-10",
         "activity_seq": "37930902"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-10",
+        "activity_seq": "37930901"
       }
     ],
     "units": [
@@ -6507,46 +6507,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Workshop B",
-        "day": "Sun",
-        "start_time": "09:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "1,5",
-        "activity_seq": "37874206"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Workshop C",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "10",
-        "activity_seq": "37874207"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop C",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "10",
-        "activity_seq": "37874208"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Workshop C",
-        "day": "Mon",
-        "start_time": "17:30",
-        "end_time": "20:30",
-        "location": "Class Online",
-        "week": "10",
-        "activity_seq": "37874209"
-      },
-      {
         "and_or": "",
         "activity": "Workshop A",
         "day": "Mon",
@@ -6595,6 +6555,46 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37874205"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop B",
+        "day": "Sun",
+        "start_time": "09:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "1,5",
+        "activity_seq": "37874206"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop C",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "10",
+        "activity_seq": "37874207"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop C",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "10",
+        "activity_seq": "37874208"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Workshop C",
+        "day": "Mon",
+        "start_time": "17:30",
+        "end_time": "20:30",
+        "location": "Class Online",
+        "week": "10",
+        "activity_seq": "37874209"
       }
     ],
     "units": [
@@ -7296,16 +7296,6 @@
     ],
     "timetable": [
       {
-        "and_or": "OR",
-        "activity": "Tutorial B",
-        "day": "Sat",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "4-10",
-        "activity_seq": "37927507"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -7364,6 +7354,16 @@
         "location": "Class Online",
         "week": "4-10",
         "activity_seq": "37927506"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial B",
+        "day": "Sat",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "4-10",
+        "activity_seq": "37927507"
       }
     ],
     "units": [
@@ -7953,16 +7953,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "1-10",
-        "activity_seq": "38335102"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -7971,6 +7961,16 @@
         "location": "Refer to Moodle",
         "week": "1-10",
         "activity_seq": "38335101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "1-10",
+        "activity_seq": "38335102"
       }
     ],
     "units": [
@@ -8399,16 +8399,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37773501"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Tue",
@@ -8417,6 +8407,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37773502"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37773501"
       }
     ],
     "units": [
@@ -8645,16 +8645,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Workshop",
-        "day": "Wed",
-        "start_time": "17:30",
-        "end_time": "19:30",
-        "location": "Class Online",
-        "week": "2,4,6,8,10,12",
-        "activity_seq": "37781703"
-      },
-      {
         "and_or": "",
         "activity": "Lecture",
         "day": "Thu",
@@ -8673,6 +8663,16 @@
         "location": "Refer to Moodle",
         "week": "2-5,7-11,13",
         "activity_seq": "37781702"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Workshop",
+        "day": "Wed",
+        "start_time": "17:30",
+        "end_time": "19:30",
+        "location": "Class Online",
+        "week": "2,4,6,8,10,12",
+        "activity_seq": "37781703"
       }
     ],
     "units": [
@@ -8757,6 +8757,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Fri",
+        "start_time": "16:30",
+        "end_time": "18:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37870601"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture",
         "day": "Mon",
@@ -8775,16 +8785,6 @@
         "location": "Refer to Moodle",
         "week": "2-13",
         "activity_seq": "37870603"
-      },
-      {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Fri",
-        "start_time": "16:30",
-        "end_time": "18:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37870601"
       }
     ],
     "units": [
@@ -9022,6 +9022,16 @@
     ],
     "timetable": [
       {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "1,5,12",
+        "activity_seq": "37859901"
+      },
+      {
         "and_or": "AND",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -9040,16 +9050,6 @@
         "location": "Class Online",
         "week": "2-9,11-13",
         "activity_seq": "37859903"
-      },
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Class Online",
-        "week": "1,5,12",
-        "activity_seq": "37859901"
       }
     ],
     "units": [
@@ -9381,16 +9381,6 @@
     "staff": [],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Tue",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "2-12",
-        "activity_seq": "38036901"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture",
         "day": "Mon",
@@ -9409,6 +9399,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "38036903"
+      },
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Tue",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "2-12",
+        "activity_seq": "38036901"
       }
     ],
     "units": [
@@ -10660,16 +10660,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "16:30",
-        "end_time": "17:30",
-        "location": "Lecture Online",
-        "week": "1-9,11-12",
-        "activity_seq": "38229601"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Mon",
@@ -10748,6 +10738,16 @@
         "location": "Online Optional Room Available",
         "week": "1-9,11-12",
         "activity_seq": "38229609"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "16:30",
+        "end_time": "17:30",
+        "location": "Lecture Online",
+        "week": "1-9,11-12",
+        "activity_seq": "38229601"
       }
     ],
     "units": [
