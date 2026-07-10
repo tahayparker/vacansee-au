@@ -167,16 +167,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Computer Lab",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37787801"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture",
         "day": "Fri",
@@ -195,6 +185,16 @@
         "location": "Refer to Moodle",
         "week": "2-13",
         "activity_seq": "37787803"
+      },
+      {
+        "and_or": "",
+        "activity": "Computer Lab",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37787801"
       }
     ],
     "units": [
@@ -1361,6 +1361,181 @@
     ]
   },
   {
+    "subject_inst_id": "381456",
+    "subject_id": "210150",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Understanding Literature and Film",
+    "subject_code": "ENGL120",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Jake Goetz",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Doctor Michael Griffiths",
+        "coordinator": "N",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1-5,7-13",
+        "activity_seq": "38145601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Class Online",
+        "week": "1-5,7-13",
+        "activity_seq": "38145602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381481",
+    "subject_id": "210155",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Dreams and Visions in Literature and Film",
+    "subject_code": "ENGL276",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Lecture Online",
+        "week": "1-5,7-12",
+        "activity_seq": "38148101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "09:30",
+        "end_time": "11:30",
+        "location": "Class Online",
+        "week": "2-5,7-13",
+        "activity_seq": "38148102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381496",
+    "subject_id": "210159",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Desiring Bodies: Gender & Sexuality in Literature & Film",
+    "subject_code": "ENGL379",
+    "subject_year": "2026",
+    "session_id": "2591",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-03-02",
+    "contact_hours": "1 hour lecture, 2 hour tutorial",
+    "staff": [
+      {
+        "staff_name": "Professor Guy Davidson",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      },
+      {
+        "staff_name": "Mr Holden Walker",
+        "coordinator": "N",
+        "lecturer": "N",
+        "tutor": "Y"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Class Online",
+        "week": "1-5,7-12",
+        "activity_seq": "38149601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "Class Online",
+        "week": "2-5,7-13",
+        "activity_seq": "38149602"
+      },
+      {
+        "and_or": "OR",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "2-5,7-13",
+        "activity_seq": "38149603"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
     "subject_inst_id": "381934",
     "subject_id": "210358",
     "owner_unit": "SOSS",
@@ -2072,181 +2247,6 @@
     ]
   },
   {
-    "subject_inst_id": "381456",
-    "subject_id": "210150",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Understanding Literature and Film",
-    "subject_code": "ENGL120",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Jake Goetz",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Doctor Michael Griffiths",
-        "coordinator": "N",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Lecture Online",
-        "week": "1-5,7-13",
-        "activity_seq": "38145601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "Class Online",
-        "week": "1-5,7-13",
-        "activity_seq": "38145602"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381481",
-    "subject_id": "210155",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Dreams and Visions in Literature and Film",
-    "subject_code": "ENGL276",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "2",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "09:30",
-        "location": "Lecture Online",
-        "week": "1-5,7-12",
-        "activity_seq": "38148101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "09:30",
-        "end_time": "11:30",
-        "location": "Class Online",
-        "week": "2-5,7-13",
-        "activity_seq": "38148102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381496",
-    "subject_id": "210159",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Desiring Bodies: Gender & Sexuality in Literature & Film",
-    "subject_code": "ENGL379",
-    "subject_year": "2026",
-    "session_id": "2591",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-03-02",
-    "contact_hours": "1 hour lecture, 2 hour tutorial",
-    "staff": [
-      {
-        "staff_name": "Professor Guy Davidson",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      },
-      {
-        "staff_name": "Mr Holden Walker",
-        "coordinator": "N",
-        "lecturer": "N",
-        "tutor": "Y"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Class Online",
-        "week": "1-5,7-12",
-        "activity_seq": "38149601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "Class Online",
-        "week": "2-5,7-13",
-        "activity_seq": "38149602"
-      },
-      {
-        "and_or": "OR",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Class Online",
-        "week": "2-5,7-13",
-        "activity_seq": "38149603"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "377621",
     "subject_id": "208875",
     "owner_unit": "BUSN",
@@ -2485,16 +2485,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Fri",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "Class Online",
-        "week": "2-13",
-        "activity_seq": "37767402"
-      },
-      {
         "and_or": "",
         "activity": "Lecture Pre-Recorded",
         "day": "",
@@ -2503,6 +2493,16 @@
         "location": "Refer to Moodle",
         "week": "1-13",
         "activity_seq": "37767401"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "Class Online",
+        "week": "2-13",
+        "activity_seq": "37767402"
       }
     ],
     "units": [
@@ -3328,16 +3328,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "12:30",
-        "end_time": "13:30",
-        "location": "Lecture Online",
-        "week": "1-13",
-        "activity_seq": "37814101"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Fri",
@@ -3346,6 +3336,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37814102"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "12:30",
+        "end_time": "13:30",
+        "location": "Lecture Online",
+        "week": "1-13",
+        "activity_seq": "37814101"
       }
     ],
     "units": [
@@ -3440,16 +3440,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-13",
-        "activity_seq": "37817001"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Wed",
@@ -3458,6 +3448,16 @@
         "location": "Class Online",
         "week": "2-13",
         "activity_seq": "37817002"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-13",
+        "activity_seq": "37817001"
       }
     ],
     "units": [
@@ -3569,6 +3569,261 @@
     ]
   },
   {
+    "subject_inst_id": "381471",
+    "subject_id": "210153",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Victorians",
+    "subject_code": "ENGL274",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "2",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "09:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38147101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "Class Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38147102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381486",
+    "subject_id": "210157",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "The Modernists",
+    "subject_code": "ENGL361",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Tue",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38148601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38148602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381506",
+    "subject_id": "210161",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "English and Creative Writing Capstone: Ways of Reading and Writing",
+    "subject_code": "ENGL383",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "1 hour lecture, 2 hour tutorial",
+    "staff": [
+      {
+        "staff_name": "Doctor Michael Griffiths",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-4",
+        "activity_seq": "38150601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Mon",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "Class Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38150602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "381511",
+    "subject_id": "210162",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Literature and Critical Thought",
+    "subject_code": "ENGL385",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "3",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "",
+    "staff": [
+      {
+        "staff_name": "Professor Guy Davidson",
+        "coordinator": "Y",
+        "lecturer": "Y",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38151101"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "Class Online",
+        "week": "1-6,8-13",
+        "activity_seq": "38151102"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
+    "subject_inst_id": "384926",
+    "subject_id": "208469",
+    "owner_unit": "CAH",
+    "sub_instance_name": "Class 1",
+    "subject_name": "Romantic Literature",
+    "subject_code": "ENGL122",
+    "subject_year": "2026",
+    "session_id": "2592",
+    "campus_id": "34",
+    "method_id": "1",
+    "credit_point": "6",
+    "subject_level": "1",
+    "session_start_date": "2026-07-27",
+    "contact_hours": "3 hours",
+    "staff": [
+      {
+        "staff_name": "Doctor Ellie Crookes",
+        "coordinator": "Y",
+        "lecturer": "N",
+        "tutor": "N"
+      }
+    ],
+    "timetable": [
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Thu",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "Lecture Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38492601"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial",
+        "day": "Thu",
+        "start_time": "11:30",
+        "end_time": "13:30",
+        "location": "Class Online",
+        "week": "1-6,8-12",
+        "activity_seq": "38492602"
+      }
+    ],
+    "units": [
+      {
+        "unit_abb": "CAH"
+      }
+    ]
+  },
+  {
     "subject_inst_id": "381824",
     "subject_id": "210300",
     "owner_unit": "SOSS",
@@ -3650,16 +3905,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "14:30",
-        "location": "Lecture Online",
-        "week": "1-8,10-13",
-        "activity_seq": "38195601"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Thu",
@@ -3668,6 +3913,16 @@
         "location": "Class Online",
         "week": "1-8,10-13",
         "activity_seq": "38195602"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "location": "Lecture Online",
+        "week": "1-8,10-13",
+        "activity_seq": "38195601"
       }
     ],
     "units": [
@@ -3701,16 +3956,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-9,11-13",
-        "activity_seq": "38238401"
-      },
-      {
         "and_or": "AND",
         "activity": "Tutorial",
         "day": "Wed",
@@ -3719,6 +3964,16 @@
         "location": "Online Optional Room Available",
         "week": "1-9,11-13",
         "activity_seq": "38238402"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1-9,11-13",
+        "activity_seq": "38238401"
       }
     ],
     "units": [
@@ -4098,261 +4353,6 @@
     ]
   },
   {
-    "subject_inst_id": "381471",
-    "subject_id": "210153",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Victorians",
-    "subject_code": "ENGL274",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "2",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "09:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38147101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "Class Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38147102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381486",
-    "subject_id": "210157",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "The Modernists",
-    "subject_code": "ENGL361",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Tue",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38148601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38148602"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381506",
-    "subject_id": "210161",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "English and Creative Writing Capstone: Ways of Reading and Writing",
-    "subject_code": "ENGL383",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "1 hour lecture, 2 hour tutorial",
-    "staff": [
-      {
-        "staff_name": "Doctor Michael Griffiths",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1-4",
-        "activity_seq": "38150601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Mon",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "Class Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38150602"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "381511",
-    "subject_id": "210162",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Literature and Critical Thought",
-    "subject_code": "ENGL385",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "3",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "",
-    "staff": [
-      {
-        "staff_name": "Professor Guy Davidson",
-        "coordinator": "Y",
-        "lecturer": "Y",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Wed",
-        "start_time": "10:30",
-        "end_time": "11:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38151101"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "Class Online",
-        "week": "1-6,8-13",
-        "activity_seq": "38151102"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
-    "subject_inst_id": "384926",
-    "subject_id": "208469",
-    "owner_unit": "CAH",
-    "sub_instance_name": "Class 1",
-    "subject_name": "Romantic Literature",
-    "subject_code": "ENGL122",
-    "subject_year": "2026",
-    "session_id": "2592",
-    "campus_id": "34",
-    "method_id": "1",
-    "credit_point": "6",
-    "subject_level": "1",
-    "session_start_date": "2026-07-27",
-    "contact_hours": "3 hours",
-    "staff": [
-      {
-        "staff_name": "Doctor Ellie Crookes",
-        "coordinator": "Y",
-        "lecturer": "N",
-        "tutor": "N"
-      }
-    ],
-    "timetable": [
-      {
-        "and_or": "",
-        "activity": "Lecture",
-        "day": "Thu",
-        "start_time": "09:30",
-        "end_time": "10:30",
-        "location": "Lecture Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38492601"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial",
-        "day": "Thu",
-        "start_time": "11:30",
-        "end_time": "13:30",
-        "location": "Class Online",
-        "week": "1-6,8-12",
-        "activity_seq": "38492602"
-      }
-    ],
-    "units": [
-      {
-        "unit_abb": "CAH"
-      }
-    ]
-  },
-  {
     "subject_inst_id": "381043",
     "subject_id": "209914",
     "owner_unit": "GSM",
@@ -4473,6 +4473,236 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Lecture U",
+        "day": "Wed",
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "location": "HI-G01",
+        "week": "2",
+        "activity_seq": "38104329"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture V",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "HI-G01",
+        "week": "10",
+        "activity_seq": "38104330"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical A",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02;HI-G03",
+        "week": "2,4-5,7-9,11,13-14,16,18-20",
+        "activity_seq": "38104331"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical B",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02",
+        "week": "3,6,10,12,15,17",
+        "activity_seq": "38104332"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical C",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02;HI-G03",
+        "week": "1",
+        "activity_seq": "38104333"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture E",
+        "day": "Wed",
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "location": "HI-G01",
+        "week": "3,5,7,9,11,13,15,17,19",
+        "activity_seq": "38104311"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture F",
+        "day": "Mon",
+        "start_time": "08:30",
+        "end_time": "11:30",
+        "location": "HI-G01",
+        "week": "2,4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104312"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture G",
+        "day": "Mon",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "HI-G01",
+        "week": "2,4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104313"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture H",
+        "day": "Tue",
+        "start_time": "15:30",
+        "end_time": "17:30",
+        "location": "HI-G01",
+        "week": "4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104314"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture I",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "location": "HI-G01",
+        "week": "4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104315"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture J",
+        "day": "Fri",
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "location": "HI-G01",
+        "week": "4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104316"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture M",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "16:30",
+        "location": "300-UG-03",
+        "week": "1",
+        "activity_seq": "38104317"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture N",
+        "day": "Wed",
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "location": "300-UG-03",
+        "week": "1",
+        "activity_seq": "38104318"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture O",
+        "day": "Wed",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "300-UG-03",
+        "week": "1",
+        "activity_seq": "38104319"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture P",
+        "day": "Thu",
+        "start_time": "09:30",
+        "end_time": "10:30",
+        "location": "HI-G01",
+        "week": "1",
+        "activity_seq": "38104320"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2,4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104321"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104322"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "4,6,8,10,12,14,16,18,20",
+        "activity_seq": "38104323"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Pre-Recorded",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1",
+        "activity_seq": "38104324"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture Q",
+        "day": "Thu",
+        "start_time": "15:30",
+        "end_time": "16:30",
+        "location": "HI-G01",
+        "week": "1",
+        "activity_seq": "38104325"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture R",
+        "day": "Fri",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "HI-G01",
+        "week": "1",
+        "activity_seq": "38104326"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture S",
+        "day": "Fri",
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "location": "HI-G01",
+        "week": "1",
+        "activity_seq": "38104327"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture T",
+        "day": "Wed",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "HI-G01",
+        "week": "2",
+        "activity_seq": "38104328"
+      },
+      {
         "and_or": "",
         "activity": "Anatomy Lab ALA",
         "day": "Thu",
@@ -4571,236 +4801,6 @@
         "location": "HI-G01",
         "week": "3,5,7,9,11,13,15,17,19",
         "activity_seq": "38104310"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture E",
-        "day": "Wed",
-        "start_time": "11:00",
-        "end_time": "13:00",
-        "location": "HI-G01",
-        "week": "3,5,7,9,11,13,15,17,19",
-        "activity_seq": "38104311"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture F",
-        "day": "Mon",
-        "start_time": "08:30",
-        "end_time": "11:30",
-        "location": "HI-G01",
-        "week": "2,4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104312"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture G",
-        "day": "Mon",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "location": "HI-G01",
-        "week": "2,4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104313"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture H",
-        "day": "Tue",
-        "start_time": "15:30",
-        "end_time": "17:30",
-        "location": "HI-G01",
-        "week": "4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104314"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture I",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "11:00",
-        "location": "HI-G01",
-        "week": "4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104315"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture J",
-        "day": "Fri",
-        "start_time": "11:00",
-        "end_time": "13:00",
-        "location": "HI-G01",
-        "week": "4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104316"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture M",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "16:30",
-        "location": "300-UG-03",
-        "week": "1",
-        "activity_seq": "38104317"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture N",
-        "day": "Wed",
-        "start_time": "11:00",
-        "end_time": "13:00",
-        "location": "300-UG-03",
-        "week": "1",
-        "activity_seq": "38104318"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture O",
-        "day": "Wed",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "300-UG-03",
-        "week": "1",
-        "activity_seq": "38104319"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical B",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02",
-        "week": "3,6,10,12,15,17",
-        "activity_seq": "38104332"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical C",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02;HI-G03",
-        "week": "1",
-        "activity_seq": "38104333"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture P",
-        "day": "Thu",
-        "start_time": "09:30",
-        "end_time": "10:30",
-        "location": "HI-G01",
-        "week": "1",
-        "activity_seq": "38104320"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "2,4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104321"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104322"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "4,6,8,10,12,14,16,18,20",
-        "activity_seq": "38104323"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Pre-Recorded",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1",
-        "activity_seq": "38104324"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture Q",
-        "day": "Thu",
-        "start_time": "15:30",
-        "end_time": "16:30",
-        "location": "HI-G01",
-        "week": "1",
-        "activity_seq": "38104325"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture R",
-        "day": "Fri",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "HI-G01",
-        "week": "1",
-        "activity_seq": "38104326"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture S",
-        "day": "Fri",
-        "start_time": "11:00",
-        "end_time": "13:00",
-        "location": "HI-G01",
-        "week": "1",
-        "activity_seq": "38104327"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture T",
-        "day": "Wed",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "HI-G01",
-        "week": "2",
-        "activity_seq": "38104328"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture U",
-        "day": "Wed",
-        "start_time": "11:00",
-        "end_time": "13:00",
-        "location": "HI-G01",
-        "week": "2",
-        "activity_seq": "38104329"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture V",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "HI-G01",
-        "week": "10",
-        "activity_seq": "38104330"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical A",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02;HI-G03",
-        "week": "2,4-5,7-9,11,13-14,16,18-20",
-        "activity_seq": "38104331"
       }
     ],
     "units": [
@@ -4931,6 +4931,106 @@
     "timetable": [
       {
         "and_or": "AND",
+        "activity": "Lecture K",
+        "day": "Tue",
+        "start_time": "08:30",
+        "end_time": "10:30",
+        "location": "HI-G01",
+        "week": "4",
+        "activity_seq": "38104916"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture PRA",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "1,3,5,7,9,11,13,15",
+        "activity_seq": "38104917"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture PRB",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2,4,6,8,10,12,14,16",
+        "activity_seq": "38104918"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture PRC",
+        "day": "",
+        "start_time": "",
+        "end_time": "",
+        "location": "Refer to Moodle",
+        "week": "2,4,6,8,10,12,14,16",
+        "activity_seq": "38104919"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical A",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02",
+        "week": "4,6,8,10,13",
+        "activity_seq": "38104920"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical B",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02;HI-G03",
+        "week": "18/08/2026; 01/09/2026; 15/09/2026; 06/10/2026; 13/10/2026; 10/11/2026",
+        "activity_seq": "38104921"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical C",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "15:30",
+        "location": "HI-G01",
+        "week": "15",
+        "activity_seq": "38104922"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical D",
+        "day": "Tue",
+        "start_time": "09:00",
+        "end_time": "16:30",
+        "location": "HI-G02;HI-G03",
+        "week": "15",
+        "activity_seq": "38104923"
+      },
+      {
+        "and_or": "",
+        "activity": "Anatomy Lab ALA",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "13:00",
+        "location": "41-G65",
+        "week": "1-16",
+        "activity_seq": "38104901"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Anatomy Lab ALB",
+        "day": "Thu",
+        "start_time": "14:30",
+        "end_time": "16:30",
+        "location": "41-G65",
+        "week": "1-16",
+        "activity_seq": "38104902"
+      },
+      {
+        "and_or": "AND",
         "activity": "Case Base Lecture A",
         "day": "Mon",
         "start_time": "09:00",
@@ -5058,106 +5158,6 @@
         "location": "HI-G01",
         "week": "2,4,6,8,10,12,14,16",
         "activity_seq": "38104915"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture K",
-        "day": "Tue",
-        "start_time": "08:30",
-        "end_time": "10:30",
-        "location": "HI-G01",
-        "week": "4",
-        "activity_seq": "38104916"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture PRA",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "1,3,5,7,9,11,13,15",
-        "activity_seq": "38104917"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Anatomy Lab ALB",
-        "day": "Thu",
-        "start_time": "14:30",
-        "end_time": "16:30",
-        "location": "41-G65",
-        "week": "1-16",
-        "activity_seq": "38104902"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture PRB",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "2,4,6,8,10,12,14,16",
-        "activity_seq": "38104918"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture PRC",
-        "day": "",
-        "start_time": "",
-        "end_time": "",
-        "location": "Refer to Moodle",
-        "week": "2,4,6,8,10,12,14,16",
-        "activity_seq": "38104919"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical A",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02",
-        "week": "4,6,8,10,13",
-        "activity_seq": "38104920"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical B",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02;HI-G03",
-        "week": "18/08/2026; 01/09/2026; 15/09/2026; 06/10/2026; 13/10/2026; 10/11/2026",
-        "activity_seq": "38104921"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical C",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "15:30",
-        "location": "HI-G01",
-        "week": "15",
-        "activity_seq": "38104922"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical D",
-        "day": "Tue",
-        "start_time": "09:00",
-        "end_time": "16:30",
-        "location": "HI-G02;HI-G03",
-        "week": "15",
-        "activity_seq": "38104923"
-      },
-      {
-        "and_or": "",
-        "activity": "Anatomy Lab ALA",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "13:00",
-        "location": "41-G65",
-        "week": "1-16",
-        "activity_seq": "38104901"
       }
     ],
     "units": [
@@ -5287,6 +5287,76 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Practical C",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "13:30",
+        "location": "HI-G03",
+        "week": "6-7,16",
+        "activity_seq": "38104622"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical D",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "13:30",
+        "location": "HI-G02;HI-G03",
+        "week": "7",
+        "activity_seq": "38104623"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Practical E",
+        "day": "Thu",
+        "start_time": "10:30",
+        "end_time": "13:30",
+        "location": "HI-G01",
+        "week": "9",
+        "activity_seq": "38104624"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial A",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "16:30",
+        "location": "HI-G01",
+        "week": "4,6,8,10,12,14,16",
+        "activity_seq": "38104625"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial B",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "16:30",
+        "location": "HI-G03",
+        "week": "6,8,10,12,14,16",
+        "activity_seq": "38104626"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial C",
+        "day": "Tue",
+        "start_time": "10:30",
+        "end_time": "12:30",
+        "location": "HI-G01",
+        "week": "03/03/2026; 17/03/2026; 28/04/2026; 12/05/2026; 26/05/2026",
+        "activity_seq": "38104627"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Tutorial D",
+        "day": "Tue",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "HI-G01",
+        "week": "03/03/2026; 17/03/2026; 28/04/2026; 12/05/2026; 26/05/2026",
+        "activity_seq": "38104628"
+      },
+      {
         "and_or": "",
         "activity": "Anatomy Lab ALA",
         "day": "Wed",
@@ -5325,6 +5395,46 @@
         "location": "HI-G01",
         "week": "1,3,5,7,9,11,15",
         "activity_seq": "38104604"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Case Base Lecture C",
+        "day": "Fri",
+        "start_time": "14:00",
+        "end_time": "15:30",
+        "location": "HI-G01",
+        "week": "2,4,6,8,10,12,14,16",
+        "activity_seq": "38104605"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Clinical Symposium",
+        "day": "Wed",
+        "start_time": "13:00",
+        "end_time": "14:30",
+        "location": "38-G01",
+        "week": "1-16",
+        "activity_seq": "38104606"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "location": "HI-G03",
+        "week": "1,3,5,7,9,11,13,15",
+        "activity_seq": "38104607"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture B",
+        "day": "Mon",
+        "start_time": "13:30",
+        "end_time": "15:30",
+        "location": "HI-G03",
+        "week": "1,3,5,7,9,11,13,15",
+        "activity_seq": "38104608"
       },
       {
         "and_or": "AND",
@@ -5455,116 +5565,6 @@
         "location": "HI-G02;HI-G03",
         "week": "2-5,8-10,12,14-15",
         "activity_seq": "38104621"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Case Base Lecture C",
-        "day": "Fri",
-        "start_time": "14:00",
-        "end_time": "15:30",
-        "location": "HI-G01",
-        "week": "2,4,6,8,10,12,14,16",
-        "activity_seq": "38104605"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Clinical Symposium",
-        "day": "Wed",
-        "start_time": "13:00",
-        "end_time": "14:30",
-        "location": "38-G01",
-        "week": "1-16",
-        "activity_seq": "38104606"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical C",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "13:30",
-        "location": "HI-G03",
-        "week": "6-7,16",
-        "activity_seq": "38104622"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical D",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "13:30",
-        "location": "HI-G02;HI-G03",
-        "week": "7",
-        "activity_seq": "38104623"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Practical E",
-        "day": "Thu",
-        "start_time": "10:30",
-        "end_time": "13:30",
-        "location": "HI-G01",
-        "week": "9",
-        "activity_seq": "38104624"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial A",
-        "day": "Mon",
-        "start_time": "13:30",
-        "end_time": "16:30",
-        "location": "HI-G01",
-        "week": "4,6,8,10,12,14,16",
-        "activity_seq": "38104625"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial B",
-        "day": "Mon",
-        "start_time": "13:30",
-        "end_time": "16:30",
-        "location": "HI-G03",
-        "week": "6,8,10,12,14,16",
-        "activity_seq": "38104626"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "11:30",
-        "end_time": "12:30",
-        "location": "HI-G03",
-        "week": "1,3,5,7,9,11,13,15",
-        "activity_seq": "38104607"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture B",
-        "day": "Mon",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "HI-G03",
-        "week": "1,3,5,7,9,11,13,15",
-        "activity_seq": "38104608"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial D",
-        "day": "Tue",
-        "start_time": "13:30",
-        "end_time": "15:30",
-        "location": "HI-G01",
-        "week": "03/03/2026; 17/03/2026; 28/04/2026; 12/05/2026; 26/05/2026",
-        "activity_seq": "38104628"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Tutorial C",
-        "day": "Tue",
-        "start_time": "10:30",
-        "end_time": "12:30",
-        "location": "HI-G01",
-        "week": "03/03/2026; 17/03/2026; 28/04/2026; 12/05/2026; 26/05/2026",
-        "activity_seq": "38104627"
       }
     ],
     "units": [
