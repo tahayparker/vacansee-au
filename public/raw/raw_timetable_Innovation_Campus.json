@@ -721,16 +721,6 @@
     ],
     "timetable": [
       {
-        "and_or": "",
-        "activity": "Lecture A",
-        "day": "Mon",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "To be advised",
-        "week": "20/07/2026",
-        "activity_seq": "37912701"
-      },
-      {
         "and_or": "AND",
         "activity": "Lecture B",
         "day": "Tue",
@@ -769,6 +759,16 @@
         "location": "233-G12",
         "week": "24/07/2026",
         "activity_seq": "37912705"
+      },
+      {
+        "and_or": "",
+        "activity": "Lecture A",
+        "day": "Mon",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "To be advised",
+        "week": "20/07/2026",
+        "activity_seq": "37912701"
       }
     ],
     "units": [
