@@ -14,11 +14,13 @@ export default function SSO() {
     // Parse hash manually if present
     let accessToken: string | null = null;
     let refreshToken: string | null = null;
+    let nextUrl: string | null = null;
     
     if (hash) {
       const params = new URLSearchParams(hash.substring(1));
       accessToken = params.get("access_token");
       refreshToken = params.get("refresh_token");
+      nextUrl = params.get("next");
     }
 
     if (accessToken && refreshToken) {
@@ -30,7 +32,7 @@ export default function SSO() {
           setError(error.message);
         } else {
           // Navigate to home after setting session
-          router.replace("/");
+          router.replace(nextUrl || "/");
         }
       });
     } else {
