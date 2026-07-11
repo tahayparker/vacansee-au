@@ -35,7 +35,7 @@ export default function SSO() {
       });
     } else {
       // Maybe Supabase already parsed it and stripped the hash
-      supabase.auth.getSession().then(({ data: { session } }) => {
+      supabase.auth.getSession().then(({ data: { session } }: { data: { session: any } }) => {
         if (session) {
           router.replace("/");
         } else {
