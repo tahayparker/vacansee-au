@@ -8,6 +8,7 @@
 export const PUBLIC_PATHS: string[] = [
   "/", // Homepage
   "/auth/login", // Login page itself
+  "/auth/sso", // SSO handler
   "/api/auth/callback", // Auth callback handler (API, needs to be public)
   "/unauthorized", // RE-ADDED: Page for specific errors like signup disabled
   "/404", // 404 page
