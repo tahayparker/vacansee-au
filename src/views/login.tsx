@@ -39,19 +39,20 @@ export default function LoginPage() {
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   useEffect(() => {
-    const errorQuery = searchParams.get("error");
+    const errorQuery = searchParams?.get("error");
     if (errorQuery) {
       const decodedError = decodeURIComponent(errorQuery.replace(/\+/g, " "));
       setErrorMessage(decodedError);
-      const params = new URLSearchParams(searchParams.toString());
+      const params = new URLSearchParams(searchParams?.toString() || "");
       params.delete("error");
       const qs = params.toString();
-      router.replace(qs ? `${pathname}?${qs}` : pathname);
+      const safePathname = pathname || "/";
+      router.replace(qs ? `${safePathname}?${qs}` : safePathname);
     }
   }, [searchParams, pathname, router]);
 
   const getRedirectPathFromQuery = (): string => {
-    const raw = searchParams.get("next");
+    const raw = searchParams?.get("next");
     if (!raw || raw.length === 0) return "/";
     if (!raw.startsWith("/") || raw.startsWith("//") || raw.startsWith("/\\")) {
       return "/";

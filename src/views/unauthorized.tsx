@@ -35,7 +35,7 @@ export default function UnauthorizedPage() {
         }
 
         // Check if they came from auth flow with signup_disabled error
-        const authError = searchParams.get("auth_error");
+        const authError = searchParams?.get("auth_error");
 
         if (authError !== "signup_disabled") {
           // User didn't come from legitimate auth error, redirect to homepage
