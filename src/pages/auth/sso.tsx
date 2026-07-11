@@ -25,7 +25,7 @@ export default function SSO() {
       supabase.auth.setSession({
         access_token: accessToken,
         refresh_token: refreshToken,
-      }).then(({ error }) => {
+      }).then(({ error }: { error: any }) => {
         if (error) {
           setError(error.message);
         } else {
