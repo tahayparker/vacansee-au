@@ -141,6 +141,26 @@
     ],
     "timetable": [
       {
+        "and_or": "AND",
+        "activity": "Lecture D",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911704"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture E",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "1",
+        "activity_seq": "37911705"
+      },
+      {
         "and_or": "",
         "activity": "Lecture A",
         "day": "Mon",
@@ -169,26 +189,6 @@
         "location": "233-G12",
         "week": "1",
         "activity_seq": "37911703"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture D",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911704"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture E",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "1",
-        "activity_seq": "37911705"
       }
     ],
     "units": [
@@ -322,26 +322,6 @@
     ],
     "timetable": [
       {
-        "and_or": "AND",
-        "activity": "Lecture D",
-        "day": "Thu",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "23/07/2026",
-        "activity_seq": "37912704"
-      },
-      {
-        "and_or": "AND",
-        "activity": "Lecture E",
-        "day": "Fri",
-        "start_time": "09:00",
-        "end_time": "16:00",
-        "location": "233-G12",
-        "week": "24/07/2026",
-        "activity_seq": "37912705"
-      },
-      {
         "and_or": "",
         "activity": "Lecture A",
         "day": "Mon",
@@ -370,6 +350,26 @@
         "location": "To be advised",
         "week": "22/07/2026",
         "activity_seq": "37912703"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture D",
+        "day": "Thu",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "23/07/2026",
+        "activity_seq": "37912704"
+      },
+      {
+        "and_or": "AND",
+        "activity": "Lecture E",
+        "day": "Fri",
+        "start_time": "09:00",
+        "end_time": "16:00",
+        "location": "233-G12",
+        "week": "24/07/2026",
+        "activity_seq": "37912705"
       }
     ],
     "units": [
