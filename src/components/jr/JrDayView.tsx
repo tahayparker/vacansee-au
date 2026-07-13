@@ -11,7 +11,12 @@ interface JrDayViewProps {
 
 const MIN_COLUMN_WIDTH = 220;
 
-export function JrDayView({ bookingIndex, dateKey, rooms, onSelectBooking }: JrDayViewProps) {
+export function JrDayView({
+  bookingIndex,
+  dateKey,
+  rooms,
+  onSelectBooking,
+}: JrDayViewProps) {
   if (rooms.length === 0) {
     return (
       <div className="flex h-full items-center justify-center text-sm text-gray-400">
@@ -37,8 +42,17 @@ export function JrDayView({ bookingIndex, dateKey, rooms, onSelectBooking }: JrD
       <div className="flex w-full">
         <JrTimeGutter />
         {rooms.map((room) => (
-          <div key={room} style={{ minWidth: MIN_COLUMN_WIDTH }} className="flex-1">
-            <JrRoomLane bookingIndex={bookingIndex} dateKey={dateKey} room={room} onSelectBooking={onSelectBooking} />
+          <div
+            key={room}
+            style={{ minWidth: MIN_COLUMN_WIDTH }}
+            className="flex-1"
+          >
+            <JrRoomLane
+              bookingIndex={bookingIndex}
+              dateKey={dateKey}
+              room={room}
+              onSelectBooking={onSelectBooking}
+            />
           </div>
         ))}
       </div>
