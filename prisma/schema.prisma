@@ -40,6 +40,7 @@ model Timings {
   // Resolved calendar date for this occurrence (ISO YYYY-MM-DD from the scraper).
   Date      String @default("")
   Campus    String @default("")
+  Description String @default("")
 
   // Composite indexes for common query patterns
   @@index([Day, StartTime, EndTime])
