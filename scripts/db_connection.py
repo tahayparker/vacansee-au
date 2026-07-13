@@ -1,11 +1,13 @@
 # \scripts\db_connection.py
 import os
 from dotenv import load_dotenv
+
 # Import ClientOptions if you might use it for other settings like headers/schema later
 from supabase import create_client, Client, ClientOptions
 
 # Load environment variables from .env file in the current directory
 load_dotenv()
+
 
 def get_supabase_client() -> Client:
     """
@@ -19,9 +21,13 @@ def get_supabase_client() -> Client:
     key = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
     if not url:
-        raise ValueError("Supabase URL not set in environment variables (SUPABASE_URL).")
+        raise ValueError(
+            "Supabase URL not set in environment variables (SUPABASE_URL)."
+        )
     if not key:
-        raise ValueError("Supabase Service Role Key not set in environment variables (SUPABASE_SERVICE_ROLE_KEY).")
+        raise ValueError(
+            "Supabase Service Role Key not set in environment variables (SUPABASE_SERVICE_ROLE_KEY)."
+        )
 
     try:
         # --- Corrected Options for supabase==2.15.0 ---
@@ -29,7 +35,7 @@ def get_supabase_client() -> Client:
         # The library likely handles defaults appropriately when the service key is provided.
         # If you needed to set headers or schema, you would pass them here, e.g.:
         # options = ClientOptions(schema="public", headers={"X-Custom": "Value"})
-        options = ClientOptions() # Create default options object
+        options = ClientOptions()  # Create default options object
         # --- End Correction ---
 
         # Pass the ClientOptions instance using the 'options' keyword argument.
@@ -37,8 +43,10 @@ def get_supabase_client() -> Client:
         # ClientOptions() is not needed, but this is safer for future additions.
         supabase: Client = create_client(url, key, options=options)
 
-        print("Supabase client initialized successfully (using Service Role Key - RLS bypassed).")
+        print(
+            "Supabase client initialized successfully (using Service Role Key - RLS bypassed)."
+        )
         return supabase
     except Exception as e:
         print(f"Error initializing Supabase client: {e}")
-        raise # Re-raise the exception after printing
+        raise  # Re-raise the exception after printing
