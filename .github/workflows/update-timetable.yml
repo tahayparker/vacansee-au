@@ -8,7 +8,6 @@ on:
   workflow_dispatch:
 
 permissions:
-  # Job pushes regenerated CSV/JSON commits back to main.
   contents: write
 
 jobs:
@@ -17,7 +16,7 @@ jobs:
     timeout-minutes: 45
     concurrency:
       group: update-timetable
-      cancel-in-progress: false
+      cancel-in-progress: true
 
     steps:
       - name: Checkout repository
@@ -98,24 +97,14 @@ jobs:
           git config user.name "Taha Parker"
           git config user.email "98612931+tahayparker@users.noreply.github.com"
 
-          PUSH=0
-
-          git add public/cache/last_run.txt
-          if ! git diff --staged --quiet; then
-            git commit -m "Update scrape cache [skip deploy]"
-            PUSH=1
-          fi
-
           if [ "${{ steps.csv.outputs.changed }}" = "true" ]; then
             git add public/classes.csv public/scheduleData.json public/raw
             if ! git diff --staged --quiet; then
               git commit -m "Update timetable data [skip deploy]"
-              PUSH=1
+              git push
+            else
+              echo "Nothing to commit."
             fi
-          fi
-
-          if [ "$PUSH" = "1" ]; then
-            git push
           else
-            echo "Nothing to commit."
+            echo "No timetable changes detected."
           fi
