@@ -25,7 +25,8 @@ export function JrEventBlock({
   onSelect,
 }: JrEventBlockProps) {
   const durationMinutes =
-    timeStringToMinutes(booking.endTime) - timeStringToMinutes(booking.startTime);
+    timeStringToMinutes(booking.endTime) -
+    timeStringToMinutes(booking.startTime);
   const isHourOrLess = durationMinutes <= 60;
 
   const showClassType = height >= 48;
