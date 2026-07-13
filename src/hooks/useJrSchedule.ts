@@ -79,5 +79,13 @@ export function useJrSchedule(enabled: boolean): UseJrScheduleResult {
 
   const refresh = useCallback(() => load(true), [load]);
 
-  return { rooms, bookingIndex, isLoading, isRefreshing, error, fetchedAt, refresh };
+  return {
+    rooms,
+    bookingIndex,
+    isLoading,
+    isRefreshing,
+    error,
+    fetchedAt,
+    refresh,
+  };
 }
