@@ -60,8 +60,8 @@ export default function PrivacyPage() {
           </p>
           <p className="text-white/80 text-justify">
             <strong>Please read this Policy carefully.</strong> By accessing or
-            using vacansee-au, you acknowledge that you have read, understood, and
-            agree to the practices described herein.
+            using vacansee-au, you acknowledge that you have read, understood,
+            and agree to the practices described herein.
           </p>
         </motion.section>
 
@@ -482,8 +482,8 @@ export default function PrivacyPage() {
               security incidents, or violations of our policies
             </li>
             <li>
-              Protect the rights, property, safety, or security of vacansee-au, our
-              users, or the public, including in emergencies
+              Protect the rights, property, safety, or security of vacansee-au,
+              our users, or the public, including in emergencies
             </li>
           </ul>
         </motion.section>
