@@ -24,7 +24,10 @@ import { useRequireAuth } from "@/hooks/useRequireAuth";
 import { CampusMultiSelect } from "@/components/CampusMultiSelect";
 import { useTemporaryCampusFilter } from "@/hooks/useTemporaryCampusFilter";
 import { formatDateKey, parseDateKey } from "@/services/jrScheduleService";
-import { getRoomDisplayLabel, compareRoomsByBuilding } from "@/services/roomParsing";
+import {
+  getRoomDisplayLabel,
+  compareRoomsByBuilding,
+} from "@/services/roomParsing";
 import { SCHEDULE_SLOT_LABELS, type UowCampus } from "@/constants";
 
 interface FrontendRoomData {
@@ -302,19 +305,22 @@ export default function GraphPage() {
                               )}
                             </div>
                           </td>
-                          {Array.from({ length: timeIntervals.length }, (_, idx) => {
-                            const avail = roomData.availability[idx] ?? 0;
-                            return (
-                              <td
-                                key={idx}
-                                className={`relative z-0 border-b border-black/50 ${getCellColor(avail)} transition-colors duration-150 group-hover:brightness-110 ${idx === timeIntervals.length - 1 ? "" : "border-r border-black/100"}`}
-                                title={`${getRoomDisplayLabel(roomData.room)} - ${timeIntervals[idx]} - ${avail === 1 ? "Available" : "Occupied"}`}
-                                style={{ minWidth: "65px" }}
-                              >
-                                <div className="h-6"></div>
-                              </td>
-                            );
-                          })}
+                          {Array.from(
+                            { length: timeIntervals.length },
+                            (_, idx) => {
+                              const avail = roomData.availability[idx] ?? 0;
+                              return (
+                                <td
+                                  key={idx}
+                                  className={`relative z-0 border-b border-black/50 ${getCellColor(avail)} transition-colors duration-150 group-hover:brightness-110 ${idx === timeIntervals.length - 1 ? "" : "border-r border-black/100"}`}
+                                  title={`${getRoomDisplayLabel(roomData.room)} - ${timeIntervals[idx]} - ${avail === 1 ? "Available" : "Occupied"}`}
+                                  style={{ minWidth: "65px" }}
+                                >
+                                  <div className="h-6"></div>
+                                </td>
+                              );
+                            },
+                          )}
                         </motion.tr>
                       ))}
                   </AnimatePresence>
