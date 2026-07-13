@@ -67,7 +67,10 @@ import { addDays, format as formatDateFns, isWeekend } from "date-fns";
 import { ALL_CAMPUSES, isAllCampusesSelected } from "@/lib/campus";
 import { SCHEDULE_SLOT_LABELS, type UowCampus } from "@/constants";
 
-import { compareRoomsByBuilding, getRoomDisplayLabel } from "@/services/roomParsing";
+import {
+  compareRoomsByBuilding,
+  getRoomDisplayLabel,
+} from "@/services/roomParsing";
 
 interface FrontendRoomData {
   room: string;
@@ -162,9 +165,7 @@ function rowHasOccupancyInSlots(
   return selectedTimeSlots.some((idx) => availability[idx] === 0);
 }
 
-function getExcludeWithoutOccupancy(
-  filters: CustomGraphFilters,
-): boolean {
+function getExcludeWithoutOccupancy(filters: CustomGraphFilters): boolean {
   return filters.excludeWithoutOccupancy;
 }
 
@@ -395,9 +396,7 @@ export default function CustomGraphPage() {
     setLocalExcludeWeekends(filters.values.excludeWeekends);
   }, [filters.values.excludeWeekends]);
   useEffect(() => {
-    setLocalExcludeWithoutOccupancy(
-      getExcludeWithoutOccupancy(filters.values),
-    );
+    setLocalExcludeWithoutOccupancy(getExcludeWithoutOccupancy(filters.values));
   }, [filters.values.excludeWithoutOccupancy]);
 
   useEffect(() => {
@@ -453,10 +452,7 @@ export default function CustomGraphPage() {
       day.rooms.forEach((room) => {
         if (!room?.room) return;
         const campus = room.campus || roomCampusMap.get(room.room);
-        if (
-          campus &&
-          !selectedCampuses.includes(campus as UowCampus)
-        ) {
+        if (campus && !selectedCampuses.includes(campus as UowCampus)) {
           return;
         }
         roomSet.add(room.room);
@@ -482,7 +478,10 @@ export default function CustomGraphPage() {
   // Infer campuses from shared room list when link has no campuses param
   useEffect(() => {
     if (!urlHydrated || selectedCampuses.length > 0) return;
-    if (filters.values.selectedRooms.length === 0 || scheduleData.length === 0) {
+    if (
+      filters.values.selectedRooms.length === 0 ||
+      scheduleData.length === 0
+    ) {
       return;
     }
     const inferred = new Set<UowCampus>();
@@ -593,7 +592,10 @@ export default function CustomGraphPage() {
       if (!dayData) return;
 
       dayData.rooms.forEach((roomData) => {
-        if (!roomData || !filters.values.selectedRooms.includes(roomData.room)) {
+        if (
+          !roomData ||
+          !filters.values.selectedRooms.includes(roomData.room)
+        ) {
           return;
         }
 
@@ -1078,14 +1080,12 @@ export default function CustomGraphPage() {
           url: shareableURL,
         });
       } catch (err) {
-        if (
-          !(
-            err &&
-            typeof err === "object" &&
-            "name" in err &&
-            (err as any).name === "AbortError"
-          )
-        ) {
+        if (!(
+          err &&
+          typeof err === "object" &&
+          "name" in err &&
+          (err as any).name === "AbortError"
+        )) {
           showError("Failed to open share sheet.");
         }
       }
@@ -1241,10 +1241,7 @@ export default function CustomGraphPage() {
                       onCheckedChange={(checked) => {
                         setLocalExcludeWithoutOccupancy(checked);
                         startTransition(() =>
-                          filters.setField(
-                            "excludeWithoutOccupancy",
-                            checked,
-                          ),
+                          filters.setField("excludeWithoutOccupancy", checked),
                         );
                       }}
                       className="data-[state=checked]:bg-purple-500"
