@@ -37,7 +37,9 @@ export function JrRoomLane({
         <div
           key={slot}
           style={{ height: ROW_HEIGHT_PX }}
-          className={i % 2 === 0 ? "border-t border-white/15" : "border-t border-white/5"}
+          className={
+            i % 2 === 0 ? "border-t border-white/15" : "border-t border-white/5"
+          }
         />
       ))}
       {laidOut.map(({ booking, column, columnCount }, i) => {
