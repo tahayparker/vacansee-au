@@ -256,7 +256,9 @@ def update_rooms(csv_path: Path, *, download_gallery: bool = True) -> bool:
             continue
 
         try:
-            supabase.table(ROOMS_TABLE).update(payload).eq("id", db_room["id"]).execute()
+            supabase.table(ROOMS_TABLE).update(payload).eq(
+                "id", db_room["id"]
+            ).execute()
             updated += 1
             print(f"Updated {name}")
         except (APIError, RequestError, HTTPStatusError) as err:
