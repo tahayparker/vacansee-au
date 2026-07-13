@@ -41,7 +41,9 @@ export const CampusesRequestSchema = z.object({
   campuses: z.array(CampusSchema).min(1).optional(),
 });
 
-export function formatCampusSelectionLabel(campuses: readonly Campus[]): string {
+export function formatCampusSelectionLabel(
+  campuses: readonly Campus[],
+): string {
   if (campuses.length === 0) return "Select campus";
   if (isAllCampusesSelected(campuses)) return "All";
   if (campuses.length === 1) return campuses[0];
