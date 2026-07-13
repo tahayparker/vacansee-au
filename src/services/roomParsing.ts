@@ -36,10 +36,7 @@ export function getRoomDisplayLabel(roomIdentifier: string): string {
 }
 
 /** Sort key: building then room number (numeric-aware). */
-export function compareRoomsByBuilding(
-  a: string,
-  b: string,
-): number {
+export function compareRoomsByBuilding(a: string, b: string): number {
   const parsedA = parseRoomName(a);
   const parsedB = parseRoomName(b);
   const buildingCompare = parsedA.building.localeCompare(
