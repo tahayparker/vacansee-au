@@ -43,7 +43,8 @@ export function JrSidebar({
     campuses.length === 0
       ? rooms
       : rooms.filter(
-          (room) => room.campus === null || campuses.includes(room.campus as UowCampus),
+          (room) =>
+            room.campus === null || campuses.includes(room.campus as UowCampus),
         );
 
   // Keeps the mini calendar's displayed month in sync with whatever date the
@@ -71,7 +72,8 @@ export function JrSidebar({
             modifiersClassNames={{ weekend: "text-gray-500" }}
             className="bg-transparent p-0 text-white [--cell-size:2.375rem]"
             classNames={{
-              today: "rounded-md text-white ring-1 ring-inset ring-purple-400/60",
+              today:
+                "rounded-md text-white ring-1 ring-inset ring-purple-400/60",
               outside: "text-gray-500 aria-selected:text-gray-500",
             }}
           />
@@ -115,9 +117,14 @@ export function JrSidebar({
       {selectedBooking ? (
         <div className="space-y-1">
           <p className="text-sm text-white">
-            <span className="font-semibold text-purple-300">{selectedBooking.subjectCode}</span>
+            <span className="font-semibold text-purple-300">
+              {selectedBooking.subjectCode}
+            </span>
             {selectedBooking.classType && (
-              <span className="text-gray-300"> {selectedBooking.classType}</span>
+              <span className="text-gray-300">
+                {" "}
+                {selectedBooking.classType}
+              </span>
             )}
           </p>
           <p className="text-sm text-gray-300">
@@ -127,7 +134,9 @@ export function JrSidebar({
             {selectedBooking.room} · {selectedBooking.campus}
           </p>
           {selectedBooking.description && (
-            <p className="text-sm text-gray-400">{selectedBooking.description}</p>
+            <p className="text-sm text-gray-400">
+              {selectedBooking.description}
+            </p>
           )}
         </div>
       ) : (
