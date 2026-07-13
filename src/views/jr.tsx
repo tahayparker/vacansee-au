@@ -38,7 +38,9 @@ export default function JrCalendarPage() {
   const [includeWeekends, setIncludeWeekends] = useState(false);
   const [selectedRooms, setSelectedRooms] = useState<string[]>([]);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
-  const [selectedBooking, setSelectedBooking] = useState<JrBooking | null>(null);
+  const [selectedBooking, setSelectedBooking] = useState<JrBooking | null>(
+    null,
+  );
 
   const dateKey = useMemo(() => formatDateKey(anchorDate), [anchorDate]);
   const weekDates = useMemo(
@@ -93,7 +95,10 @@ export default function JrCalendarPage() {
         </div>
 
         <Sheet open={mobileFiltersOpen} onOpenChange={setMobileFiltersOpen}>
-          <SheetContent side="left" className="w-80 bg-black/95 border-white/10 p-0">
+          <SheetContent
+            side="left"
+            className="w-80 bg-black/95 border-white/10 p-0"
+          >
             <SheetTitle className="sr-only">Calendar filters</SheetTitle>
             <JrSidebar {...sidebarProps} />
           </SheetContent>
@@ -115,7 +120,10 @@ export default function JrCalendarPage() {
           <div className="min-h-0 flex-1">
             {isLoading ? (
               <div className="flex h-full items-center justify-center">
-                <LoadingSpinner size="large" message="Loading room schedules..." />
+                <LoadingSpinner
+                  size="large"
+                  message="Loading room schedules..."
+                />
               </div>
             ) : error ? (
               <div className="flex h-full flex-col items-center justify-center gap-4 p-6 text-center">
