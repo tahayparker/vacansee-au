@@ -41,12 +41,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
-      - name: Restore academic calendar cache
-        uses: actions/cache@v4
-        with:
-          path: public/cache/academic_calendar_cache.json
-          key: solss-calendar-cache-v2
-          restore-keys: solss-calendar-cache-
 
       - name: Validate required secrets
         env:
@@ -92,6 +86,19 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python scripts/upload_timetable.py
 
+      - name: Generate schedule JSON
+        if: steps.csv.outputs.changed == 'true'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python scripts/generate_schedule.py
+
+      - name: Format scheduleData.json
+        if: steps.csv.outputs.changed == 'true'
+        run: |
+          npm install --no-save prettier
+          npx prettier public/scheduleData.json --write
+
       - name: Commit and push changes
         run: |
           git config user.name "Taha Parker"
@@ -99,14 +106,14 @@ jobs:
 
           PUSH=0
 
-          git add public/cache/last_run.txt public/cache/academic_calendar_cache.json
+          git add public/cache/last_run.txt
           if ! git diff --staged --quiet; then
             git commit -m "Update scrape cache [skip deploy]"
             PUSH=1
           fi
 
           if [ "${{ steps.csv.outputs.changed }}" = "true" ]; then
-            git add public/classes.csv public/raw
+            git add public/classes.csv public/scheduleData.json public/raw
             if ! git diff --staged --quiet; then
               git commit -m "Update timetable data [skip deploy]"
               PUSH=1
