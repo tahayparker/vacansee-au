@@ -56,10 +56,12 @@ export function JrMonthView({
         const dateKey = formatDateKey(date);
         const dayBookings = rooms
           .flatMap((room) =>
-            getBookingsForDateRoom(bookingIndex, dateKey, room).map((booking) => ({
-              booking,
-              room,
-            })),
+            getBookingsForDateRoom(bookingIndex, dateKey, room).map(
+              (booking) => ({
+                booking,
+                room,
+              }),
+            ),
           )
           .sort(
             (a, b) =>
