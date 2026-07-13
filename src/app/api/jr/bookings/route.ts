@@ -59,7 +59,9 @@ async function fetchBookings(): Promise<JrBooking[]> {
     }));
 }
 
-function getDateRange(bookings: JrBooking[]): { min: string; max: string } | null {
+function getDateRange(
+  bookings: JrBooking[],
+): { min: string; max: string } | null {
   if (bookings.length === 0) return null;
   let min = bookings[0].date;
   let max = bookings[0].date;
