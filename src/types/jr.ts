@@ -21,6 +21,8 @@ export interface JrBooking {
   subjectCode: string;
   /** Class type (e.g. "Tutorial", "Lecture"). */
   classType: string;
+  /** Free-text booking description (may be empty for regular classes). */
+  description: string;
 }
 
 /** Response shape for GET /api/jr/bookings. */
