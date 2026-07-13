@@ -8,6 +8,7 @@ import { CampusMultiSelect } from "@/components/CampusMultiSelect";
 import { RoomMultiSelect } from "@/components/jr/RoomMultiSelect";
 import type { UowCampus } from "@/constants";
 import type { Room } from "@/types/shared";
+import type { JrBooking } from "@/types/jr";
 
 interface JrSidebarProps {
   anchorDate: Date;
@@ -20,6 +21,8 @@ interface JrSidebarProps {
   onSelectedRoomsChange: (rooms: string[]) => void;
   includeWeekends: boolean;
   onIncludeWeekendsChange: (value: boolean) => void;
+  selectedBooking: JrBooking | null;
+  onClearBooking: () => void;
 }
 
 export function JrSidebar({
@@ -33,6 +36,8 @@ export function JrSidebar({
   onSelectedRoomsChange,
   includeWeekends,
   onIncludeWeekendsChange,
+  selectedBooking,
+  onClearBooking,
 }: JrSidebarProps) {
   const roomsForSelectedCampuses =
     campuses.length === 0
@@ -53,9 +58,6 @@ export function JrSidebar({
   return (
     <div className="flex h-full w-full flex-col gap-5 overflow-y-auto p-4 lg:w-80 lg:shrink-0 lg:border-r lg:border-white/10">
       <div>
-        <label className="mb-2 block text-xs font-semibold uppercase tracking-wide text-gray-400">
-          Date
-        </label>
         <div className="flex justify-center">
           <Calendar
             mode="single"
@@ -107,6 +109,30 @@ export function JrSidebar({
           className="data-[state=checked]:bg-purple-500"
         />
       </div>
+
+      <div className="border-t border-white/10" />
+
+      {selectedBooking ? (
+        <div className="space-y-1">
+          <p className="text-sm text-white">
+            <span className="font-semibold text-purple-300">{selectedBooking.subjectCode}</span>
+            {selectedBooking.classType && (
+              <span className="text-gray-300"> {selectedBooking.classType}</span>
+            )}
+          </p>
+          <p className="text-sm text-gray-300">
+            {selectedBooking.startTime} – {selectedBooking.endTime}
+          </p>
+          <p className="text-sm text-gray-400">
+            {selectedBooking.room} · {selectedBooking.campus}
+          </p>
+          {selectedBooking.description && (
+            <p className="text-sm text-gray-400">{selectedBooking.description}</p>
+          )}
+        </div>
+      ) : (
+        <p className="text-sm text-gray-500">Click an event to see details</p>
+      )}
     </div>
   );
 }
