@@ -94,7 +94,9 @@ def fetch_rooms_data_paginated(page_size=100) -> List[RoomInfo]:
     Fetches rooms from Supabase in paginated fashion.
     Returns list of dicts with 'building' and 'full_name'.
     """
-    print(f"Fetching rooms data from Supabase with pagination (page size={page_size})...")
+    print(
+        f"Fetching rooms data from Supabase with pagination (page size={page_size})..."
+    )
     rooms_info: List[RoomInfo] = []
     offset = 0
     while True:
@@ -120,7 +122,10 @@ def fetch_rooms_data_paginated(page_size=100) -> List[RoomInfo]:
             else:
                 break
         except (APIError, RequestError) as db_err:
-            print(f"Error fetching rooms: {type(db_err).__name__} - {db_err}", file=sys.stderr)
+            print(
+                f"Error fetching rooms: {type(db_err).__name__} - {db_err}",
+                file=sys.stderr,
+            )
             break
         except Exception as e:
             print(f"Unexpected error fetching rooms: {e}", file=sys.stderr)
@@ -134,7 +139,9 @@ def fetch_all_timings_paginated(page_size=500) -> TimingsDict:
     """
     Fetches all timings from Supabase in paginated fashion. Returns timings_by_day[day][full_room_name] = list of (start, end)
     """
-    print(f"Fetching all timings from Supabase with pagination (page size={page_size})...")
+    print(
+        f"Fetching all timings from Supabase with pagination (page size={page_size})..."
+    )
     timings_by_day: TimingsDict = defaultdict(lambda: defaultdict(list))
     offset = 0
     processed_count = 0
@@ -153,7 +160,9 @@ def fetch_all_timings_paginated(page_size=500) -> TimingsDict:
                     start_time = timing.get("StartTime")
                     end_time = timing.get("EndTime")
                     if day and full_room_name and start_time and end_time:
-                        timings_by_day[day][full_room_name].append((start_time, end_time))
+                        timings_by_day[day][full_room_name].append(
+                            (start_time, end_time)
+                        )
                         processed_count += 1
                 if len(response.data) < page_size:
                     break
@@ -161,7 +170,10 @@ def fetch_all_timings_paginated(page_size=500) -> TimingsDict:
             else:
                 break
         except (APIError, RequestError) as db_err:
-            print(f"Error fetching timings: {type(db_err).__name__} - {db_err}", file=sys.stderr)
+            print(
+                f"Error fetching timings: {type(db_err).__name__} - {db_err}",
+                file=sys.stderr,
+            )
             break
         except Exception as e:
             print(f"Unexpected error fetching timings: {e}", file=sys.stderr)
@@ -192,6 +204,7 @@ def generate_schedule_data_from_csv(csv_path: Path) -> List[Dict[str, Any]]:
     """
     print(f"Generating schedule data from CSV: {csv_path}")
     import csv
+
     schedule: List[Dict[str, Any]] = []
     # Build: {date: {room: [(start, end), ...]}}
     timings_by_day_room: TimingsDict = defaultdict(lambda: defaultdict(list))
@@ -283,11 +296,11 @@ def generate_schedule_data_from_csv(csv_path: Path) -> List[Dict[str, Any]]:
             orig_combined = []
             for room in combined_rooms:
                 orig_combined.extend(timings_for_day.get(room, []))
-            
+
             orig_a = []
             for room in ind_a_rooms:
                 orig_a.extend(timings_for_day.get(room, []))
-            
+
             orig_b = []
             for room in ind_b_rooms:
                 orig_b.extend(timings_for_day.get(room, []))
@@ -305,7 +318,7 @@ def generate_schedule_data_from_csv(csv_path: Path) -> List[Dict[str, Any]]:
                 for s, e in combined_intervals:
                     if (s, e) not in effective_timings[ind_room]:
                         effective_timings[ind_room].append((s, e))
-            
+
             for ind_room in ind_b_rooms:
                 for s, e in combined_intervals:
                     if (s, e) not in effective_timings[ind_room]:
@@ -323,7 +336,9 @@ def generate_schedule_data_from_csv(csv_path: Path) -> List[Dict[str, Any]]:
             for i in range(slot_count - 1):
                 start_time = TIME_SLOTS[i]
                 end_time = TIME_SLOTS[i + 1]
-                available = is_slot_available(start_time, end_time, timings_for_this_room)
+                available = is_slot_available(
+                    start_time, end_time, timings_for_this_room
+                )
                 room_output_data["availability"].append(1 if available else 0)
             day_data["rooms"].append(room_output_data)
         schedule.append(day_data)
