@@ -1,11 +1,11 @@
-"use client"
+"use client";
 
-import * as React from "react"
+import * as React from "react";
 import {
   ChevronDownIcon,
   ChevronLeftIcon,
   ChevronRightIcon,
-} from "lucide-react"
+} from "lucide-react";
 import {
   DayPicker,
   getDefaultClassNames,
@@ -13,15 +13,25 @@ import {
   labelPrevious,
   useDayPicker,
   type DayButton,
-} from "react-day-picker"
+} from "react-day-picker";
 
-import { cn } from "@/lib/utils"
-import { Button, buttonVariants } from "@/components/ui/button"
+import { cn } from "@/lib/utils";
+import { Button, buttonVariants } from "@/components/ui/button";
 
 const MONTH_LABELS = [
-  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
-  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
-]
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "Jun",
+  "Jul",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
 
 function Calendar({
   className,
@@ -35,23 +45,27 @@ function Calendar({
   yearRange = 12,
   ...props
 }: React.ComponentProps<typeof DayPicker> & {
-  buttonVariant?: React.ComponentProps<typeof Button>["variant"]
+  buttonVariant?: React.ComponentProps<typeof Button>["variant"];
   /** Enables clicking the caption to drill down: days -> months -> years. */
-  showYearSwitcher?: boolean
+  showYearSwitcher?: boolean;
   /** Number of years shown per page in the years view. */
-  yearRange?: number
+  yearRange?: number;
 }) {
-  const defaultClassNames = getDefaultClassNames()
+  const defaultClassNames = getDefaultClassNames();
 
   const [navView, setNavView] = React.useState<"days" | "months" | "years">(
-    "days"
-  )
-  const initialYear = (props.month ?? props.defaultMonth ?? new Date()).getFullYear()
-  const [monthsYear, setMonthsYear] = React.useState(initialYear)
+    "days",
+  );
+  const initialYear = (
+    props.month ??
+    props.defaultMonth ??
+    new Date()
+  ).getFullYear();
+  const [monthsYear, setMonthsYear] = React.useState(initialYear);
   const [displayYears, setDisplayYears] = React.useState(() => ({
     from: initialYear - Math.floor(yearRange / 2 - 1),
     to: initialYear + Math.ceil(yearRange / 2),
-  }))
+  }));
 
   return (
     <DayPicker
@@ -60,7 +74,7 @@ function Calendar({
         "group/calendar bg-background p-3 [--cell-size:--spacing(8)] [[data-slot=card-content]_&]:bg-transparent [[data-slot=popover-content]_&]:bg-transparent",
         String.raw`rtl:**:[.rdp-button\_next>svg]:rotate-180`,
         String.raw`rtl:**:[.rdp-button\_previous>svg]:rotate-180`,
-        className
+        className,
       )}
       captionLayout={captionLayout}
       formatters={{
@@ -72,85 +86,85 @@ function Calendar({
         root: cn("w-fit", defaultClassNames.root),
         months: cn(
           "relative flex flex-col gap-4 md:flex-row",
-          defaultClassNames.months
+          defaultClassNames.months,
         ),
         month: cn("flex w-full flex-col gap-4", defaultClassNames.month),
         nav: cn(
           "absolute inset-x-0 top-0 flex w-full items-center justify-between gap-1",
-          defaultClassNames.nav
+          defaultClassNames.nav,
         ),
         button_previous: cn(
           buttonVariants({ variant: buttonVariant }),
           "size-(--cell-size) p-0 select-none aria-disabled:opacity-50",
-          defaultClassNames.button_previous
+          defaultClassNames.button_previous,
         ),
         button_next: cn(
           buttonVariants({ variant: buttonVariant }),
           "size-(--cell-size) p-0 select-none aria-disabled:opacity-50",
-          defaultClassNames.button_next
+          defaultClassNames.button_next,
         ),
         month_caption: cn(
           "flex h-(--cell-size) w-full items-center justify-center px-(--cell-size)",
-          defaultClassNames.month_caption
+          defaultClassNames.month_caption,
         ),
         dropdowns: cn(
           "flex h-(--cell-size) w-full items-center justify-center gap-1.5 text-sm font-medium",
-          defaultClassNames.dropdowns
+          defaultClassNames.dropdowns,
         ),
         dropdown_root: cn(
           "relative rounded-md border border-input shadow-xs has-focus:border-ring has-focus:ring-[3px] has-focus:ring-ring/50",
-          defaultClassNames.dropdown_root
+          defaultClassNames.dropdown_root,
         ),
         dropdown: cn(
           "absolute inset-0 bg-popover opacity-0",
-          defaultClassNames.dropdown
+          defaultClassNames.dropdown,
         ),
         caption_label: cn(
           "font-medium select-none",
           captionLayout === "label"
             ? "text-sm"
             : "flex h-8 items-center gap-1 rounded-md pr-1 pl-2 text-sm [&>svg]:size-3.5 [&>svg]:text-muted-foreground",
-          defaultClassNames.caption_label
+          defaultClassNames.caption_label,
         ),
         month_grid: cn("w-full border-collapse", defaultClassNames.month_grid),
         weekdays: cn("flex gap-1", defaultClassNames.weekdays),
         weekday: cn(
           "flex-1 rounded-md text-[0.8rem] font-normal text-muted-foreground select-none",
-          defaultClassNames.weekday
+          defaultClassNames.weekday,
         ),
         week: cn("mt-1 flex w-full gap-1", defaultClassNames.week),
         week_number_header: cn(
           "w-(--cell-size) select-none",
-          defaultClassNames.week_number_header
+          defaultClassNames.week_number_header,
         ),
         week_number: cn(
           "text-[0.8rem] text-muted-foreground select-none",
-          defaultClassNames.week_number
+          defaultClassNames.week_number,
         ),
         day: cn(
           "group/day relative aspect-square h-full w-full p-0 text-center select-none [&:last-child[data-selected=true]_button]:rounded-r-md",
           props.showWeekNumber
             ? "[&:nth-child(2)[data-selected=true]_button]:rounded-l-md"
             : "[&:first-child[data-selected=true]_button]:rounded-l-md",
-          defaultClassNames.day
+          defaultClassNames.day,
         ),
         range_start: cn(
           "rounded-l-md bg-accent",
-          defaultClassNames.range_start
+          defaultClassNames.range_start,
         ),
         range_middle: cn("rounded-none", defaultClassNames.range_middle),
         range_end: cn("rounded-r-md bg-accent", defaultClassNames.range_end),
         today: cn(
           "rounded-md bg-accent text-accent-foreground data-[selected=true]:rounded-none",
-          defaultClassNames.today
+          defaultClassNames.today,
         ),
         outside: cn(
           "text-muted-foreground aria-selected:text-muted-foreground",
-          defaultClassNames.outside
+          defaultClassNames.outside,
         ),
         disabled: cn(
           "text-muted-foreground opacity-50",
-          defaultClassNames.disabled
+          defaultClassNames.disabled,
         ),
         hidden: cn("invisible", defaultClassNames.hidden),
         ...classNames,
@@ -164,13 +178,13 @@ function Calendar({
               className={cn(className)}
               {...props}
             />
-          )
+          );
         },
         Chevron: ({ className, orientation, ...props }) => {
           if (orientation === "left") {
             return (
               <ChevronLeftIcon className={cn("size-4", className)} {...props} />
-            )
+            );
           }
 
           if (orientation === "right") {
@@ -179,12 +193,12 @@ function Calendar({
                 className={cn("size-4", className)}
                 {...props}
               />
-            )
+            );
           }
 
           return (
             <ChevronDownIcon className={cn("size-4", className)} {...props} />
-          )
+          );
         },
         DayButton: CalendarDayButton,
         WeekNumber: ({ children, ...props }) => {
@@ -194,7 +208,7 @@ function Calendar({
                 {children}
               </div>
             </td>
-          )
+          );
         },
         ...(showYearSwitcher
           ? {
@@ -248,12 +262,12 @@ function Calendar({
       }}
       {...props}
     />
-  )
+  );
 }
 
 interface YearRangeState {
-  from: number
-  to: number
+  from: number;
+  to: number;
 }
 
 /** Prev/next navigation that pages by month, year, or year-range depending on the active drill-down view. */
@@ -267,55 +281,61 @@ function CalendarNav({
   startMonth,
   endMonth,
 }: {
-  className?: string
-  navView: "days" | "months" | "years"
-  monthsYear: number
-  setMonthsYear: React.Dispatch<React.SetStateAction<number>>
-  displayYears: YearRangeState
-  setDisplayYears: React.Dispatch<React.SetStateAction<YearRangeState>>
-  startMonth?: Date
-  endMonth?: Date
+  className?: string;
+  navView: "days" | "months" | "years";
+  monthsYear: number;
+  setMonthsYear: React.Dispatch<React.SetStateAction<number>>;
+  displayYears: YearRangeState;
+  setDisplayYears: React.Dispatch<React.SetStateAction<YearRangeState>>;
+  startMonth?: Date;
+  endMonth?: Date;
 }) {
-  const { previousMonth, nextMonth, goToMonth } = useDayPicker()
-  const yearSpan = displayYears.to - displayYears.from + 1
+  const { previousMonth, nextMonth, goToMonth } = useDayPicker();
+  const yearSpan = displayYears.to - displayYears.from + 1;
 
   const isPreviousDisabled =
     navView === "years"
       ? !!startMonth && displayYears.from - 1 < startMonth.getFullYear()
       : navView === "months"
         ? !!startMonth && monthsYear - 1 < startMonth.getFullYear()
-        : !previousMonth
+        : !previousMonth;
 
   const isNextDisabled =
     navView === "years"
       ? !!endMonth && displayYears.to + 1 > endMonth.getFullYear()
       : navView === "months"
         ? !!endMonth && monthsYear + 1 > endMonth.getFullYear()
-        : !nextMonth
+        : !nextMonth;
 
   const handlePrevious = () => {
     if (navView === "years") {
-      setDisplayYears((prev) => ({ from: prev.from - yearSpan, to: prev.to - yearSpan }))
-      return
+      setDisplayYears((prev) => ({
+        from: prev.from - yearSpan,
+        to: prev.to - yearSpan,
+      }));
+      return;
     }
     if (navView === "months") {
-      setMonthsYear((year) => year - 1)
-      return
+      setMonthsYear((year) => year - 1);
+      return;
     }
-    if (previousMonth) goToMonth(previousMonth)
-  }
+    if (previousMonth) goToMonth(previousMonth);
+  };
 
   const handleNext = () => {
     if (navView === "years") {
-      setDisplayYears((prev) => ({ from: prev.from + yearSpan, to: prev.to + yearSpan }))
-      return
+      setDisplayYears((prev) => ({
+        from: prev.from + yearSpan,
+        to: prev.to + yearSpan,
+      }));
+      return;
     }
     if (navView === "months") {
-      setMonthsYear((year) => year + 1)
-      return
+      setMonthsYear((year) => year + 1);
+      return;
     }
-    if (nextMonth) goToMonth(nextMonth)
-  }
+    if (nextMonth) goToMonth(nextMonth);
+  };
 
   return (
     <nav className={cn(className, "pointer-events-none")}>
@@ -344,7 +364,7 @@ function CalendarNav({
         <ChevronRightIcon className="size-4" />
       </Button>
     </nav>
-  )
+  );
 }
 
 /** Clickable caption that drills down: days -> months -> years. */
@@ -358,23 +378,23 @@ function CalendarCaptionLabel({
   setDisplayYears,
   yearRange,
 }: {
-  children?: React.ReactNode
-  navView: "days" | "months" | "years"
-  setNavView: React.Dispatch<React.SetStateAction<"days" | "months" | "years">>
-  monthsYear: number
-  setMonthsYear: React.Dispatch<React.SetStateAction<number>>
-  displayYears: YearRangeState
-  setDisplayYears: React.Dispatch<React.SetStateAction<YearRangeState>>
-  yearRange: number
+  children?: React.ReactNode;
+  navView: "days" | "months" | "years";
+  setNavView: React.Dispatch<React.SetStateAction<"days" | "months" | "years">>;
+  monthsYear: number;
+  setMonthsYear: React.Dispatch<React.SetStateAction<number>>;
+  displayYears: YearRangeState;
+  setDisplayYears: React.Dispatch<React.SetStateAction<YearRangeState>>;
+  yearRange: number;
 }) {
-  const { months } = useDayPicker()
+  const { months } = useDayPicker();
 
   const label =
     navView === "days"
       ? children
       : navView === "months"
         ? monthsYear
-        : `${displayYears.from} – ${displayYears.to}`
+        : `${displayYears.from} – ${displayYears.to}`;
 
   return (
     <Button
@@ -384,22 +404,24 @@ function CalendarCaptionLabel({
       className="h-8 truncate px-2 text-sm font-medium"
       onClick={() => {
         if (navView === "days") {
-          setMonthsYear(months[0]?.date.getFullYear() ?? new Date().getFullYear())
-          setNavView("months")
+          setMonthsYear(
+            months[0]?.date.getFullYear() ?? new Date().getFullYear(),
+          );
+          setNavView("months");
         } else if (navView === "months") {
           setDisplayYears({
             from: monthsYear - Math.floor(yearRange / 2 - 1),
             to: monthsYear + Math.ceil(yearRange / 2),
-          })
-          setNavView("years")
+          });
+          setNavView("years");
         } else {
-          setNavView("months")
+          setNavView("months");
         }
       }}
     >
       {label}
     </Button>
-  )
+  );
 }
 
 /** Renders the day grid, or a month/year picker grid depending on drill-down state. */
@@ -415,48 +437,52 @@ function CalendarMonthGrid({
   endMonth,
   ...props
 }: Omit<React.ComponentProps<"table">, "children"> & {
-  children?: React.ReactNode
-  navView: "days" | "months" | "years"
-  setNavView: React.Dispatch<React.SetStateAction<"days" | "months" | "years">>
-  monthsYear: number
-  setMonthsYear: React.Dispatch<React.SetStateAction<number>>
-  displayYears: YearRangeState
-  startMonth?: Date
-  endMonth?: Date
+  children?: React.ReactNode;
+  navView: "days" | "months" | "years";
+  setNavView: React.Dispatch<React.SetStateAction<"days" | "months" | "years">>;
+  monthsYear: number;
+  setMonthsYear: React.Dispatch<React.SetStateAction<number>>;
+  displayYears: YearRangeState;
+  startMonth?: Date;
+  endMonth?: Date;
 }) {
-  const { goToMonth } = useDayPicker()
-  const currentYear = new Date().getFullYear()
-  const currentMonth = new Date().getMonth()
+  const { goToMonth } = useDayPicker();
+  const currentYear = new Date().getFullYear();
+  const currentMonth = new Date().getMonth();
 
   if (navView === "years") {
     return (
       <div className={cn("grid grid-cols-3 gap-1.5 p-1", className)}>
-        {Array.from({ length: displayYears.to - displayYears.from + 1 }, (_, i) => {
-          const year = displayYears.from + i
-          const isDisabled =
-            (!!startMonth && year < startMonth.getFullYear()) ||
-            (!!endMonth && year > endMonth.getFullYear())
-          return (
-            <Button
-              key={year}
-              type="button"
-              variant="ghost"
-              disabled={isDisabled}
-              className={cn(
-                "h-9 w-full text-sm font-normal",
-                year === currentYear && "ring-1 ring-inset ring-purple-400/60"
-              )}
-              onClick={() => {
-                setMonthsYear(year)
-                setNavView("months")
-              }}
-            >
-              {year}
-            </Button>
-          )
-        })}
+        {Array.from(
+          { length: displayYears.to - displayYears.from + 1 },
+          (_, i) => {
+            const year = displayYears.from + i;
+            const isDisabled =
+              (!!startMonth && year < startMonth.getFullYear()) ||
+              (!!endMonth && year > endMonth.getFullYear());
+            return (
+              <Button
+                key={year}
+                type="button"
+                variant="ghost"
+                disabled={isDisabled}
+                className={cn(
+                  "h-9 w-full text-sm font-normal",
+                  year === currentYear &&
+                    "ring-1 ring-inset ring-purple-400/60",
+                )}
+                onClick={() => {
+                  setMonthsYear(year);
+                  setNavView("months");
+                }}
+              >
+                {year}
+              </Button>
+            );
+          },
+        )}
       </div>
-    )
+    );
   }
 
   if (navView === "months") {
@@ -469,7 +495,7 @@ function CalendarMonthGrid({
               i < startMonth.getMonth()) ||
             (!!endMonth &&
               monthsYear === endMonth.getFullYear() &&
-              i > endMonth.getMonth())
+              i > endMonth.getMonth());
           return (
             <Button
               key={label}
@@ -480,26 +506,26 @@ function CalendarMonthGrid({
                 "h-9 w-full text-sm font-normal",
                 monthsYear === currentYear &&
                   i === currentMonth &&
-                  "ring-1 ring-inset ring-purple-400/60"
+                  "ring-1 ring-inset ring-purple-400/60",
               )}
               onClick={() => {
-                goToMonth(new Date(monthsYear, i, 1))
-                setNavView("days")
+                goToMonth(new Date(monthsYear, i, 1));
+                setNavView("days");
               }}
             >
               {label}
             </Button>
-          )
+          );
         })}
       </div>
-    )
+    );
   }
 
   return (
     <table className={className} {...props}>
       {children}
     </table>
-  )
+  );
 }
 
 function CalendarDayButton({
@@ -508,12 +534,12 @@ function CalendarDayButton({
   modifiers,
   ...props
 }: React.ComponentProps<typeof DayButton>) {
-  const defaultClassNames = getDefaultClassNames()
+  const defaultClassNames = getDefaultClassNames();
 
-  const ref = React.useRef<HTMLButtonElement>(null)
+  const ref = React.useRef<HTMLButtonElement>(null);
   React.useEffect(() => {
-    if (modifiers.focused) ref.current?.focus()
-  }, [modifiers.focused])
+    if (modifiers.focused) ref.current?.focus();
+  }, [modifiers.focused]);
 
   return (
     <Button
@@ -533,11 +559,11 @@ function CalendarDayButton({
       className={cn(
         "flex aspect-square size-auto w-full min-w-(--cell-size) flex-col gap-1 leading-none font-normal group-data-[focused=true]/day:relative group-data-[focused=true]/day:z-10 group-data-[focused=true]/day:border-ring group-data-[focused=true]/day:ring-[3px] group-data-[focused=true]/day:ring-ring/50 data-[range-end=true]:rounded-md data-[range-end=true]:rounded-r-md data-[range-end=true]:bg-purple-600/80 data-[range-end=true]:text-white data-[range-middle=true]:rounded-none data-[range-middle=true]:bg-accent data-[range-middle=true]:text-accent-foreground data-[range-start=true]:rounded-md data-[range-start=true]:rounded-l-md data-[range-start=true]:bg-purple-600/80 data-[range-start=true]:text-white data-[selected-single=true]:bg-purple-600/80 data-[selected-single=true]:text-white dark:hover:bg-white/10 dark:hover:text-white [&>span]:text-xs [&>span]:opacity-70",
         defaultClassNames.day,
-        className
+        className,
       )}
       {...props}
     />
-  )
+  );
 }
 
-export { Calendar, CalendarDayButton }
+export { Calendar, CalendarDayButton };
