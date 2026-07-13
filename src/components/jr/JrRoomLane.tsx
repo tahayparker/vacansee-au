@@ -14,6 +14,7 @@ interface JrRoomLaneProps {
   dateKey: string;
   room: string;
   showRoomLabel?: boolean;
+  onSelectBooking?: (booking: JrBooking) => void;
 }
 
 /** A single room's bookings for a single date, rendered as an event lane. */
@@ -22,6 +23,7 @@ export function JrRoomLane({
   dateKey,
   room,
   showRoomLabel = true,
+  onSelectBooking,
 }: JrRoomLaneProps) {
   const bookings = getBookingsForDateRoom(bookingIndex, dateKey, room);
   const laidOut = layoutOverlappingBookings(bookings);
@@ -51,6 +53,7 @@ export function JrRoomLane({
             leftPct={column * widthPct}
             widthPct={widthPct}
             showRoomLabel={showRoomLabel}
+            onSelect={onSelectBooking}
           />
         );
       })}
