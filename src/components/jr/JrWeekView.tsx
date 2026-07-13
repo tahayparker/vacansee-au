@@ -13,7 +13,12 @@ interface JrWeekViewProps {
 
 const MIN_COLUMN_WIDTH = 150;
 
-export function JrWeekView({ bookingIndex, dates, rooms, onSelectBooking }: JrWeekViewProps) {
+export function JrWeekView({
+  bookingIndex,
+  dates,
+  rooms,
+  onSelectBooking,
+}: JrWeekViewProps) {
   if (rooms.length === 0) {
     return (
       <div className="flex h-full items-center justify-center text-sm text-gray-400">
