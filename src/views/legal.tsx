@@ -46,10 +46,10 @@ export default function LegalPage() {
             1. Acceptance of Terms
           </h2>
           <p className="text-white/80">
-            By accessing or using the vacansee-au platform (&quot;Service&quot;),
-            you agree to be bound by these Terms of Service (&quot;Terms&quot;).
-            If you do not agree with any part of the Terms, you must not use the
-            Service.
+            By accessing or using the vacansee-au platform
+            (&quot;Service&quot;), you agree to be bound by these Terms of
+            Service (&quot;Terms&quot;). If you do not agree with any part of
+            the Terms, you must not use the Service.
           </p>
         </motion.section>
 
@@ -102,8 +102,9 @@ export default function LegalPage() {
           <p className="text-white/80">
             All content and functionality of the Service—including but not
             limited to code, design, text, graphics, and branding—are the
-            exclusive property of Taha Parker and/or the vacansee-au team and are
-            protected by applicable copyright and intellectual property laws.
+            exclusive property of Taha Parker and/or the vacansee-au team and
+            are protected by applicable copyright and intellectual property
+            laws.
           </p>
         </motion.section>
 
