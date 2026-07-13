@@ -1,10 +1,5 @@
 "use client";
 
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "@/components/ui/popover";
 import { timeStringToMinutes } from "@/services/jrScheduleService";
 import type { JrBooking } from "@/types/jr";
 
@@ -17,6 +12,7 @@ interface JrEventBlockProps {
   /** Width as a % of the lane width (for side-by-side overlaps). */
   widthPct?: number;
   showRoomLabel?: boolean;
+  onSelect?: (booking: JrBooking) => void;
 }
 
 export function JrEventBlock({
@@ -26,6 +22,7 @@ export function JrEventBlock({
   leftPct = 0,
   widthPct = 100,
   showRoomLabel = true,
+  onSelect,
 }: JrEventBlockProps) {
   const durationMinutes =
     timeStringToMinutes(booking.endTime) - timeStringToMinutes(booking.startTime);
@@ -35,57 +32,40 @@ export function JrEventBlock({
   const showBottomLine = showRoomLabel && height >= 62;
 
   const timeLine = isHourOrLess
-    ? `${booking.startTime}–${booking.endTime} · ${booking.campus}`
-    : `${booking.startTime}–${booking.endTime}`;
+    ? `${booking.startTime}\u2013${booking.endTime} \u00b7 ${booking.campus}`
+    : `${booking.startTime}\u2013${booking.endTime}`;
   const bottomLine = isHourOrLess
     ? booking.room
-    : `${booking.room} · ${booking.campus}`;
+    : `${booking.room} \u00b7 ${booking.campus}`;
 
   return (
-    <Popover>
-      <PopoverTrigger asChild>
-        <button
-          type="button"
-          style={{
-            top: top + 1,
-            height: height - 2,
-            left: `calc(${leftPct}% + 2px)`,
-            width: `calc(${widthPct}% - 4px)`,
-          }}
-          className="absolute overflow-hidden rounded-md border-l-[3px] border-purple-400 bg-purple-950/85 px-1.5 py-1 text-left text-white shadow-sm transition-colors hover:bg-purple-900/90"
-        >
-          <p className="truncate text-[13px] font-bold leading-tight">
-            {booking.subjectCode}
-          </p>
-          {showClassType && (
-            <p className="truncate text-[11px] leading-tight text-purple-200/90">
-              {booking.classType}
-            </p>
-          )}
-          <p className="truncate text-[11px] leading-tight text-purple-200/80">
-            {timeLine}
-          </p>
-          {showBottomLine && (
-            <p className="truncate text-[11px] leading-tight text-purple-200/80">
-              {bottomLine}
-            </p>
-          )}
-        </button>
-      </PopoverTrigger>
-      <PopoverContent
-        side="right"
-        align="start"
-        className="w-64 bg-black/80 backdrop-blur-md border-white/20 text-white text-sm space-y-1.5"
-      >
-        <p className="font-semibold text-purple-300">{booking.subjectCode}</p>
-        <p className="text-gray-300">{booking.classType}</p>
-        <p className="text-gray-300">
-          {booking.startTime} – {booking.endTime}
+    <button
+      type="button"
+      onClick={() => onSelect?.(booking)}
+      style={{
+        top: top + 1,
+        height: height - 2,
+        left: `calc(${leftPct}% + 2px)`,
+        width: `calc(${widthPct}% - 4px)`,
+      }}
+      className="absolute overflow-hidden rounded-md border-l-[3px] border-purple-400 bg-purple-950/85 px-1.5 py-1 text-left text-white shadow-sm transition-colors hover:bg-purple-900/90"
+    >
+      <p className="truncate text-[13px] font-bold leading-tight">
+        {booking.subjectCode}
+      </p>
+      {showClassType && (
+        <p className="truncate text-[11px] leading-tight text-purple-200/90">
+          {booking.classType}
         </p>
-        <p className="text-gray-400">
-          {booking.room} · {booking.campus}
+      )}
+      <p className="truncate text-[11px] leading-tight text-purple-200/80">
+        {timeLine}
+      </p>
+      {showBottomLine && (
+        <p className="truncate text-[11px] leading-tight text-purple-200/80">
+          {bottomLine}
         </p>
-      </PopoverContent>
-    </Popover>
+      )}
+    </button>
   );
 }
