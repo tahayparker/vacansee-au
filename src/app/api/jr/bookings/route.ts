@@ -36,6 +36,7 @@ async function fetchBookings(): Promise<JrBooking[]> {
       EndTime: true,
       SubCode: true,
       Class: true,
+      Description: true,
     },
   });
 
@@ -54,6 +55,7 @@ async function fetchBookings(): Promise<JrBooking[]> {
       endTime: t.EndTime,
       subjectCode: t.SubCode,
       classType: t.Class,
+      description: t.Description,
     }));
 }
 
