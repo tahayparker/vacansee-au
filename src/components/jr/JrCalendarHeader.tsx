@@ -78,7 +78,10 @@ export function JrCalendarHeader({
         {title}
       </h2>
 
-      <Tabs value={view} onValueChange={(v) => onViewChange(v as JrCalendarView)}>
+      <Tabs
+        value={view}
+        onValueChange={(v) => onViewChange(v as JrCalendarView)}
+      >
         <TabsList className="h-9 bg-black/40 border border-white/10">
           <TabsTrigger
             value="day"
