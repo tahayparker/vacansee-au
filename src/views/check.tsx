@@ -744,7 +744,8 @@ export default function CheckAvailabilityPage() {
               animate="visible"
               exit="exit"
               className={cn(
-                isChecking && "opacity-50 pointer-events-none transition-opacity duration-100",
+                isChecking &&
+                  "opacity-50 pointer-events-none transition-opacity duration-100",
               )}
             >
               <Alert
