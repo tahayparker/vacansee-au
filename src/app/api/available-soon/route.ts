@@ -27,7 +27,11 @@ import { logger, generateRequestId } from "@/lib/logger";
 import type { Room } from "@/types/shared";
 import { expandBookedRoomNames } from "@/services/roomCombos";
 import { mapPrismaRoom } from "@/services/roomService";
-import { CampusSchema, CampusesRequestSchema, parseCampuses } from "@/lib/campus";
+import {
+  CampusSchema,
+  CampusesRequestSchema,
+  parseCampuses,
+} from "@/lib/campus";
 
 const RequestSchema = z.object({
   durationMinutes: z.number().int().min(0).max(480).optional().default(30),
