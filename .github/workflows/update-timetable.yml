@@ -2,9 +2,9 @@ name: Update Timetable Data
 
 on:
   schedule:
-    # Every 20 minutes. The scraper's preload publish-date check is cheap;
+    # Every hour. The scraper's preload publish-date check is cheap;
     # a full multi-campus scrape only runs when SOLSS data actually changes.
-    - cron: "*/20 * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -92,19 +92,6 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python scripts/upload_timetable.py
 
-      - name: Generate schedule JSON
-        if: steps.csv.outputs.changed == 'true'
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python scripts/generate_schedule.py
-
-      - name: Format scheduleData.json
-        if: steps.csv.outputs.changed == 'true'
-        run: |
-          npm install --no-save prettier
-          npx prettier public/scheduleData.json --write
-
       - name: Commit and push changes
         run: |
           git config user.name "Taha Parker"
@@ -119,7 +106,7 @@ jobs:
           fi
 
           if [ "${{ steps.csv.outputs.changed }}" = "true" ]; then
-            git add public/classes.csv public/scheduleData.json public/raw
+            git add public/classes.csv public/raw
             if ! git diff --staged --quiet; then
               git commit -m "Update timetable data [skip deploy]"
               PUSH=1
