@@ -54,7 +54,9 @@ def resolve_class_dates(
         if rng:
             start_wk, end_wk = int(rng.group(1)), int(rng.group(2))
             for wk in range(start_wk, end_wk + 1):
-                resolved = calendar.resolve_week(session_name, session_year, wk, weekday_name)
+                resolved = calendar.resolve_week(
+                    session_name, session_year, wk, weekday_name
+                )
                 if resolved:
                     dates.add(resolved)
             continue
@@ -62,7 +64,9 @@ def resolve_class_dates(
         single = _SINGLE_RE.match(token)
         if single:
             wk = int(single.group(1))
-            resolved = calendar.resolve_week(session_name, session_year, wk, weekday_name)
+            resolved = calendar.resolve_week(
+                session_name, session_year, wk, weekday_name
+            )
             if resolved:
                 dates.add(resolved)
             continue
