@@ -82,8 +82,8 @@ export default function DocsPage() {
               about room availability right when you need it.
             </p>
             <p className="text-white/80 text-lg text-justify">
-              Built with performance and usability in mind, vacansee-au provides a
-              fast, intuitive interface that works seamlessly on all devices.
+              Built with performance and usability in mind, vacansee-au provides
+              a fast, intuitive interface that works seamlessly on all devices.
             </p>
           </motion.section>
 
@@ -97,7 +97,8 @@ export default function DocsPage() {
               The primary goal is to make finding an available room quick and
               effortless. Whether you need a quiet place to study, a room for a
               group meeting, or just want to see the campus schedule at a
-              glance, vacansee-au provides the necessary tools to help you succeed.
+              glance, vacansee-au provides the necessary tools to help you
+              succeed.
             </p>
           </motion.section>
 
@@ -110,8 +111,8 @@ export default function DocsPage() {
               </h2>
             </div>
             <p className="text-white/80 text-lg text-justify">
-              Getting started with vacansee-au is simple. First, sign in using your
-              Google or GitHub account for secure access. Once logged in,
+              Getting started with vacansee-au is simple. First, sign in using
+              your Google or GitHub account for secure access. Once logged in,
               you&apos;ll find several pages to help you find available rooms:
             </p>
             <ul className="list-disc list-inside space-y-2 text-white/80 pl-1 text-lg">
