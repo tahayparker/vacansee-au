@@ -87,7 +87,9 @@ export function CampusMultiSelect({
             )}
           >
             <span className="truncate">
-              {disabled ? "Loading campuses..." : formatCampusSelectionLabel(selected)}
+              {disabled
+                ? "Loading campuses..."
+                : formatCampusSelectionLabel(selected)}
             </span>
             <ChevronsUpDown className="ml-2 size-4 shrink-0 opacity-50" />
           </Button>
