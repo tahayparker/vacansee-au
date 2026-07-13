@@ -50,10 +50,7 @@ jobs:
           if [ "${{ inputs.force }}" = "true" ]; then
             FORCE="--force"
           fi
-          python scripts/scrape_timetable.py \
-            --output public/classes.csv \
-            --raw-dir public/raw \
-            $FORCE
+          python scripts/scrape_timetable.py
 
       - name: Detect CSV changes
         id: csv
