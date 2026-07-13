@@ -6,12 +6,6 @@ on:
     # a full multi-campus scrape only runs when SOLSS data actually changes.
     - cron: "0 * * * *"
   workflow_dispatch:
-    inputs:
-      force:
-        description: Force scrape even if SOLSS publish date is unchanged
-        required: false
-        default: false
-        type: boolean
 
 permissions:
   # Job pushes regenerated CSV/JSON commits back to main.
