@@ -113,6 +113,7 @@ def insert_timings_from_csv(csv_path: Path) -> bool:
                     "Room": row.get("Room"),
                     "Date": (row.get("Date") or ""),
                     "Campus": (row.get("Campus") or ""),
+                    "Description": (row.get("Description") or ""),
                 }
 
                 # Basic validation for non-empty required values
