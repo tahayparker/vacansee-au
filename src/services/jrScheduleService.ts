@@ -132,7 +132,8 @@ export function getBookingsForDateRoom(
   const list = index.get(dateKey)?.get(room);
   if (!list) return [];
   return [...list].sort(
-    (a, b) => timeStringToMinutes(a.startTime) - timeStringToMinutes(b.startTime),
+    (a, b) =>
+      timeStringToMinutes(a.startTime) - timeStringToMinutes(b.startTime),
   );
 }
 
@@ -153,7 +154,8 @@ export function layoutOverlappingBookings(
   bookings: JrBooking[],
 ): LaidOutBooking[] {
   const sorted = [...bookings].sort(
-    (a, b) => timeStringToMinutes(a.startTime) - timeStringToMinutes(b.startTime),
+    (a, b) =>
+      timeStringToMinutes(a.startTime) - timeStringToMinutes(b.startTime),
   );
 
   const result: LaidOutBooking[] = [];
