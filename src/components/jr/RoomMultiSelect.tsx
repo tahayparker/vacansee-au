@@ -132,7 +132,9 @@ export function RoomMultiSelect({
                     <Check
                       className={cn(
                         "size-4",
-                        isSelected ? "opacity-100 text-purple-400" : "opacity-0",
+                        isSelected
+                          ? "opacity-100 text-purple-400"
+                          : "opacity-0",
                       )}
                     />
                     <span className="truncate">{room.name}</span>
