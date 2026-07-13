@@ -21,7 +21,7 @@ import {
   parseDateKey,
   shiftAnchorDate,
 } from "@/services/jrScheduleService";
-import type { JrCalendarView } from "@/types/jr";
+import type { JrCalendarView, JrBooking } from "@/types/jr";
 
 export default function JrCalendarPage() {
   const { loading: authLoading, isAuthenticated } = useRequireAuth();
@@ -38,6 +38,7 @@ export default function JrCalendarPage() {
   const [includeWeekends, setIncludeWeekends] = useState(false);
   const [selectedRooms, setSelectedRooms] = useState<string[]>([]);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
+  const [selectedBooking, setSelectedBooking] = useState<JrBooking | null>(null);
 
   const dateKey = useMemo(() => formatDateKey(anchorDate), [anchorDate]);
   const weekDates = useMemo(
@@ -68,6 +69,8 @@ export default function JrCalendarPage() {
     onSelectedRoomsChange: setSelectedRooms,
     includeWeekends,
     onIncludeWeekendsChange: setIncludeWeekends,
+    selectedBooking,
+    onClearBooking: () => setSelectedBooking(null),
   };
 
   if (authLoading) {
@@ -131,12 +134,14 @@ export default function JrCalendarPage() {
                 bookingIndex={bookingIndex}
                 dateKey={dateKey}
                 rooms={selectedRooms}
+                onSelectBooking={setSelectedBooking}
               />
             ) : view === "week" ? (
               <JrWeekView
                 bookingIndex={bookingIndex}
                 dates={weekDates}
                 rooms={selectedRooms}
+                onSelectBooking={setSelectedBooking}
               />
             ) : (
               <JrMonthView
