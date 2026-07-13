@@ -33,13 +33,28 @@ from bs4 import BeautifulSoup
 KEY_DATES_URL = "https://www.uow.edu.au/student/dates/"
 
 WEEKDAY_INDEX = {
-    "Monday": 0, "Tuesday": 1, "Wednesday": 2, "Thursday": 3,
-    "Friday": 4, "Saturday": 5, "Sunday": 6,
+    "Monday": 0,
+    "Tuesday": 1,
+    "Wednesday": 2,
+    "Thursday": 3,
+    "Friday": 4,
+    "Saturday": 5,
+    "Sunday": 6,
 }
 
 _MONTHS = {
-    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
-    "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
+    "jan": 1,
+    "feb": 2,
+    "mar": 3,
+    "apr": 4,
+    "may": 5,
+    "jun": 6,
+    "jul": 7,
+    "aug": 8,
+    "sep": 9,
+    "oct": 10,
+    "nov": 11,
+    "dec": 12,
 }
 
 
@@ -78,6 +93,7 @@ def parse_date_range(text: str) -> tuple[date, date] | None:
 
 
 # ── Standard sessions (key dates page) ───────────────────────────────────────
+
 
 @dataclass
 class TeachingBlock:
@@ -198,6 +214,7 @@ def fetch_standard_sessions(html: str) -> dict[tuple[str, int], StandardSession]
 
 # ── Non-standard sessions (PDF) ───────────────────────────────────────────────
 
+
 @dataclass
 class NonStandardSession:
     name: str
@@ -206,7 +223,9 @@ class NonStandardSession:
 
 
 _NONSTANDARD_TAB_RE = re.compile(r"\d{4}\s+Non-Standard Sessions", re.IGNORECASE)
-_PDF_ROW_RE = re.compile(r"^(.+?)\s+(\d{1,2}/\d{1,2}/\d{4})\s+(\d{1,2}/\d{1,2}/\d{4})\b")
+_PDF_ROW_RE = re.compile(
+    r"^(.+?)\s+(\d{1,2}/\d{1,2}/\d{4})\s+(\d{1,2}/\d{1,2}/\d{4})\b"
+)
 
 
 def find_nonstandard_pdf_url(html: str) -> str:
@@ -233,7 +252,9 @@ def find_nonstandard_pdf_url(html: str) -> str:
             if link:
                 return link["href"]
 
-    raise RuntimeError("Could not locate the non-standard sessions PDF link on the key dates page.")
+    raise RuntimeError(
+        "Could not locate the non-standard sessions PDF link on the key dates page."
+    )
 
 
 def _parse_ddmmyyyy(text: str) -> date:
@@ -321,7 +342,9 @@ class AcademicCalendar:
     def is_gsm(session_name: str) -> bool:
         return session_name.strip().upper().startswith("GSM")
 
-    def resolve_week(self, session_name: str, year: int, week_num: int, weekday_name: str) -> date | None:
+    def resolve_week(
+        self, session_name: str, year: int, week_num: int, weekday_name: str
+    ) -> date | None:
         """Resolve (session, year, week number, weekday) -> actual date.
 
         Lookup order: exact standard-session match for the given year,
@@ -362,7 +385,9 @@ class AcademicCalendar:
 
         direct = self.standard.get((session_name, year))
         if direct and direct.blocks:
-            return direct.blocks[0].date_start, direct.blocks[-1].date_start + timedelta(days=6)
+            return direct.blocks[0].date_start, direct.blocks[
+                -1
+            ].date_start + timedelta(days=6)
 
         if session_name not in self._merge_cache:
             merged = self._merge(session_name)
@@ -370,7 +395,9 @@ class AcademicCalendar:
                 self._merge_cache[session_name] = merged
         merged = self._merge_cache.get(session_name)
         if merged and merged.blocks:
-            return merged.blocks[0].date_start, merged.blocks[-1].date_start + timedelta(days=6)
+            return merged.blocks[0].date_start, merged.blocks[
+                -1
+            ].date_start + timedelta(days=6)
 
         return None
 
