@@ -51,9 +51,7 @@ def parse_room_name(name: str) -> Tuple[str, str]:
 TBA_ROOM = "0-00"
 
 
-def resolve_room_campus(
-    room_name: str, campus_counts: Counter[str]
-) -> Optional[str]:
+def resolve_room_campus(room_name: str, campus_counts: Counter[str]) -> Optional[str]:
     """Pick the canonical campus for a room from its timetable row counts."""
     building, _ = parse_room_name(room_name)
     if building in NO_CAMPUS_BUILDINGS or room_name == TBA_ROOM:
@@ -122,8 +120,7 @@ def collect_rooms_from_csv(csv_path: Path) -> List[Dict[str, Any]]:
         )
 
     print(
-        f"Prepared {len(rooms)} unique rooms from CSV "
-        f"(out of {total_rows} rows)."
+        f"Prepared {len(rooms)} unique rooms from CSV " f"(out of {total_rows} rows)."
     )
     return rooms
 
@@ -161,7 +158,9 @@ def delete_all_rooms() -> bool:
             if hasattr(delete_response, "data") and delete_response.data
             else "Unknown number of"
         )
-        print(f"Successfully deleted {deleted_count} existing rows from '{ROOMS_TABLE}'.")
+        print(
+            f"Successfully deleted {deleted_count} existing rows from '{ROOMS_TABLE}'."
+        )
         return True
     except (APIError, RequestError, HTTPStatusError) as db_err:
         print(
@@ -169,7 +168,9 @@ def delete_all_rooms() -> bool:
             file=sys.stderr,
         )
     except Exception as e:
-        print(f"Unexpected error deleting data from '{ROOMS_TABLE}': {e}", file=sys.stderr)
+        print(
+            f"Unexpected error deleting data from '{ROOMS_TABLE}': {e}", file=sys.stderr
+        )
         traceback.print_exc()
     return False
 
@@ -186,7 +187,9 @@ def find_new_rooms_from_csv(
     except (FileNotFoundError, ValueError) as err:
         print(f"Error: {err}", file=sys.stderr)
     except Exception as e:
-        print(f"An unexpected error occurred during CSV processing: {e}", file=sys.stderr)
+        print(
+            f"An unexpected error occurred during CSV processing: {e}", file=sys.stderr
+        )
         traceback.print_exc()
     return []
 
@@ -226,7 +229,10 @@ def insert_rooms(rooms: List[Dict[str, Any]]) -> bool:
         print(f"Successfully inserted {total_inserted} rooms.")
         return True
     except (APIError, RequestError, HTTPStatusError) as db_err:
-        print(f"Error inserting rooms: {type(db_err).__name__} - {db_err}", file=sys.stderr)
+        print(
+            f"Error inserting rooms: {type(db_err).__name__} - {db_err}",
+            file=sys.stderr,
+        )
     except Exception as e:
         print(f"Unexpected error inserting rooms: {e}", file=sys.stderr)
         traceback.print_exc()
@@ -259,7 +265,9 @@ if __name__ == "__main__":
             if new_room_data is not None:
                 final_success = insert_rooms(new_room_data)
             else:
-                print("Room update process failed during CSV processing.", file=sys.stderr)
+                print(
+                    "Room update process failed during CSV processing.", file=sys.stderr
+                )
     except (RuntimeError, Exception) as main_err:
         print(f"Script failed: {main_err}", file=sys.stderr)
     finally:
