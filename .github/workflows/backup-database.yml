@@ -2,8 +2,8 @@ name: Backup Database
 
 on:
   schedule:
-    # Every 1 hour
-    - cron: "0 * * * *"
+    # Run at 12:00 AM Sydney time (UTC+11)
+    - cron: "0 0 * * *"
       timezone: Australia/Sydney
   workflow_dispatch:
 
