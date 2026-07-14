@@ -54,3 +54,6 @@ __pycache__/
 .storage_state.json
 scripts/debug/
 downloaded_files/
+
+# scraper checkpoint
+public/raw/uow_wrb_checkpoint.json
