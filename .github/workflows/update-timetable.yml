@@ -2,8 +2,7 @@ name: Update Timetable Data
 
 on:
   schedule:
-    # Every hour. The scraper's preload publish-date check is cheap;
-    # a full multi-campus scrape only runs when SOLSS data actually changes.
+    # Every hour
     - cron: "0 * * * *"
   workflow_dispatch:
 
