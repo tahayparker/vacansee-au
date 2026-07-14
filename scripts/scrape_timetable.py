@@ -36,22 +36,22 @@ Normalization follows the conventions in vacansee-au/scripts/scrape_timetable.py
   - "300-UG-03" -> "300-UG03" (second hyphen dropped)
   - "LP_400-101" -> "400-101"
   - "to be advised" -> "0-00"
-  - online variants -> "Online"
+  - online variants ("Class Online", "College Online", "Refer to
+    Moodle", etc.) -> "Online"
+  - bare "Foyer" with no building number -> "29-Foyer" (the only foyer
+    that shows up without one, always building 29 in practice)
+  - "<building>-FOYER" (any case) -> "<building>-Foyer"
 
-Room-merge splitting (per explicit instruction, a deliberate deviation
-from the simple "is the whole string a known room" check the old version
-used) - for a Location like "390-235 & 390-236" or "29-G04 & Foyer",
-split into "&"/";"-delimited fragments and check EACH fragment (not the
-combined string) against the campus's known room list:
-  - every fragment is itself a real, individually-bookable room -> split
-    fully into those rooms; the merged combo is dropped entirely (both
-    real rooms will actually be occupied, listing only the combo would
-    hide that from the individual rooms' availability).
-  - some fragments are real rooms, others aren't (e.g. "29-G04" is a
-    room, "Foyer" isn't) -> occupy both the real fragment(s) AND the
-    merged combo as printed - no new room is invented for "Foyer".
-  - no fragment is a real room -> occupy only the merged combo as a
-    single room, unsplit.
+Room-merge splitting: a Location like "390-235 & 390-236" or
+"29-G04 & Foyer" is unconditionally split on "&"/";" into its individual
+rooms - every fragment becomes its own occupied room, full stop. A
+combined/merged room string is never kept as a row in its own right;
+checking each fragment against a "known room list" first (an earlier
+version of this script did that) turned out to be the wrong call, since
+a campus's own room list doesn't necessarily include every physical room
+that shows up in its bookings (e.g. a UOW College Wollongong booking can
+legitimately list a room that's only in the main Wollongong campus's room
+list) - splitting unconditionally sidesteps that mismatch entirely.
 
 Every text value pulled from the HTML (Name/Description/Location/etc.)
 is whitespace-collapsed (internal newlines/tabs/runs of spaces -> single
@@ -203,11 +203,14 @@ _ONLINE_VARIANTS = {
     "lecture online",
     "online",
     "online optional room available",
+    "college online",
+    "refer to moodle",
 }
+_FOYER_WITH_BUILDING_RE = re.compile(r"^(\d+[A-Za-z]*)-FOYER$", re.IGNORECASE)
 _WS_COLLAPSE_RE = re.compile(r"\s+")
 _TRAILING_CAMPUS_RE = re.compile(r"\s*Campus$", re.IGNORECASE)
 
-# Sort priority for classes.csv/raw_classes.csv
+# Sort priority for classes.csv/raw_classes.csv, per explicit instruction -
 # NOT the site's own dropdown order.
 CAMPUS_SORT_ORDER = [
     "Wollongong",
@@ -681,6 +684,15 @@ def clean_room_fragment(room):
     online_key = room.rstrip(".").strip().lower()
     if online_key in _ONLINE_VARIANTS:
         return "Online"
+    if room.strip().lower() == "foyer":
+        # The one foyer fragment that shows up with no building number of
+        # its own - per explicit instruction, this always means the
+        # building 29 foyer, so it's special-cased rather than left as a
+        # bare, building-less "Foyer" room.
+        return "29-Foyer"
+    m_foyer = _FOYER_WITH_BUILDING_RE.match(room.strip())
+    if m_foyer:
+        return f"{m_foyer.group(1)}-Foyer"
     room = _LP_PREFIX_RE.sub("400-", room)
     m = _ROOM_CODE_RE.fullmatch(room)
     if m:
@@ -691,21 +703,11 @@ def clean_room_fragment(room):
     return room
 
 
-def resolve_location_rooms(raw_location, known_rooms_set):
+def resolve_location_rooms(raw_location):
     """
-    Split a Location string on '&'/';' into fragments and decide what to
-    occupy based on which fragments are themselves real, individually
-    bookable rooms in this campus's room list (see module docstring for
-    the three cases):
-
-      - ALL fragments are real rooms -> split fully, drop the merged combo.
-      - SOME fragments are real rooms -> occupy those rooms AND the
-        merged combo as printed (no new room invented for the rest).
-      - NONE are real rooms -> occupy only the merged combo, unsplit.
-
-    A Location with no '&'/';' at all is just returned as one room,
-    regardless of whether it's "known" - single rooms were never in
-    question.
+    Split a Location string on '&'/';' into individual rooms and always
+    occupy each one separately - a merged combo is never kept as its own
+    row. A Location with no '&'/';' at all is just returned as one room.
     """
     raw = collapse_ws(raw_location)
     if not raw:
@@ -714,24 +716,9 @@ def resolve_location_rooms(raw_location, known_rooms_set):
     folded = _AMP_RE.sub(";", raw)
     parts = [p.strip() for p in folded.split(";") if p.strip()]
 
-    if len(parts) <= 1:
-        return [clean_room_fragment(parts[0] if parts else raw)]
-
-    def is_known(p):
-        return p in known_rooms_set or clean_room_fragment(p) in known_rooms_set
-
-    known_parts = [p for p in parts if is_known(p)]
-    merged_label = clean_room_fragment(raw)
-
-    if len(known_parts) == len(parts):
-        # Every fragment is a real, separately-occupied room.
-        return [clean_room_fragment(p) for p in known_parts]
-    if known_parts:
-        # Mixed: real fragment(s) + something that isn't a listed room
-        # (e.g. "Foyer") - occupy the real one(s) AND the combo as printed.
-        return [clean_room_fragment(p) for p in known_parts] + [merged_label]
-    # Nothing recognisable as an individual room - keep the combo whole.
-    return [merged_label]
+    if not parts:
+        return [clean_room_fragment(raw)]
+    return [clean_room_fragment(p) for p in parts]
 
 
 def load_checkpoint(checkpoint_file):
@@ -746,15 +733,7 @@ def save_checkpoint_locked(done_set, lock, checkpoint_file):
 
 
 def write_rows(
-    writer,
-    csv_file,
-    csv_lock,
-    campus_name,
-    room_display,
-    room_label,
-    rows,
-    known_rooms_set,
-    context,
+    writer, csv_file, csv_lock, campus_name, room_display, room_label, rows, context
 ):
     written = 0
     with csv_lock:
@@ -781,7 +760,7 @@ def write_rows(
                 )
                 resolved_dates = [None]
 
-            cleaned_rooms = resolve_location_rooms(raw_location, known_rooms_set)
+            cleaned_rooms = resolve_location_rooms(raw_location)
 
             for d in resolved_dates:
                 date_str = d.isoformat() if d else ""
@@ -1045,7 +1024,6 @@ def process_job(
             room_display,
             room_label,
             rows,
-            ctx["known_rooms_set"],
             context,
         )
 
