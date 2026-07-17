@@ -1667,7 +1667,7 @@ def main():
                 counters,
                 cfg,
             ),
-            name=f"worker-{i}",
+            name=f"worker-{i:0{len(str(cfg.num_workers - 1))}d}",
             daemon=True,
         )
         t.start()
