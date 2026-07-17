@@ -87,19 +87,82 @@ jobs:
           npm install --no-save prettier
           npx prettier public/scheduleData.json --write
 
-      - name: Commit and push changes
+      - name: Split raw_classes.csv into 50 MiB chunks
+        if: steps.csv.outputs.changed == 'true'
+        run: |
+          python scripts/split_csv.py
+          # Keep the unsplit scrape local-only; never commit it.
+          rm -f public/raw/raw_classes.csv
+
+      - name: Commit and push changes (per file)
+        if: steps.csv.outputs.changed == 'true'
         run: |
           git config user.name "Taha Parker"
           git config user.email "98612931+tahayparker@users.noreply.github.com"
 
-          if [ "${{ steps.csv.outputs.changed }}" = "true" ]; then
-            git add public/classes.csv public/scheduleData.json public/raw
-            if ! git diff --staged --quiet; then
-              git commit -m "Update timetable data [skip deploy]"
-              git push
-            else
-              echo "Nothing to commit."
+          commit_one() {
+            local path="$1"
+            local message="$2"
+            if [ ! -e "$path" ] && ! git ls-files --error-unmatch "$path" >/dev/null 2>&1; then
+              echo "Skip (missing): $path"
+              return 0
             fi
-          else
-            echo "No timetable changes detected."
+            git add -- "$path"
+            if git diff --staged --quiet; then
+              echo "Skip (unchanged): $path"
+              return 0
+            fi
+            if git commit -m "$message"; then
+              if git push; then
+                echo "Committed and pushed: $path"
+              else
+                echo "::warning::Push failed for $path (commit kept locally in this job)."
+                return 1
+              fi
+            else
+              echo "::warning::Commit failed for $path"
+              git reset HEAD -- "$path" 2>/dev/null || true
+              return 1
+            fi
+          }
+
+          failed=0
+
+          # Drop the unsplit raw CSV from the index if it was previously tracked.
+          if git ls-files --error-unmatch public/raw/raw_classes.csv >/dev/null 2>&1; then
+            git rm --cached --ignore-unmatch public/raw/raw_classes.csv || true
+            if ! git diff --staged --quiet; then
+              if git commit -m "Stop tracking raw_classes.csv [skip deploy]"; then
+                git push || { echo "::warning::Push failed removing raw_classes.csv"; failed=1; }
+              fi
+            fi
           fi
+
+          commit_one public/classes.csv "Update classes.csv [skip deploy]" || failed=1
+          commit_one public/scheduleData.json "Update scheduleData.json [skip deploy]" || failed=1
+
+          # Campus JSON + other raw artifacts (not the unsplit CSV).
+          shopt -s nullglob
+          for path in public/raw/raw_timetable_*.json public/raw/raw_classes_[0-9][0-9][0-9].csv; do
+            commit_one "$path" "Update $(basename "$path") [skip deploy]" || failed=1
+          done
+
+          # Remove any stale raw_classes chunks that are no longer produced.
+          for tracked in $(git ls-files 'public/raw/raw_classes_[0-9][0-9][0-9].csv'); do
+            if [ ! -f "$tracked" ]; then
+              git rm -- "$tracked"
+              if ! git diff --staged --quiet; then
+                if git commit -m "Remove stale $(basename "$tracked") [skip deploy]"; then
+                  git push || { echo "::warning::Push failed removing $tracked"; failed=1; }
+                else
+                  failed=1
+                fi
+              fi
+            fi
+          done
+
+          if [ "$failed" -ne 0 ]; then
+            echo "::error::One or more per-file commits/pushes failed."
+            exit 1
+          fi
+          echo "All changed files committed individually."
