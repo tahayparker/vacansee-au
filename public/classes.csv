@@ -119,30 +119,19 @@ MECH934,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-05-26,Wollongong,Advan
 MMMB382,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-05-26,Wollongong,Manufacturing Engineering Principles Tutorial\Practical
 MECH934,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-06-02,Wollongong,Advanced Manufacturing Processes Tutorial\Practical
 MMMB382,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-06-02,Wollongong,Manufacturing Engineering Principles Tutorial\Practical
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-07-28,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-07-28,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-04,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-04,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-11,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-11,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-18,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-18,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-25,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-25,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-01,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-01,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-08,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-08,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-15,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-15,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-22,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-22,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-06,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-06,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-13,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-13,Wollongong,
-MATE302,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-20,Wollongong,
-MATL907,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-20,Wollongong,
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-07-28,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-04,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-11,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-18,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-08-25,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-01,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-08,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-15,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-09-22,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-06,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-13,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-20,Wollongong,Heat and Mass Transfer Tutorial\Practical
+MECH347,Tutorial\Practical,Tuesday,10:30,12:30,1-105,2026-10-27,Wollongong,Heat and Mass Transfer Tutorial\Practical
 MATH206,Tutorial,Tuesday,13:30,14:30,1-105,2026-03-10,Wollongong,
 MATH800,Tutorial,Tuesday,13:30,14:30,1-105,2026-03-10,Wollongong,
 MATH206,Tutorial,Tuesday,13:30,14:30,1-105,2026-03-17,Wollongong,
@@ -3598,6 +3587,7 @@ EDLE100,Tutorial,Tuesday,14:30,15:30,3-122,2026-05-19,Wollongong,Learning in Hig
 EDLE100,Tutorial,Tuesday,14:30,15:30,3-122,2026-05-26,Wollongong,Learning in Higher Education Tutorial
 EDLE100,Tutorial,Tuesday,14:30,15:30,3-122,2026-06-02,Wollongong,Learning in Higher Education Tutorial
 06.30/26-JasonStreat/01,JasonStreat,Tuesday,15:30,17:30,3-122,2026-06-30,Wollongong,Dragons
+07.30/26-JasonStreat/01,JasonStreat,Tuesday,15:30,17:30,3-122,2026-07-28,Wollongong,Dragons
 CHEM337,Tutorial,Tuesday,16:30,18:30,3-122,2026-04-14,Wollongong,Environmental and Atmospheric Chemistry Tutorial
 CHEM994,Tutorial,Tuesday,16:30,18:30,3-122,2026-04-14,Wollongong,Environmental Chemistry and Climate Change Tutorial
 CHEM337,Tutorial,Tuesday,16:30,18:30,3-122,2026-04-28,Wollongong,Environmental and Atmospheric Chemistry Tutorial
@@ -11304,7 +11294,7 @@ ENG8434,Practical,Thursday,13:30,15:30,6-210,2026-09-17,Wollongong,
 ENGG434,Practical,Thursday,13:30,15:30,6-210,2026-09-17,Wollongong,
 ENG8434,Practical,Thursday,13:30,15:30,6-210,2026-09-24,Wollongong,
 ENGG434,Practical,Thursday,13:30,15:30,6-210,2026-09-24,Wollongong,
-07.29/26-AshannaRoberts/04,AshannaRoberts,Thursday,14:00,21:00,6-210,2026-08-20,Wollongong,Spotlight on Radiation Physics
+08.04/26-AshannaRoberts/03,AshannaRoberts,Thursday,14:00,21:00,6-210,2026-08-20,Wollongong,Spotlight on Radiation Physics
 02.19/26-DamienEsquerre Gheur,DamienEsquerre Gheur,Thursday,15:00,16:30,6-210,2026-02-19,Wollongong,EF Seminar - School of Science
 ARCH302,Tutorial,Thursday,15:30,18:30,6-210,2026-03-05,Wollongong,Digging Down Under: Archaeology of Australasia Tutorial
 ARCH302,Tutorial,Thursday,15:30,18:30,6-210,2026-03-12,Wollongong,Digging Down Under: Archaeology of Australasia Tutorial
@@ -15062,7 +15052,7 @@ PHYS143,Practical,Thursday,14:30,16:30,6-317,2026-10-22,Wollongong,
 DPEN143,Practical,Thursday,14:30,16:30,6-317,2026-10-29,Wollongong,
 PHYS142,Practical,Thursday,14:30,16:30,6-317,2026-10-29,Wollongong,
 PHYS143,Practical,Thursday,14:30,16:30,6-317,2026-10-29,Wollongong,
-07.29/26-AshannaRoberts/05,AshannaRoberts,Thursday,16:30,21:00,6-317,2026-08-20,Wollongong,Spotlight on Radiation Physics - 67-317
+08.04/26-AshannaRoberts/04,AshannaRoberts,Thursday,16:30,21:00,6-317,2026-08-20,Wollongong,Spotlight on Radiation Physics - 67-317
 ENGG102,T,Thursday,17:00,20:00,6-317,2026-04-09,Wollongong,Fundamentals of Engineering Mechanics Tutorial - Make Up Classes
 ENGG102,T,Thursday,17:00,20:00,6-317,2026-04-30,Wollongong,Fundamentals of Engineering Mechanics Tutorial - Make Up Classes
 00CAS3-DiscoveryDays-Yr12-Feb26/16,DiscoveryDays,Friday,06:00,13:30,6-317,2026-02-20,Wollongong,Discovery Days Year 12 - 6-210 & 6-315
@@ -15632,6 +15622,9 @@ ENG 005,TC,Wednesday,08:30,12:30,8-G24,2026-09-23,Wollongong,English Studies 5 T
 07.08/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,8-G24,2026-07-08,Wollongong,research group meeting - EIS
 07.15/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,8-G24,2026-07-15,Wollongong,research group meeting - EIS
 07.22/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,8-G24,2026-07-22,Wollongong,research group meeting - EIS
+07.29/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,8-G24,2026-07-29,Wollongong,research group meeting - EIS
+08.05/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,8-G24,2026-08-05,Wollongong,research group meeting - EIS
+08.12/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,8-G24,2026-08-12,Wollongong,research group meeting - EIS
 12.24/25-JiapingWang,JiapingWang,Wednesday,10:30,13:00,8-G24,2025-12-24,Wollongong,research group meeting - EIS
 05.06/26-YuqianWang,YuqianWang,Wednesday,11:30,12:30,8-G24,2026-05-06,Wollongong,wupa meeting - EIS
 DPEN010,Tutorial,Wednesday,13:30,15:30,8-G24,2026-03-04,Wollongong,Enabling Mathematics Tutorial
@@ -15649,6 +15642,7 @@ DPEN010,Tutorial,Wednesday,13:30,15:30,8-G24,2026-05-27,Wollongong,Enabling Math
 07.29/26-YuqianWang,YuqianWang,Wednesday,14:30,15:00,8-G24,2026-07-29,Wollongong,For meeting - EIS
 07.13/26-JasonStreat/02,JasonStreat,Wednesday,15:30,17:30,8-G24,2026-07-15,Wollongong,Dragons
 07.22/26-JasonStreat/01,JasonStreat,Wednesday,15:30,18:00,8-G24,2026-07-22,Wollongong,Dragons
+07.29/26-JasonStreat/01,JasonStreat,Wednesday,15:30,17:30,8-G24,2026-07-29,Wollongong,Dragons
 05.04/26-JasonStreat/02,JasonStreat,Wednesday,16:00,17:30,8-G24,2026-05-06,Wollongong,Dragons
 11.10/25-ReneeStortz/02,ReneeStortz,Thursday,06:00,00:00,8-G24,2025-11-27,Wollongong,IPD - Furniture replacement
 00CAS3-DiscoveryDays-Yr12-Feb26/17,DiscoveryDays,Thursday,06:00,14:30,8-G24,2026-02-19,Wollongong,Discovery Days Year 12 - 8-G24
@@ -16120,6 +16114,7 @@ SOC 103,Tutorial,Wednesday,15:30,16:30,8-G25,2026-05-06,Wollongong,Introduction 
 SOC 103,Tutorial,Wednesday,15:30,16:30,8-G25,2026-05-13,Wollongong,Introduction to Sociology Tutorial
 SOC 103,Tutorial,Wednesday,15:30,16:30,8-G25,2026-05-20,Wollongong,Introduction to Sociology Tutorial
 SOC 103,Tutorial,Wednesday,15:30,16:30,8-G25,2026-05-27,Wollongong,Introduction to Sociology Tutorial
+07.29/26-JasonStreat/01,JasonStreat,Wednesday,15:30,17:30,8-G25,2026-07-29,Wollongong,Dragons
 SOC 103,Tutorial,Wednesday,16:30,17:30,8-G25,2026-03-04,Wollongong,Introduction to Sociology Tutorial
 SOC 103,Tutorial,Wednesday,16:30,17:30,8-G25,2026-03-11,Wollongong,Introduction to Sociology Tutorial
 SOC 103,Tutorial,Wednesday,16:30,17:30,8-G25,2026-03-18,Wollongong,Introduction to Sociology Tutorial
@@ -20706,6 +20701,7 @@ PSYC250,Computer Lab,Thursday,08:30,10:00,17-103,2026-05-14,Wollongong,Quantitat
 PSYC250,Computer Lab,Thursday,08:30,10:00,17-103,2026-05-21,Wollongong,Quantitative Methods in Psychology Computer Lab
 PSYC250,Computer Lab,Thursday,08:30,10:00,17-103,2026-05-28,Wollongong,Quantitative Methods in Psychology Computer Lab
 PSYC250,Computer Lab,Thursday,08:30,10:00,17-103,2026-06-04,Wollongong,Quantitative Methods in Psychology Computer Lab
+00CAS7-IAP Program-Oct/01,IAP Program,Thursday,09:00,13:00,17-103,2026-10-08,Wollongong,Indigenous Admissions Program - Oct
 DPIT114,Computer Lab,Thursday,09:30,12:30,17-103,2026-07-02,Wollongong,System Analysis Computer Lab
 DPIT114,Computer Lab,Thursday,09:30,12:30,17-103,2026-07-09,Wollongong,System Analysis Computer Lab
 DPIT114,Computer Lab,Thursday,09:30,12:30,17-103,2026-07-30,Wollongong,System Analysis Computer Lab
@@ -27406,33 +27402,7 @@ PREP033,Tutorial,Wednesday,08:30,10:30,19-1083,2026-05-13,Wollongong,Mathematics
 PREP033,Tutorial,Wednesday,08:30,10:30,19-1083,2026-05-20,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Wednesday,08:30,10:30,19-1083,2026-05-27,Wollongong,Mathematics for the Humanities
 06.03/26-SaharBokosmaty/04,SaharBokosmaty,Wednesday,08:30,11:30,19-1083,2026-06-03,Wollongong,EDKM201 Exam
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-07-29,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-08-05,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-08-12,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-08-19,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-08-26,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-09-02,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-09-09,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-09-16,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-09-23,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-10-07,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-10-14,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-10-21,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,08:30,09:30,19-1083,2026-10-28,Wollongong,The Rise of Science Tutorial
 06.10/26-EmmaBignell,EmmaBignell,Wednesday,09:00,11:00,19-1083,2026-06-10,Wollongong,Workshop - People & Culture
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-07-29,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-08-05,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-08-12,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-08-19,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-08-26,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-09-02,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-09-09,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-09-16,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-09-23,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-10-07,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-10-14,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-10-21,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,09:30,10:30,19-1083,2026-10-28,Wollongong,The Rise of Science Tutorial
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-02-25,Wollongong,English for Academic Study 2 Tutorial
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-03-04,Wollongong,English for Academic Study 2 Tutorial
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-03-11,Wollongong,English for Academic Study 2 Tutorial
@@ -27446,32 +27416,6 @@ FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-05-06,Wollongong,English for
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-05-13,Wollongong,English for Academic Study 2 Tutorial
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-05-20,Wollongong,English for Academic Study 2 Tutorial
 PREP041,Tutorial,Wednesday,10:30,12:30,19-1083,2026-07-22,Wollongong,Mathematics for the Sciences A Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-07-29,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-08-05,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-08-12,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-08-19,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-08-26,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-09-02,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-09-09,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-09-16,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-09-23,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-10-07,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-10-14,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-10-21,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,10:30,11:30,19-1083,2026-10-28,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-07-29,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-08-05,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-08-12,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-08-19,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-08-26,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-09-02,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-09-09,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-09-16,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-09-23,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-10-07,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-10-14,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-10-21,Wollongong,The Rise of Science Tutorial
-WCIV305,Tutorial,Wednesday,11:30,12:30,19-1083,2026-10-28,Wollongong,The Rise of Science Tutorial
 DSSC107,Tutorial,Wednesday,13:30,15:30,19-1083,2026-06-24,Wollongong,Principles of Responsible Business Tutorial
 DSSC107,Tutorial,Wednesday,13:30,15:30,19-1083,2026-07-01,Wollongong,Principles of Responsible Business Tutorial
 DSSC107,Tutorial,Wednesday,13:30,15:30,19-1083,2026-07-08,Wollongong,Principles of Responsible Business Tutorial
@@ -37049,6 +36993,7 @@ RESH802,Lecture\Seminar,Tuesday,11:30,13:30,20-5,2026-05-26,Wollongong,Responsib
 RESH402,Lecture\Seminar,Tuesday,11:30,13:30,20-5,2026-06-02,Wollongong,Responsible Research Lecture
 RESH802,Lecture\Seminar,Tuesday,11:30,13:30,20-5,2026-06-02,Wollongong,Responsible Research Lecture
 04.21/26-TashLewell-Hillary,TashLewell,Tuesday,12:30,15:30,20-5,2026-04-21,Wollongong,StudyLink Training - Student Growth and Engagement Division
+08.25/26-JannahSmithers/01,JannahSmithers,Tuesday,12:30,13:30,20-5,2026-08-25,Wollongong,ASB HDR Seminar
 06.09/26-VeronicaWhite/01,VeronicaWhite,Tuesday,13:30,14:30,20-5,2026-06-09,Wollongong,CSUP ISMS rollout Training
 ECTE203,Tutorial,Tuesday,13:30,14:30,20-5,2026-08-04,Wollongong,Digital Signal Processing Tutorial
 ECTE203,Tutorial,Tuesday,13:30,14:30,20-5,2026-08-18,Wollongong,Digital Signal Processing Tutorial
@@ -44455,6 +44400,10 @@ EDMS849,Lecture\Tutorial,Tuesday,16:30,18:30,24-201,2026-03-24,Wollongong,Humani
 EDMS849,Lecture\Tutorial,Tuesday,16:30,18:30,24-201,2026-03-31,Wollongong,Humanities and Social Sciences Method II Lecture/Tutorial A
 EDMS849,Lecture\Tutorial,Tuesday,16:30,18:30,24-201,2026-04-07,Wollongong,Humanities and Social Sciences Method II Lecture/Tutorial A
 EDMS849,Lecture\Tutorial,Tuesday,16:30,18:30,24-201,2026-04-28,Wollongong,Humanities and Social Sciences Method II Lecture/Tutorial A
+07.28/26-LaraBlair,LaraBlair,Tuesday,18:00,21:00,24-201,2026-07-28,Wollongong,UniClubs AMC - Weekly Screening - Student Engagement
+07.28/26-LaraBlair,LaraBlair,Tuesday,18:00,21:00,24-201,2026-08-04,Wollongong,UniClubs AMC - Weekly Screening - Student Engagement
+07.28/26-LaraBlair,LaraBlair,Tuesday,18:00,21:00,24-201,2026-08-11,Wollongong,UniClubs AMC - Weekly Screening - Student Engagement
+07.28/26-LaraBlair,LaraBlair,Tuesday,18:00,21:00,24-201,2026-08-18,Wollongong,UniClubs AMC - Weekly Screening - Student Engagement
 03.02/26-BrookeDixon/01,BrookeDixon,Tuesday,18:30,21:30,24-201,2026-03-03,Wollongong,Colgate University Class - Jens Christensen
 03.02/26-BrookeDixon/01,BrookeDixon,Tuesday,18:30,21:30,24-201,2026-03-10,Wollongong,Colgate University Class - Jens Christensen
 03.02/26-BrookeDixon/01,BrookeDixon,Tuesday,18:30,21:30,24-201,2026-03-17,Wollongong,Colgate University Class - Jens Christensen
@@ -53242,6 +53191,7 @@ CAVA109,Practical,Tuesday,09:30,12:30,25-G09,2026-10-20,Wollongong,Visual Art an
 CAVA109,Practical,Tuesday,09:30,12:30,25-G09,2026-10-27,Wollongong,Visual Art and Design Foundation Practical
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Wednesday,06:00,14:30,25-G09,2026-02-18,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,25-G09,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
+09.30/26-StephaniePerrett/01,StephaniePerrett,Wednesday,08:00,17:00,25-G09,2026-09-30,Wollongong,Student Recruitment - Mid-Year
 CAVA108,Tutorial\Practical,Wednesday,09:30,12:30,25-G09,2026-03-04,Wollongong,Introduction to Visual Arts Studios Tutorial/Practical
 CAVA108,Tutorial\Practical,Wednesday,09:30,12:30,25-G09,2026-03-11,Wollongong,Introduction to Visual Arts Studios Tutorial/Practical
 CAVA108,Tutorial\Practical,Wednesday,09:30,12:30,25-G09,2026-03-18,Wollongong,Introduction to Visual Arts Studios Tutorial/Practical
@@ -53268,6 +53218,7 @@ CAVA109,Practical,Wednesday,09:30,12:30,25-G09,2026-10-21,Wollongong,Visual Art 
 CAVA109,Practical,Wednesday,09:30,12:30,25-G09,2026-10-28,Wollongong,Visual Art and Design Foundation Practical
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Thursday,06:00,14:30,25-G09,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Thursday,06:00,00:00,25-G09,2026-06-11,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
+09.30/26-StephaniePerrett/01,StephaniePerrett,Thursday,08:00,17:00,25-G09,2026-10-01,Wollongong,Student Recruitment - Mid-Year
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Friday,06:00,14:30,25-G09,2026-02-20,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Friday,06:00,00:00,25-G09,2026-06-12,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 CAVA390,Practical,Friday,09:30,12:30,25-G09,2026-07-31,Wollongong,Visual Arts and Photography Major Project Practical A
@@ -57845,7 +57796,7 @@ INDS206,Tutorial,Tuesday,14:30,16:30,29-G08,2026-10-06,Wollongong,Methods in Int
 INDS206,Tutorial,Tuesday,14:30,16:30,29-G08,2026-10-13,Wollongong,Methods in International Studies and Politics Tutorial
 INDS206,Tutorial,Tuesday,14:30,16:30,29-G08,2026-10-20,Wollongong,Methods in International Studies and Politics Tutorial
 INDS206,Tutorial,Tuesday,14:30,16:30,29-G08,2026-10-27,Wollongong,Methods in International Studies and Politics Tutorial
-07.29/26-AshannaRoberts/02,AshannaRoberts,Tuesday,16:30,21:00,29-G08,2026-08-04,Wollongong,Spotlight on Criminology - 29-G08
+08.04/26-AshannaRoberts/02,AshannaRoberts,Tuesday,16:30,21:00,29-G08,2026-08-04,Wollongong,Spotlight on Criminology - 29-G08
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Wednesday,06:00,14:30,29-G08,2026-02-18,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,29-G08,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 06.24/26-LukeMcNamara/01,LukeMcNamara,Wednesday,06:00,00:00,29-G08,2026-06-24,Wollongong,Building works - temporarily block access and create some minor noise
@@ -57876,6 +57827,7 @@ CRLP200,Tutorial,Wednesday,08:30,10:30,29-G08,2026-10-07,Wollongong,Career Ready
 CRLP200,Tutorial,Wednesday,08:30,10:30,29-G08,2026-10-14,Wollongong,Career Ready Learning & Practice Tutorial
 CRLP200,Tutorial,Wednesday,08:30,10:30,29-G08,2026-10-21,Wollongong,Career Ready Learning & Practice Tutorial
 CRLP200,Tutorial,Wednesday,08:30,10:30,29-G08,2026-10-28,Wollongong,Career Ready Learning & Practice Tutorial
+11.04/26-DeborahNeich/01,DeborahNeich,Wednesday,08:30,15:00,29-G08,2026-11-04,Wollongong,Creating Chances
 11.24/25-AaronBurton/01,AaronBurton,Wednesday,09:00,17:00,29-G08,2025-11-26,Wollongong,ASPERA - Annual Academic Conference
 PSYP911,Lecture,Wednesday,09:00,17:00,29-G08,2026-02-25,Wollongong,Assessment Lecture B
 PSYP932,Lecture,Wednesday,09:00,17:00,29-G08,2026-02-25,Wollongong,Psychotherapy A Lecture C
@@ -58728,7 +58680,7 @@ PSYP935,Lecture,Tuesday,09:00,17:00,29-G10,2026-07-21,Wollongong,Applied Interve
 06.23/26-EllaLeimbach,EllaLeimbach,Tuesday,10:30,11:30,29-G10,2026-06-23,Wollongong,Staff meeting - Office of Provost
 EXSC423,W_CAS,Tuesday,10:30,12:30,29-G10,2026-07-07,Wollongong,Clinical Practicum
 02.04/26-AnnetteSloot/02,AnnetteSloot,Tuesday,14:00,17:00,29-G10,2026-02-03,Wollongong,Bump in - EIS Symposium
-07.29/26-AshannaRoberts/01,AshannaRoberts,Tuesday,14:00,21:00,29-G10,2026-08-04,Wollongong,Spotlight on Criminology - 29-G10
+08.04/26-AshannaRoberts/01,AshannaRoberts,Tuesday,14:00,21:00,29-G10,2026-08-04,Wollongong,Spotlight on Criminology - 29-G10
 EXSC402,Tutorial,Tuesday,14:30,16:30,29-G10,2026-03-10,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
 EXSC902,Tutorial,Tuesday,14:30,16:30,29-G10,2026-03-10,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
 EXSC402,Tutorial,Tuesday,14:30,16:30,29-G10,2026-03-17,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
@@ -63768,19 +63720,16 @@ ACCY121,Tutorial,Tuesday,10:30,12:30,40-123,2026-05-12,Wollongong,Accounting for
 ACCY121,Tutorial,Tuesday,10:30,12:30,40-123,2026-05-19,Wollongong,Accounting for Decision Making Tutorial
 ACCY121,Tutorial,Tuesday,10:30,12:30,40-123,2026-05-26,Wollongong,Accounting for Decision Making Tutorial
 ACCY121,Tutorial,Tuesday,10:30,12:30,40-123,2026-06-02,Wollongong,Accounting for Decision Making Tutorial
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-07-28,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-08-04,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-08-11,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-08-18,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-08-25,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-09-01,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-09-08,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-09-15,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-09-22,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-10-06,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-10-13,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-10-20,Wollongong,Heat and Mass Transfer Tutorial\Practical
-MECH347,Tutorial\Practical,Tuesday,10:30,12:30,40-123,2026-10-27,Wollongong,Heat and Mass Transfer Tutorial\Practical
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-07-28,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-08-04,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-08-11,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-08-25,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-09-01,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-09-15,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-09-22,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-10-06,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-10-13,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,10:30,12:30,40-123,2026-10-20,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
 ACCY121,Tutorial,Tuesday,12:30,14:30,40-123,2026-03-10,Wollongong,Accounting for Decision Making Tutorial
 ACCY121,Tutorial,Tuesday,12:30,14:30,40-123,2026-03-17,Wollongong,Accounting for Decision Making Tutorial
 ACCY121,Tutorial,Tuesday,12:30,14:30,40-123,2026-03-24,Wollongong,Accounting for Decision Making Tutorial
@@ -64420,6 +64369,16 @@ WUCT001,Tutorial,Tuesday,08:30,10:30,40-124,2026-04-28,Wollongong,Tertiary Acade
 WUCT001,Tutorial,Tuesday,08:30,10:30,40-124,2026-05-05,Wollongong,Tertiary Academic Skills Tutorial
 WUCT001,Tutorial,Tuesday,08:30,10:30,40-124,2026-05-12,Wollongong,Tertiary Academic Skills Tutorial
 WUCT001,Tutorial,Tuesday,08:30,10:30,40-124,2026-05-19,Wollongong,Tertiary Academic Skills Tutorial
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-07-28,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-08-04,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-08-11,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-08-25,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-09-01,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-09-15,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-09-22,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-10-06,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-10-13,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
+SOWK340,Tutorial,Tuesday,08:30,10:30,40-124,2026-10-20,Wollongong,"Fields of Practice: Health, Aging and Disability Tutorial"
 PREP031,Tutorial,Tuesday,10:30,12:30,40-124,2026-03-03,Wollongong,Language for Learning
 PREP031,Tutorial,Tuesday,10:30,12:30,40-124,2026-03-10,Wollongong,Language for Learning
 PREP031,Tutorial,Tuesday,10:30,12:30,40-124,2026-03-17,Wollongong,Language for Learning
@@ -64824,7 +64783,6 @@ ENG 004,TB,Tuesday,08:30,12:30,40-126,2026-02-24,Wollongong,English Studies 4 Tu
 ENG 004,TB,Tuesday,08:30,12:30,40-126,2026-03-03,Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,40-126,2026-03-10,Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,40-126,2026-03-17,Wollongong,English Studies 4 Tutorial
-10.20/26-DeborahNeich/01,DeborahNeich,Tuesday,08:30,15:00,40-126,2026-10-20,Wollongong,Creating Chances
 02.17/26-JennyAtchison,JennyAtchison,Tuesday,09:30,11:00,40-126,2026-02-17,Wollongong,ACCESS research centre meeting - School of Social Science
 08.04/26-KianRayner,KianRayner,Tuesday,09:30,12:30,40-126,2026-08-04,Wollongong,MGNT102 supp-supp exams - ASB
 12.23/25-AlexChan,AlexChan,Tuesday,10:00,12:00,40-126,2025-12-23,Wollongong,SNUG112 Deferred final exam - Nursing
@@ -65313,6 +65271,7 @@ WUCB160,Lecture,Thursday,10:30,12:30,40-131,2026-04-30,Wollongong,Economic Essen
 WUCB160,Lecture,Thursday,10:30,12:30,40-131,2026-05-07,Wollongong,Economic Essentials for Business Lecture
 WUCB160,Lecture,Thursday,10:30,12:30,40-131,2026-05-14,Wollongong,Economic Essentials for Business Lecture
 WUCB160,Lecture,Thursday,10:30,12:30,40-131,2026-05-21,Wollongong,Economic Essentials for Business Lecture
+07.30/26-JannahSmithers,JannahSmithers,Thursday,12:00,12:30,40-131,2026-07-30,Wollongong,Prof. Shahriar Akter - Short Seminar - Arts Society & Business
 000ACAS_BUSN_SPRGSchoolMtg/01,Business School Meeting,Thursday,12:00,14:00,40-131,2026-08-20,Wollongong,Business School Meeting
 04.09/26-AshleighWitt,AshleighWitt,Thursday,12:30,13:30,40-131,2026-04-09,Wollongong,NCP Scholarship Info Session - SMAH - Strategic Partnerships & Student Mobility
 SNUG107,Tutorial,Thursday,13:30,15:30,40-131,2026-03-05,Wollongong,Primary Health Care Tutorial
@@ -72922,6 +72881,7 @@ CHEM104,Practical,Friday,13:30,16:30,41-340,2026-05-22,Wollongong,Foundation Che
 05.05/26-DanijelaCancar/01,DanijelaCancar,Tuesday,17:30,21:00,41-G03A,2026-05-05,Wollongong,Australasian Institute of Mining and Metallurgy - Meeting/Presentation
 03.09/26-MichaelCook/01,MichaelCook,Wednesday,06:00,08:00,41-G03A,2026-02-11,Wollongong,Residual Current Device Testing for Building 41
 05.13/26-MichaelCook/01,MichaelCook,Wednesday,06:00,08:00,41-G03A,2026-05-13,Wollongong,Power testing 7-8am Building 41
+09.23/26-NatalieAllen/01,NatalieAllen,Wednesday,08:30,16:30,41-G03A,2026-09-23,Wollongong,SMAH Faculty/Academic Photos
 06.24/26-MichaelCook/01,MichaelCook,Wednesday,17:00,21:00,41-G03A,2026-06-24,Wollongong,RSC testing - Bld 41
 03.09/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,41-G03A,2026-02-12,Wollongong,Residual Current Device Testing for Building 41
 03.09/26-MichaelCook/01,MichaelCook,Monday,06:00,08:00,41-G65,2026-02-09,Wollongong,Residual Current Device Testing for Building 41
@@ -75568,6 +75528,7 @@ BIOL365,OC_CAS,Friday,09:00,18:00,43-G06,2026-10-30,Wollongong,BIO365 & BIO252 C
 05.08/26-HarryLangford,HarryLangford,Friday,10:00,17:00,43-G06,2026-05-08,Wollongong,EESC101 GIS Computer Lab time - SCII
 05.15/26-HarryLangford,HarryLangford,Friday,10:00,17:00,43-G06,2026-05-15,Wollongong,EESC101 GIS Computer Lab time - SSCI
 05.22/26-HarryLangford,HarryLangford,Friday,10:00,17:00,43-G06,2026-05-22,Wollongong,EESC101 GIS Computer Lab time - SCII
+07.31/26-HarryLangford,HarryLangford,Friday,10:30,13:00,43-G06,2026-07-31,Wollongong,BIOL213/813 Deferred/Supplementary Exams - SSCI
 11.02/26-EmmaJames/01,EmmaJames,Saturday,08:00,18:00,43-G06,2026-11-07,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Saturday,08:00,18:00,43-G06,2026-11-14,Wollongong,2026 SSCI Spring exams
 06.13/26-EmmaJames/01,EmmaJames,Saturday,08:30,18:00,43-G06,2026-06-13,Wollongong,Autumn exam
@@ -76057,6 +76018,7 @@ MEDI160,Tutorial\Workshop,Wednesday,15:30,16:30,67-101,2026-05-13,Wollongong,Sci
 MEDI160,Tutorial\Workshop,Wednesday,15:30,16:30,67-101,2026-05-20,Wollongong,Scientific Literacy Tutorial Workshop
 MEDI160,Tutorial\Workshop,Wednesday,15:30,16:30,67-101,2026-05-27,Wollongong,Scientific Literacy Tutorial Workshop
 MEDI160,Tutorial\Workshop,Wednesday,15:30,16:30,67-101,2026-06-03,Wollongong,Scientific Literacy Tutorial Workshop
+08.04/26-AshannaRoberts/05,AshannaRoberts,Wednesday,15:30,21:00,67-101,2026-08-26,Wollongong,Spotlight on Mathematics
 MINE312,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-03-04,Wollongong,Mine Ventilation
 MINE912,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-03-04,Wollongong,Environmental Control in Mines
 MINE312,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-03-11,Wollongong,Mine Ventilation
@@ -76083,7 +76045,6 @@ MINE312,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-05-27,Wollongong,Mine
 MINE912,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-05-27,Wollongong,Environmental Control in Mines
 MINE312,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-06-03,Wollongong,Mine Ventilation
 MINE912,Lecture\Tutorial,Wednesday,16:30,19:30,67-101,2026-06-03,Wollongong,Environmental Control in Mines
-07.29/26-AshannaRoberts/03,AshannaRoberts,Wednesday,16:30,21:00,67-101,2026-08-19,Wollongong,Spotlight on Mathematics
 12.01/25-CarolynSilveri/04,CarolynSilveri,Wednesday,18:00,20:00,67-101,2025-12-03,Wollongong,AIP Summer Meeting 2025 - Susanna Guatelli
 12.06/25-MarjoNiemela/04,MarjoNiemela,Thursday,06:00,00:00,67-101,2025-12-11,Wollongong,IEEE - International Conference on Energy Technologies for Future Grids
 02.11/26-SarahSmith/02,SarahSmith,Thursday,06:00,16:00,67-101,2026-02-12,Wollongong,FSIE Ambassador training
@@ -79425,19 +79386,6 @@ LLB2225,Seminar,Tuesday,15:30,17:30,67-203,2026-05-12,Wollongong,Advanced Legal 
 LLB2225,Seminar,Tuesday,15:30,17:30,67-203,2026-05-19,Wollongong,Advanced Legal Skills Seminar
 LLB2225,Seminar,Tuesday,15:30,17:30,67-203,2026-05-26,Wollongong,Advanced Legal Skills Seminar
 LLB2225,Seminar,Tuesday,15:30,17:30,67-203,2026-06-02,Wollongong,Advanced Legal Skills Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-07-28,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-08-04,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-08-11,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-08-18,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-08-25,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-09-01,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-09-08,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-09-15,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-09-22,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-10-06,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-10-13,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-10-20,Wollongong,The Rise of Science Lecture\Seminar
-WCIV305,Lecture\Seminar,Tuesday,15:30,17:30,67-203,2026-10-27,Wollongong,The Rise of Science Lecture\Seminar
 LLB1115,Seminar,Tuesday,17:30,19:30,67-203,2026-03-03,Wollongong,Legal Skills Seminar
 LLB1115,Seminar,Tuesday,17:30,19:30,67-203,2026-03-10,Wollongong,Legal Skills Seminar
 LLB1115,Seminar,Tuesday,17:30,19:30,67-203,2026-03-17,Wollongong,Legal Skills Seminar
@@ -88558,7 +88506,6 @@ ENG 003,TB,Tuesday,08:30,12:30,30-G04,2026-06-23,UOW College Wollongong,English 
 06.30/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,15:30,30-G04,2026-06-30,UOW College Wollongong,ELICOS Curriculum Development - UOWC
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-07-14,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-07-21,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
-VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-07-28,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-08-04,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-08-18,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-08-25,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
@@ -88991,7 +88938,6 @@ ENG 003,TB,Tuesday,08:30,12:30,30-G05,2026-06-16,UOW College Wollongong,English 
 ENG 003,TB,Tuesday,08:30,12:30,30-G05,2026-06-23,UOW College Wollongong,English Studies 3 Tutorial
 VNUR100,TB,Tuesday,08:30,15:30,30-G05,2026-07-14,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G05,2026-07-21,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
-VNUR100,TB,Tuesday,08:30,15:30,30-G05,2026-07-28,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G05,2026-08-04,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G05,2026-08-18,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G05,2026-08-25,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
@@ -89032,6 +88978,7 @@ PREP033,Tutorial,Tuesday,13:30,15:30,30-G05,2026-05-05,UOW College Wollongong,Ma
 PREP033,Tutorial,Tuesday,13:30,15:30,30-G05,2026-05-12,UOW College Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Tuesday,13:30,15:30,30-G05,2026-05-19,UOW College Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Tuesday,13:30,15:30,30-G05,2026-05-26,UOW College Wollongong,Mathematics for the Humanities
+07.28/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,14:00,15:00,30-G05,2026-07-28,UOW College Wollongong,Presentation - UOWC
 FSPW102,Tutorial,Tuesday,15:30,17:30,30-G05,2025-11-25,UOW College Wollongong,English for Academic Study 1
 FSPW102,Tutorial,Tuesday,15:30,17:30,30-G05,2025-12-02,UOW College Wollongong,English for Academic Study 1
 FSPW102,Tutorial,Tuesday,15:30,17:30,30-G05,2025-12-09,UOW College Wollongong,English for Academic Study 1
@@ -89289,6 +89236,17 @@ VOCL201,TA,Saturday,08:30,15:30,39A-205,2025-11-29,UOW College Wollongong,Vocati
 02.23/26-MichaelCook/01,MichaelCook,Wednesday,06:00,08:00,39C-174,2026-02-25,UOW College Wollongong,Residual Current Device Testing for Building 39
 02.23/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,39C-174,2026-02-26,UOW College Wollongong,Residual Current Device Testing for Building 39
 02.23/26-MichaelCook/01,MichaelCook,Friday,06:00,08:00,39C-174,2026-02-27,UOW College Wollongong,Residual Current Device Testing for Building 39
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-06-22,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-06-29,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-06,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-13,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-20,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-27,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-08-17,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-08-24,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-08-31,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-09-07,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
+DSCI106,Lecture,Monday,13:30,16:30,Online,2026-09-14,UOW College Wollongong,Foundation Chemistry: Properties of Matter Lecture
 PREP030,Tutorial,Monday,18:00,20:00,Online,2026-02-23,UOW College Wollongong,Language for Learning Tutorial
 PREP030,Tutorial,Monday,18:00,20:00,Online,2026-03-02,UOW College Wollongong,Language for Learning Tutorial
 PREP030,Tutorial,Monday,18:00,20:00,Online,2026-03-09,UOW College Wollongong,Language for Learning Tutorial
@@ -95906,6 +95864,18 @@ MGNT102,Workshop,Wednesday,14:30,16:30,400-107,2026-05-27,Liverpool,Professional
 MGNT102,Workshop,Wednesday,14:30,16:30,400-107,2026-06-03,Liverpool,Professional Communication: Concepts and Practices Workshop
 WUCB101,Tutorial,Wednesday,14:30,16:30,400-107,2026-07-01,Liverpool,Marketing Principles Tutorial
 WUCB101,Tutorial,Wednesday,14:30,16:30,400-107,2026-07-08,Liverpool,Marketing Principles Tutorial
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-08-05,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-08-12,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-08-19,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-08-26,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-09-02,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-09-09,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-09-16,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-09-23,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-10-07,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-10-14,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-10-21,Liverpool,Advertising Practice and Creative Strategies Workshop
+MARK250,Workshop,Wednesday,15:30,17:30,400-107,2026-10-28,Liverpool,Advertising Practice and Creative Strategies Workshop
 SNUG101,Tutorial,Wednesday,17:30,19:30,400-107,2026-03-04,Liverpool,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Wednesday,17:30,19:30,400-107,2026-03-11,Liverpool,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Wednesday,17:30,19:30,400-107,2026-03-18,Liverpool,Fundamentals of Nursing 1 Tutorial
@@ -102625,7 +102595,6 @@ WUCB160,Lecture,Thursday,13:30,15:30,400-633,2026-09-17,Liverpool,Economic Essen
 00CAS2-LiverpoolExams2026-Spring/01,LiverpoolExams2026,Friday,06:00,00:00,400-633,2026-11-06,Liverpool,Liverpool Spring Exams 2026
 00CAS2-LiverpoolExams2026-Spring/02,LiverpoolExams2026,Friday,06:00,00:00,400-633,2026-11-13,Liverpool,Liverpool Spring Exams 2026
 00CAS2-LiverpoolExams2026-Spring/03,LiverpoolExams2026,Friday,06:00,00:00,400-633,2026-11-20,Liverpool,Liverpool Spring Exams 2026
-08.14/26-EmmaPinfold/01,EmmaPinfold,Friday,08:00,18:30,400-633,2026-08-14,Liverpool,The University of Wollongong Council meeting
 PREP041,Tutorial,Friday,08:30,10:30,400-633,2026-02-27,Liverpool,Mathematics for the Sciences A Tutorial
 VNUR300,TC,Friday,08:30,13:30,400-633,2026-03-06,Liverpool,Vocational Nursing Session 3
 SOWK910,Workshop,Friday,08:30,12:30,400-633,2026-03-13,Liverpool,Critically Reflective Social Work Practice Workshop
@@ -103415,16 +103384,10 @@ HAS 346,Tutorial,Monday,13:30,15:30,Online,2026-05-25,Online,Social Advocacy Tut
 ECON362,Lecture,Monday,13:30,15:30,Online,2026-06-01,Online,Explorations in Macroeconomics Lecture
 HAS 346,Tutorial,Monday,13:30,15:30,Online,2026-06-01,Online,Social Advocacy Tutorial
 SNUG301,TB,Monday,13:30,15:30,Online,2026-06-01,Online,Managing Deterioration Tutorial
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-06-22,Online,Foundation Chemistry: Properties of Matter Lecture
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-06-29,Online,Foundation Chemistry: Properties of Matter Lecture
 LAW 969,Seminar,Monday,13:30,15:30,Online,2026-06-29,Online,
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-06,Online,Foundation Chemistry: Properties of Matter Lecture
 LAW 969,Seminar,Monday,13:30,15:30,Online,2026-07-06,Online,
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-13,Online,Foundation Chemistry: Properties of Matter Lecture
 LAW 969,Seminar,Monday,13:30,15:30,Online,2026-07-13,Online,
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-20,Online,Foundation Chemistry: Properties of Matter Lecture
 LAW 969,Seminar,Monday,13:30,15:30,Online,2026-07-20,Online,
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-07-27,Online,Foundation Chemistry: Properties of Matter Lecture
 MARK255,Lecture,Monday,13:30,14:30,Online,2026-07-27,Online,AI Marketing Implementation Lecture
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-07-27,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-08-03,Online,Economics and Finance Applied Research Project Workshop
@@ -103432,19 +103395,14 @@ MIR 918,Seminar,Monday,13:30,16:30,Online,2026-08-03,Online,International Securi
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-08-10,Online,Economics and Finance Applied Research Project Workshop
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-08-10,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-08-17,Online,Economics and Finance Applied Research Project Workshop
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-08-17,Online,Foundation Chemistry: Properties of Matter Lecture
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-08-17,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-08-24,Online,Economics and Finance Applied Research Project Workshop
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-08-24,Online,Foundation Chemistry: Properties of Matter Lecture
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-08-24,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-08-31,Online,Economics and Finance Applied Research Project Workshop
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-08-31,Online,Foundation Chemistry: Properties of Matter Lecture
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-08-31,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-09-07,Online,Economics and Finance Applied Research Project Workshop
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-09-07,Online,Foundation Chemistry: Properties of Matter Lecture
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-09-07,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-09-14,Online,Economics and Finance Applied Research Project Workshop
-DSCI106,Lecture,Monday,13:30,16:30,Online,2026-09-14,Online,Foundation Chemistry: Properties of Matter Lecture
 MIR 918,Seminar,Monday,13:30,16:30,Online,2026-09-14,Online,International Security
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-09-21,Online,Economics and Finance Applied Research Project Workshop
 BUS 330,Workshop,Monday,13:30,14:30,Online,2026-10-05,Online,Economics and Finance Applied Research Project Workshop
