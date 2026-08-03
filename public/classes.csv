@@ -19389,7 +19389,7 @@ EXSC404,Practical,Monday,10:30,13:30,15-G01,2026-05-25,Wollongong,Clinical Exerc
 EXSC904,Practical,Monday,10:30,13:30,15-G01,2026-05-25,Wollongong,Clinical Exercise Physiology Practical
 EXSC404,Practical,Monday,10:30,13:30,15-G01,2026-06-01,Wollongong,Clinical Exercise Physiology Practical
 EXSC904,Practical,Monday,10:30,13:30,15-G01,2026-06-01,Wollongong,Clinical Exercise Physiology Practical
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,15-G01,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,15-G01,2026-08-10,Wollongong,Timetable Lab Tour
 SMAH002,Practical,Monday,11:00,12:30,15-G01,2026-01-19,Wollongong,"Health for Now, Health for the Future Practical"
 EXSC404,Practical,Monday,13:30,16:30,15-G01,2026-03-02,Wollongong,Clinical Exercise Physiology Practical
 EXSC904,Practical,Monday,13:30,16:30,15-G01,2026-03-02,Wollongong,Clinical Exercise Physiology Practical
@@ -19623,7 +19623,7 @@ EXSC404,Practical,Monday,10:30,13:30,15-G19,2026-05-25,Wollongong,Clinical Exerc
 EXSC904,Practical,Monday,10:30,13:30,15-G19,2026-05-25,Wollongong,Clinical Exercise Physiology Practical
 EXSC404,Practical,Monday,10:30,13:30,15-G19,2026-06-01,Wollongong,Clinical Exercise Physiology Practical
 EXSC904,Practical,Monday,10:30,13:30,15-G19,2026-06-01,Wollongong,Clinical Exercise Physiology Practical
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,15-G19,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,15-G19,2026-08-10,Wollongong,Timetable Lab Tour
 EXSC404,Practical,Monday,13:30,16:30,15-G19,2026-03-02,Wollongong,Clinical Exercise Physiology Practical
 EXSC904,Practical,Monday,13:30,16:30,15-G19,2026-03-02,Wollongong,Clinical Exercise Physiology Practical
 EXSC404,Practical,Monday,13:30,16:30,15-G19,2026-03-09,Wollongong,Clinical Exercise Physiology Practical
@@ -19776,7 +19776,7 @@ MEDI330,Practical,Friday,13:30,15:30,15-G19,2026-10-30,Wollongong,Cardiorespirat
 02.07/26-MichaelCook/02,MichaelCook,Saturday,06:00,15:00,15-G19,2026-02-07,Wollongong,Power Outage Building 15 Saturday
 02.24/26-MichaelCook/01,MichaelCook,Saturday,06:00,15:00,15-G19,2026-02-28,Wollongong,Power Outage Building 15
 04.20/26-MichaelCook/02,MichaelCook,Monday,06:00,08:00,15-G21,2026-04-20,Wollongong,Power Outage Bld 15
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,15-G21,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,15-G21,2026-08-10,Wollongong,Timetable Lab Tour
 04.21/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,15-G21,2026-04-21,Wollongong,Residual Current Device Testing for Building 15
 MEDI222,Practical,Tuesday,08:30,10:30,15-G21,2026-03-10,Wollongong,Foundations of Biomechanics Practical
 MEDI222,Practical,Tuesday,08:30,10:30,15-G21,2026-03-17,Wollongong,Foundations of Biomechanics Practical
@@ -20030,6 +20030,18 @@ SNUG101,Tutorial,Monday,15:30,17:30,17-102,2026-04-27,Wollongong,Fundamentals of
 SNUG101,Tutorial,Monday,15:30,17:30,17-102,2026-05-04,Wollongong,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Monday,15:30,17:30,17-102,2026-05-11,Wollongong,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Monday,15:30,17:30,17-102,2026-05-18,Wollongong,Fundamentals of Nursing 1 Tutorial
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-08-03,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-08-10,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-08-17,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-08-24,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-08-31,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-09-07,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-09-14,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-09-21,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-10-05,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-10-12,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-10-19,Wollongong,Introduction to Management Workshop
+MGNT110,Workshop,Monday,15:30,17:30,17-102,2026-10-26,Wollongong,Introduction to Management Workshop
 SNUG101,Tutorial,Monday,17:30,19:30,17-102,2026-03-02,Wollongong,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Monday,17:30,19:30,17-102,2026-03-09,Wollongong,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Monday,17:30,19:30,17-102,2026-03-16,Wollongong,Fundamentals of Nursing 1 Tutorial
@@ -38149,6 +38161,7 @@ EYCC301,Tutorial,Monday,12:30,13:30,21-115,2026-05-18,Wollongong,"Contexts of De
 EYCC301,Tutorial,Monday,12:30,13:30,21-115,2026-05-25,Wollongong,"Contexts of Development: Children, Families and Community Tutorial"
 EYCC301,Tutorial,Monday,12:30,13:30,21-115,2026-06-01,Wollongong,"Contexts of Development: Children, Families and Community Tutorial"
 EDPS402,Lecture\Seminar,Monday,12:30,14:30,21-115,2026-07-27,Wollongong,"Leadership,Management & Professional Learning in Secondary Education Lecture/Seminar"
+08.24/26-CassieRussell/01,CassieRussell,Monday,12:30,14:30,21-115,2026-08-24,Wollongong,MEDI330 - RA Exam
 EDTA301,Tutorial\Workshop,Monday,13:30,14:30,21-115,2026-03-02,Wollongong,The Arts in Education Tutorial\Workshop
 EDTA301,Tutorial\Workshop,Monday,13:30,14:30,21-115,2026-03-09,Wollongong,The Arts in Education Tutorial\Workshop
 EDTA301,Workshop,Monday,13:30,15:30,21-115,2026-03-16,Wollongong,The Arts in Education Workshop B
@@ -41358,6 +41371,7 @@ CSIT961,Workshop,Tuesday,10:30,12:30,24-102,2026-05-12,Wollongong,
 DMHS160,Lecture,Tuesday,10:30,12:30,24-102,2026-05-19,Wollongong,Scientific Literacy Lecture
 CSCI361,Workshop,Tuesday,10:30,12:30,24-102,2026-05-26,Wollongong,
 CSIT961,Workshop,Tuesday,10:30,12:30,24-102,2026-05-26,Wollongong,
+09.22/26-KatieMasonwells/01,KatieMasonwells,Tuesday,10:30,11:30,24-102,2026-09-22,Wollongong,Research Integrity training
 03.31/26-EmmaBignell,EmmaBignell,Tuesday,11:00,12:30,24-102,2026-03-31,Wollongong,P&C Team Meeting - People & Culture
 00CAS3-DiscoveryDays-Yr12-Feb26/22,DiscoveryDays,Tuesday,12:30,14:30,24-102,2026-02-17,Wollongong,Discovery Days Year 12 - Bld 24
 PSYC410,Seminar,Tuesday,12:30,14:30,24-102,2026-03-03,Wollongong,Honours Empirical Thesis Seminar
@@ -49251,6 +49265,7 @@ JRNL101,Lecture,Monday,08:30,09:30,25-107,2026-05-18,Wollongong,Media Reporting 
 JRNL101,Lecture,Monday,08:30,09:30,25-107,2026-05-25,Wollongong,Media Reporting and Storytelling 1 Lecture
 MGNT110,Lecture,Monday,08:30,10:30,25-107,2026-07-27,Wollongong,Introduction to Management Lecture
 08.17/26-SvitlanaNastenko/01,SvitlanaNastenko,Monday,08:30,12:30,25-107,2026-08-17,Wollongong,ELICOS Orientation Day Intake 6
+MECH226,OC_CAS,Monday,08:30,10:30,25-107,2026-09-21,Wollongong,MECH226 Mid Session Exam
 MEDI355,Seminar,Monday,08:30,15:30,25-107,2026-10-12,Wollongong,
 MEDI955,Seminar,Monday,08:30,15:30,25-107,2026-10-12,Wollongong,
 BCM 110,Lecture,Monday,09:30,10:30,25-107,2026-03-02,Wollongong,Introduction to Communication and Media Lecture
@@ -58932,6 +58947,7 @@ PSYC418,Lecture,Monday,11:30,12:30,32-G01,2026-05-18,Wollongong,Honours Theory L
 PSYC418,Lecture,Monday,11:30,12:30,32-G01,2026-05-25,Wollongong,Honours Theory Lecture
 PSYC418,Lecture,Monday,11:30,12:30,32-G01,2026-06-01,Wollongong,Honours Theory Lecture
 03.23/26-JenniferBaker/01,JenniferBaker,Monday,12:30,13:30,32-G01,2026-03-23,Wollongong,Molecular Horizons (MH) Seminar Committee Meetings
+09.14/26-QiangZhu/01,QiangZhu,Monday,12:30,13:30,32-G01,2026-09-14,Wollongong,Molecular Horizon Series Seminar
 ECT8363,Lecture,Monday,14:30,16:30,32-G01,2026-03-02,Wollongong,
 ECTE363,Lecture,Monday,14:30,16:30,32-G01,2026-03-02,Wollongong,
 ECT8363,Lecture,Monday,14:30,16:30,32-G01,2026-03-09,Wollongong,
@@ -69661,7 +69677,7 @@ SOWK912,Workshop,Saturday,13:30,17:30,41-153,2026-05-16,Wollongong,Diversity in 
 07.06/26-ReneeStortz/01,ReneeStortz,Sunday,06:00,00:00,41-153,2026-07-12,Wollongong,Building Works
 08.22/26-SarahSmith/03,SarahSmith,Sunday,06:00,18:00,41-153,2026-08-23,Wollongong,Tournament of Minds
 03.09/26-MichaelCook/01,MichaelCook,Monday,06:00,08:00,41-157,2026-02-09,Wollongong,Residual Current Device Testing for Building 41
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-157,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-157,2026-08-10,Wollongong,Timetable Lab Tour
 03.09/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,41-157,2026-02-10,Wollongong,Residual Current Device Testing for Building 41
 00CAS3-DiscoveryDays-Yr10-Jun26/08,DiscoveryDays,Tuesday,08:00,12:00,41-157,2026-06-09,Wollongong,Discovery Days Year 10 - 41.157
 EXSC221,Practical,Tuesday,09:00,11:00,41-157,2026-08-04,Wollongong,Exercise Physiology - Accredited Programs Practical
@@ -69876,7 +69892,7 @@ MEDI214,Practical,Friday,14:30,17:30,41-157,2026-09-04,Wollongong,Sport and Exer
 MEDI214,Practical,Friday,14:30,17:30,41-157,2026-09-11,Wollongong,Sport and Exercise Nutrition Practical
 03.09/26-MichaelCook/01,MichaelCook,Monday,06:00,08:00,41-172,2026-02-09,Wollongong,Residual Current Device Testing for Building 41
 00CAS3-DiscoveryDays-Yr10-Jun26/10,DiscoveryDays,Monday,06:00,00:00,41-172,2026-06-08,Wollongong,"Discovery Days Year 10 - Bld 40, 41, 43, 67 (includes set up)"
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-172,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-172,2026-08-10,Wollongong,Timetable Lab Tour
 03.09/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,41-172,2026-02-10,Wollongong,Residual Current Device Testing for Building 41
 00CAS3-DiscoveryDays-Yr10-Jun26/03,DiscoveryDays,Tuesday,06:00,00:00,41-172,2026-06-09,Wollongong,"Discovery Days Year 10 - Bld 40, 41, 43, 67 (includes set up)"
 MARE360,Practical,Tuesday,09:30,12:30,41-172,2026-10-06,Wollongong,Fisheries and Aquaculture Practical
@@ -72653,7 +72669,7 @@ SNUG205,Practical,Friday,10:30,12:30,41-261H,2026-07-24,Wollongong,Continuing Ca
 SNUG205,Practical,Friday,13:30,15:30,41-261H,2026-07-24,Wollongong,Continuing Care
 SNUG205,Practical,Friday,15:30,17:30,41-261H,2026-07-24,Wollongong,Continuing Care
 03.09/26-MichaelCook/01,MichaelCook,Monday,06:00,08:00,41-326,2026-02-09,Wollongong,Residual Current Device Testing for Building 41
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-326,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-326,2026-08-10,Wollongong,Timetable Lab Tour
 03.09/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,41-326,2026-02-10,Wollongong,Residual Current Device Testing for Building 41
 03.09/26-MichaelCook/01,MichaelCook,Wednesday,06:00,08:00,41-326,2026-02-11,Wollongong,Residual Current Device Testing for Building 41
 05.13/26-MichaelCook/01,MichaelCook,Wednesday,06:00,08:00,41-326,2026-05-13,Wollongong,Power testing 7-8am Building 41
@@ -72987,7 +73003,7 @@ MEDI111,Practical,Monday,10:30,12:30,41-G65,2026-04-27,Wollongong,Introduction t
 MEDI111,Practical,Monday,10:30,12:30,41-G65,2026-05-11,Wollongong,Introduction to Anatomy and Physiology I Practical A
 MEDI111,Practical,Monday,10:30,12:30,41-G65,2026-05-18,Wollongong,Introduction to Anatomy and Physiology I Practical A
 MEDI111,Practical,Monday,10:30,12:30,41-G65,2026-06-01,Wollongong,Introduction to Anatomy and Physiology I Practical A
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-G65,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-G65,2026-08-10,Wollongong,Timetable Lab Tour
 MEDI111,Practical,Monday,12:30,14:30,41-G65,2026-03-09,Wollongong,Introduction to Anatomy and Physiology I Practical A
 MEDI111,Practical,Monday,12:30,14:30,41-G65,2026-03-16,Wollongong,Introduction to Anatomy and Physiology I Practical A
 MEDI111,Practical,Monday,12:30,14:30,41-G65,2026-03-23,Wollongong,Introduction to Anatomy and Physiology I Practical A
@@ -73387,7 +73403,7 @@ DMHS100,Practical,Monday,08:30,10:30,41-G74,2026-09-14,Wollongong,Human Structur
 MEDI111,Practical,Monday,10:30,12:30,41-G74,2026-04-13,Wollongong,Introduction to Anatomy and Physiology I Practical B
 MEDI111,Practical,Monday,10:30,12:30,41-G74,2026-05-04,Wollongong,Introduction to Anatomy and Physiology I Practical B
 MEDI111,Practical,Monday,10:30,12:30,41-G74,2026-05-25,Wollongong,Introduction to Anatomy and Physiology I Practical B
-08.03/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-G74,2026-08-03,Wollongong,Timetable Lab Tour
+08.10/26-TaraPalajda/01,TaraPalajda,Monday,10:30,12:30,41-G74,2026-08-10,Wollongong,Timetable Lab Tour
 MEDI111,Practical,Monday,12:30,14:30,41-G74,2026-04-13,Wollongong,Introduction to Anatomy and Physiology I Practical B
 MEDI111,Practical,Monday,12:30,14:30,41-G74,2026-05-04,Wollongong,Introduction to Anatomy and Physiology I Practical B
 MEDI111,Practical,Monday,12:30,14:30,41-G74,2026-05-25,Wollongong,Introduction to Anatomy and Physiology I Practical B
@@ -77276,7 +77292,11 @@ VCD 101,Lecture,Wednesday,12:30,13:30,67-104,2026-05-06,Wollongong,Introduction 
 VCD 101,Lecture,Wednesday,12:30,13:30,67-104,2026-05-13,Wollongong,Introduction to Visual Communication Design Lecture
 05.27/26-ChloeHan,ChloeHan,Wednesday,14:00,16:00,67-104,2026-05-27,Wollongong,CCNU Marketing Video Filming - TNE
 ENGG954,OC_CAS,Wednesday,14:30,15:30,67-104,2026-08-12,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Wednesday,14:30,15:30,67-104,2026-08-26,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Wednesday,14:30,15:30,67-104,2026-09-09,Wollongong,In-class quiz/exam
 MGNT207,Lecture,Wednesday,14:30,15:30,67-104,2026-09-16,Wollongong,Employment Relations Lecture
+ENGG954,OC_CAS,Wednesday,14:30,15:30,67-104,2026-09-23,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Wednesday,14:30,15:30,67-104,2026-10-14,Wollongong,In-class quiz/exam
 03.04/26-JamesTerry/01,JamesTerry,Wednesday,16:00,16:30,67-104,2026-03-04,Wollongong,Future Me Year 12 Program
 03.04/26-JamesTerry/01,JamesTerry,Wednesday,16:00,16:30,67-104,2026-03-11,Wollongong,Future Me Year 12 Program
 03.04/26-JamesTerry/01,JamesTerry,Wednesday,16:00,16:30,67-104,2026-03-18,Wollongong,Future Me Year 12 Program
@@ -77331,6 +77351,10 @@ PSYP924,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-05-28,Wollongong,Adva
 PSYP923,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-06-04,Wollongong,Practicum Lecture Practical
 PSYP924,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-06-04,Wollongong,Advanced Practicum Lecture Practical
 ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-08-13,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-08-27,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-09-10,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-09-24,Wollongong,In-class quiz/exam
+ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-10-15,Wollongong,In-class quiz/exam
 04.30/26-MackenzieCini,MackenzieCini,Thursday,15:00,16:00,67-104,2026-04-30,Wollongong,Mining Society Event - Mining Society
 06.04/26-MichaelMacartney/01,MichaelMacartney,Thursday,17:00,19:00,67-104,2026-06-04,Wollongong,Nutrition & Dietetics Symposium
 10.29/26-MarianneSpinelli/01,MarianneSpinelli,Thursday,17:00,20:00,67-104,2026-10-29,Wollongong,School of Science Bert Halpern Memorial Lecture
@@ -78143,18 +78167,6 @@ MGNT322,Tutorial,Monday,15:30,17:30,67-201,2026-05-11,Wollongong,Learning and De
 MGNT322,Tutorial,Monday,15:30,17:30,67-201,2026-05-18,Wollongong,Learning and Development in Organisations Tutorial
 MGNT322,Tutorial,Monday,15:30,17:30,67-201,2026-05-25,Wollongong,Learning and Development in Organisations Tutorial
 MGNT322,Tutorial,Monday,15:30,17:30,67-201,2026-06-01,Wollongong,Learning and Development in Organisations Tutorial
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-08-03,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-08-10,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-08-17,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-08-24,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-08-31,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-09-07,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-09-14,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-09-21,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-10-05,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-10-12,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-10-19,Wollongong,Introduction to Management Workshop
-MGNT110,Workshop,Monday,15:30,17:30,67-201,2026-10-26,Wollongong,Introduction to Management Workshop
 LLB1130,Seminar,Monday,17:30,19:30,67-201,2026-03-02,Wollongong,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Monday,17:30,19:30,67-201,2026-03-09,Wollongong,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Monday,17:30,19:30,67-201,2026-03-16,Wollongong,Criminal Law and Procedure A Seminar
@@ -80709,6 +80721,7 @@ POL 221,Tutorial,Monday,10:30,12:30,67-301,2026-10-05,Wollongong,Australian Poli
 POL 221,Tutorial,Monday,10:30,12:30,67-301,2026-10-12,Wollongong,Australian Politics Tutorial
 POL 221,Tutorial,Monday,10:30,12:30,67-301,2026-10-19,Wollongong,Australian Politics Tutorial
 POL 221,Tutorial,Monday,10:30,12:30,67-301,2026-10-26,Wollongong,Australian Politics Tutorial
+08.24/26-CassieRussell/02,CassieRussell,Monday,12:30,14:30,67-301,2026-09-21,Wollongong,MEDI330 - RA Exam
 12.01/25-SvitlanaNastenko,SvitlanaNastenko,Monday,13:30,16:30,67-301,2025-12-01,Wollongong,DSCI110 midsession exam - group supervision AP students - UOWC
 BCM 110,Tutorial,Monday,13:30,15:30,67-301,2026-03-02,Wollongong,Introduction to Communication and Media Tutorial
 BCM 110,Tutorial,Monday,13:30,15:30,67-301,2026-03-09,Wollongong,Introduction to Communication and Media Tutorial
@@ -90163,11 +90176,6 @@ SOWK404,Tutorial\Practical,Thursday,11:30,13:30,300-UG05,2026-05-14,Shoalhaven,A
 SOWK404,Tutorial\Practical,Thursday,11:30,13:30,300-UG05,2026-05-21,Shoalhaven,Approaches and Skills: Community Work Tutorial\Practical
 SOWK404,Tutorial\Practical,Thursday,11:30,13:30,300-UG05,2026-05-28,Shoalhaven,Approaches and Skills: Community Work Tutorial\Practical
 SOWK404,Tutorial\Practical,Thursday,11:30,13:30,300-UG05,2026-06-04,Shoalhaven,Approaches and Skills: Community Work Tutorial\Practical
-SOWK337,Workshop,Thursday,13:30,16:30,300-UG05,2026-08-06,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
-SOWK337,Workshop,Thursday,13:30,16:30,300-UG05,2026-08-20,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
-SOWK337,Workshop,Thursday,13:30,16:30,300-UG05,2026-09-03,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
-SOWK337,Workshop,Thursday,13:30,16:30,300-UG05,2026-09-17,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
-SOWK337,Workshop,Thursday,13:30,16:30,300-UG05,2026-10-08,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
 01.30/26-MichaelCook/01,MichaelCook,Friday,06:00,08:00,300-UG05,2026-01-30,Shoalhaven,Residual Current Device Testing for Building 300
 SOWK305,Lecture\Seminar,Friday,08:30,10:30,300-UG05,2026-03-06,Shoalhaven,Social Work Ethics Lecture/Seminar
 SOWK305,Lecture\Seminar,Friday,08:30,10:30,300-UG05,2026-03-20,Shoalhaven,Social Work Ethics Lecture/Seminar
@@ -90356,6 +90364,11 @@ EDMT906,Tutorial,Thursday,13:30,14:30,300-UG28,2026-05-14,Shoalhaven,Aboriginal 
 EDMT906,Tutorial,Thursday,13:30,14:30,300-UG28,2026-05-21,Shoalhaven,Aboriginal Education Tutorial
 EDMT906,Tutorial,Thursday,13:30,14:30,300-UG28,2026-05-28,Shoalhaven,Aboriginal Education Tutorial
 EDMT906,Tutorial,Thursday,13:30,14:30,300-UG28,2026-06-04,Shoalhaven,Aboriginal Education Tutorial
+SOWK337,Workshop,Thursday,14:00,17:00,300-UG28,2026-08-06,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
+SOWK337,Workshop,Thursday,14:00,17:00,300-UG28,2026-08-20,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
+SOWK337,Workshop,Thursday,14:00,17:00,300-UG28,2026-09-03,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
+SOWK337,Workshop,Thursday,14:00,17:00,300-UG28,2026-09-17,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
+SOWK337,Workshop,Thursday,14:00,17:00,300-UG28,2026-10-08,Shoalhaven,Practice with Aboriginal and Torres Strait Islander Peoples Workshop
 01.30/26-MichaelCook/01,MichaelCook,Friday,06:00,08:00,300-UG28,2026-01-30,Shoalhaven,Residual Current Device Testing for Building 300
 SOWK406,Tutorial\Workshop,Friday,08:30,12:30,300-UG28,2026-03-13,Shoalhaven,Advanced Social Work Practice and Skills Practical
 SOWK406,Tutorial\Workshop,Friday,08:30,12:30,300-UG28,2026-03-20,Shoalhaven,Advanced Social Work Practice and Skills Practical
@@ -96726,22 +96739,7 @@ PREP032,Tutorial,Thursday,13:30,15:30,400-207,2026-05-07,Liverpool,Scientific Th
 PREP032,Tutorial,Thursday,13:30,15:30,400-207,2026-05-14,Liverpool,Scientific Thinking
 PREP032,Tutorial,Thursday,13:30,15:30,400-207,2026-05-21,Liverpool,Scientific Thinking
 PREP032,Tutorial,Thursday,13:30,15:30,400-207,2026-05-28,Liverpool,Scientific Thinking
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-08-06,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-08-06,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-08-20,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-08-20,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-08-27,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-08-27,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-09-03,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-09-03,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-09-17,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-09-17,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-09-24,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-09-24,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-10-15,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-10-15,Liverpool,System Analysis and Project Management Computer Lab
-CSIT214,Computer Lab,Thursday,13:30,15:30,400-207,2026-10-22,Liverpool,IT Project Management Computer Lab
-CSIT883,Computer Lab,Thursday,13:30,15:30,400-207,2026-10-22,Liverpool,System Analysis and Project Management Computer Lab
+VNUR200,TJ,Thursday,13:30,15:30,400-207,2026-09-17,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 PREP031,Computer Lab,Thursday,15:30,17:30,400-207,2026-02-26,Liverpool,Language for Learning Computer Lab
 PREP031,Computer Lab,Thursday,15:30,17:30,400-207,2026-03-05,Liverpool,Language for Learning Computer Lab
 PREP031,Computer Lab,Thursday,15:30,17:30,400-207,2026-03-12,Liverpool,Language for Learning Computer Lab
@@ -97076,7 +97074,22 @@ CSCI334,Computer Lab,Thursday,12:30,14:30,400-208,2026-04-09,Liverpool,Software 
 CSCI334,Computer Lab,Thursday,12:30,14:30,400-208,2026-04-30,Liverpool,Software Design Computer Lab
 CSCI334,Computer Lab,Thursday,12:30,14:30,400-208,2026-05-14,Liverpool,Software Design Computer Lab
 CSCI334,Computer Lab,Thursday,12:30,14:30,400-208,2026-05-28,Liverpool,Software Design Computer Lab
-VNUR200,TJ,Thursday,13:30,15:30,400-208,2026-09-17,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-08-06,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-08-06,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-08-20,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-08-20,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-08-27,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-08-27,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-09-03,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-09-03,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-09-17,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-09-17,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-09-24,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-09-24,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-10-15,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-10-15,Liverpool,System Analysis and Project Management Computer Lab
+CSIT214,Computer Lab,Thursday,13:30,15:30,400-208,2026-10-22,Liverpool,IT Project Management Computer Lab
+CSIT883,Computer Lab,Thursday,13:30,15:30,400-208,2026-10-22,Liverpool,System Analysis and Project Management Computer Lab
 CSIT123,Workshop,Thursday,14:30,16:30,400-208,2026-03-12,Liverpool,Computing and Cyber Security Fundamentals Workshop
 CSIT123,Workshop,Thursday,14:30,16:30,400-208,2026-03-26,Liverpool,Computing and Cyber Security Fundamentals Workshop
 CSIT123,Workshop,Thursday,14:30,16:30,400-208,2026-04-09,Liverpool,Computing and Cyber Security Fundamentals Workshop
