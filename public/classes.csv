@@ -2942,6 +2942,9 @@ LLB2230,Seminar,Monday,14:30,16:30,3-121,2026-10-26,Wollongong,Administrative La
 12.08/25-JasonStreat/01,JasonStreat,Monday,16:00,17:30,3-121,2025-12-08,Wollongong,Illawarra Dragons - Jersey Flegg
 03.02/26-JasonStreat/01,JasonStreat,Monday,16:00,17:30,3-121,2026-03-02,Wollongong,Illawarra Dragons
 03.30/26-JasonStreat/01,JasonStreat,Monday,16:00,17:30,3-121,2026-03-30,Wollongong,Illawarra Dragons
+ENVE320,OC_CAS,Monday,18:30,20:30,3-121,2026-08-17,Wollongong,Test
+ENVE320,OC_CAS,Monday,18:30,20:30,3-121,2026-09-21,Wollongong,Test
+ENVE320,OC_CAS,Monday,18:30,20:30,3-121,2026-10-26,Wollongong,Test
 00CAS5-Orientation-Autumn/02,Orientation,Tuesday,06:00,14:00,3-121,2026-02-24,Wollongong,"Autumn Orientation - Bld 1, 14, 3, 32, 35, 4, 8"
 06.15/26-DannieBurrell/01,DannieBurrell,Tuesday,06:00,00:00,3-121,2026-06-16,Wollongong,CTA Refresh - WK 30 - Mon-Sun block
 00CAS3-OpenDay-WG/04,OpenDay,Tuesday,06:00,00:00,3-121,2026-06-23,Wollongong,Storage for Open Day
@@ -15603,6 +15606,7 @@ MATH222,OC_CAS,Tuesday,09:00,11:30,8-G24,2026-06-23,Wollongong,Final Exam - MATH
 01.13/26-MingQiao/01,MingQiao,Tuesday,10:30,12:30,8-G24,2026-01-13,Wollongong,Guest lecture for HDR Students
 12.02/25-SusanLehmann,SusanLehmann,Tuesday,11:00,13:00,8-G24,2025-12-02,Wollongong,Ming Qiao - English Teaching - CMEA
 03.17/26-MarianoRodrigo,MarianoRodrigo,Tuesday,11:00,12:00,8-G24,2026-03-17,Wollongong,PhD student meeting - SMAP
+08.11/26-HuiziYang/03,HuiziYang,Tuesday,13:00,14:00,8-G24,2026-10-06,Wollongong,Professor Guangming Jiang’s research group meetings
 DSSC104,Tutorial,Tuesday,13:30,15:30,8-G24,2026-03-03,Wollongong,Introduction to Human Geography Tutorial
 DSSC104,Tutorial,Tuesday,13:30,15:30,8-G24,2026-03-10,Wollongong,Introduction to Human Geography Tutorial
 DSSC104,Tutorial,Tuesday,13:30,15:30,8-G24,2026-03-17,Wollongong,Introduction to Human Geography Tutorial
@@ -15681,6 +15685,7 @@ DPEN010,Tutorial,Wednesday,13:30,15:30,8-G24,2026-05-06,Wollongong,Enabling Math
 DPEN010,Tutorial,Wednesday,13:30,15:30,8-G24,2026-05-13,Wollongong,Enabling Mathematics Tutorial
 DPEN010,Tutorial,Wednesday,13:30,15:30,8-G24,2026-05-20,Wollongong,Enabling Mathematics Tutorial
 DPEN010,Tutorial,Wednesday,13:30,15:30,8-G24,2026-05-27,Wollongong,Enabling Mathematics Tutorial
+08.12/26-JiapingWang,JiapingWang,Wednesday,13:30,16:00,8-G24,2026-08-12,Wollongong,research group meeting - EIS
 07.29/26-YuqianWang,YuqianWang,Wednesday,14:30,15:00,8-G24,2026-07-29,Wollongong,For meeting - EIS
 07.13/26-JasonStreat/02,JasonStreat,Wednesday,15:30,17:30,8-G24,2026-07-15,Wollongong,Dragons
 07.22/26-JasonStreat/01,JasonStreat,Wednesday,15:30,18:00,8-G24,2026-07-22,Wollongong,Dragons
@@ -15963,10 +15968,6 @@ DPEN102,Tutorial,Tuesday,12:30,15:30,8-G25,2026-05-26,Wollongong,
 ENGG102,Tutorial,Tuesday,12:30,15:30,8-G25,2026-05-26,Wollongong,
 DPEN102,Tutorial,Tuesday,12:30,15:30,8-G25,2026-06-02,Wollongong,
 ENGG102,Tutorial,Tuesday,12:30,15:30,8-G25,2026-06-02,Wollongong,
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,8-G25,2026-08-11,Wollongong,Professor Guangming Jiang’s research group meetings
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,8-G25,2026-09-08,Wollongong,Professor Guangming Jiang’s research group meetings
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,8-G25,2026-10-06,Wollongong,Professor Guangming Jiang’s research group meetings
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,8-G25,2026-11-03,Wollongong,Professor Guangming Jiang’s research group meetings
 BIOL103,Seminar\Practical,Tuesday,13:30,16:30,8-G25,2026-10-06,Wollongong,"Molecules, Cells and Organisms Seminar\Practical"
 DPEN102,Tutorial,Tuesday,15:30,18:30,8-G25,2026-03-03,Wollongong,
 ENGG102,Tutorial,Tuesday,15:30,18:30,8-G25,2026-03-03,Wollongong,
@@ -26933,6 +26934,12 @@ ETS 200,L,Tuesday,13:30,15:30,19-1067,2026-01-20,Wollongong,ETS Session 2 Lectur
 ETS 200,L,Tuesday,13:30,15:30,19-1067,2026-01-27,Wollongong,ETS Session 2 Lecture
 ETS 200,L,Tuesday,13:30,15:30,19-1067,2026-02-03,Wollongong,ETS Session 2 Lecture
 ETS 200,L,Tuesday,13:30,15:30,19-1067,2026-02-10,Wollongong,ETS Session 2 Lecture
+PREP032,Tutorial,Tuesday,13:30,15:30,19-1067,2026-08-18,Wollongong,Scientific Thinking
+PREP032,Tutorial,Tuesday,13:30,15:30,19-1067,2026-08-25,Wollongong,Scientific Thinking
+PREP032,Tutorial,Tuesday,13:30,15:30,19-1067,2026-09-01,Wollongong,Scientific Thinking
+PREP032,Tutorial,Tuesday,13:30,15:30,19-1067,2026-09-08,Wollongong,Scientific Thinking
+PREP032,Tutorial,Tuesday,13:30,15:30,19-1067,2026-09-15,Wollongong,Scientific Thinking
+PREP032,Tutorial,Tuesday,13:30,15:30,19-1067,2026-09-22,Wollongong,Scientific Thinking
 MGNT949,Tutorial,Tuesday,14:30,16:30,19-1067,2026-05-19,Wollongong,Performance Management Tutorial
 MGNT949,Tutorial,Tuesday,14:30,16:30,19-1067,2026-05-26,Wollongong,Performance Management Tutorial
 MGNT949,Tutorial,Tuesday,14:30,16:30,19-1067,2026-06-02,Wollongong,Performance Management Tutorial
@@ -31690,6 +31697,12 @@ PREP033,Tutorial,Thursday,12:30,14:30,19-2040,2026-05-07,Wollongong,Mathematics 
 PREP033,Tutorial,Thursday,12:30,14:30,19-2040,2026-05-14,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,12:30,14:30,19-2040,2026-05-21,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,12:30,14:30,19-2040,2026-05-28,Wollongong,Mathematics for the Humanities
+PREP032,Tutorial,Thursday,13:30,15:30,19-2040,2026-08-20,Wollongong,Scientific Thinking
+PREP032,Tutorial,Thursday,13:30,15:30,19-2040,2026-08-27,Wollongong,Scientific Thinking
+PREP032,Tutorial,Thursday,13:30,15:30,19-2040,2026-09-03,Wollongong,Scientific Thinking
+PREP032,Tutorial,Thursday,13:30,15:30,19-2040,2026-09-10,Wollongong,Scientific Thinking
+PREP032,Tutorial,Thursday,13:30,15:30,19-2040,2026-09-17,Wollongong,Scientific Thinking
+PREP032,Tutorial,Thursday,13:30,15:30,19-2040,2026-09-24,Wollongong,Scientific Thinking
 WCIV203,Tutorial,Thursday,14:30,15:30,19-2040,2026-03-05,Wollongong,"Philosophy of Religion: Reason, Faith and Revelation Tutorial"
 WCIV203,Tutorial,Thursday,14:30,15:30,19-2040,2026-03-12,Wollongong,"Philosophy of Religion: Reason, Faith and Revelation Tutorial"
 WCIV203,Tutorial,Thursday,14:30,15:30,19-2040,2026-03-19,Wollongong,"Philosophy of Religion: Reason, Faith and Revelation Tutorial"
@@ -33039,12 +33052,6 @@ WUCB130,Tutorial,Thursday,08:30,10:30,19-2104,2026-07-09,Wollongong,Introduction
 WUCB130,Tutorial,Thursday,08:30,10:30,19-2104,2026-07-16,Wollongong,Introduction to Management Tutorial
 WUCB130,Tutorial,Thursday,08:30,10:30,19-2104,2026-07-23,Wollongong,Introduction to Management Tutorial
 WUCB130,Tutorial,Thursday,08:30,10:30,19-2104,2026-07-30,Wollongong,Introduction to Management Tutorial
-PREP032,Tutorial,Thursday,08:30,10:30,19-2104,2026-08-20,Wollongong,Scientific Thinking
-PREP032,Tutorial,Thursday,08:30,10:30,19-2104,2026-08-27,Wollongong,Scientific Thinking
-PREP032,Tutorial,Thursday,08:30,10:30,19-2104,2026-09-03,Wollongong,Scientific Thinking
-PREP032,Tutorial,Thursday,08:30,10:30,19-2104,2026-09-10,Wollongong,Scientific Thinking
-PREP032,Tutorial,Thursday,08:30,10:30,19-2104,2026-09-17,Wollongong,Scientific Thinking
-PREP032,Tutorial,Thursday,08:30,10:30,19-2104,2026-09-24,Wollongong,Scientific Thinking
 PHIL107,Tutorial,Thursday,10:30,11:30,19-2104,2026-03-05,Wollongong,Introduction to Philosophy Tutorial
 PHIL107,Tutorial,Thursday,10:30,11:30,19-2104,2026-03-12,Wollongong,Introduction to Philosophy Tutorial
 PHIL107,Tutorial,Thursday,10:30,11:30,19-2104,2026-03-19,Wollongong,Introduction to Philosophy Tutorial
@@ -34912,6 +34919,7 @@ CSIT213,Lecture,Tuesday,14:30,16:30,20-1,2026-06-02,Wollongong,Java Programming 
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-08-11,Wollongong,Web Development Lecture
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-08-25,Wollongong,Web Development Lecture
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-09-08,Wollongong,Web Development Lecture
+09.15/26-EmmaGray/01,EmmaGray,Tuesday,14:30,17:30,20-1,2026-09-15,Wollongong,Pre-Departure Event UOW Study Overseas
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-09-22,Wollongong,Web Development Lecture
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-10-13,Wollongong,Web Development Lecture
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-10-27,Wollongong,Web Development Lecture
@@ -37132,6 +37140,18 @@ ENVE311,Lecture,Thursday,13:30,15:30,20-5,2026-05-28,Wollongong,
 ENVE923,Lecture,Thursday,13:30,15:30,20-5,2026-05-28,Wollongong,
 ENVE311,Lecture,Thursday,13:30,15:30,20-5,2026-06-04,Wollongong,
 ENVE923,Lecture,Thursday,13:30,15:30,20-5,2026-06-04,Wollongong,
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-07-30,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-08-06,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-08-13,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-08-20,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-08-27,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-09-03,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-09-17,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-09-24,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-10-08,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-10-15,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-10-22,Wollongong,Sex in the Modern World Lecture
+HIST387,Lecture,Thursday,13:30,14:30,20-5,2026-10-29,Wollongong,Sex in the Modern World Lecture
 06.11/26-RodneyVickers,RodneyVickers,Thursday,14:00,16:00,20-5,2026-06-11,Wollongong,PHYS215 subject review - Maths and Physics
 04.23/26-TashLewell-Hillary,TashLewell,Thursday,14:30,16:30,20-5,2026-04-23,Wollongong,Divisional meeting - Student Growth and Engagement Division
 07.23/26-TashLewell-Hillary,TashLewell,Thursday,14:30,16:30,20-5,2026-07-23,Wollongong,Divisional meeting - Student Growth and Engagement Division
@@ -38523,6 +38543,7 @@ EDMM101,Workshop,Thursday,09:30,10:30,21-115,2026-05-14,Wollongong,Mathematics F
 EDMM101,Workshop,Thursday,09:30,10:30,21-115,2026-05-21,Wollongong,Mathematics Foundations Workshop
 EDMM101,Workshop,Thursday,09:30,10:30,21-115,2026-05-28,Wollongong,Mathematics Foundations Workshop
 EDMM101,Workshop,Thursday,09:30,10:30,21-115,2026-06-04,Wollongong,Mathematics Foundations Workshop
+08.13/26-SharynCasey,SharynCasey,Thursday,09:30,11:00,21-115,2026-08-13,Wollongong,IPD Leader Workshop - Infrastructure and Property Division
 ACCY801,Tutorial,Thursday,09:30,11:30,21-115,2026-08-27,Wollongong,Accounting and Financial Management Tutorial
 ACCY801,Tutorial,Thursday,09:30,11:30,21-115,2026-09-03,Wollongong,Accounting and Financial Management Tutorial
 ACCY801,Tutorial,Thursday,09:30,11:30,21-115,2026-09-10,Wollongong,Accounting and Financial Management Tutorial
@@ -39582,6 +39603,7 @@ EDMS920,Lecture,Wednesday,12:30,13:30,21-G08,2026-10-14,Wollongong,Literacy and 
 EDMS920,Lecture,Wednesday,12:30,13:30,21-G08,2026-10-21,Wollongong,Literacy and Numeracy in the Secondary School Lecture
 EDMS920,Lecture,Wednesday,12:30,13:30,21-G08,2026-10-28,Wollongong,Literacy and Numeracy in the Secondary School Lecture
 DSCI112,Workshop,Wednesday,13:30,16:30,21-G08,2026-06-24,Wollongong,"Molecules, Cells and Organisms Lecture"
+08.19/26-SharynCasey,SharynCasey,Wednesday,13:30,15:00,21-G08,2026-08-19,Wollongong,IPD Leader Workshop - Infrastructure and Property Division
 STOU005,KaichiHigh,Wednesday,15:30,17:30,21-G08,2026-07-29,Wollongong,Kaichi High - Arrival Orientation
 STOU003,KaichiTokorozawa,Wednesday,15:30,17:30,21-G08,2026-08-05,Wollongong,Kaichi Tokorozawa Primary - Graduation
 05.06/26-XiaohongYan,XiaohongYan,Wednesday,17:30,19:30,21-G08,2026-05-06,Wollongong,MATH206/800 Mid Session Exam - School of MAP
@@ -40344,6 +40366,9 @@ DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-04-28,Wollongong,Age of Revoluti
 DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-05-05,Wollongong,Age of Revolutions Lecture
 DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-05-12,Wollongong,Age of Revolutions Lecture
 DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-05-19,Wollongong,Age of Revolutions Lecture
+08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,22-G23,2026-08-11,Wollongong,Professor Guangming Jiang’s research group meetings
+08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,22-G23,2026-09-08,Wollongong,Professor Guangming Jiang’s research group meetings
+08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,22-G23,2026-11-03,Wollongong,Professor Guangming Jiang’s research group meetings
 DART108,Tutorial,Tuesday,13:30,15:30,22-G23,2026-02-24,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,22-G23,2026-03-03,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,22-G23,2026-03-10,Wollongong,Age of Revolutions Tutorial
@@ -49814,18 +49839,6 @@ JRNL301,Lecture,Thursday,13:30,14:30,25-128,2026-05-07,Wollongong,Data Journalis
 JRNL301,Lecture,Thursday,13:30,14:30,25-128,2026-05-14,Wollongong,Data Journalism Research and Investigation Lecture
 JRNL301,Lecture,Thursday,13:30,14:30,25-128,2026-05-21,Wollongong,Data Journalism Research and Investigation Lecture
 JRNL301,Lecture,Thursday,13:30,14:30,25-128,2026-05-28,Wollongong,Data Journalism Research and Investigation Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-07-30,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-08-06,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-08-13,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-08-20,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-08-27,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-09-03,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-09-17,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-09-24,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-10-08,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-10-15,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-10-22,Wollongong,Sex in the Modern World Lecture
-HIST387,Lecture,Thursday,13:30,14:30,25-128,2026-10-29,Wollongong,Sex in the Modern World Lecture
 03.19/26-LaraBlair,LaraBlair,Thursday,14:30,16:00,25-128,2026-03-19,Wollongong,Uni Bible - Leaders' Training - Student Engagement
 03.26/26-LaraBlair,LaraBlair,Thursday,14:30,16:00,25-128,2026-03-26,Wollongong,Uni Bible - Leaders' Training - Student Engagement
 04.02/26-LaraBlair,LaraBlair,Thursday,14:30,16:00,25-128,2026-04-02,Wollongong,Uni Bible - Leaders' Training - Student Engagement
@@ -69111,6 +69124,7 @@ DASH100,Tutorial,Friday,10:30,12:30,41-107,2026-07-03,Wollongong,Learning in Hig
 06.05/26-ChristopherRichardson,ChristopherRichardson,Friday,14:30,15:30,41-107,2026-06-05,Wollongong,meeting - chemistry
 06.12/26-ChristopherRichardson,ChristopherRichardson,Friday,14:30,15:30,41-107,2026-06-12,Wollongong,seminar - chemistry
 07.03/26-ChristopherRichardson,ChristopherRichardson,Friday,14:30,15:30,41-107,2026-07-03,Wollongong,seminar - chemistry
+08.07/26-ChristopherRichardson,ChristopherRichardson,Friday,14:30,15:30,41-107,2026-08-07,Wollongong,meeting - chemistry
 06.15/26-DannieBurrell/01,DannieBurrell,Saturday,06:00,00:00,41-107,2026-06-20,Wollongong,CTA Refresh - WK 30 - Mon-Sun block
 07.22/26-ReneeStortz/01,ReneeStortz,Saturday,06:00,00:00,41-107,2026-07-25,Wollongong,Building Works
 06.15/26-DannieBurrell/01,DannieBurrell,Sunday,06:00,00:00,41-107,2026-06-21,Wollongong,CTA Refresh - WK 30 - Mon-Sun block
@@ -70691,6 +70705,7 @@ SOWK101,Tutorial,Wednesday,13:30,15:30,41-204,2026-05-13,Wollongong,Introduction
 SOWK101,Tutorial,Wednesday,13:30,15:30,41-204,2026-05-20,Wollongong,Introduction to Social Work Tutorial
 SOWK101,Tutorial,Wednesday,13:30,15:30,41-204,2026-05-27,Wollongong,Introduction to Social Work Tutorial
 SOWK101,Tutorial,Wednesday,13:30,15:30,41-204,2026-06-03,Wollongong,Introduction to Social Work Tutorial
+08.15/26-SamanthaReis/01,SamanthaReis,Wednesday,15:30,16:30,41-204,2026-08-19,Wollongong,Student - PhD proposal
 03.09/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,41-204,2026-02-12,Wollongong,Residual Current Device Testing for Building 41
 00CAS3-DiscoveryDays-Yr12-Feb26/05,DiscoveryDays,Thursday,06:00,14:30,41-204,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 41, 43, 67"
 06.15/26-DannieBurrell/01,DannieBurrell,Thursday,06:00,00:00,41-204,2026-06-18,Wollongong,CTA Refresh - WK 30 - Mon-Sun block
@@ -77254,6 +77269,7 @@ MECH311,Lecture,Tuesday,13:30,15:30,67-104,2026-10-13,Wollongong,Mechanical Desi
 MECH311,Lecture,Tuesday,13:30,15:30,67-104,2026-10-20,Wollongong,Mechanical Design 2 Lecture
 MECH311,Lecture,Tuesday,13:30,15:30,67-104,2026-10-27,Wollongong,Mechanical Design 2 Lecture
 05.29/26-LeiWang/02,LeiWang,Tuesday,14:30,18:00,67-104,2026-06-02,Wollongong,INFO411/911 - Group Presentations
+09.15/26-EmmaGray/02,EmmaGray,Tuesday,15:30,17:30,67-104,2026-09-15,Wollongong,Pre-Departure Event UOW Study Overseas
 10.29/26-SarinaMiller/01,SarinaMiller,Tuesday,15:30,19:30,67-104,2026-10-20,Wollongong,LAWS - 2026 Goldring Lecture
 12.01/25-CarolynSilveri/04,CarolynSilveri,Tuesday,18:00,20:00,67-104,2025-12-02,Wollongong,AIP Summer Meeting 2025 - Susanna Guatelli
 12.06/25-MarjoNiemela/04,MarjoNiemela,Wednesday,06:00,00:00,67-104,2025-12-10,Wollongong,IEEE - International Conference on Energy Technologies for Future Grids
@@ -80464,12 +80480,6 @@ ETS 300,TC,Tuesday,08:30,10:30,67-209,2026-03-10,Wollongong,ETS Session 3 Tutori
 ETS 300,TC,Tuesday,08:30,10:30,67-209,2026-03-17,Wollongong,ETS Session 3 Tutorial
 ETS 300,TC,Tuesday,08:30,10:30,67-209,2026-03-24,Wollongong,ETS Session 3 Tutorial
 05.25/26-LipTeh/02,LipTeh,Tuesday,08:30,17:00,67-209,2026-05-26,Wollongong,CMEA498 Thesis A & CMEA499 Thesis B - Oral Presentations
-PREP032,Tutorial,Tuesday,08:30,10:30,67-209,2026-08-18,Wollongong,Scientific Thinking
-PREP032,Tutorial,Tuesday,08:30,10:30,67-209,2026-08-25,Wollongong,Scientific Thinking
-PREP032,Tutorial,Tuesday,08:30,10:30,67-209,2026-09-01,Wollongong,Scientific Thinking
-PREP032,Tutorial,Tuesday,08:30,10:30,67-209,2026-09-08,Wollongong,Scientific Thinking
-PREP032,Tutorial,Tuesday,08:30,10:30,67-209,2026-09-15,Wollongong,Scientific Thinking
-PREP032,Tutorial,Tuesday,08:30,10:30,67-209,2026-09-22,Wollongong,Scientific Thinking
 03.31/26-ToniSeton,ToniSeton,Tuesday,09:30,10:30,67-209,2026-03-31,Wollongong,LAW382/312 LLB3314 RA in class quizzes - School of Law
 PREP030,Tutorial,Tuesday,10:30,12:30,67-209,2026-03-03,Wollongong,Tertiary Academic Skills 2 Tutorial
 PREP030,Tutorial,Tuesday,10:30,12:30,67-209,2026-03-10,Wollongong,Tertiary Academic Skills 2 Tutorial
@@ -95664,6 +95674,7 @@ SOWK923,Workshop,Saturday,13:30,17:30,400-106,2026-05-02,Liverpool,Contemporary 
 00CAS2-LiverpoolExams2026-Spring/03,LiverpoolExams2026,Monday,06:00,00:00,400-107,2026-11-16,Liverpool,Liverpool Spring Exams 2026
 02.16/26-SaifAdam/01,SaifAdam,Monday,08:00,17:00,400-107,2026-02-16,Liverpool,IMTS Maintenance
 07.20/26-PhilVo/01,PhilVo,Monday,08:00,17:00,400-107,2026-07-20,Liverpool,Liverpool campus - Spring orientation
+08.17/26-CarleyJans,CarleyJans,Monday,08:00,16:00,400-107,2026-08-17,Liverpool,Research/Data Collection - SMAH/School of Nursing
 DPIT128,Lecture,Monday,08:30,10:30,400-107,2026-01-05,Liverpool,Introduction to Web Technology
 DPIT128,Lecture,Monday,08:30,10:30,400-107,2026-01-12,Liverpool,Introduction to Web Technology
 DPIT128,Lecture,Monday,08:30,10:30,400-107,2026-01-19,Liverpool,Introduction to Web Technology
@@ -96656,6 +96667,12 @@ DPIT123,Computer Lab,Wednesday,11:30,14:30,400-207,2026-05-06,Liverpool,Computin
 DPIT123,Computer Lab,Wednesday,11:30,14:30,400-207,2026-05-20,Liverpool,Computing and Cyber Security Fundamentals Computer Lab
 VNUR300,TM,Wednesday,11:30,15:30,400-207,2026-07-15,Liverpool,Vocational Nursing Session 3- Jul 26 Intake
 DPIT115,Lecture,Wednesday,11:30,13:30,400-207,2026-07-22,Liverpool,Data Management & Security Lecture
+PREP032,Computer Lab,Wednesday,11:30,13:30,400-207,2026-08-19,Liverpool,Scientific Thinking
+PREP032,Computer Lab,Wednesday,11:30,13:30,400-207,2026-08-26,Liverpool,Scientific Thinking
+PREP032,Computer Lab,Wednesday,11:30,13:30,400-207,2026-09-02,Liverpool,Scientific Thinking
+PREP032,Computer Lab,Wednesday,11:30,13:30,400-207,2026-09-09,Liverpool,Scientific Thinking
+PREP032,Computer Lab,Wednesday,11:30,13:30,400-207,2026-09-16,Liverpool,Scientific Thinking
+PREP032,Computer Lab,Wednesday,11:30,13:30,400-207,2026-09-23,Liverpool,Scientific Thinking
 WUCB105,Tutorial,Wednesday,13:30,15:30,400-207,2026-07-22,Liverpool,Introductory Principles of Finance Tutorial
 CSIT377,Computer Lab,Wednesday,13:30,15:30,400-207,2026-08-05,Liverpool,Enterprise Cloud Development Computer Lab
 CSIT377,Computer Lab,Wednesday,13:30,15:30,400-207,2026-08-12,Liverpool,Enterprise Cloud Development Computer Lab
