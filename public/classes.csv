@@ -2231,8 +2231,6 @@ SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-07-29,Wollongong,Fundamentals 
 SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-08-05,Wollongong,Fundamentals of Nursing 2
 SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-08-12,Wollongong,Fundamentals of Nursing 2
 SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-08-19,Wollongong,Fundamentals of Nursing 2
-ENG 005,TC,Wednesday,08:30,12:30,1-G05,2026-09-16,Wollongong,English Studies 5 Tutorial
-ENG 005,TC,Wednesday,08:30,12:30,1-G05,2026-09-23,Wollongong,English Studies 5 Tutorial
 SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-09-30,Wollongong,Fundamentals of Nursing 2
 SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-10-07,Wollongong,Fundamentals of Nursing 2
 SNUG112,Tutorial,Wednesday,08:30,10:30,1-G05,2026-10-14,Wollongong,Fundamentals of Nursing 2
@@ -8462,7 +8460,6 @@ ENGG252,Workshop,Friday,08:30,10:30,3-237,2026-05-15,Wollongong,Engineering Flui
 ENGG252,Workshop,Friday,08:30,10:30,3-237,2026-05-22,Wollongong,Engineering Fluid Mechanics Workshop
 ENGG252,Workshop,Friday,08:30,10:30,3-237,2026-05-29,Wollongong,Engineering Fluid Mechanics Workshop
 ENGG252,Workshop,Friday,08:30,10:30,3-237,2026-06-05,Wollongong,Engineering Fluid Mechanics Workshop
-VNUR200,TC,Friday,08:30,15:30,3-237,2026-08-07,Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 BIOL365,Practical,Friday,09:30,12:30,3-237,2026-10-09,Wollongong,
 BIOL971,Practical,Friday,09:30,12:30,3-237,2026-10-09,Wollongong,
 BIOL365,Practical,Friday,09:30,12:30,3-237,2026-10-16,Wollongong,
@@ -10594,6 +10591,8 @@ PGPH930,Tutorial,Tuesday,12:30,14:30,4-G31,2026-05-26,Wollongong,Observational E
 07.07/26-LaraBlair,LaraBlair,Tuesday,12:30,14:00,4-G31,2026-07-07,Wollongong,UniClubs Drone Dio - Technical Meeting - Student Engagement
 07.07/26-LaraBlair,LaraBlair,Tuesday,12:30,14:00,4-G31,2026-07-14,Wollongong,UniClubs Drone Dio - Technical Meeting - Student Engagement
 08.11/26-HuiziYang,HuiziYang,Tuesday,13:00,14:00,4-G31,2026-08-11,Wollongong,Group Meeting for Prof Guangming Jiang's research group - EIS
+08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,4-G31,2026-09-08,Wollongong,Professor Guangming Jiang’s research group meetings
+08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,4-G31,2026-11-03,Wollongong,Professor Guangming Jiang’s research group meetings
 DASH100,Tutorial,Tuesday,13:30,15:30,4-G31,2026-03-17,Wollongong,Learning in Higher Education Tutorial
 EXSC402,Workshop,Tuesday,13:30,16:30,4-G31,2026-03-31,Wollongong,Musculoskeletal Clinical Exercise Physiology Workshop
 EXSC902,Workshop,Tuesday,13:30,16:30,4-G31,2026-03-31,Wollongong,Musculoskeletal Clinical Exercise Physiology Workshop
@@ -23832,7 +23831,6 @@ HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-08-25,Wollongong,Introduction 
 HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-09-01,Wollongong,Introduction to Social Policy Tutorial
 HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-09-08,Wollongong,Introduction to Social Policy Tutorial
 HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-09-15,Wollongong,Introduction to Social Policy Tutorial
-ENG 005,TB,Tuesday,08:30,12:30,19-1001,2026-09-22,Wollongong,English Studies 5 Tutorial
 HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-10-06,Wollongong,Introduction to Social Policy Tutorial
 HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-10-13,Wollongong,Introduction to Social Policy Tutorial
 HAS 202,Tutorial,Tuesday,08:30,10:30,19-1001,2026-10-20,Wollongong,Introduction to Social Policy Tutorial
@@ -24141,7 +24139,6 @@ PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-08-14,Wollongong,Applied Psycho
 PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-08-28,Wollongong,Applied Psychology Tutorial
 PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-09-11,Wollongong,Applied Psychology Tutorial
 PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-09-18,Wollongong,Applied Psychology Tutorial
-ENG 005,TE,Friday,08:30,12:30,19-1001,2026-09-25,Wollongong,English Studies 5 Tutorial
 PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-10-09,Wollongong,Applied Psychology Tutorial
 PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-10-23,Wollongong,Applied Psychology Tutorial
 PSYC358,Tutorial,Friday,08:30,10:30,19-1001,2026-10-30,Wollongong,Applied Psychology Tutorial
@@ -26830,7 +26827,6 @@ PREP033,Tutorial,Monday,08:30,10:30,19-1067,2026-05-04,Wollongong,Mathematics fo
 PREP033,Tutorial,Monday,08:30,10:30,19-1067,2026-05-11,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Monday,08:30,10:30,19-1067,2026-05-18,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Monday,08:30,10:30,19-1067,2026-05-25,Wollongong,Mathematics for the Humanities
-ENG 005,TA,Monday,08:30,12:30,19-1067,2026-09-21,Wollongong,English Studies 5 Tutorial
 PREP041,Tutorial,Monday,11:30,13:30,19-1067,2026-02-23,Wollongong,Mathematics for the Sciences A Tutorial
 PREP041,Tutorial,Monday,11:30,13:30,19-1067,2026-03-02,Wollongong,Mathematics for the Sciences A Tutorial
 PREP041,Tutorial,Monday,11:30,13:30,19-1067,2026-03-09,Wollongong,Mathematics for the Sciences A Tutorial
@@ -27398,6 +27394,8 @@ PREP033,Tutorial,Wednesday,08:30,10:30,19-1083,2026-05-13,Wollongong,Mathematics
 PREP033,Tutorial,Wednesday,08:30,10:30,19-1083,2026-05-20,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Wednesday,08:30,10:30,19-1083,2026-05-27,Wollongong,Mathematics for the Humanities
 06.03/26-SaharBokosmaty/04,SaharBokosmaty,Wednesday,08:30,11:30,19-1083,2026-06-03,Wollongong,EDKM201 Exam
+ENG 004,TC,Wednesday,08:30,12:30,19-1083,2026-09-16,Wollongong,English Studies 4 Tutorial
+ENG 004,TC,Wednesday,08:30,12:30,19-1083,2026-09-23,Wollongong,English Studies 4 Tutorial
 06.10/26-EmmaBignell,EmmaBignell,Wednesday,09:00,11:00,19-1083,2026-06-10,Wollongong,Workshop - People & Culture
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-02-25,Wollongong,English for Academic Study 2 Tutorial
 FSPW202,Tutorial,Wednesday,10:30,12:30,19-1083,2026-03-04,Wollongong,English for Academic Study 2 Tutorial
@@ -27994,11 +27992,8 @@ MGNT918,Tutorial,Wednesday,16:30,18:30,19-1084,2026-10-21,Wollongong,Managing Em
 MGNT918,Tutorial,Wednesday,16:30,18:30,19-1084,2026-10-28,Wollongong,Managing Employment Relations in Organisations Tutorial
 00CAS3-DiscoveryDays-Yr10-Jun26/01,DiscoveryDays,Thursday,06:00,00:00,19-1084,2026-06-11,Wollongong,"Discovery Days Year 10 - Bld 3, 6, 8, 15, 19, 21 (includes set up)"
 07.01/26-AbdulAzizMohammed/02,AbdulAzizMohammed,Thursday,08:00,19:00,19-1084,2026-07-02,Wollongong,"UOW Debating Society, Hosting Australasian Event"
-ENG 005,TD,Thursday,08:30,12:30,19-1084,2026-08-20,Wollongong,English Studies 5 Tutorial
 CMEA444,Seminar,Thursday,08:30,12:30,19-1084,2026-09-10,Wollongong,Multidisciplinary Engineering Design Seminar
 ENVE928,Seminar,Thursday,08:30,12:30,19-1084,2026-09-10,Wollongong,
-ENG 005,TD,Thursday,08:30,12:30,19-1084,2026-09-17,Wollongong,English Studies 5 Tutorial
-ENG 005,TD,Thursday,08:30,12:30,19-1084,2026-09-24,Wollongong,English Studies 5 Tutorial
 CMEA444,Seminar,Thursday,08:30,12:30,19-1084,2026-10-15,Wollongong,Multidisciplinary Engineering Design Seminar
 ENVE928,Seminar,Thursday,08:30,12:30,19-1084,2026-10-15,Wollongong,
 BUS 101,Tutorial,Thursday,09:30,10:30,19-1084,2026-03-12,Wollongong,Principles of Responsible Business Tutorial
@@ -30686,6 +30681,18 @@ SNUG111,Tutorial,Thursday,10:30,12:30,19-2003,2026-05-07,Wollongong,Bioscience f
 SNUG111,Tutorial,Thursday,10:30,12:30,19-2003,2026-05-14,Wollongong,Bioscience for Nurses 1 Tutorial
 SNUG111,Tutorial,Thursday,10:30,12:30,19-2003,2026-05-21,Wollongong,Bioscience for Nurses 1 Tutorial
 DPEN021,Tutorial,Thursday,11:30,13:30,19-2003,2026-07-02,Wollongong,Enabling Mathematics A Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-08-06,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-08-13,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-08-20,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-08-27,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-09-03,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-09-10,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-09-17,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-09-24,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-10-08,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-10-15,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-10-22,Wollongong,Management of Change Tutorial
+MGNT311,Tutorial,Thursday,11:30,12:30,19-2003,2026-10-29,Wollongong,Management of Change Tutorial
 EDLE100,Tutorial,Thursday,12:30,13:30,19-2003,2026-03-05,Wollongong,Learning in Higher Education Tutorial
 EDLE100,Tutorial,Thursday,12:30,13:30,19-2003,2026-03-12,Wollongong,Learning in Higher Education Tutorial
 EDLE100,Tutorial,Thursday,12:30,13:30,19-2003,2026-03-19,Wollongong,Learning in Higher Education Tutorial
@@ -31167,7 +31174,6 @@ CHEM994,Seminar,Wednesday,08:30,11:30,19-2004,2026-06-03,Wollongong,Environmenta
 SNUG202,Tutorial,Wednesday,08:30,12:30,19-2004,2026-07-15,Wollongong,Evidence Based Practice
 SNUG202,Tutorial,Wednesday,08:30,12:30,19-2004,2026-07-22,Wollongong,Evidence Based Practice
 SNUG332,Tutorial,Wednesday,08:30,12:30,19-2004,2026-08-12,Wollongong,Skills Consolidation for Professional Practice
-ENG 005,TC,Wednesday,08:30,12:30,19-2004,2026-08-19,Wollongong,English Studies 5 Tutorial
 SNUG112,Tutorial,Wednesday,08:30,10:30,19-2004,2026-08-26,Wollongong,Fundamentals of Nursing 2
 SNUG112,Tutorial,Wednesday,08:30,10:30,19-2004,2026-09-02,Wollongong,Fundamentals of Nursing 2
 SNUG112,Tutorial,Wednesday,08:30,10:30,19-2004,2026-09-09,Wollongong,Fundamentals of Nursing 2
@@ -31466,6 +31472,7 @@ PREP042,Tutorial,Monday,08:30,10:30,19-2040,2026-05-04,Wollongong,Mathematics fo
 PREP042,Tutorial,Monday,08:30,10:30,19-2040,2026-05-11,Wollongong,Mathematics for the Sciences B
 PREP042,Tutorial,Monday,08:30,10:30,19-2040,2026-05-18,Wollongong,Mathematics for the Sciences B
 PREP042,Tutorial,Monday,08:30,10:30,19-2040,2026-05-25,Wollongong,Mathematics for the Sciences B
+ENG 004,TA,Monday,08:30,12:30,19-2040,2026-09-21,Wollongong,English Studies 4 Tutorial
 PREP030,Tutorial,Monday,10:30,12:30,19-2040,2026-02-23,Wollongong,Tertiary Academic Skills 2 Tutorial
 PREP030,Tutorial,Monday,10:30,12:30,19-2040,2026-03-02,Wollongong,Tertiary Academic Skills 2 Tutorial
 PREP030,Tutorial,Monday,10:30,12:30,19-2040,2026-03-09,Wollongong,Tertiary Academic Skills 2 Tutorial
@@ -31546,6 +31553,8 @@ PREP031,Tutorial,Tuesday,08:30,10:30,19-2040,2026-05-12,Wollongong,Language for 
 PREP031,Tutorial,Tuesday,08:30,10:30,19-2040,2026-05-19,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Tuesday,08:30,10:30,19-2040,2026-05-26,Wollongong,Language for Learning Tutorial
 06.02/26-LipTeh/01,LipTeh,Tuesday,08:30,10:30,19-2040,2026-06-02,Wollongong,CMEA498 Thesis A & CMEA499 Thesis B - Oral Presentations
+ETS 100,TB,Tuesday,08:30,12:30,19-2040,2026-09-15,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TB,Tuesday,08:30,12:30,19-2040,2026-09-22,Wollongong,ETS18 Session 1 Tutorial
 PREP030,Tutorial,Tuesday,10:30,12:30,19-2040,2026-02-24,Wollongong,Tertiary Academic Skills 2 Tutorial
 PREP030,Tutorial,Tuesday,10:30,12:30,19-2040,2026-03-03,Wollongong,Tertiary Academic Skills 2 Tutorial
 PREP030,Tutorial,Tuesday,10:30,12:30,19-2040,2026-03-10,Wollongong,Tertiary Academic Skills 2 Tutorial
@@ -32014,6 +32023,12 @@ PREP033,Lecture,Thursday,08:30,10:30,19-2043,2026-05-07,Wollongong,Language for 
 PREP033,Lecture,Thursday,08:30,10:30,19-2043,2026-05-14,Wollongong,Language for Learning Lecture
 PREP033,Lecture,Thursday,08:30,10:30,19-2043,2026-05-21,Wollongong,Language for Learning Lecture
 PREP041,Tutorial,Thursday,08:30,10:30,19-2043,2026-07-30,Wollongong,Mathematics for the Sciences A Tutorial
+ETS 100,TD,Thursday,08:30,12:30,19-2043,2026-08-20,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TD,Thursday,08:30,12:30,19-2043,2026-08-27,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TD,Thursday,08:30,12:30,19-2043,2026-09-03,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TD,Thursday,08:30,12:30,19-2043,2026-09-10,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TD,Thursday,08:30,12:30,19-2043,2026-09-17,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TD,Thursday,08:30,12:30,19-2043,2026-09-24,Wollongong,ETS18 Session 1 Tutorial
 SOWK404,TP_CAS,Thursday,09:30,11:30,19-2043,2026-05-28,Wollongong,Week 12 Presentations - SOWK404
 PREP033,Tutorial,Thursday,10:30,12:30,19-2043,2026-02-26,Wollongong,Language for Learning Tutorial
 PREP033,Tutorial,Thursday,10:30,12:30,19-2043,2026-03-05,Wollongong,Language for Learning Tutorial
@@ -32167,6 +32182,7 @@ WUCT001,Tutorial,Monday,13:30,15:30,19-2102,2026-08-31,Wollongong,Tertiary Acade
 WUCT001,Tutorial,Monday,13:30,15:30,19-2102,2026-09-07,Wollongong,Tertiary Academic Skills Tutorial
 WUCT001,Tutorial,Monday,13:30,15:30,19-2102,2026-09-14,Wollongong,Tertiary Academic Skills Tutorial
 05.04/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,19-2102,2026-05-05,Wollongong,Residual Current Device Testing for Building 19
+ENG 004,TB,Tuesday,08:30,12:30,19-2102,2026-09-22,Wollongong,English Studies 4 Tutorial
 06.02/26-ItziarSan Sebastian Sauto,ItziarSan Sebastian Sauto,Tuesday,09:00,12:00,19-2102,2026-06-02,Wollongong,"SPAN151. Oral exam. Access plans and Academic Considerations Extra time slots - School of Social Sciences Faculty of the Arts, Society and Business"
 INDS205,Tutorial,Tuesday,09:30,11:30,19-2102,2026-03-03,Wollongong,Indigenous Peoples and the Environment Tutorial
 INDS205,Tutorial,Tuesday,09:30,11:30,19-2102,2026-03-10,Wollongong,Indigenous Peoples and the Environment Tutorial
@@ -32222,6 +32238,7 @@ DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-07-07,Wollongong,Age of Revolu
 DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-07-14,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-07-21,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-07-28,Wollongong,Age of Revolutions Tutorial
+08.04/26-KellyRoyan/01,KellyRoyan,Tuesday,13:30,14:30,19-2102,2026-08-04,Wollongong,Training
 DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-08-11,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-08-18,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,19-2102,2026-08-25,Wollongong,Age of Revolutions Tutorial
@@ -32370,18 +32387,6 @@ PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-05-07,Wollongong,Mathematics 
 PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-05-14,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-05-21,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-05-28,Wollongong,Mathematics for the Humanities
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-08-06,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-08-13,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-08-20,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-08-27,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-09-03,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-09-10,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-09-17,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-09-24,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-10-08,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-10-15,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-10-22,Wollongong,Management of Change Tutorial
-MGNT311,Tutorial,Thursday,11:30,12:30,19-2102,2026-10-29,Wollongong,Management of Change Tutorial
 04.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,13:30,14:30,19-2102,2026-04-23,Wollongong,PREP033 Block B consultations - UOWC
 04.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,13:30,14:30,19-2102,2026-04-30,Wollongong,PREP033 Block B consultations - UOWC
 04.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,13:30,14:30,19-2102,2026-05-07,Wollongong,PREP033 Block B consultations - UOWC
@@ -32414,6 +32419,7 @@ ENG 005,TE,Friday,08:30,12:30,19-2102,2026-08-28,Wollongong,English Studies 5 Tu
 ENG 005,TE,Friday,08:30,12:30,19-2102,2026-09-04,Wollongong,English Studies 5 Tutorial
 ENG 005,TE,Friday,08:30,12:30,19-2102,2026-09-11,Wollongong,English Studies 5 Tutorial
 ENG 005,TE,Friday,08:30,12:30,19-2102,2026-09-18,Wollongong,English Studies 5 Tutorial
+ENG 004,TE,Friday,08:30,12:30,19-2102,2026-09-25,Wollongong,English Studies 4 Tutorial
 06.26/26-MichelleEady,MichelleEady,Friday,09:00,10:30,19-2102,2026-06-26,Wollongong,WILAC ToR meeting - WILAC
 SOWK305,Tutorial\Practical,Friday,10:30,12:30,19-2102,2026-03-06,Wollongong,Social Work Ethics Tutorial/Practical
 SOWK305,Tutorial\Practical,Friday,10:30,12:30,19-2102,2026-03-20,Wollongong,Social Work Ethics Tutorial/Practical
@@ -33129,8 +33135,8 @@ SOWK910,Workshop,Friday,08:30,12:30,19-2104,2026-03-27,Wollongong,Critically Ref
 SOWK910,Workshop,Friday,08:30,12:30,19-2104,2026-04-10,Wollongong,Critically Reflective Social Work Practice Workshop
 SOWK910,Workshop,Friday,08:30,12:30,19-2104,2026-05-01,Wollongong,Critically Reflective Social Work Practice Workshop
 ENG 005,TE,Friday,08:30,12:30,19-2104,2026-05-29,Wollongong,English Studies 5 Tutorial
-ENG 005,TE,Friday,08:30,12:30,19-2104,2026-09-11,Wollongong,English Studies 5 Tutorial
-ENG 005,TE,Friday,08:30,12:30,19-2104,2026-09-18,Wollongong,English Studies 5 Tutorial
+ENG 004,TE,Friday,08:30,12:30,19-2104,2026-09-11,Wollongong,English Studies 4 Tutorial
+ENG 004,TE,Friday,08:30,12:30,19-2104,2026-09-18,Wollongong,English Studies 4 Tutorial
 ENG 004,TE,Friday,08:30,12:30,19-2104,2026-09-25,Wollongong,English Studies 4 Tutorial
 SOWK305,Tutorial\Practical,Friday,10:30,12:30,19-2104,2026-03-06,Wollongong,Social Work Ethics Tutorial/Practical
 SOWK305,Tutorial\Practical,Friday,10:30,12:30,19-2104,2026-03-20,Wollongong,Social Work Ethics Tutorial/Practical
@@ -34057,6 +34063,12 @@ PHIL326,Tutorial,Friday,08:30,09:30,19-2110,2026-05-08,Wollongong,Bioethics Tuto
 PHIL326,Tutorial,Friday,08:30,09:30,19-2110,2026-05-15,Wollongong,Bioethics Tutorial
 PHIL326,Tutorial,Friday,08:30,09:30,19-2110,2026-05-22,Wollongong,Bioethics Tutorial
 PHIL326,Tutorial,Friday,08:30,09:30,19-2110,2026-05-29,Wollongong,Bioethics Tutorial
+ETS 100,TE,Friday,08:30,12:30,19-2110,2026-08-21,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TE,Friday,08:30,12:30,19-2110,2026-08-28,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TE,Friday,08:30,12:30,19-2110,2026-09-04,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TE,Friday,08:30,12:30,19-2110,2026-09-11,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TE,Friday,08:30,12:30,19-2110,2026-09-18,Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TE,Friday,08:30,12:30,19-2110,2026-09-25,Wollongong,ETS18 Session 1 Tutorial
 PHIL326,Tutorial,Friday,09:30,10:30,19-2110,2026-03-06,Wollongong,Bioethics Tutorial
 PHIL326,Tutorial,Friday,09:30,10:30,19-2110,2026-03-13,Wollongong,Bioethics Tutorial
 PHIL326,Tutorial,Friday,09:30,10:30,19-2110,2026-03-20,Wollongong,Bioethics Tutorial
@@ -39499,6 +39511,7 @@ WUCB120,Lecture,Tuesday,12:30,14:30,21-G08,2026-09-08,Wollongong,Accounting for 
 WUCB120,Lecture,Tuesday,12:30,14:30,21-G08,2026-09-15,Wollongong,Accounting for Decision Making Lecture
 04.07/26-SvitlanaNastenko/03,SvitlanaNastenko,Tuesday,13:30,14:30,21-G08,2026-04-07,Wollongong,ELICOS - Homestay Q&A Drop in session
 05.26/26-SarahManning,SarahManning,Tuesday,14:00,15:00,21-G08,2026-05-26,Wollongong,Staff meeting - Provost Office
+08.04/26-SarahManning,SarahManning,Tuesday,14:00,15:00,21-G08,2026-08-04,Wollongong,Staff meeting - Provost Office
 WUCB120,Workshop,Tuesday,14:30,15:30,21-G08,2026-02-24,Wollongong,Accounting for Decision Making Workshop
 WUCB120,Workshop,Tuesday,14:30,15:30,21-G08,2026-03-03,Wollongong,Accounting for Decision Making Workshop
 WUCB120,Workshop,Tuesday,14:30,15:30,21-G08,2026-03-10,Wollongong,Accounting for Decision Making Workshop
@@ -40366,9 +40379,6 @@ DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-04-28,Wollongong,Age of Revoluti
 DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-05-05,Wollongong,Age of Revolutions Lecture
 DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-05-12,Wollongong,Age of Revolutions Lecture
 DART108,Lecture,Tuesday,10:30,12:30,22-G23,2026-05-19,Wollongong,Age of Revolutions Lecture
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,22-G23,2026-08-11,Wollongong,Professor Guangming Jiang’s research group meetings
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,22-G23,2026-09-08,Wollongong,Professor Guangming Jiang’s research group meetings
-08.11/26-HuiziYang/01,HuiziYang,Tuesday,13:00,14:00,22-G23,2026-11-03,Wollongong,Professor Guangming Jiang’s research group meetings
 DART108,Tutorial,Tuesday,13:30,15:30,22-G23,2026-02-24,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,22-G23,2026-03-03,Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,22-G23,2026-03-10,Wollongong,Age of Revolutions Tutorial
@@ -42118,6 +42128,7 @@ MGNT963,Tutorial,Tuesday,14:30,16:30,24-103,2026-04-14,Wollongong,Management of 
 05.05/26-LaraBlair,LaraBlair,Tuesday,14:30,16:00,24-103,2026-05-12,Wollongong,Uni Bible - Leaders' Training - Student Engagement
 05.26/26-LaraBlair,LaraBlair,Tuesday,14:30,16:00,24-103,2026-05-26,Wollongong,UniClubs UniBible - Leaders' Training Tuesday - Student Engagement
 06.02/26-LaraBlair,LaraBlair,Tuesday,14:30,16:00,24-103,2026-06-02,Wollongong,UniClubs UniBible - Leaders' Training Tuesday - Student Engagement
+MGNT803,T,Tuesday,14:30,16:30,24-103,2026-09-29,Wollongong,Venue relocation (from 29-G08)
 ACCY201,Tutorial,Tuesday,15:30,17:30,24-103,2026-08-04,Wollongong,Advanced Financial Accounting Tutorial
 ACCY201,Tutorial,Tuesday,15:30,17:30,24-103,2026-08-11,Wollongong,Advanced Financial Accounting Tutorial
 ACCY201,Tutorial,Tuesday,15:30,17:30,24-103,2026-08-18,Wollongong,Advanced Financial Accounting Tutorial
@@ -49421,6 +49432,7 @@ CSIT123,Lecture,Tuesday,11:30,13:30,25-107,2026-05-12,Wollongong,Computing and C
 CSIT123,Lecture,Tuesday,11:30,13:30,25-107,2026-05-19,Wollongong,Computing and Cyber Security Fundamentals Lecture
 CSIT123,Lecture,Tuesday,11:30,13:30,25-107,2026-05-26,Wollongong,Computing and Cyber Security Fundamentals Lecture
 CSIT123,Lecture,Tuesday,11:30,13:30,25-107,2026-06-02,Wollongong,Computing and Cyber Security Fundamentals Lecture
+09.29/16-AlexaBrisbin/01,AlexaBrisbin,Tuesday,12:00,00:00,25-107,2026-09-29,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump in
 ECON102,Lecture,Tuesday,12:30,14:30,25-107,2026-08-25,Wollongong,Economics and Society Lecture
 ECON102,Lecture,Tuesday,12:30,14:30,25-107,2026-10-06,Wollongong,Economics and Society Lecture
 PSYC325,Lecture,Tuesday,13:30,15:30,25-107,2026-03-03,Wollongong,History and Philosophy of Psychology Lecture
@@ -49469,6 +49481,7 @@ CSIT114,Lecture,Tuesday,15:30,17:30,25-107,2026-06-02,Wollongong,System Analysis
 00CAS5-Orientation-Autumn/05,Orientation,Wednesday,06:00,14:00,25-107,2026-02-25,Wollongong,"Autumn Orientation - Bld 25, 29, 40, 41, 67"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,25-107,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 07.07/26-MichaelCook/01,MichaelCook,Wednesday,06:00,08:00,25-107,2026-07-08,Wollongong,RCD Testing - BLD 25
+09.29/16-AlexaBrisbin/02,AlexaBrisbin,Wednesday,06:00,00:00,25-107,2026-09-30,Wollongong,Creative and Performing Arts (CAPA) Days Workshops (120 people)
 07.15/26-LaniMadigan,LaniMadigan,Wednesday,08:00,16:00,25-107,2026-07-15,Wollongong,HSC subject support - Events - SGE
 01.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,08:30,12:30,25-107,2026-01-28,Wollongong,UOW College VET February 26 Orientations - UOWC
 CSIT302,L,Wednesday,08:30,10:30,25-107,2026-04-08,Wollongong,Emergency Venue - AUTM-CSIT302-WG-OC-L/01_CAS
@@ -49485,6 +49498,7 @@ MARK380,LT,Wednesday,13:30,16:30,25-107,2026-04-08,Wollongong,Emergency Venue Re
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Thursday,06:00,14:30,25-107,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Thursday,06:00,00:00,25-107,2026-06-11,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 07.07/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,25-107,2026-07-09,Wollongong,RCD Testing - BLD 25
+09.29/16-AlexaBrisbin/03,AlexaBrisbin,Thursday,06:00,18:00,25-107,2026-10-01,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump Out
 07.15/26-LaniMadigan,LaniMadigan,Thursday,08:00,16:00,25-107,2026-07-16,Wollongong,HSC subject support - Events - SGE
 HAS 251,Lecture,Thursday,08:30,09:30,25-107,2026-07-30,Wollongong,Introduction to Epidemiology Lecture
 HAS 251,Lecture,Thursday,08:30,09:30,25-107,2026-08-06,Wollongong,Introduction to Epidemiology Lecture
@@ -56795,13 +56809,16 @@ CAPF311,P,Saturday,06:00,00:00,29-Foyer,2026-06-06,Wollongong,Autumn Session Pro
 12.15/25-TeganRussell/01,TeganRussell,Monday,09:30,14:30,29-Foyer Courtyard,2025-12-15,Wollongong,De-Install 50th Anniversary Exhibition
 12.08/25-AnnemarieThind/01,AnnemarieThind,Monday,11:00,13:30,29-Foyer Courtyard,2025-12-08,Wollongong,Learning and teaching networking event
 12.15/25-TeganRussell/01,TeganRussell,Tuesday,09:30,14:30,29-Foyer Courtyard,2025-12-16,Wollongong,De-Install 50th Anniversary Exhibition
+09.29/16-AlexaBrisbin/01,AlexaBrisbin,Tuesday,12:00,00:00,29-Foyer Courtyard,2026-09-29,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump in
 02.04/26-AnnetteSloot/02,AnnetteSloot,Tuesday,14:00,17:00,29-Foyer Courtyard,2026-02-03,Wollongong,Bump in - EIS Symposium
 12.10/25-ToryHayward/01,ToryHayward,Wednesday,06:00,10:00,29-Foyer Courtyard,2025-12-10,Wollongong,SASD & DSL End of year breakfast
+09.29/16-AlexaBrisbin/02,AlexaBrisbin,Wednesday,06:00,00:00,29-Foyer Courtyard,2026-09-30,Wollongong,Creative and Performing Arts (CAPA) Days Workshops (120 people)
 02.04/26-AnnetteSloot/01,AnnetteSloot,Wednesday,07:00,17:00,29-Foyer Courtyard,2026-02-04,Wollongong,EIS Symposium
 12.15/25-TeganRussell/01,TeganRussell,Wednesday,09:30,14:30,29-Foyer Courtyard,2025-12-17,Wollongong,De-Install 50th Anniversary Exhibition
 12.03/25-MichelleFaughlin/01,MichelleFaughlin,Wednesday,10:30,16:30,29-Foyer Courtyard,2025-12-03,Wollongong,BAL End of Year Staff Update and Function
 04.22/26-LachlanWood/01,LachlanWood,Wednesday,12:00,22:00,29-Foyer Courtyard,2026-04-22,Wollongong,Chancellor's Graduation Cocktail Reception
 08.03/26-MichaelCook/02,MichaelCook,Thursday,06:00,08:30,29-Foyer Courtyard,2026-08-06,Wollongong,RCD Testing - BLD 29
+09.29/16-AlexaBrisbin/03,AlexaBrisbin,Thursday,06:00,18:00,29-Foyer Courtyard,2026-10-01,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump Out
 02.04/26-AnnetteSloot/01,AnnetteSloot,Thursday,07:00,17:00,29-Foyer Courtyard,2026-02-05,Wollongong,EIS Symposium
 02.12/26-AbdulAzizMohammed/01,AbdulAzizMohammed,Thursday,09:00,17:00,29-Foyer Courtyard,2026-02-12,Wollongong,Exec Academy
 07.16/26-AbdulAzizMohammed/01,AbdulAzizMohammed,Thursday,09:00,17:00,29-Foyer Courtyard,2026-07-16,Wollongong,UniClubs Executive Training Session
@@ -57729,6 +57746,7 @@ INDS206,Tutorial,Tuesday,11:30,13:30,29-G08,2026-10-13,Wollongong,Methods in Int
 INDS206,Tutorial,Tuesday,11:30,13:30,29-G08,2026-10-20,Wollongong,Methods in International Studies and Politics Tutorial
 INDS206,Tutorial,Tuesday,11:30,13:30,29-G08,2026-10-27,Wollongong,Methods in International Studies and Politics Tutorial
 01.27/26-LilaKennelly,LilaKennelly,Tuesday,12:00,16:00,29-G08,2026-01-27,Wollongong,UOW Climate Disclosure Taskforce - IPD
+09.29/16-AlexaBrisbin/04,AlexaBrisbin,Tuesday,12:00,00:00,29-G08,2026-09-29,Wollongong,Foyer Block Out: (CAPA) Days Workshops
 12.02/25-LilaKennelly,LilaKennelly,Tuesday,13:30,17:00,29-G08,2025-12-02,Wollongong,UOW Climate Disclosure Taskforce - IPD
 SOWK406,Tutorial\Workshop,Tuesday,13:30,17:30,29-G08,2026-03-10,Wollongong,Advanced Social Work Practice and Skills Practical
 SOWK406,Tutorial\Workshop,Tuesday,13:30,17:30,29-G08,2026-03-17,Wollongong,Advanced Social Work Practice and Skills Practical
@@ -57757,6 +57775,7 @@ INDS206,Tutorial,Tuesday,14:30,16:30,29-G08,2026-10-27,Wollongong,Methods in Int
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Wednesday,06:00,14:30,29-G08,2026-02-18,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,29-G08,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 06.24/26-LukeMcNamara/01,LukeMcNamara,Wednesday,06:00,00:00,29-G08,2026-06-24,Wollongong,Building works - temporarily block access and create some minor noise
+09.29/16-AlexaBrisbin/05,AlexaBrisbin,Wednesday,06:00,00:00,29-G08,2026-09-30,Wollongong,Foyer Block Out: (CAPA) Days Workshops
 01.21/26-AprilAlexander,AprilAlexander,Wednesday,08:30,16:30,29-G08,2026-01-21,Wollongong,team meeting - Pulse
 HAS 262,Tutorial,Wednesday,08:30,09:30,29-G08,2026-03-04,Wollongong,Explaining Crime Tutorial
 HAS 262,Tutorial,Wednesday,08:30,09:30,29-G08,2026-03-11,Wollongong,Explaining Crime Tutorial
@@ -57906,6 +57925,7 @@ FIN 111,Tutorial,Wednesday,16:30,18:30,29-G08,2026-10-28,Wollongong,Introductory
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Thursday,06:00,14:30,29-G08,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Thursday,06:00,00:00,29-G08,2026-06-11,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 08.03/26-MichaelCook/02,MichaelCook,Thursday,06:00,08:30,29-G08,2026-08-06,Wollongong,RCD Testing - BLD 29
+09.29/16-AlexaBrisbin/06,AlexaBrisbin,Thursday,06:00,14:30,29-G08,2026-10-01,Wollongong,Foyer Block Out: (CAPA) Days Workshops
 12.11/25-LilaKennelly,LilaKennelly,Thursday,08:00,13:00,29-G08,2025-12-11,Wollongong,UOW Climate Disclosure Taskforce - Rescheduled - IPD
 PSYP916,Lecture\Tutorial,Thursday,08:30,12:00,29-G08,2026-03-05,Wollongong,Clinical Assessment and Interventions A Lecture/ Tutorial
 PSYP916,Lecture\Tutorial,Thursday,08:30,12:00,29-G08,2026-03-12,Wollongong,Clinical Assessment and Interventions A Lecture/ Tutorial
@@ -58003,6 +58023,7 @@ HAS 262,Tutorial,Thursday,15:30,16:30,29-G08,2026-05-07,Wollongong,Explaining Cr
 HAS 262,Tutorial,Thursday,15:30,16:30,29-G08,2026-05-14,Wollongong,Explaining Crime Tutorial
 HAS 262,Tutorial,Thursday,15:30,16:30,29-G08,2026-05-21,Wollongong,Explaining Crime Tutorial
 HAS 262,Tutorial,Thursday,15:30,16:30,29-G08,2026-05-28,Wollongong,Explaining Crime Tutorial
+09.29/16-AlexaBrisbin/07,AlexaBrisbin,Thursday,16:30,17:30,29-G08,2026-10-01,Wollongong,Foyer Block Out: (CAPA) Days Workshops
 MGNT803,Tutorial,Thursday,17:30,19:30,29-G08,2026-08-27,Wollongong,Organisational Behaviour and Management Tutorial
 MGNT803,Tutorial,Thursday,17:30,19:30,29-G08,2026-09-03,Wollongong,Organisational Behaviour and Management Tutorial
 MGNT803,Tutorial,Thursday,17:30,19:30,29-G08,2026-09-10,Wollongong,Organisational Behaviour and Management Tutorial
@@ -58239,6 +58260,7 @@ MARK250,Workshop,Tuesday,10:30,12:30,29-G09,2026-10-13,Wollongong,Advertising Pr
 MARK250,Workshop,Tuesday,10:30,12:30,29-G09,2026-10-20,Wollongong,Advertising Practice and Creative Strategies Workshop
 MARK250,Workshop,Tuesday,10:30,12:30,29-G09,2026-10-27,Wollongong,Advertising Practice and Creative Strategies Workshop
 02.24/26-SteveDarragh,SteveDarragh,Tuesday,11:30,12:30,29-G09,2026-02-24,Wollongong,IPD Meeting - IPD
+09.29/16-AlexaBrisbin/01,AlexaBrisbin,Tuesday,12:00,00:00,29-G09,2026-09-29,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump in
 12.09/25-CassyKing,CassyKing,Tuesday,12:30,16:30,29-G09,2025-12-09,Wollongong,Workshop
 HAS 262,Tutorial,Tuesday,12:30,13:30,29-G09,2026-03-03,Wollongong,Explaining Crime Tutorial
 HAS 262,Tutorial,Tuesday,12:30,13:30,29-G09,2026-03-10,Wollongong,Explaining Crime Tutorial
@@ -58296,6 +58318,7 @@ ACCY122,Tutorial,Tuesday,15:30,17:30,29-G09,2026-10-27,Wollongong,Accounting Pri
 02.24/26-LukeMcNamara/02,LukeMcNamara,Wednesday,06:00,00:00,29-G09,2026-02-25,Wollongong,Cable Installation
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,29-G09,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 06.24/26-LukeMcNamara/01,LukeMcNamara,Wednesday,06:00,00:00,29-G09,2026-06-24,Wollongong,Building works - temporarily block access and create some minor noise
+09.29/16-AlexaBrisbin/02,AlexaBrisbin,Wednesday,06:00,00:00,29-G09,2026-09-30,Wollongong,Creative and Performing Arts (CAPA) Days Workshops (120 people)
 01.21/26-ChristineHowe,ChristineHowe,Wednesday,08:30,16:30,29-G09,2026-01-21,Wollongong,CACS112 planning workshop 1 - TAEM
 01.28/26-ChristineHowe,ChristineHowe,Wednesday,08:30,16:30,29-G09,2026-01-28,Wollongong,CACS112 planning workshop 2 - TAEM
 MGNT110,Workshop,Wednesday,08:30,10:30,29-G09,2026-03-11,Wollongong,
@@ -58415,6 +58438,7 @@ MARK250,Workshop,Wednesday,17:30,19:30,29-G09,2026-10-28,Wollongong,Advertising 
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Thursday,06:00,14:30,29-G09,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Thursday,06:00,00:00,29-G09,2026-06-11,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 08.03/26-MichaelCook/02,MichaelCook,Thursday,06:00,08:30,29-G09,2026-08-06,Wollongong,RCD Testing - BLD 29
+09.29/16-AlexaBrisbin/03,AlexaBrisbin,Thursday,06:00,18:00,29-G09,2026-10-01,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump Out
 07.23/26-OliviaMaksymczuk,OliviaMaksymczuk,Thursday,08:00,13:30,29-G09,2026-07-23,Wollongong,Port Kembla Youth Project Magazine Design Workshop - Student Growth & Engagement
 05.14/26-JessFinnegan-Kelly,JessFinnegan,Thursday,08:30,16:30,29-G09,2026-05-14,Wollongong,Disability training - People and Culture Division
 11.24/25-AaronBurton/01,AaronBurton,Thursday,09:00,17:00,29-G09,2025-11-27,Wollongong,ASPERA - Annual Academic Conference
@@ -58639,6 +58663,7 @@ PSYP935,Lecture,Tuesday,09:00,17:00,29-G10,2026-07-21,Wollongong,Applied Interve
 08.04/26-TrangNguyen/01,TrangNguyen,Tuesday,09:00,11:30,29-G10,2026-08-04,Wollongong,Welcome to the University
 06.23/26-EllaLeimbach,EllaLeimbach,Tuesday,10:30,11:30,29-G10,2026-06-23,Wollongong,Staff meeting - Office of Provost
 EXSC423,W_CAS,Tuesday,10:30,12:30,29-G10,2026-07-07,Wollongong,Clinical Practicum
+09.29/16-AlexaBrisbin/01,AlexaBrisbin,Tuesday,12:00,00:00,29-G10,2026-09-29,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump in
 02.04/26-AnnetteSloot/02,AnnetteSloot,Tuesday,14:00,17:00,29-G10,2026-02-03,Wollongong,Bump in - EIS Symposium
 08.04/26-AshannaRoberts/01,AshannaRoberts,Tuesday,14:00,21:00,29-G10,2026-08-04,Wollongong,Spotlight on Criminology - 29-G10
 EXSC402,Tutorial,Tuesday,14:30,16:30,29-G10,2026-03-10,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
@@ -58665,6 +58690,7 @@ EXSC902,Tutorial,Tuesday,14:30,16:30,29-G10,2026-06-02,Wollongong,Musculoskeleta
 12.16/25-LukeMadigan/03,LukeMadigan,Tuesday,17:30,19:00,29-G10,2026-02-03,Wollongong,AIS - Athlete Education Workshops
 00CAS3-DiscoveryDays-Yr12-Feb26/14,DiscoveryDays,Wednesday,06:00,14:30,29-G10,2026-02-18,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,29-G10,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
+09.29/16-AlexaBrisbin/02,AlexaBrisbin,Wednesday,06:00,00:00,29-G10,2026-09-30,Wollongong,Creative and Performing Arts (CAPA) Days Workshops (120 people)
 02.04/26-AnnetteSloot/01,AnnetteSloot,Wednesday,07:00,17:00,29-G10,2026-02-04,Wollongong,EIS Symposium
 01.13/26-KarenWalton/01,KarenWalton,Wednesday,08:30,17:00,29-G10,2026-01-14,Wollongong,SMH - Teaching Intensive Week
 PSYP923,Lecture\Tutorial,Wednesday,08:30,12:00,29-G10,2026-03-04,Wollongong,Practicum Lecture\Tutorial
@@ -58748,6 +58774,7 @@ INDS123,T,Wednesday,16:30,18:30,29-G10,2026-09-16,Wollongong,Indigenous Geograph
 00CAS3-DiscoveryDays-Yr12-Feb26/14,DiscoveryDays,Thursday,06:00,14:30,29-G10,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Thursday,06:00,00:00,29-G10,2026-06-11,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 08.03/26-MichaelCook/02,MichaelCook,Thursday,06:00,08:30,29-G10,2026-08-06,Wollongong,RCD Testing - BLD 29
+09.29/16-AlexaBrisbin/03,AlexaBrisbin,Thursday,06:00,18:00,29-G10,2026-10-01,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump Out
 02.04/26-AnnetteSloot/01,AnnetteSloot,Thursday,07:00,17:00,29-G10,2026-02-05,Wollongong,EIS Symposium
 01.13/26-KarenWalton/01,KarenWalton,Thursday,08:30,17:00,29-G10,2026-01-15,Wollongong,SMH - Teaching Intensive Week
 INDS123,T,Thursday,08:30,10:30,29-G10,2026-08-06,Wollongong,Indigenous Geographies: Working with Country Tutorial
@@ -64852,6 +64879,7 @@ ENG 004,TB,Tuesday,08:30,12:30,40-126,2026-03-17,Wollongong,English Studies 4 Tu
 ETS 100,TB,Tuesday,08:30,12:30,40-126,2026-09-15,Wollongong,ETS18 Session 1 Tutorial
 02.17/26-JennyAtchison,JennyAtchison,Tuesday,09:30,11:00,40-126,2026-02-17,Wollongong,ACCESS research centre meeting - School of Social Science
 08.04/26-KianRayner,KianRayner,Tuesday,09:30,12:30,40-126,2026-08-04,Wollongong,MGNT102 supp-supp exams - ASB
+08.11/26-ShaylaTa,ShaylaTa,Tuesday,09:30,12:30,40-126,2026-08-11,Wollongong,FIN241 Deferred Exam - SearatAli - SOB
 12.23/25-AlexChan,AlexChan,Tuesday,10:00,12:00,40-126,2025-12-23,Wollongong,SNUG112 Deferred final exam - Nursing
 PREP033,Tutorial,Tuesday,10:30,12:30,40-126,2026-04-21,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Tuesday,10:30,12:30,40-126,2026-04-28,Wollongong,Mathematics for the Humanities
@@ -70677,17 +70705,6 @@ ENG 005,TC,Wednesday,08:30,12:30,41-204,2026-03-11,Wollongong,English Studies 5 
 ENG 005,TC,Wednesday,08:30,12:30,41-204,2026-03-18,Wollongong,English Studies 5 Tutorial (Group B)
 12.10/25-AnnaSidis,AnnaSidis,Wednesday,09:00,16:00,41-204,2025-12-10,Wollongong,Academic Program planning day - Psychology
 04.22/26-MeredithKennedy,MeredithKennedy,Wednesday,09:00,12:30,41-204,2026-04-22,Wollongong,Room for supplementary exam - MIHS
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-08-05,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-08-12,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-08-19,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-08-26,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-09-02,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-09-09,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-09-16,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-10-07,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-10-14,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-10-21,Wollongong,French for Beginners 2 Tutorial
-FREN152,Tutorial,Wednesday,09:30,12:30,41-204,2026-10-28,Wollongong,French for Beginners 2 Tutorial
 05.06/26-KyrieRodgers,KyrieRodgers,Wednesday,10:00,13:00,41-204,2026-05-06,Wollongong,To supervise students for a makeup exam - School of Nursing
 05.20/26-KayeRolls/01,KayeRolls,Wednesday,11:00,12:00,41-204,2026-05-20,Wollongong,Makeup exam
 07.29/26-NatalieAsquith,NatalieAsquith,Wednesday,12:00,14:00,41-204,2026-07-29,Wollongong,Team meeting - People & Culture
@@ -72938,17 +72955,11 @@ CHEM104,Practical,Wednesday,13:30,16:30,41-340,2026-05-06,Wollongong,Foundation 
 CHEM101,Practical,Wednesday,13:30,16:30,41-340,2026-05-13,Wollongong,Chemistry IA: Introductory Physical and General Chemistry Practical
 CHEM104,Practical,Wednesday,13:30,16:30,41-340,2026-05-20,Wollongong,Foundation Chemistry: Properties of Matter Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-07-29,Wollongong,Foundation Chemistry: Reactions and Structures Practical
-CHEM102,Practical,Wednesday,13:30,16:30,41-340,2026-08-05,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-08-12,Wollongong,Foundation Chemistry: Reactions and Structures Practical
-CHEM102,Practical,Wednesday,13:30,16:30,41-340,2026-08-19,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-08-26,Wollongong,Foundation Chemistry: Reactions and Structures Practical
-CHEM102,Practical,Wednesday,13:30,16:30,41-340,2026-09-02,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-09-09,Wollongong,Foundation Chemistry: Reactions and Structures Practical
-CHEM102,Practical,Wednesday,13:30,16:30,41-340,2026-09-16,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-09-23,Wollongong,Foundation Chemistry: Reactions and Structures Practical
-CHEM102,Practical,Wednesday,13:30,16:30,41-340,2026-10-07,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-10-14,Wollongong,Foundation Chemistry: Reactions and Structures Practical
-CHEM102,Practical,Wednesday,13:30,16:30,41-340,2026-10-21,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Practical
 CHEM105,Practical,Wednesday,13:30,16:30,41-340,2026-10-28,Wollongong,Foundation Chemistry: Reactions and Structures Practical
 06.24/26-MichaelCook/01,MichaelCook,Wednesday,17:00,21:00,41-340,2026-06-24,Wollongong,RSC testing - Bld 41
 03.09/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,41-340,2026-02-12,Wollongong,Residual Current Device Testing for Building 41
@@ -73942,15 +73953,6 @@ BIOL362,Practical,Thursday,15:30,17:30,43-101,2026-05-14,Wollongong,Ecophysiolog
 BIOL362,Practical,Thursday,15:30,17:30,43-101,2026-05-21,Wollongong,Ecophysiology Practical
 BIOL362,Practical,Thursday,15:30,17:30,43-101,2026-05-28,Wollongong,Ecophysiology Practical
 BIOL362,Practical,Thursday,15:30,17:30,43-101,2026-06-04,Wollongong,Ecophysiology Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-08-13,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-08-20,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-08-27,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-09-03,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-09-10,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-09-17,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-09-24,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-10-15,Wollongong,Functional Biology of Animals and Plants Practical
-BIOL105,Practical,Thursday,16:30,19:30,43-101,2026-10-29,Wollongong,Functional Biology of Animals and Plants Practical
 11.02/26-EmmaJames/01,EmmaJames,Friday,08:00,18:00,43-101,2026-11-06,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Friday,08:00,18:00,43-101,2026-11-13,Wollongong,2026 SSCI Spring exams
 MARE200,Practical,Friday,08:30,11:30,43-101,2026-04-10,Wollongong,Introduction to Oceanography Practical
@@ -74278,12 +74280,6 @@ BIOL213,Practical,Wednesday,14:30,17:30,43-104,2026-05-27,Wollongong,Principles 
 BIOL813,Practical,Wednesday,14:30,17:30,43-104,2026-05-27,Wollongong,Principles of Biochemistry Practical
 BIOL213,Practical,Wednesday,14:30,17:30,43-104,2026-06-03,Wollongong,Principles of Biochemistry Practical
 BIOL813,Practical,Wednesday,14:30,17:30,43-104,2026-06-03,Wollongong,Principles of Biochemistry Practical
-BIOL214,Practical,Wednesday,14:30,17:30,43-104,2026-08-05,Wollongong,The Biochemistry of Energy and Metabolism Practical
-BIOL214,Practical,Wednesday,14:30,17:30,43-104,2026-08-19,Wollongong,The Biochemistry of Energy and Metabolism Practical
-BIOL214,Practical,Wednesday,14:30,17:30,43-104,2026-09-02,Wollongong,The Biochemistry of Energy and Metabolism Practical
-BIOL214,Practical,Wednesday,14:30,17:30,43-104,2026-09-16,Wollongong,The Biochemistry of Energy and Metabolism Practical
-BIOL214,Practical,Wednesday,14:30,17:30,43-104,2026-10-07,Wollongong,The Biochemistry of Energy and Metabolism Practical
-BIOL214,Practical,Wednesday,14:30,17:30,43-104,2026-10-21,Wollongong,The Biochemistry of Energy and Metabolism Practical
 00CAS3-DiscoveryDays-Yr12-Feb26/05,DiscoveryDays,Thursday,06:00,14:30,43-104,2026-02-19,Wollongong,"Discovery Days Year 12 - Bld 41, 43, 67"
 11.02/26-EmmaJames/01,EmmaJames,Thursday,08:00,18:00,43-104,2026-11-05,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Thursday,08:00,18:00,43-104,2026-11-12,Wollongong,2026 SSCI Spring exams
@@ -75630,10 +75626,11 @@ BIOL213,WG_CAS,Thursday,08:30,17:30,43-G06,2026-04-09,Wollongong,BIOL213/813 mid
 06.13/26-EmmaJames/03,EmmaJames,Thursday,08:30,18:00,43-G06,2026-06-25,Wollongong,Autumn exam
 07.20/26-EmmaJames/01,EmmaJames,Thursday,08:30,17:30,43-G06,2026-07-23,Wollongong,SSCI Autumn Supplementary exams
 12.15/25-SuzanneMiddleton/01,SuzanneMiddleton,Thursday,09:00,17:00,43-G06,2025-12-18,Wollongong,Supplementary and Deferred Exams
+08.06/26-HarryLangford,HarryLangford,Thursday,09:00,10:00,43-G06,2026-08-06,Wollongong,FESS Workshop - SSCI
 02.25/26-ShonaRankin/01,ShonaRankin,Thursday,09:30,11:30,43-G06,2026-02-26,Wollongong,Fieldwork safety inductions
-08.06/26-HarryLangford,HarryLangford,Thursday,09:30,10:30,43-G06,2026-08-06,Wollongong,FESS Workshop - SSCI
 04.30/26-EmmaJames,EmmaJames,Thursday,10:00,11:30,43-G06,2026-04-30,Wollongong,BIOL213 School Exam (mid-session quiz) - SSCI
 06.04/26-HarryLangford/01,HarryLangford,Thursday,10:00,15:30,43-G06,2026-06-04,Wollongong,MEDI991 Teaching
+08.06/26-HarryLangford,HarryLangford,Thursday,10:30,12:30,43-G06,2026-08-06,Wollongong,BIOL213 Supplementary Exam - SCII
 05.14/26-EmmaJames,EmmaJames,Thursday,11:30,13:30,43-G06,2026-05-14,Wollongong,BIOL362 School Exam (deferred mid-session quiz) - SSCI
 04.30/26-EmmaJames,EmmaJames,Thursday,13:30,17:30,43-G06,2026-04-30,Wollongong,BIOL362 School Exam (mid-session quiz) - SSCI
 11.02/26-EmmaJames/01,EmmaJames,Friday,08:00,18:00,43-G06,2026-11-06,Wollongong,2026 SSCI Spring exams
@@ -76187,6 +76184,7 @@ ENVE928,Seminar,Thursday,08:30,12:30,67-101,2026-10-15,Wollongong,
 11.25/25-GeorginaBridger/03,GeorginaBridger,Thursday,09:00,11:30,67-101,2025-11-27,Wollongong,Graduate Photo Day - Division of Student Life - Bump Out
 02.05/26-CaitlinPyle/01,CaitlinPyle,Thursday,09:00,16:30,67-101,2026-02-05,Wollongong,Student Engagement Planning Day
 07.23/26-CatherineStephen/01,CatherineStephen,Thursday,09:00,15:00,67-101,2026-07-23,Wollongong,SON - Research workshop event
+10.08/26-CourtneyBurns/01,CourtneyBurns,Thursday,09:00,13:00,67-101,2026-10-08,Wollongong,SEDA Immersion Day
 10.29/26-NamrataTriphathi/01,NamrataTriphathi,Thursday,09:00,11:30,67-101,2026-10-29,Wollongong,VCs Welcome to University Session
 MEDI160,Tutorial\Workshop,Thursday,09:30,10:30,67-101,2026-03-12,Wollongong,Scientific Literacy Tutorial Workshop
 MEDI160,Tutorial\Workshop,Thursday,09:30,10:30,67-101,2026-03-19,Wollongong,Scientific Literacy Tutorial Workshop
@@ -77560,6 +77558,7 @@ PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-05,Wollongong,Foundations of P
 PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-12,Wollongong,Foundations of Psychology B Lecture
 PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-19,Wollongong,Foundations of Psychology B Lecture
 PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-26,Wollongong,Foundations of Psychology B Lecture
+PHYS295,OC_CAS,Monday,15:00,17:00,67-107,2026-09-07,Wollongong,PHYS295 Mid-session exam
 CSCI235,Lecture,Monday,16:30,18:30,67-107,2026-03-02,Wollongong,Database Systems Lecture
 CSCI235,Lecture,Monday,16:30,18:30,67-107,2026-03-09,Wollongong,Database Systems Lecture
 CSCI235,Lecture,Monday,16:30,18:30,67-107,2026-03-16,Wollongong,Database Systems Lecture
@@ -80496,6 +80495,7 @@ PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-01,Wollongong,Mathematics fo
 PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-08,Wollongong,Mathematics for the Sciences B
 PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-15,Wollongong,Mathematics for the Sciences B
 PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-22,Wollongong,Mathematics for the Sciences B
+08.04/26-TrangNguyen/02,TrangNguyen,Tuesday,11:00,12:00,67-209,2026-08-04,Wollongong,Meeting UOW CCB Team
 05.18/26-SarinaMiller/01,SarinaMiller,Tuesday,13:30,15:30,67-209,2026-05-19,Wollongong,Novice Intervarsity Moot - Practice Competition
 PREP031,Tutorial,Tuesday,13:30,15:30,67-209,2026-07-28,Wollongong,Language for Learning Tutorial
 PREP033,Tutorial,Tuesday,13:30,15:30,67-209,2026-08-18,Wollongong,Mathematics for the Humanities
@@ -80586,6 +80586,9 @@ PREP031,Tutorial,Thursday,08:30,10:30,67-209,2026-05-07,Wollongong,Language for 
 PREP031,Tutorial,Thursday,08:30,10:30,67-209,2026-05-14,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Thursday,08:30,10:30,67-209,2026-05-21,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Thursday,08:30,10:30,67-209,2026-05-28,Wollongong,Language for Learning Tutorial
+ENG 004,TD,Thursday,08:30,12:30,67-209,2026-08-20,Wollongong,English Studies 4 Tutorial
+ENG 004,TD,Thursday,08:30,12:30,67-209,2026-09-17,Wollongong,English Studies 4 Tutorial
+ENG 004,TD,Thursday,08:30,12:30,67-209,2026-09-24,Wollongong,English Studies 4 Tutorial
 09.03/26-SarinaMiller/01,SarinaMiller,Thursday,09:30,11:30,67-209,2026-09-03,Wollongong,RPR Seminar hosted by Gabriel Garcia
 PREP032,Tutorial,Thursday,10:30,12:30,67-209,2026-04-23,Wollongong,Scientific Thinking
 PREP032,Tutorial,Thursday,10:30,12:30,67-209,2026-04-30,Wollongong,Scientific Thinking
@@ -82264,19 +82267,12 @@ LLB1130,Seminar,Wednesday,13:30,15:30,67-303,2026-05-13,Wollongong,Criminal Law 
 LLB1130,Seminar,Wednesday,13:30,15:30,67-303,2026-05-20,Wollongong,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Wednesday,13:30,15:30,67-303,2026-05-27,Wollongong,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Wednesday,13:30,15:30,67-303,2026-06-03,Wollongong,Criminal Law and Procedure A Seminar
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-07-29,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 CHEM105,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-08-05,Wollongong,Foundation Chemistry: Reactions and Structures Tutorial
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-08-12,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 CHEM105,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-08-19,Wollongong,Foundation Chemistry: Reactions and Structures Tutorial
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-08-26,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 CHEM105,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-09-02,Wollongong,Foundation Chemistry: Reactions and Structures Tutorial
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-09-09,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 CHEM105,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-09-16,Wollongong,Foundation Chemistry: Reactions and Structures Tutorial
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-09-23,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 CHEM105,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-10-07,Wollongong,Foundation Chemistry: Reactions and Structures Tutorial
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-10-14,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 CHEM105,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-10-21,Wollongong,Foundation Chemistry: Reactions and Structures Tutorial
-CHEM102,Tutorial\Workshop,Wednesday,13:30,15:30,67-303,2026-10-28,Wollongong,Chemistry 1B: Structure and Reactivity of Molecules for Life Tutorial
 LLB1130,Seminar,Wednesday,15:30,17:30,67-303,2026-03-04,Wollongong,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Wednesday,15:30,17:30,67-303,2026-03-11,Wollongong,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Wednesday,15:30,17:30,67-303,2026-03-18,Wollongong,Criminal Law and Procedure A Seminar
@@ -84857,10 +84853,10 @@ ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-06-23,UOW College Wollongong,English 
 07.21/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,12:30,30-113,2026-07-21,UOW College Wollongong,ELICOS ES additional support - UOWC
 07.21/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,12:30,30-113,2026-07-28,UOW College Wollongong,ELICOS ES additional support - UOWC
 07.21/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,12:30,30-113,2026-08-04,UOW College Wollongong,ELICOS ES additional support - UOWC
-ENG 005,TB,Tuesday,08:30,12:30,30-113,2026-08-18,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TB,Tuesday,08:30,12:30,30-113,2026-08-25,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TB,Tuesday,08:30,12:30,30-113,2026-09-01,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TB,Tuesday,08:30,12:30,30-113,2026-09-08,UOW College Wollongong,English Studies 5 Tutorial
+ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-08-18,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-08-25,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-09-01,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-09-08,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-09-22,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-09-29,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-10-06,UOW College Wollongong,Academic Spring Exams
@@ -84927,9 +84923,6 @@ ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-07-15,UOW College Wollongong,Englis
 ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-07-22,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-07-29,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-08-05,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-08-26,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-09-02,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-09-09,UOW College Wollongong,English Studies 5 Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-113,2026-09-23,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-113,2026-09-30,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-113,2026-10-07,UOW College Wollongong,Academic Spring Exams
@@ -85534,10 +85527,6 @@ ENG 004,TA,Monday,08:30,12:30,30-115,2026-03-16,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-115,2026-03-23,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TA,Monday,08:30,12:30,30-115,2026-03-30,UOW College Wollongong,English Studies 4 Tutorial
 VNUR100,TA,Monday,08:30,15:30,30-115,2026-07-20,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
-ENG 005,TA,Monday,08:30,12:30,30-115,2026-08-24,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TA,Monday,08:30,12:30,30-115,2026-08-31,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TA,Monday,08:30,12:30,30-115,2026-09-07,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TA,Monday,08:30,12:30,30-115,2026-09-14,UOW College Wollongong,English Studies 5 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-115,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-115,2026-09-28,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-115,2026-10-05,UOW College Wollongong,Academic Spring Exams
@@ -85700,7 +85689,6 @@ PREP031,Tutorial,Wednesday,08:30,10:30,30-115,2026-07-08,UOW College Wollongong,
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-07-15,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-07-22,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-07-29,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-08-12,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-08-19,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-08-26,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-09-02,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -85783,8 +85771,6 @@ ENG 005,TD,Thursday,08:30,12:30,30-115,2026-06-25,UOW College Wollongong,English
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-07-16,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-07-23,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-07-30,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TB,Thursday,08:30,15:30,30-115,2026-08-06,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TB,Thursday,08:30,15:30,30-115,2026-08-13,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-08-20,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-08-27,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-09-03,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86060,7 +86046,6 @@ ENG 004,TC,Wednesday,08:30,12:30,30-116,2026-06-24,UOW College Wollongong,Englis
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-07-15,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-07-22,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-07-29,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-08-12,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-08-19,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-08-26,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-09-02,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86147,8 +86132,6 @@ ETS 101,TG,Thursday,08:30,10:30,30-116,2026-06-25,UOW College Wollongong,ETS Ses
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-07-16,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-07-23,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-07-30,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TB,Thursday,08:30,15:30,30-116,2026-08-06,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TB,Thursday,08:30,15:30,30-116,2026-08-13,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-08-20,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-08-27,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-09-03,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86549,9 +86532,9 @@ WUCT001,Tutorial,Friday,08:30,10:30,30-117,2026-05-22,UOW College Wollongong,Ter
 ETS 300,TG,Friday,08:30,12:30,30-117,2026-06-05,UOW College Wollongong,ETS Session 3
 ETS 300,TG,Friday,08:30,12:30,30-117,2026-06-12,UOW College Wollongong,ETS Session 3
 ETS 300,TG,Friday,08:30,12:30,30-117,2026-06-19,UOW College Wollongong,ETS Session 3
-ENG 005,TE,Friday,08:30,12:30,30-117,2026-08-21,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TE,Friday,08:30,12:30,30-117,2026-08-28,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TE,Friday,08:30,12:30,30-117,2026-09-04,UOW College Wollongong,English Studies 5 Tutorial
+ENG 004,TE,Friday,08:30,12:30,30-117,2026-08-21,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TE,Friday,08:30,12:30,30-117,2026-08-28,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TE,Friday,08:30,12:30,30-117,2026-09-04,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-117,2026-09-25,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-117,2026-10-02,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-117,2026-10-09,UOW College Wollongong,Academic Spring Exams
@@ -86854,9 +86837,9 @@ ENG 005,TD,Thursday,08:30,12:30,30-118,2026-06-11,UOW College Wollongong,English
 ENG 005,TD,Thursday,08:30,12:30,30-118,2026-06-18,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TD,Thursday,08:30,12:30,30-118,2026-06-25,UOW College Wollongong,English Studies 5 Tutorial
 07.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,08:30,12:30,30-118,2026-07-23,UOW College Wollongong,ELICOS ES additional support - UOWC
-ENG 005,TD,Thursday,08:30,12:30,30-118,2026-08-27,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TD,Thursday,08:30,12:30,30-118,2026-09-03,UOW College Wollongong,English Studies 5 Tutorial
-ENG 005,TD,Thursday,08:30,12:30,30-118,2026-09-10,UOW College Wollongong,English Studies 5 Tutorial
+ENG 004,TD,Thursday,08:30,12:30,30-118,2026-08-27,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TD,Thursday,08:30,12:30,30-118,2026-09-03,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TD,Thursday,08:30,12:30,30-118,2026-09-10,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-118,2026-09-24,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-118,2026-10-01,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-118,2026-10-08,UOW College Wollongong,Academic Spring Exams
@@ -87493,11 +87476,11 @@ ENG 005,TA,Monday,08:30,12:30,30-120,2026-05-25,UOW College Wollongong,English S
 ENG 005,TA,Monday,08:30,12:30,30-120,2026-06-01,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TA,Monday,08:30,12:30,30-120,2026-06-15,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TA,Monday,08:30,12:30,30-120,2026-06-22,UOW College Wollongong,English Studies 5 Tutorial
-ETS 100,TA,Monday,08:30,12:30,30-120,2026-08-17,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TA,Monday,08:30,12:30,30-120,2026-08-24,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TA,Monday,08:30,12:30,30-120,2026-08-31,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TA,Monday,08:30,12:30,30-120,2026-09-07,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TA,Monday,08:30,12:30,30-120,2026-09-14,UOW College Wollongong,ETS18 Session 1 Tutorial
+ENG 004,TA,Monday,08:30,12:30,30-120,2026-08-17,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TA,Monday,08:30,12:30,30-120,2026-08-24,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TA,Monday,08:30,12:30,30-120,2026-08-31,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TA,Monday,08:30,12:30,30-120,2026-09-07,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TA,Monday,08:30,12:30,30-120,2026-09-14,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-09-28,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-10-05,UOW College Wollongong,Academic Spring Exams
@@ -88265,11 +88248,6 @@ ETS 300,TD,Thursday,13:30,17:30,30-121,2026-07-16,UOW College Wollongong,ETS Ses
 ETS 300,TD,Thursday,13:30,17:30,30-121,2026-07-23,UOW College Wollongong,ETS Session 3
 ETS 300,TD,Thursday,13:30,17:30,30-121,2026-07-30,UOW College Wollongong,ETS Session 3
 ETS 300,TD,Thursday,13:30,17:30,30-121,2026-08-06,UOW College Wollongong,ETS Session 3
-ETS 100,TD,Thursday,13:30,17:30,30-121,2026-08-20,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TD,Thursday,13:30,17:30,30-121,2026-08-27,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TD,Thursday,13:30,17:30,30-121,2026-09-03,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TD,Thursday,13:30,17:30,30-121,2026-09-10,UOW College Wollongong,ETS18 Session 1 Tutorial
-ETS 100,TD,Thursday,13:30,17:30,30-121,2026-09-17,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 200,TF,Thursday,15:30,17:30,30-121,2025-11-27,UOW College Wollongong,ETS Session 2
 ETS 200,TF,Thursday,15:30,17:30,30-121,2025-12-04,UOW College Wollongong,ETS Session 2
 ETS 200,TF,Thursday,15:30,17:30,30-121,2025-12-11,UOW College Wollongong,ETS Session 2
@@ -88354,7 +88332,6 @@ ETS 200,TA,Monday,08:30,12:30,30-G03,2026-06-15,UOW College Wollongong,ETS Sessi
 ETS 200,TA,Monday,08:30,12:30,30-G03,2026-06-22,UOW College Wollongong,ETS Session 2
 06.29/26-SvitlanaNastenko,SvitlanaNastenko,Monday,08:30,15:30,30-G03,2026-06-29,UOW College Wollongong,ELICOS Curriculum Development - UOWC
 07.06/26-SvitlanaNastenko,SvitlanaNastenko,Monday,08:30,12:30,30-G03,2026-07-06,UOW College Wollongong,ELICOS Orientation Day Intake 5 - UOWC
-ENG 005,TA,Monday,08:30,12:30,30-G03,2026-08-17,UOW College Wollongong,English Studies 5 Tutorial
 DPEN022,Tutorial,Monday,09:30,11:30,30-G03,2026-09-14,UOW College Wollongong,Enabling Mathematics B
 DPEN022,Tutorial,Monday,09:30,11:30,30-G03,2026-09-21,UOW College Wollongong,Enabling Mathematics B
 03.02/26-SvitlanaNastenko,SvitlanaNastenko,Monday,10:00,12:30,30-G03,2026-03-02,UOW College Wollongong,ETS3 class - UOWC
@@ -88460,7 +88437,6 @@ VNUR100,TC,Wednesday,08:30,15:30,30-G03,2026-07-01,UOW College Wollongong,Vocati
 VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-07-15,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-07-22,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-07-29,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-08-12,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-08-19,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-08-26,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-09-02,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -88504,8 +88480,6 @@ VNUR100,TA,Thursday,08:30,15:30,30-G03,2026-07-02,UOW College Wollongong,Vocatio
 VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-07-16,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-07-23,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-07-30,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-08-06,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-08-13,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-08-20,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-08-27,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-G03,2026-09-03,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -88556,7 +88530,6 @@ VNUR100,TB,Friday,08:30,15:30,30-G03,2026-07-03,UOW College Wollongong,Vocationa
 VNUR200,TC,Friday,08:30,15:30,30-G03,2026-07-17,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-G03,2026-07-24,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-G03,2026-07-31,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
-VNUR200,TC,Friday,08:30,15:30,30-G03,2026-08-14,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-G03,2026-08-21,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-G03,2026-08-28,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-G03,2026-09-04,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -88618,6 +88591,12 @@ ETS 300,TA,Monday,13:30,17:30,30-G04,2026-05-18,UOW College Wollongong,ETS Sessi
 ETS 300,TA,Monday,13:30,17:30,30-G04,2026-05-25,UOW College Wollongong,ETS Session 3
 ETS 300,TA,Monday,13:30,17:30,30-G04,2026-06-01,UOW College Wollongong,ETS Session 3
 ETS 300,TA,Monday,13:30,17:30,30-G04,2026-06-15,UOW College Wollongong,ETS Session 3
+ETS 100,TA,Monday,13:30,17:30,30-G04,2026-08-17,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TA,Monday,13:30,17:30,30-G04,2026-08-24,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TA,Monday,13:30,17:30,30-G04,2026-08-31,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TA,Monday,13:30,17:30,30-G04,2026-09-07,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TA,Monday,13:30,17:30,30-G04,2026-09-14,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TA,Monday,13:30,17:30,30-G04,2026-09-21,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 300,TB,Monday,15:30,17:30,30-G04,2026-01-12,UOW College Wollongong,ETS Session 3 Tutorial
 ETS 300,TB,Monday,15:30,17:30,30-G04,2026-01-19,UOW College Wollongong,ETS Session 3 Tutorial
 ETS 300,TB,Monday,15:30,17:30,30-G04,2026-02-02,UOW College Wollongong,ETS Session 3 Tutorial
@@ -88648,7 +88627,8 @@ ENG 003,TB,Tuesday,08:30,12:30,30-G04,2026-06-09,UOW College Wollongong,English 
 ENG 003,TB,Tuesday,08:30,12:30,30-G04,2026-06-16,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TB,Tuesday,08:30,12:30,30-G04,2026-06-23,UOW College Wollongong,English Studies 3 Tutorial
 06.30/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,15:30,30-G04,2026-06-30,UOW College Wollongong,ELICOS Curriculum Development - UOWC
-ENG 005,TB,Tuesday,08:30,12:30,30-G04,2026-09-15,UOW College Wollongong,English Studies 5 Tutorial
+ETS 100,TB,Tuesday,08:30,12:30,30-G04,2026-08-18,UOW College Wollongong,ETS18 Session 1 Tutorial
+ENG 004,TB,Tuesday,08:30,12:30,30-G04,2026-09-15,UOW College Wollongong,English Studies 4 Tutorial
 ENG 003,TB,Tuesday,08:30,12:30,30-G04,2026-09-22,UOW College Wollongong,English Studies 3 Tutorial
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-10-13,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-G04,2026-10-20,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
@@ -88729,6 +88709,10 @@ ENG 003,TC,Wednesday,08:30,12:30,30-G04,2026-06-03,UOW College Wollongong,Englis
 ENG 003,TC,Wednesday,08:30,12:30,30-G04,2026-06-10,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TC,Wednesday,08:30,12:30,30-G04,2026-06-17,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TC,Wednesday,08:30,12:30,30-G04,2026-06-24,UOW College Wollongong,English Studies 3 Tutorial
+ENG 004,TC,Wednesday,08:30,12:30,30-G04,2026-08-19,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TC,Wednesday,08:30,12:30,30-G04,2026-08-26,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TC,Wednesday,08:30,12:30,30-G04,2026-09-02,UOW College Wollongong,English Studies 4 Tutorial
+ENG 004,TC,Wednesday,08:30,12:30,30-G04,2026-09-09,UOW College Wollongong,English Studies 4 Tutorial
 ENG 003,TC,Wednesday,08:30,12:30,30-G04,2026-09-16,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TC,Wednesday,08:30,12:30,30-G04,2026-09-23,UOW College Wollongong,English Studies 3 Tutorial
 VNUR100,TC,Wednesday,08:30,15:30,30-G04,2026-10-14,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
@@ -88784,6 +88768,12 @@ ETS 300,TE,Wednesday,13:30,15:30,30-G04,2026-05-27,UOW College Wollongong,ETS Se
 ETS 300,TE,Wednesday,13:30,15:30,30-G04,2026-06-03,UOW College Wollongong,ETS Session 3
 ETS 300,TE,Wednesday,13:30,15:30,30-G04,2026-06-10,UOW College Wollongong,ETS Session 3
 ETS 300,TE,Wednesday,13:30,15:30,30-G04,2026-06-17,UOW College Wollongong,ETS Session 3
+ETS 100,TC,Wednesday,13:30,17:30,30-G04,2026-08-19,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TC,Wednesday,13:30,17:30,30-G04,2026-08-26,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TC,Wednesday,13:30,17:30,30-G04,2026-09-02,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TC,Wednesday,13:30,17:30,30-G04,2026-09-09,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TC,Wednesday,13:30,17:30,30-G04,2026-09-16,UOW College Wollongong,ETS18 Session 1 Tutorial
+ETS 100,TC,Wednesday,13:30,17:30,30-G04,2026-09-23,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TB,Thursday,08:30,15:30,30-G04,2026-01-29,UOW College Wollongong,Vocational Nursing Session 3
 STOU002,Meikai,Thursday,08:30,16:30,30-G04,2026-02-19,UOW College Wollongong,Meikai University Group Meeting
 ENG 003,TD,Thursday,08:30,12:30,30-G04,2026-02-26,UOW College Wollongong,English Studies 3 Tutorial (Group B)
@@ -89079,6 +89069,7 @@ ETS 101,TE,Tuesday,10:30,12:30,30-G05,2025-11-25,UOW College Wollongong,ETS18 Se
 ETS 101,TE,Tuesday,10:30,12:30,30-G05,2025-12-02,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TE,Tuesday,10:30,12:30,30-G05,2025-12-09,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TE,Tuesday,10:30,12:30,30-G05,2025-12-16,UOW College Wollongong,ETS18 Session 1 Tutorial
+08.04/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,11:00,16:30,30-G05,2026-08-04,UOW College Wollongong,Academic consultations - UOWC
 04.07/26-SvitlanaNastenko/02,SvitlanaNastenko,Tuesday,13:00,15:00,30-G05,2026-04-07,UOW College Wollongong,ELICOS Orientation Day Placement Tests
 FSPW102,Tutorial,Tuesday,13:30,15:30,30-G05,2025-11-25,UOW College Wollongong,English for Academic Study 1
 FSPW102,Tutorial,Tuesday,13:30,15:30,30-G05,2025-12-02,UOW College Wollongong,English for Academic Study 1
@@ -95493,19 +95484,6 @@ MNPR918,Tutorial,Wednesday,13:30,15:30,400-106,2026-11-04,Liverpool,SPRG-MNPR918
 WUCB521,Tutorial,Wednesday,14:30,16:30,400-106,2026-01-07,Liverpool,Statistics for Business
 WUCB521,Tutorial,Wednesday,14:30,16:30,400-106,2026-01-14,Liverpool,Statistics for Business
 WUCB521,Tutorial,Wednesday,14:30,16:30,400-106,2026-01-21,Liverpool,Statistics for Business
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-07-29,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-08-05,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-08-12,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-08-19,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-08-26,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-09-02,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-09-09,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-09-16,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-09-23,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-10-07,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-10-14,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-10-21,Liverpool,Equity and Trusts Seminar
-LLB2270,Seminar,Wednesday,15:30,17:30,400-106,2026-10-28,Liverpool,Equity and Trusts Seminar
 LLB2270,Seminar,Wednesday,17:30,19:30,400-106,2026-07-29,Liverpool,Equity and Trusts Seminar
 LLB2270,Seminar,Wednesday,17:30,19:30,400-106,2026-08-05,Liverpool,Equity and Trusts Seminar
 LLB2270,Seminar,Wednesday,17:30,19:30,400-106,2026-08-12,Liverpool,Equity and Trusts Seminar
@@ -96794,17 +96772,6 @@ CSCI322,Computer Lab,Thursday,15:30,17:30,400-207,2026-09-24,Liverpool,Systems A
 CSCI322,Computer Lab,Thursday,15:30,17:30,400-207,2026-10-08,Liverpool,Systems Administration Computer Lab
 CSCI322,Computer Lab,Thursday,15:30,17:30,400-207,2026-10-15,Liverpool,Systems Administration Computer Lab
 CSCI322,Computer Lab,Thursday,15:30,17:30,400-207,2026-10-22,Liverpool,Systems Administration Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-08-06,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-08-13,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-08-20,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-08-27,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-09-03,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-09-10,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-09-17,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-09-24,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-10-08,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-10-15,Liverpool,Ethical Hacking Computer Lab
-CSCI369,Computer Lab,Thursday,17:30,19:30,400-207,2026-10-22,Liverpool,Ethical Hacking Computer Lab
 00CAS2-LiverpoolExams2026-Autumn/01,LiverpoolExams2026,Friday,06:00,00:00,400-207,2026-06-12,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Autumn/02,LiverpoolExams2026,Friday,06:00,00:00,400-207,2026-06-19,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Autumn/03,LiverpoolExams2026,Friday,06:00,00:00,400-207,2026-06-26,Liverpool,Liverpool Autumn Exams 2026
@@ -102287,6 +102254,17 @@ CSIT128,Computer Lab,Thursday,15:30,17:30,400-513,2026-09-24,Liverpool,Introduct
 CSIT128,Computer Lab,Thursday,15:30,17:30,400-513,2026-10-08,Liverpool,Introduction to Web Technology Computer Lab
 CSIT128,Computer Lab,Thursday,15:30,17:30,400-513,2026-10-15,Liverpool,Introduction to Web Technology Computer Lab
 CSIT128,Computer Lab,Thursday,15:30,17:30,400-513,2026-10-22,Liverpool,Introduction to Web Technology Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-08-06,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-08-13,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-08-20,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-08-27,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-09-03,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-09-10,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-09-17,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-09-24,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-10-08,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-10-15,Liverpool,Ethical Hacking Computer Lab
+CSCI369,Computer Lab,Thursday,17:30,19:30,400-513,2026-10-22,Liverpool,Ethical Hacking Computer Lab
 00CAS2-LiverpoolExams2026-Autumn/01,LiverpoolExams2026,Friday,06:00,00:00,400-513,2026-06-12,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Autumn/02,LiverpoolExams2026,Friday,06:00,00:00,400-513,2026-06-19,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Spring/01,LiverpoolExams2026,Friday,06:00,00:00,400-513,2026-11-06,Liverpool,Liverpool Spring Exams 2026
