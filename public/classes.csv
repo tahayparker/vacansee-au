@@ -1696,18 +1696,6 @@ EXSC200,Workshop,Thursday,08:30,09:30,1-G04,2026-04-30,Wollongong,Professional P
 EXSC200,Workshop,Thursday,08:30,09:30,1-G04,2026-05-07,Wollongong,Professional Practice Workshop B
 EXSC200,Workshop,Thursday,08:30,09:30,1-G04,2026-05-14,Wollongong,Professional Practice Workshop A
 EXSC200,Workshop,Thursday,08:30,09:30,1-G04,2026-05-21,Wollongong,Professional Practice Workshop B
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-08-06,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-08-13,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-08-20,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-08-27,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-09-03,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-09-10,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-09-17,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-09-24,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-10-08,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-10-15,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-10-22,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,08:30,10:30,1-G04,2026-10-29,Wollongong,Machine Dynamics Tutorial
 EXSC200,Workshop,Thursday,09:30,10:30,1-G04,2026-03-12,Wollongong,Professional Practice Workshop A
 EXSC200,Workshop,Thursday,09:30,10:30,1-G04,2026-03-19,Wollongong,Professional Practice Workshop B
 EXSC200,Workshop,Thursday,09:30,10:30,1-G04,2026-03-26,Wollongong,Professional Practice Workshop A
@@ -1731,18 +1719,17 @@ EXSC200,Workshop,Thursday,10:30,11:30,1-G04,2026-05-07,Wollongong,Professional P
 EXSC200,Workshop,Thursday,10:30,11:30,1-G04,2026-05-14,Wollongong,Professional Practice Workshop A
 EXSC200,Workshop,Thursday,10:30,11:30,1-G04,2026-05-21,Wollongong,Professional Practice Workshop B
 EXSC200,Workshop,Thursday,10:30,11:30,1-G04,2026-05-28,Wollongong,Professional Practice Workshop A
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-06,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-13,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-20,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-27,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-03,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-10,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-17,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-24,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-08,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-15,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-22,Wollongong,Machine Dynamics Tutorial
-MECH226,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-29,Wollongong,Machine Dynamics Tutorial
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-06,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-13,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-20,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-08-27,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-03,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-17,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-09-24,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-08,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-15,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-22,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
+HIST296,Tutorial,Thursday,10:30,12:30,1-G04,2026-10-29,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
 05.07/26-PaulineDing,PaulineDing,Thursday,11:30,13:00,1-G04,2026-05-07,Wollongong,deferred mid-term exam for MATH140 - SMAPS
 BIOL980,Tutorial,Thursday,13:30,14:30,1-G04,2026-04-02,Wollongong,Biotechnology Tutorial
 BIOL980,Tutorial,Thursday,13:30,14:30,1-G04,2026-04-09,Wollongong,Biotechnology Tutorial
@@ -30545,8 +30532,6 @@ EDAE301,Tutorial,Wednesday,13:30,14:30,19-2003,2026-05-13,Wollongong,Aboriginal 
 EDAE301,Tutorial,Wednesday,13:30,14:30,19-2003,2026-05-20,Wollongong,Aboriginal Education Tutorial
 EDAE301,Tutorial,Wednesday,13:30,14:30,19-2003,2026-05-27,Wollongong,Aboriginal Education Tutorial
 EDAE301,Tutorial,Wednesday,13:30,14:30,19-2003,2026-06-03,Wollongong,Aboriginal Education Tutorial
-EDIT402,Tutorial,Wednesday,13:30,15:30,19-2003,2026-07-29,Wollongong,Effective use of ICT for Teaching & Learning Tutorial
-EDIT402,Tutorial,Wednesday,13:30,15:30,19-2003,2026-08-05,Wollongong,Effective use of ICT for Teaching & Learning Tutorial
 HAS 120,Tutorial,Wednesday,14:30,16:30,19-2003,2026-03-04,Wollongong,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
 HAS 120,Tutorial,Wednesday,14:30,16:30,19-2003,2026-03-11,Wollongong,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
 HAS 120,Tutorial,Wednesday,14:30,16:30,19-2003,2026-03-18,Wollongong,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
@@ -31271,17 +31256,6 @@ DSSC107,Tutorial,Thursday,10:30,12:30,19-2004,2026-07-09,Wollongong,Principles o
 DSSC107,Tutorial,Thursday,10:30,12:30,19-2004,2026-07-16,Wollongong,Principles of Responsible Business Tutorial
 DSSC107,Tutorial,Thursday,10:30,12:30,19-2004,2026-07-23,Wollongong,Principles of Responsible Business Tutorial
 DSSC107,Tutorial,Thursday,10:30,12:30,19-2004,2026-07-30,Wollongong,Principles of Responsible Business Tutorial
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-08-06,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-08-13,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-08-20,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-08-27,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-09-03,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-09-17,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-09-24,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-10-08,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-10-15,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-10-22,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
-HIST296,Tutorial,Thursday,10:30,12:30,19-2004,2026-10-29,Wollongong,"Medieval Encounters, 400-1500 Tutorial"
 SOWK404,TP_CAS,Thursday,11:30,13:30,19-2004,2026-05-14,Wollongong,Class relocation required
 OPS 928,Tutorial,Thursday,12:30,14:30,19-2004,2026-02-12,Wollongong,Logistics Systems Tutorial
 OPS 928,Tutorial,Thursday,12:30,14:30,19-2004,2026-02-19,Wollongong,Logistics Systems Tutorial
@@ -36965,6 +36939,7 @@ DASH121,Lecture,Wednesday,10:30,12:30,20-5,2026-09-09,Wollongong,Global Politics
 06.03/26-JoannaHoetzer,JoannaHoetzer,Wednesday,11:30,13:30,20-5,2026-06-03,Wollongong,Careers event - employer presentation open to students from all faculties - Careers & Employability
 03.11/26-TashLewell-Hillary,TashLewell,Wednesday,12:30,14:30,20-5,2026-03-11,Wollongong,Divisional meeting - Student Growth and Engagement Division
 07.01/26-JohnSampson/01,JohnSampson,Wednesday,12:30,15:30,20-5,2026-07-01,Wollongong,PhD Proposal Seminar
+08.19/26-JoVernon-Blom/01,JoVernon,Wednesday,12:30,15:30,20-5,2026-08-26,Wollongong,Division of Educational Excellence
 MEDI222,Tutorial,Wednesday,13:30,14:30,20-5,2026-03-18,Wollongong,Foundations of Biomechanics Tutorial
 MEDI222,Tutorial,Wednesday,13:30,14:30,20-5,2026-03-25,Wollongong,Foundations of Biomechanics Tutorial
 MEDI222,Tutorial,Wednesday,13:30,14:30,20-5,2026-04-08,Wollongong,Foundations of Biomechanics Tutorial
@@ -53842,6 +53817,7 @@ MEDI991,Lecture,Thursday,08:30,09:30,28-101,2026-05-14,Wollongong,Medicine 1 Lec
 MEDI991,Lecture,Thursday,08:30,09:30,28-101,2026-05-28,Wollongong,Medicine 1 Lecture
 MEDI991,Lecture,Thursday,09:30,10:30,28-101,2026-01-29,Wollongong,Medicine 1 Lecture
 03.12/26-GeorgiaSimmons,GeorgiaSimmons,Thursday,09:30,12:30,28-101,2026-03-12,Wollongong,Phase 1 Assessment feedback & Information - GSM
+09.24/26-GeorgiaSimmons/01,GeorgiaSimmons,Thursday,10:00,15:00,28-101,2026-09-24,Wollongong,GSM - SP workshop
 WUCB160,Lecture,Thursday,10:30,12:30,28-101,2026-02-26,Wollongong,Economic Essentials for Business Lecture
 MEDI991,Lecture,Thursday,10:30,12:30,28-101,2026-04-02,Wollongong,Medicine 1 Lecture
 00GSM-Exam2025-Phase1/01,Exam2025,Thursday,10:30,00:00,28-101,2026-05-14,Wollongong,Phase 1 2025 Summative OSCE Exam
@@ -65223,6 +65199,7 @@ DPIT127,Lecture,Wednesday,11:30,13:30,40-131,2026-05-13,Wollongong,Networks and 
 DPIT127,Lecture,Wednesday,11:30,13:30,40-131,2026-05-20,Wollongong,Networks and Communications Lecture
 04.08/26-AshleighWitt,AshleighWitt,Wednesday,12:30,13:30,40-131,2026-04-08,Wollongong,NCP Scholarship Info Session - EIS - Strategic Partnerships & Student Mobility
 08.19/26-JennyAtchison,JennyAtchison,Wednesday,12:30,13:30,40-131,2026-08-19,Wollongong,Research centre lecture - School of Social Science
+09.16/26-ToniSenton/01,ToniSenton,Wednesday,12:30,13:30,40-131,2026-09-16,Wollongong,LAWS Seminar
 SNUG107,Tutorial,Wednesday,13:30,15:30,40-131,2026-03-04,Wollongong,Primary Health Care Tutorial
 SNUG107,Tutorial,Wednesday,13:30,15:30,40-131,2026-03-11,Wollongong,Primary Health Care Tutorial
 SNUG107,Tutorial,Wednesday,13:30,15:30,40-131,2026-03-18,Wollongong,Primary Health Care Tutorial
@@ -70556,6 +70533,9 @@ ENG 004,TB,Tuesday,08:30,12:30,41-204,2026-03-03,Wollongong,English Studies 4 Tu
 07.28/26-MarianoRodrigo,MarianoRodrigo,Tuesday,09:30,11:30,41-204,2026-07-28,Wollongong,Student meetings - SMAP
 08.04/26-MarianoRodrigo,MarianoRodrigo,Tuesday,09:30,11:30,41-204,2026-08-04,Wollongong,Student meetings - SMAP
 04.07/26-JohnSampson,JohnSampson,Tuesday,11:00,12:00,41-204,2026-04-07,Wollongong,Supervised assessement - SMAH
+09.01/26-TrangNguyen/01,TrangNguyen,Tuesday,11:00,12:00,41-204,2026-09-01,Wollongong,CCB Team Meeting
+09.01/26-TrangNguyen/01,TrangNguyen,Tuesday,11:00,12:00,41-204,2026-10-06,Wollongong,CCB Team Meeting
+09.01/26-TrangNguyen/01,TrangNguyen,Tuesday,11:00,12:00,41-204,2026-11-03,Wollongong,CCB Team Meeting
 03.24/26-EmilyGardner/01,EmilyGardner,Tuesday,12:00,14:00,41-204,2026-03-24,Wollongong,Student Focus Groups UOW Gender-based Violence project
 11.25/25-RicLovell,RicLovell,Tuesday,15:30,17:30,41-204,2025-11-25,Wollongong,Research Onboarding Session - MIHS
 02.24/26-KyrieRodgers,KyrieRodgers,Tuesday,15:30,17:30,41-204,2026-02-24,Wollongong,To supervise students for a makeup exam - School of Nursing
@@ -80383,6 +80363,7 @@ WUCB122,Tutorial,Wednesday,08:30,10:30,67-209,2026-09-09,Wollongong,Accounting P
 WUCB122,Tutorial,Wednesday,08:30,10:30,67-209,2026-09-16,Wollongong,Accounting Principles Tutorial
 04.01/26-GabrielleO'Flynn,GabrielleO'Flynn,Wednesday,09:00,10:30,67-209,2026-04-01,Wollongong,Alternate exam - School of Education
 07.08/26-MeaghanKoch,MeaghanKoch,Wednesday,09:00,11:00,67-209,2026-07-08,Wollongong,Exams Team Meeting - Education Scheduling
+08.05/26-OliviaMaksymczuk,OliviaMaksymczuk,Wednesday,09:30,10:30,67-209,2026-08-05,Wollongong,CNI breakfast + tour of potential rooms - Student Growth & Engagement
 PREP031,Tutorial,Wednesday,10:30,12:30,67-209,2026-03-04,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Wednesday,10:30,12:30,67-209,2026-03-11,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Wednesday,10:30,12:30,67-209,2026-03-18,Wollongong,Language for Learning
@@ -99860,6 +99841,8 @@ VNUR200,TC,Friday,08:30,15:30,400-321,2026-08-28,Liverpool,Vocational Nursing Se
 VNUR200,TC,Friday,08:30,15:30,400-321,2026-09-04,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,400-321,2026-09-11,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 05.08/26-SvitlanaNastenko,SvitlanaNastenko,Friday,10:30,11:30,400-321,2026-05-08,Liverpool,PREP042 consultations - UOWC
+PREP032,Computer Lab,Friday,10:30,12:30,400-321,2026-08-21,Liverpool,Scientific Thinking
+PREP032,Computer Lab,Friday,10:30,12:30,400-321,2026-09-18,Liverpool,Scientific Thinking
 EDKM201,Tutorial,Friday,11:30,12:30,400-321,2026-03-06,Liverpool,Mathematics Content and Pedagogy 1 Tutorial
 EDKM201,Tutorial,Friday,11:30,12:30,400-321,2026-03-13,Liverpool,Mathematics Content and Pedagogy 1 Tutorial
 EDKM201,Tutorial,Friday,11:30,12:30,400-321,2026-03-20,Liverpool,Mathematics Content and Pedagogy 1 Tutorial
@@ -102516,6 +102499,7 @@ PREP032,Tutorial,Friday,08:30,10:30,400-633,2026-09-25,Liverpool,Scientific Thin
 02.27/26-SvitlanaNastenko,SvitlanaNastenko,Friday,10:30,11:30,400-633,2026-02-27,Liverpool,Consultation to PREP041 students - UOWC
 08.07/26-LeonieLam/01,LeonieLam,Friday,10:30,13:00,400-633,2026-08-07,Liverpool,Careers Workshop - Interview Skills
 VNUR200,TI,Friday,10:30,15:30,400-633,2026-08-21,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
+PREP032,Computer Lab,Friday,10:30,12:30,400-633,2026-09-04,Liverpool,Scientific Thinking
 VNUR200,TI,Friday,10:30,15:30,400-633,2026-09-18,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 07.17/26-CindyHang/01,CindyHang,Friday,12:00,16:00,400-633,2026-07-17,Liverpool,HSC Subject Support
 WUCB130,Tutorial,Friday,13:30,15:30,400-633,2026-02-27,Liverpool,Introduction to Management Tutorial
