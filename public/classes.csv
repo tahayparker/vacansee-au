@@ -5303,16 +5303,6 @@ CSIT883,Computer Lab,Wednesday,14:30,16:30,3-125,2026-04-08,Wollongong,System An
 CSIT883,Computer Lab,Wednesday,14:30,16:30,3-125,2026-05-06,Wollongong,System Analysis and Project Management Computer Lab
 CSIT883,Computer Lab,Wednesday,14:30,16:30,3-125,2026-05-20,Wollongong,System Analysis and Project Management Computer Lab
 CSIT883,Computer Lab,Wednesday,14:30,16:30,3-125,2026-05-27,Wollongong,System Analysis and Project Management Computer Lab
-CSIT422,Computer Lab,Wednesday,14:30,16:30,3-125,2026-08-12,Wollongong,
-CSIT922,Computer Lab,Wednesday,14:30,16:30,3-125,2026-08-12,Wollongong,
-CSIT422,Computer Lab,Wednesday,14:30,16:30,3-125,2026-08-26,Wollongong,
-CSIT922,Computer Lab,Wednesday,14:30,16:30,3-125,2026-08-26,Wollongong,
-CSIT422,Computer Lab,Wednesday,14:30,16:30,3-125,2026-09-09,Wollongong,
-CSIT922,Computer Lab,Wednesday,14:30,16:30,3-125,2026-09-09,Wollongong,
-CSIT422,Computer Lab,Wednesday,14:30,16:30,3-125,2026-09-23,Wollongong,
-CSIT922,Computer Lab,Wednesday,14:30,16:30,3-125,2026-09-23,Wollongong,
-CSIT422,Computer Lab,Wednesday,14:30,16:30,3-125,2026-10-14,Wollongong,
-CSIT922,Computer Lab,Wednesday,14:30,16:30,3-125,2026-10-14,Wollongong,
 CSIT883,Computer Lab,Wednesday,16:30,18:30,3-125,2026-03-11,Wollongong,System Analysis and Project Management Computer Lab
 CSIT883,Computer Lab,Wednesday,16:30,18:30,3-125,2026-03-25,Wollongong,System Analysis and Project Management Computer Lab
 CSIT883,Computer Lab,Wednesday,16:30,18:30,3-125,2026-04-01,Wollongong,System Analysis and Project Management Computer Lab
@@ -49739,6 +49729,7 @@ CAVA301,Practical,Friday,10:30,12:30,25-129k,2026-06-05,Wollongong,Visual Arts W
 EXSC423,W_CAS,Monday,09:30,14:00,25-147,2026-11-09,Wollongong,Clinical Practicum
 12.08/25-PennyHarris,PennyHarris,Monday,13:30,15:00,25-147,2025-12-08,Wollongong,meeting - TAEM
 06.08/26-PennyHarris,PennyHarris,Monday,14:00,15:00,25-147,2026-06-08,Wollongong,meeting - TAEM
+08.10/26-VanessaBolton/01,VanessaBolton,Monday,14:30,16:30,25-147,2026-08-10,Wollongong,
 02.09/26-GrantEllmers,GrantEllmers,Monday,15:30,16:30,25-147,2026-02-09,Wollongong,CACS111 Staff meeting - CAH
 07.07/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,25-147,2026-07-07,Wollongong,RCD Testing - BLD 25
 06.16/26-JeffyPhilip/01,JeffyPhilip,Tuesday,08:00,16:00,25-147,2026-06-16,Wollongong,Meeting Room
@@ -96563,6 +96554,9 @@ BUS 121,Computer Lab,Friday,16:30,18:30,400-208,2026-08-21,Liverpool,Statistics 
 BUS 121,Computer Lab,Friday,16:30,18:30,400-208,2026-09-11,Liverpool,Statistics for Business Computer Lab
 BUS 121,Computer Lab,Friday,16:30,18:30,400-208,2026-10-09,Liverpool,Statistics for Business Computer Lab
 BUS 121,Computer Lab,Friday,16:30,18:30,400-208,2026-10-23,Liverpool,Statistics for Business Computer Lab
+ACCY231,Computer Lab,Friday,18:30,20:30,400-208,2026-08-28,Liverpool,Information Systems in Accounting Computer Lab
+ACCY231,Computer Lab,Friday,18:30,20:30,400-208,2026-10-09,Liverpool,Information Systems in Accounting Computer Lab
+ACCY231,Computer Lab,Friday,18:30,20:30,400-208,2026-10-30,Liverpool,Information Systems in Accounting Computer Lab
 00CAS2-LiverpoolExams2026-Autumn/01,LiverpoolExams2026,Saturday,06:00,00:00,400-208,2026-06-13,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Autumn/02,LiverpoolExams2026,Saturday,06:00,00:00,400-208,2026-06-20,Liverpool,Liverpool Autumn Exams 2026
 00CAS3-OpenDay-LP/01,OpenDay,Saturday,06:00,00:00,400-208,2026-07-25,Liverpool,Open Day Liverpool
@@ -106875,7 +106869,6 @@ SNUG192,Workshop,Wednesday,14:30,15:30,Online,2026-07-29,Online,Professional Exp
 SNUG292,Workshop,Wednesday,14:30,15:30,Online,2026-07-29,Online,Professional Experience Placement 3
 CSCI203,Lecture,Wednesday,14:30,16:30,Online,2026-08-05,Online,Algorithms and Data Structures Lecture
 CSCI927,Lecture\Tutorial,Wednesday,14:30,16:30,Online,2026-08-05,Online,Service-Oriented Software Engineering Lecture\Tutorial
-CSIT922,Computer Lab,Wednesday,14:30,16:30,Online,2026-08-05,Online,Information Visualisation and Decision Support Computer Lab
 EDAR302,Tutorial,Wednesday,14:30,15:30,Online,2026-08-05,Online,Advanced Research Methods Tutorial
 EDRM302,Tutorial,Wednesday,14:30,15:30,Online,2026-08-05,Online,Research Methods in Educational Research Tutorial
 LAW 325,Seminar,Wednesday,14:30,16:30,Online,2026-08-05,Online,Children and the Law
@@ -106892,7 +106885,6 @@ SNUG192,Workshop,Wednesday,14:30,15:30,Online,2026-08-12,Online,Professional Exp
 SNUG292,Workshop,Wednesday,14:30,15:30,Online,2026-08-12,Online,Professional Experience Placement 3
 CSCI203,Lecture,Wednesday,14:30,16:30,Online,2026-08-19,Online,Algorithms and Data Structures Lecture
 CSCI927,Lecture\Tutorial,Wednesday,14:30,16:30,Online,2026-08-19,Online,Service-Oriented Software Engineering Lecture\Tutorial
-CSIT922,Computer Lab,Wednesday,14:30,16:30,Online,2026-08-19,Online,Information Visualisation and Decision Support Computer Lab
 EDAR302,Tutorial,Wednesday,14:30,15:30,Online,2026-08-19,Online,Advanced Research Methods Tutorial
 EDRM302,Tutorial,Wednesday,14:30,15:30,Online,2026-08-19,Online,Research Methods in Educational Research Tutorial
 LAW 325,Seminar,Wednesday,14:30,16:30,Online,2026-08-19,Online,Children and the Law
@@ -106908,7 +106900,6 @@ LLB3325,Seminar,Wednesday,14:30,16:30,Online,2026-08-26,Online,Children and the 
 SNUG192,Workshop,Wednesday,14:30,15:30,Online,2026-08-26,Online,Professional Experience Placement 1
 CSCI203,Lecture,Wednesday,14:30,16:30,Online,2026-09-02,Online,Algorithms and Data Structures Lecture
 CSCI927,Lecture\Tutorial,Wednesday,14:30,16:30,Online,2026-09-02,Online,Service-Oriented Software Engineering Lecture\Tutorial
-CSIT922,Computer Lab,Wednesday,14:30,16:30,Online,2026-09-02,Online,Information Visualisation and Decision Support Computer Lab
 EDAR302,Tutorial,Wednesday,14:30,15:30,Online,2026-09-02,Online,Advanced Research Methods Tutorial
 EDRM302,Tutorial,Wednesday,14:30,15:30,Online,2026-09-02,Online,Research Methods in Educational Research Tutorial
 LAW 325,Seminar,Wednesday,14:30,16:30,Online,2026-09-02,Online,Children and the Law
@@ -106928,7 +106919,6 @@ LLB3325,Seminar,Wednesday,14:30,16:30,Online,2026-09-16,Online,Children and the 
 MGNT207,Lecture,Wednesday,14:30,15:30,Online,2026-09-16,Online,Employment Relations Lecture
 CSCI203,Lecture,Wednesday,14:30,16:30,Online,2026-09-23,Online,Algorithms and Data Structures Lecture
 CSCI927,Lecture\Tutorial,Wednesday,14:30,16:30,Online,2026-09-23,Online,Service-Oriented Software Engineering Lecture\Tutorial
-CSIT922,Computer Lab,Wednesday,14:30,16:30,Online,2026-09-23,Online,Information Visualisation and Decision Support Computer Lab
 EDAR302,Tutorial,Wednesday,14:30,15:30,Online,2026-09-23,Online,Advanced Research Methods Tutorial
 EDRM302,Tutorial,Wednesday,14:30,15:30,Online,2026-09-23,Online,Research Methods in Educational Research Tutorial
 LAW 325,Seminar,Wednesday,14:30,16:30,Online,2026-09-23,Online,Children and the Law
@@ -106947,7 +106937,6 @@ LAW 325,Seminar,Wednesday,14:30,16:30,Online,2026-10-14,Online,Children and the 
 LLB3325,Seminar,Wednesday,14:30,16:30,Online,2026-10-14,Online,Children and the Law
 CSCI203,Lecture,Wednesday,14:30,16:30,Online,2026-10-21,Online,Algorithms and Data Structures Lecture
 CSCI927,Lecture\Tutorial,Wednesday,14:30,16:30,Online,2026-10-21,Online,Service-Oriented Software Engineering Lecture\Tutorial
-CSIT922,Computer Lab,Wednesday,14:30,16:30,Online,2026-10-21,Online,Information Visualisation and Decision Support Computer Lab
 EDAR302,Tutorial,Wednesday,14:30,15:30,Online,2026-10-21,Online,Advanced Research Methods Tutorial
 EDRM302,Tutorial,Wednesday,14:30,15:30,Online,2026-10-21,Online,Research Methods in Educational Research Tutorial
 LAW 325,Seminar,Wednesday,14:30,16:30,Online,2026-10-21,Online,Children and the Law
@@ -109689,6 +109678,7 @@ MBA 900,Workshop,Friday,17:30,20:30,Online,2026-10-23,Online,Economic Analysis f
 MGNT803,Tutorial,Friday,17:30,19:30,Online,2026-10-23,Online,Organisational Behaviour and Management Tutorial
 MBA 900,Workshop,Friday,17:30,20:30,Online,2026-10-30,Online,Economic Analysis for Modern Business Workshop
 MGNT803,Tutorial,Friday,17:30,19:30,Online,2026-10-30,Online,Organisational Behaviour and Management Tutorial
+ACCY231,Computer Lab,Friday,18:30,20:30,Online,2026-07-31,Online,Information Systems in Accounting Computer Lab
 ACCY231,Computer Lab,Friday,18:30,20:30,Online,2026-08-07,Online,Information Systems in Accounting Computer Lab
 SOWK442,Tutorial,Friday,18:30,20:30,Online,2026-08-07,Online,International Social Work Tutorial
 ACCY231,Computer Lab,Friday,18:30,20:30,Online,2026-08-14,Online,Information Systems in Accounting Computer Lab
