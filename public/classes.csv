@@ -18493,13 +18493,13 @@ MBAS900,Tutorial,Monday,15:30,17:30,15-206,2026-03-30,Wollongong,Fundamentals of
 MBAS900,Tutorial,Monday,15:30,17:30,15-206,2026-04-06,Wollongong,Fundamentals of Business Analytics Tutorial
 MBAS900,Tutorial,Monday,15:30,17:30,15-206,2026-04-13,Wollongong,Fundamentals of Business Analytics Tutorial
 04.21/26-MichaelCook/01,MichaelCook,Tuesday,06:00,08:00,15-206,2026-04-21,Wollongong,Residual Current Device Testing for Building 15
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2025-11-25,Wollongong,Introduction to Web Technology
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2025-12-02,Wollongong,Introduction to Web Technology
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2025-12-09,Wollongong,Introduction to Web Technology
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2025-12-16,Wollongong,Introduction to Web Technology
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2026-01-06,Wollongong,Introduction to Web Technology
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2026-01-13,Wollongong,Introduction to Web Technology
-DPIT128,Lecture,Tuesday,08:30,10:30,15-206,2026-01-20,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2025-11-25,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2025-12-02,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2025-12-09,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2025-12-16,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2026-01-06,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2026-01-13,Wollongong,Introduction to Web Technology
+DPIT128,L,Tuesday,08:30,10:30,15-206,2026-01-20,Wollongong,Introduction to Web Technology
 MBAS900,Tutorial,Tuesday,08:30,10:30,15-206,2026-06-16,Wollongong,Fundamentals of Business Analytics Tutorial
 MBAS900,Tutorial,Tuesday,08:30,10:30,15-206,2026-06-23,Wollongong,Fundamentals of Business Analytics Tutorial
 MBAS900,Tutorial,Tuesday,08:30,10:30,15-206,2026-06-30,Wollongong,Fundamentals of Business Analytics Tutorial
@@ -21334,18 +21334,18 @@ MEDI151,Computer Lab,Tuesday,08:30,09:30,17-106,2026-08-18,Wollongong,Healthy Ag
 04.14/26-LezanneOoi,LezanneOoi,Tuesday,09:00,12:00,17-106,2026-04-14,Wollongong,exam - ssci / smah
 05.05/26-KateMaguire,KateMaguire,Tuesday,09:00,12:00,17-106,2026-05-05,Wollongong,Training - Student Services
 MEDI151,Computer Lab,Tuesday,09:30,10:30,17-106,2026-08-18,Wollongong,Healthy Ageing Practical
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-08-04,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-08-11,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-08-18,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-08-25,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-09-01,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-09-08,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-09-15,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-09-22,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-10-06,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-10-13,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-10-20,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,10:30,12:30,17-106,2026-10-27,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-08-04,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-08-11,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-08-18,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-08-25,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-09-01,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-09-08,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-09-15,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-09-22,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-10-06,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-10-13,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-10-20,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,10:30,12:30,17-106,2026-10-27,Wollongong,Business Analytics Industry Project Computer Lab
 PREP031,Computer Lab,Tuesday,12:30,14:30,17-106,2026-02-24,Wollongong,Language for Learning Computer Lab
 DSCI105,Lecture,Tuesday,12:30,14:30,17-106,2026-03-03,Wollongong,Planet Earth Lecture
 DSCI105,Lecture,Tuesday,12:30,14:30,17-106,2026-03-10,Wollongong,Planet Earth Lecture
@@ -21368,18 +21368,18 @@ CHEM337,Computer Lab,Tuesday,12:30,14:30,17-106,2026-05-26,Wollongong,Environmen
 CHEM994,Computer Lab,Tuesday,12:30,14:30,17-106,2026-05-26,Wollongong,Environmental Chemistry and Climate Change Computer Lab
 CHEM337,Computer Lab,Tuesday,12:30,14:30,17-106,2026-06-02,Wollongong,Environmental and Atmospheric Chemistry Computer Lab
 CHEM994,Computer Lab,Tuesday,12:30,14:30,17-106,2026-06-02,Wollongong,Environmental Chemistry and Climate Change Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-08-04,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-08-11,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-08-18,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-08-25,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-09-01,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-09-08,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-09-15,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-09-22,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-10-06,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-10-13,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-10-20,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Tuesday,13:30,15:30,17-106,2026-10-27,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-08-04,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-08-11,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-08-18,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-08-25,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-09-01,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-09-08,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-09-15,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-09-22,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-10-06,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-10-13,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-10-20,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Tuesday,13:30,15:30,17-106,2026-10-27,Wollongong,Business Analytics Industry Project Computer Lab
 DSCI105,Tutorial,Tuesday,14:30,15:30,17-106,2026-02-24,Wollongong,Planet Earth Tutorial
 DSCI105,Tutorial,Tuesday,14:30,15:30,17-106,2026-03-03,Wollongong,Planet Earth Tutorial
 DSCI105,Tutorial,Tuesday,14:30,15:30,17-106,2026-03-10,Wollongong,Planet Earth Tutorial
@@ -22751,18 +22751,18 @@ MGNT323,Tutorial,Friday,13:30,15:30,17-110A,2026-10-30,Wollongong,Managing Emplo
 HAS 131,Computer Lab,Monday,08:30,09:30,17-110B,2026-08-10,Wollongong,Introducing Crime and Justice Computer Lab
 HAS 131,Computer Lab,Monday,09:30,10:30,17-110B,2026-08-10,Wollongong,Introducing Crime and Justice Computer Lab
 HAS 131,Computer Lab,Monday,11:30,12:30,17-110B,2026-08-10,Wollongong,Introducing Crime and Justice Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-08-03,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-08-10,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-08-17,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-08-24,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-08-31,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-09-07,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-09-14,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-09-21,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-10-05,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-10-12,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-10-19,Wollongong,Business Analytics Industry Project Computer Lab
-BALA302,Computer Lab,Monday,12:30,14:30,17-110B,2026-10-26,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-08-03,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-08-10,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-08-17,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-08-24,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-08-31,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-09-07,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-09-14,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-09-21,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-10-05,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-10-12,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-10-19,Wollongong,Business Analytics Industry Project Computer Lab
+BALA302,CL,Monday,12:30,14:30,17-110B,2026-10-26,Wollongong,Business Analytics Industry Project Computer Lab
 SMAH803,Computer Lab,Monday,13:30,17:30,17-110B,2026-03-02,Wollongong,"Fundamentals of Science Data, IT and Emerging Technologies Computer Lab"
 SMAH803,Computer Lab,Monday,13:30,17:30,17-110B,2026-03-09,Wollongong,"Fundamentals of Science Data, IT and Emerging Technologies Computer Lab"
 SMAH803,Computer Lab,Monday,13:30,17:30,17-110B,2026-03-16,Wollongong,"Fundamentals of Science Data, IT and Emerging Technologies Computer Lab"
@@ -35207,6 +35207,7 @@ MGNT351,Lecture,Thursday,15:30,17:30,20-2,2026-06-04,Wollongong,Responsible Lead
 04.09/26-SamanthaLavis,SamanthaLavis,Thursday,19:30,20:30,20-2,2026-04-09,Wollongong,Wollongong Undergraduate Association (WUSA) meeting - Student Engagement
 00CAS3-DiscoveryDays-Yr12-Feb26/03,DiscoveryDays,Friday,06:00,14:30,20-2,2026-02-20,Wollongong,Discovery Days Year 12 - Bld 20
 LLB3339,OC_CAS,Friday,08:30,17:30,20-2,2026-09-04,Wollongong,LLB3339 - Guest Lecture
+11.06/26-NatalieAllen/01,NatalieAllen,Friday,08:30,18:00,20-2,2026-11-06,Wollongong,Molecular Horizons Research Symposium
 MEDI322,Lecture\Seminar,Friday,11:30,13:30,20-2,2026-03-06,Wollongong,Advanced Exercise Physiology and Metabolism Lecture\Seminar
 MEDI322,Lecture\Seminar,Friday,11:30,13:30,20-2,2026-03-13,Wollongong,Advanced Exercise Physiology and Metabolism Lecture\Seminar
 MEDI322,Lecture\Seminar,Friday,11:30,13:30,20-2,2026-03-20,Wollongong,Advanced Exercise Physiology and Metabolism Lecture\Seminar
@@ -74578,6 +74579,7 @@ BIOL241,Seminar,Monday,13:30,17:30,43-G05,2026-08-24,Wollongong,Biodiversity of 
 04.14/26-ClaireOrlov/01,ClaireOrlov,Tuesday,13:30,16:30,43-G05,2026-04-14,Wollongong,SCII101 Access plan in-class quizzes
 04.14/26-ClaireOrlov/01,ClaireOrlov,Tuesday,13:30,16:30,43-G05,2026-05-05,Wollongong,SCII101 Access plan in-class quizzes
 04.14/26-ClaireOrlov/01,ClaireOrlov,Tuesday,13:30,16:30,43-G05,2026-05-19,Wollongong,SCII101 Access plan in-class quizzes
+BIOL103,OC_CAS,Wednesday,08:00,12:30,43-G05,2026-09-09,Wollongong,ARC Future Grids Training Centre
 11.02/26-EmmaJames/01,EmmaJames,Wednesday,08:00,18:00,43-G05,2026-11-04,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Wednesday,08:00,18:00,43-G05,2026-11-11,Wollongong,2026 SSCI Spring exams
 BIOL213,WG_CAS,Wednesday,08:30,17:30,43-G05,2026-04-08,Wollongong,BIOL213/813 mid-session quiz
@@ -74654,6 +74656,7 @@ SCII311,Practical,Tuesday,10:30,13:30,43-G06,2026-05-05,Wollongong,Applied Geosp
 SCII311,Practical,Tuesday,10:30,13:30,43-G06,2026-05-12,Wollongong,Applied Geospatial Analysis Practical
 SCII311,Practical,Tuesday,10:30,13:30,43-G06,2026-05-26,Wollongong,Applied Geospatial Analysis Practical
 04.28/26-MitchellSt Clair-Glover,MitchellSt Clair,Tuesday,14:00,16:00,43-G06,2026-04-28,Wollongong,Supplementary Exam - BIOL340 - SSCI
+BIOL103,OC_CAS,Wednesday,08:00,12:30,43-G06,2026-09-09,Wollongong,ARC Future Grids Training Centre
 11.02/26-EmmaJames/01,EmmaJames,Wednesday,08:00,18:00,43-G06,2026-11-04,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Wednesday,08:00,18:00,43-G06,2026-11-11,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/02,EmmaJames,Wednesday,08:00,18:00,43-G06,2026-11-18,Wollongong,2026 SSCI Spring exams
@@ -76564,6 +76567,7 @@ PSYC123,Lecture,Monday,12:30,14:30,67-107,2026-10-12,Wollongong,Research Methods
 PSYC123,Lecture,Monday,12:30,14:30,67-107,2026-10-19,Wollongong,Research Methods and Statistics Lecture
 PSYC123,Lecture,Monday,12:30,14:30,67-107,2026-10-26,Wollongong,Research Methods and Statistics Lecture
 06.29/26-SashikaMendis,SashikaMendis,Monday,13:00,14:00,67-107,2026-06-29,Wollongong,3MT mock panel feedback - RSD
+PHYS295,OC_CAS,Monday,14:00,17:00,67-107,2026-09-07,Wollongong,PHYS295 Mid-session exam
 PSYC121,Lecture,Monday,14:30,16:30,67-107,2026-03-02,Wollongong,Foundations of Psychology A Lecture
 PSYC121,Lecture,Monday,14:30,16:30,67-107,2026-03-09,Wollongong,Foundations of Psychology A Lecture
 PSYC121,Lecture,Monday,14:30,16:30,67-107,2026-03-16,Wollongong,Foundations of Psychology A Lecture
@@ -76588,7 +76592,6 @@ PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-05,Wollongong,Foundations of P
 PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-12,Wollongong,Foundations of Psychology B Lecture
 PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-19,Wollongong,Foundations of Psychology B Lecture
 PSYC122,Lecture,Monday,14:30,16:30,67-107,2026-10-26,Wollongong,Foundations of Psychology B Lecture
-PHYS295,OC_CAS,Monday,15:00,17:00,67-107,2026-09-07,Wollongong,PHYS295 Mid-session exam
 CSCI235,Lecture,Monday,16:30,18:30,67-107,2026-03-02,Wollongong,Database Systems Lecture
 CSCI235,Lecture,Monday,16:30,18:30,67-107,2026-03-09,Wollongong,Database Systems Lecture
 CSCI235,Lecture,Monday,16:30,18:30,67-107,2026-03-16,Wollongong,Database Systems Lecture
@@ -82195,13 +82198,13 @@ DPIT110,Computer Lab,Wednesday,13:30,16:30,30-108,2026-08-26,UOW College Wollong
 DPIT110,Computer Lab,Wednesday,13:30,16:30,30-108,2026-09-02,UOW College Wollongong,Fundamental Programming with Python Computer Lab
 DPIT110,Computer Lab,Wednesday,13:30,16:30,30-108,2026-09-09,UOW College Wollongong,Fundamental Programming with Python Computer Lab
 DPIT110,Computer Lab,Wednesday,13:30,16:30,30-108,2026-09-16,UOW College Wollongong,Fundamental Programming with Python Computer Lab
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2025-11-26,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2025-12-03,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2025-12-10,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2025-12-17,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2026-01-07,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2026-01-14,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Wednesday,14:30,17:30,30-108,2026-01-21,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2025-11-26,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2025-12-03,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2025-12-10,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2025-12-17,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2026-01-07,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2026-01-14,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Wednesday,14:30,17:30,30-108,2026-01-21,UOW College Wollongong,Introduction to Web Technology
 01.27/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,15:00,21:00,30-108,2026-01-28,UOW College Wollongong,Academic Summer Exams - UOWC
 06.16/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:30,20:30,30-108,2026-06-17,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 PREP031,Computer Lab,Wednesday,17:30,19:30,30-108,2026-02-25,UOW College Wollongong,Language for Learning Computer Lab
@@ -82738,13 +82741,13 @@ VNUR300,TB,Friday,08:30,18:30,30-109,2026-09-25,UOW College Wollongong,Vocationa
 VNUR300,TB,Friday,08:30,18:30,30-109,2026-10-02,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TB,Friday,08:30,18:30,30-109,2026-10-09,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TB,Friday,08:30,18:30,30-109,2026-10-16,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2025-11-28,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2025-12-05,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2025-12-12,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2025-12-19,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2026-01-09,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2026-01-16,UOW College Wollongong,Introduction to Web Technology
-DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2026-01-23,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2025-11-28,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2025-12-05,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2025-12-12,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2025-12-19,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2026-01-09,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2026-01-16,UOW College Wollongong,Introduction to Web Technology
+DPIT128,CL,Friday,09:30,12:30,30-109,2026-01-23,UOW College Wollongong,Introduction to Web Technology
 DPIT123,Computer Lab,Friday,09:30,12:30,30-109,2026-02-27,UOW College Wollongong,Computing and Cyber Security Fundamentals Computer Lab
 DPIT123,Computer Lab,Friday,09:30,12:30,30-109,2026-03-06,UOW College Wollongong,Computing and Cyber Security Fundamentals Computer Lab
 DPIT123,Computer Lab,Friday,09:30,12:30,30-109,2026-03-13,UOW College Wollongong,Computing and Cyber Security Fundamentals Computer Lab
