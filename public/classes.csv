@@ -101721,17 +101721,6 @@ MEDI991,Lecture,Monday,08:30,09:30,Online,2026-10-19,Online,Medicine 1 Lecture
 CSCI935,Lecture,Monday,08:30,10:30,Online,2026-10-26,Online,Computer Vision Algorithms and Systems Lecture
 CSIT226,Lecture,Monday,08:30,10:30,Online,2026-10-26,Online,Human Computer Interaction Lecture
 MEDI991,Lecture,Monday,08:30,09:30,Online,2026-11-02,Online,Medicine 1 Lecture
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-03-02,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-03-09,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-03-16,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-03-23,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-03-30,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-04-13,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-04-27,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-05-04,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-05-11,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-05-18,Online,"Human Security, Global Capitalism and the Environment Lecture"
-INTS311,Lecture,Monday,09:30,10:30,Online,2026-05-25,Online,"Human Security, Global Capitalism and the Environment Lecture"
 MARK221,Lecture,Monday,09:30,10:30,Online,2026-05-25,Online,Public Relations Concepts Lecture
 MARK221,Lecture,Monday,09:30,10:30,Online,2026-06-01,Online,Public Relations Concepts Lecture
 BUS 330,Lecture,Monday,09:30,11:30,Online,2026-07-27,Online,Economics and Finance Applied Research Project Lecture
@@ -103652,83 +103641,70 @@ CSIT884,Lecture,Tuesday,10:30,12:30,Online,2026-10-27,Online,Web Development Lec
 LAW 305,Seminar,Tuesday,10:30,12:30,Online,2026-10-27,Online,Health Law
 LLB3305,Seminar,Tuesday,10:30,12:30,Online,2026-10-27,Online,Health Law
 MMMB940,Lecture,Tuesday,10:30,12:30,Online,2026-10-27,Online,Advanced Project Lecture
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-03-03,Online,Computing and Cyber Security Fundamentals Lecture
 EDPD201,Tutorial,Tuesday,11:30,13:30,Online,2026-03-03,Online,Professional Development 1: The Learning Environment Tutorial
 EDPD201,Tutorial,Tuesday,11:30,13:30,Online,2026-03-03,Online,Professional Development 1: The Learning Environment Lecture
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-03-03,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-03-03,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-03-03,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-03-03,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-03-10,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-03-10,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-03-10,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-03-10,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-03-10,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-03-10,Online,"Power, Resistance and Society Tutorial"
 BUS 331,Tutorial,Tuesday,11:30,12:30,Online,2026-03-17,Online,Integrative Business Capstone Tutorial
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-03-17,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-03-17,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-03-17,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-03-17,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-03-17,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-03-17,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-03-24,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-03-24,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-03-24,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-03-24,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-03-24,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-03-24,Online,"Power, Resistance and Society Tutorial"
 BUS 331,Tutorial,Tuesday,11:30,12:30,Online,2026-03-31,Online,Integrative Business Capstone Tutorial
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-03-31,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-03-31,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-03-31,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-03-31,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-03-31,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-03-31,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-04-07,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-04-07,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-04-07,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-04-07,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-04-07,Online,Human Rights Law Seminar
 BUS 331,Tutorial,Tuesday,11:30,12:30,Online,2026-04-14,Online,Integrative Business Capstone Tutorial
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-04-14,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-04-14,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-04-14,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-04-14,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-04-14,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-04-14,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-04-28,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-04-28,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-04-28,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-04-28,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-04-28,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-04-28,Online,"Power, Resistance and Society Tutorial"
 BUS 331,Tutorial,Tuesday,11:30,12:30,Online,2026-05-05,Online,Integrative Business Capstone Tutorial
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-05-05,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-05-05,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-05-05,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-05-05,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-05-05,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-05-05,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-05-12,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-05-12,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-05-12,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-05-12,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-05-12,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-05-12,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-05-19,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-05-19,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-05-19,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-05-19,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-05-19,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-05-19,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-05-26,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-05-26,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-05-26,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-05-26,Online,Human Rights Law Seminar
 LLB3354,Seminar,Tuesday,11:30,13:30,Online,2026-05-26,Online,Human Rights Law Seminar
 SOC 352,Tutorial,Tuesday,11:30,13:30,Online,2026-05-26,Online,"Power, Resistance and Society Tutorial"
-CSIT123,Lecture,Tuesday,11:30,13:30,Online,2026-06-02,Online,Computing and Cyber Security Fundamentals Lecture
 FIN 241,Tutorial,Tuesday,11:30,12:30,Online,2026-06-02,Online,International Financial Management Tutorial
 ISIT212,Lecture,Tuesday,11:30,13:30,Online,2026-06-02,Online,Corporate Network Planning and Design Lecture
 LAW 354,Seminar,Tuesday,11:30,13:30,Online,2026-06-02,Online,Human Rights Law Seminar
@@ -103945,7 +103921,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-03-10,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-03-10,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-03-10,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-03-10,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-03-10,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-03-10,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-03-10,Online,Advanced Project Lecture Seminar
 SNUG291,Workshop,Tuesday,13:30,14:30,Online,2026-03-10,Online,Professional Experience Placement 2 Workshop
@@ -103956,7 +103931,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-03-17,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-03-17,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-03-17,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-03-17,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-03-17,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-03-17,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-03-17,Online,Advanced Project Lecture Seminar
 CSCI235,Computer Lab,Tuesday,13:30,14:30,Online,2026-03-24,Online,Database Systems Computer Lab
@@ -103966,7 +103940,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-03-24,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-03-24,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-03-24,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-03-24,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-03-24,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-03-24,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-03-24,Online,Advanced Project Lecture Seminar
 CSCI235,Computer Lab,Tuesday,13:30,14:30,Online,2026-03-31,Online,Database Systems Computer Lab
@@ -103976,7 +103949,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-03-31,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-03-31,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-03-31,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-03-31,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-03-31,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-03-31,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-03-31,Online,Advanced Project Lecture Seminar
 CSCI235,Computer Lab,Tuesday,13:30,14:30,Online,2026-04-07,Online,Database Systems Computer Lab
@@ -103985,7 +103957,6 @@ CSIT110,Lecture,Tuesday,13:30,15:30,Online,2026-04-07,Online,Fundamental Program
 CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-04-07,Online,Programming and Data Structures Lecture
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-04-07,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-04-07,Online,Systems Reliability Engineering Lecture
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-04-07,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-04-07,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-04-07,Online,Advanced Project Lecture Seminar
 CSCI235,Computer Lab,Tuesday,13:30,14:30,Online,2026-04-14,Online,Database Systems Computer Lab
@@ -103994,7 +103965,6 @@ CSIT110,Lecture,Tuesday,13:30,15:30,Online,2026-04-14,Online,Fundamental Program
 CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-04-14,Online,Programming and Data Structures Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-04-14,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-04-14,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-04-14,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-04-14,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-04-14,Online,Advanced Project Lecture Seminar
 SNUG291,Workshop,Tuesday,13:30,14:30,Online,2026-04-14,Online,Professional Experience Placement 2 Workshop
@@ -104006,7 +103976,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-04-28,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-04-28,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-04-28,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-04-28,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-04-28,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-04-28,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-04-28,Online,Advanced Project Lecture Seminar
 SNUG291,Workshop,Tuesday,13:30,14:30,Online,2026-04-28,Online,Professional Experience Placement 2 Workshop
@@ -104017,7 +103986,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-05-05,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-05-05,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-05-05,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-05-05,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-05-05,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-05-05,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-05-05,Online,Advanced Project Lecture Seminar
 SNUG291,Workshop,Tuesday,13:30,14:30,Online,2026-05-05,Online,Professional Experience Placement 2 Workshop
@@ -104028,7 +103996,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-05-12,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-05-12,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-05-12,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-05-12,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-05-12,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-05-12,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-05-12,Online,Advanced Project Lecture Seminar
 CSCI235,Computer Lab,Tuesday,13:30,14:30,Online,2026-05-19,Online,Database Systems Computer Lab
@@ -104038,7 +104005,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-05-19,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-05-19,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-05-19,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-05-19,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-05-19,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-05-19,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-05-19,Online,Advanced Project Lecture Seminar
 CSCI235,Computer Lab,Tuesday,13:30,14:30,Online,2026-05-26,Online,Database Systems Computer Lab
@@ -104048,7 +104014,6 @@ CSIT881,Lecture,Tuesday,13:30,15:30,Online,2026-05-26,Online,Programming and Dat
 EDLE100,Lecture,Tuesday,13:30,14:30,Online,2026-05-26,Online,Learning in Higher Education Lecture
 ENGG961,Lecture,Tuesday,13:30,15:30,Online,2026-05-26,Online,Systems Reliability Engineering Lecture
 INTS100,Tutorial,Tuesday,13:30,14:30,Online,2026-05-26,Online,Introduction to International Studies Tutorial
-ISIT930,Lecture,Tuesday,13:30,15:30,Online,2026-05-26,Online,
 MMMB940,Consultation Period,Tuesday,13:30,15:30,Online,2026-05-26,Online,Advanced Project Consultation Period
 MMMB940,Lecture\Seminar,Tuesday,13:30,15:30,Online,2026-05-26,Online,Advanced Project Lecture Seminar
 CSIT110,Lecture,Tuesday,13:30,15:30,Online,2026-06-02,Online,Fundamental Programming with Python Lecture
@@ -104473,8 +104438,6 @@ MGNT102,Workshop,Tuesday,15:30,17:30,Online,2025-12-09,Online,Professional Commu
 MGNT102,Workshop,Tuesday,15:30,17:30,Online,2025-12-16,Online,Professional Communication: Concepts and Practices Workshop
 MGNT102,Workshop,Tuesday,15:30,17:30,Online,2026-01-06,Online,Professional Communication: Concepts and Practices Workshop
 MGNT102,Workshop,Tuesday,15:30,17:30,Online,2026-01-13,Online,Professional Communication: Concepts and Practices Workshop
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-03-03,Online,System Analysis Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-03-10,Online,System Analysis Lecture
 CSIT988,Workshop,Tuesday,15:30,17:30,Online,2026-03-10,Online,"Security, Ethics and Professionalism Workshop"
 EDFE401,Tutorial,Tuesday,15:30,17:30,Online,2026-03-10,Online,Educational Foundations: Sociology and Cultural Studies of Education Tutorial
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-03-10,Online,
@@ -104482,13 +104445,11 @@ POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-03-10,Online,Global Inequality 
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-10,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-10,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-03-10,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-03-17,Online,System Analysis Lecture
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-03-17,Online,
 POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-03-17,Online,Global Inequality Tutorial
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-17,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-17,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-03-17,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-03-24,Online,System Analysis Lecture
 CSIT988,Workshop,Tuesday,15:30,17:30,Online,2026-03-24,Online,"Security, Ethics and Professionalism Workshop"
 EDFE401,Tutorial,Tuesday,15:30,17:30,Online,2026-03-24,Online,Educational Foundations: Sociology and Cultural Studies of Education Tutorial
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-03-24,Online,
@@ -104496,23 +104457,19 @@ POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-03-24,Online,Global Inequality 
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-24,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-24,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-03-24,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-03-31,Online,System Analysis Lecture
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-03-31,Online,
 POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-03-31,Online,Global Inequality Tutorial
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-31,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-03-31,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-03-31,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-04-07,Online,System Analysis Lecture
 CSIT988,Workshop,Tuesday,15:30,17:30,Online,2026-04-07,Online,"Security, Ethics and Professionalism Workshop"
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-04-07,Online,
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-04-07,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-04-14,Online,System Analysis Lecture
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-04-14,Online,
 POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-04-14,Online,Global Inequality Tutorial
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-04-14,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-04-14,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-04-14,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-04-28,Online,System Analysis Lecture
 CSIT988,Workshop,Tuesday,15:30,17:30,Online,2026-04-28,Online,"Security, Ethics and Professionalism Workshop"
 EDFE401,Tutorial,Tuesday,15:30,17:30,Online,2026-04-28,Online,Educational Foundations: Sociology and Cultural Studies of Education Tutorial
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-04-28,Online,
@@ -104520,13 +104477,11 @@ POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-04-28,Online,Global Inequality 
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-04-28,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-04-28,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-04-28,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-05-05,Online,System Analysis Lecture
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-05-05,Online,
 POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-05-05,Online,Global Inequality Tutorial
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-05,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-05,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-05-05,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-05-12,Online,System Analysis Lecture
 CSIT988,Workshop,Tuesday,15:30,17:30,Online,2026-05-12,Online,"Security, Ethics and Professionalism Workshop"
 EDFE401,Tutorial,Tuesday,15:30,17:30,Online,2026-05-12,Online,Educational Foundations: Sociology and Cultural Studies of Education Tutorial
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-05-12,Online,
@@ -104534,13 +104489,11 @@ POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-05-12,Online,Global Inequality 
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-12,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-12,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-05-12,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-05-19,Online,System Analysis Lecture
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-05-19,Online,
 POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-05-19,Online,Global Inequality Tutorial
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-19,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-19,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-05-19,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-05-26,Online,System Analysis Lecture
 CSIT988,Workshop,Tuesday,15:30,17:30,Online,2026-05-26,Online,"Security, Ethics and Professionalism Workshop"
 EDFE401,Tutorial,Tuesday,15:30,17:30,Online,2026-05-26,Online,Educational Foundations: Sociology and Cultural Studies of Education Tutorial
 ISIT930,Workshop,Tuesday,15:30,17:30,Online,2026-05-26,Online,
@@ -104548,7 +104501,6 @@ POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-05-26,Online,Global Inequality 
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-26,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-05-26,Online,Global Inequality Tutorial
 SOWK101,Lecture,Tuesday,15:30,16:30,Online,2026-05-26,Online,Introduction to Social Work Lecture
-CSIT114,Lecture,Tuesday,15:30,17:30,Online,2026-06-02,Online,System Analysis Lecture
 POL 326,Tutorial,Tuesday,15:30,17:30,Online,2026-06-02,Online,Global Inequality Tutorial
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-06-02,Online,Global Inequality
 POL 826,Tutorial,Tuesday,15:30,17:30,Online,2026-06-02,Online,Global Inequality Tutorial
@@ -105536,7 +105488,6 @@ HIST122,Tutorial,Wednesday,09:30,10:30,Online,2026-10-28,Online,Age of Revolutio
 LLB3375,Seminar,Wednesday,10:30,17:30,Online,2026-01-21,Online,Special Studies in Law C
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-03-04,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-03-04,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-03-04,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-04,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-04,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-03-04,Online,Numeracy and Mathematics I Tutorial
@@ -105550,7 +105501,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-03-04,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-03-04,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-03-11,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-03-11,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-03-11,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-11,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-11,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-03-11,Online,Numeracy and Mathematics I Tutorial
@@ -105564,7 +105514,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-03-11,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-03-11,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-03-18,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-03-18,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-03-18,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-18,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-18,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-03-18,Online,Numeracy and Mathematics I Tutorial
@@ -105578,7 +105527,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-03-18,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-03-18,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-03-25,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-03-25,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-03-25,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-25,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-03-25,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-03-25,Online,Numeracy and Mathematics I Tutorial
@@ -105592,7 +105540,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-03-25,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-03-25,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-04-01,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-04-01,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-04-01,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-04-01,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-04-01,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-04-01,Online,Numeracy and Mathematics I Tutorial
@@ -105605,7 +105552,6 @@ LAW 314,Seminar,Wednesday,10:30,12:30,Online,2026-04-01,Online,"Climate Change, 
 LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-04-01,Online,"Climate Change, Sustainability and the Law Seminar"
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-04-01,Online,"Climate Change, Sustainability and the Law Seminar"
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-04-08,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-04-08,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-04-08,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-04-08,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-04-08,Online,Numeracy and Mathematics I Tutorial
@@ -105619,7 +105565,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-04-08,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-04-08,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-04-15,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-04-15,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-04-15,Online,Research Methodology Lecture
 ENGG958,Tutorial\Practical,Wednesday,10:30,12:30,Online,2026-04-15,Online,Life-Cycle and Risk Management Tutorial\Practical
 FIN 244,Lecture,Wednesday,10:30,12:30,Online,2026-04-15,Online,Sustainable Finance Lecture
 ISIT950,Lecture,Wednesday,10:30,12:30,Online,2026-04-15,Online,
@@ -105629,7 +105574,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-04-15,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-04-15,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-04-29,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-04-29,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-04-29,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-04-29,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-04-29,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-04-29,Online,Numeracy and Mathematics I Tutorial
@@ -105643,7 +105587,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-04-29,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-04-29,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-05-06,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-05-06,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-05-06,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-06,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-06,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-05-06,Online,Numeracy and Mathematics I Tutorial
@@ -105657,7 +105600,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-05-06,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-05-06,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-05-13,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-05-13,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-05-13,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-13,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-13,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-05-13,Online,Numeracy and Mathematics I Tutorial
@@ -105671,7 +105613,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-05-13,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-05-13,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-05-20,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-05-20,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-05-20,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-20,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-20,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-05-20,Online,Numeracy and Mathematics I Tutorial
@@ -105685,7 +105626,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-05-20,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-05-20,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-05-27,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-05-27,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-05-27,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-27,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-05-27,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-05-27,Online,Numeracy and Mathematics I Tutorial
@@ -105699,7 +105639,6 @@ LAW 382,Seminar,Wednesday,10:30,12:30,Online,2026-05-27,Online,"Climate Change, 
 LLB3314,Seminar,Wednesday,10:30,12:30,Online,2026-05-27,Online,"Climate Change, Sustainability and the Law Seminar"
 BCM 325,Lecture\Seminar,Wednesday,10:30,13:30,Online,2026-06-03,Online,Future Cultures Seminar
 CSIT314,Lecture,Wednesday,10:30,12:30,Online,2026-06-03,Online,
-CSIT940,Lecture,Wednesday,10:30,12:30,Online,2026-06-03,Online,Research Methodology Lecture
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-06-03,Online,Language and Literacy 1: The Early Years
 EDKL200,Lecture,Wednesday,10:30,11:30,Online,2026-06-03,Online,Language and Literacy 1: The Early Years Lecture
 EDMP911,Tutorial,Wednesday,10:30,11:30,Online,2026-06-03,Online,Numeracy and Mathematics I Tutorial
@@ -107360,14 +107299,12 @@ EDGS953,Tutorial,Wednesday,18:30,19:30,Online,2026-06-03,Online,Learning Curricu
 LLB3300,Seminar,Wednesday,18:30,20:30,Online,2026-06-03,Online,Remedies and Civil Procedure Seminar
 EDGI901,Lecture,Wednesday,18:30,20:30,Online,2026-07-29,Online,Emerging Issues in Educational Technology Lecture
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-07-29,Online,Learning Futures A&N Inv
-EDGI904,Lecture,Wednesday,18:30,19:30,Online,2026-08-05,Online,Online Learning and Teaching Lecture Tutorial
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-08-05,Online,Learning Futures A&N Inv
 SNPG957,Workshop,Wednesday,18:30,20:30,Online,2026-08-05,Online,Rehabilitation: Concepts and Practice Workshop
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-08-12,Online,Learning Futures A&N Inv
 EDGI901,Lecture,Wednesday,18:30,20:30,Online,2026-08-19,Online,Emerging Issues in Educational Technology Lecture
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-08-19,Online,Learning Futures A&N Inv
 SNPG957,Workshop,Wednesday,18:30,20:30,Online,2026-08-19,Online,Rehabilitation: Concepts and Practice Workshop
-EDGI904,Lecture,Wednesday,18:30,19:30,Online,2026-08-26,Online,Online Learning and Teaching Lecture Tutorial
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-08-26,Online,Learning Futures A&N Inv
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-09-02,Online,Learning Futures A&N Inv
 SNPG957,Workshop,Wednesday,18:30,20:30,Online,2026-09-02,Online,Rehabilitation: Concepts and Practice Workshop
@@ -107379,7 +107316,6 @@ EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-09-23,Online,Learning Futures
 SNPG957,Workshop,Wednesday,18:30,20:30,Online,2026-10-07,Online,Rehabilitation: Concepts and Practice Workshop
 EDGI901,Lecture,Wednesday,18:30,20:30,Online,2026-10-14,Online,Emerging Issues in Educational Technology Lecture
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-10-14,Online,Learning Futures A&N Inv
-EDGI904,Lecture,Wednesday,18:30,19:30,Online,2026-10-21,Online,Online Learning and Teaching Lecture Tutorial
 EDGS954,Tutorial,Wednesday,18:30,19:30,Online,2026-10-21,Online,Learning Futures A&N Inv
 HAS 346,LPR,Wednesday,22:30,23:30,Online,2026-03-04,Online,Social Advocacy Lecture
 HAS 346,LPR,Wednesday,22:30,23:30,Online,2026-03-11,Online,Social Advocacy Lecture
@@ -107460,76 +107396,63 @@ BUS 331,Lecture,Thursday,08:30,09:30,Online,2026-10-22,Online,Integrative Busine
 MARK101,Lecture,Thursday,08:30,10:30,Online,2026-10-22,Online,Marketing Principles Lecture
 SOC 329,Tutorial,Thursday,08:30,10:30,Online,2026-10-22,Online,"Sociology of Health, Illness and Medicine Tutorial"
 CSIT881,Lecture,Thursday,08:30,09:30,Online,2026-10-29,Online,Programming and Data Structures Lecture
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-03-05,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-03-05,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-03-05,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-03-05,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-03-05,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-03-05,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-03-12,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-03-12,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-03-12,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-03-12,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-03-12,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-03-12,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-03-19,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-03-19,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-03-19,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-03-19,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-03-19,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-03-19,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-03-26,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-03-26,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-03-26,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-03-26,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-03-26,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-03-26,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-04-02,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-04-02,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-04-02,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-04-02,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-04-02,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-04-02,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-04-09,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-04-09,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-04-09,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-04-09,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-04-09,Online,Aboriginal Education Lecture
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-04-16,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-04-16,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-04-16,Online,Data Management Systems Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-04-16,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-04-30,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-04-30,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-04-30,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-04-30,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-04-30,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-04-30,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-05-07,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-05-07,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-05-07,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-05-07,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-05-07,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-05-07,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-05-14,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-05-14,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-05-14,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-05-14,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-05-14,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-05-14,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-05-21,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-05-21,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-05-21,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-05-21,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-05-21,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-05-21,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-05-28,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-05-28,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-05-28,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-05-28,Online,Literacy and the Literate Person Lecture
 EDMT906,Lecture,Thursday,09:30,10:30,Online,2026-05-28,Online,Aboriginal Education Lecture
 SCTI470,Seminar,Thursday,09:30,11:30,Online,2026-05-28,Online,Research in Critical Social Inquiry Seminar
-CSCI334,Lecture,Thursday,09:30,11:30,Online,2026-06-04,Online,Software Design Lecture
 CSIT115,Lecture,Thursday,09:30,11:30,Online,2026-06-04,Online,Database Management Systems Lecture
 CSIT882,Lecture,Thursday,09:30,11:30,Online,2026-06-04,Online,Data Management Systems Lecture
 EDMP910,Lecture,Thursday,09:30,10:30,Online,2026-06-04,Online,Literacy and the Literate Person Lecture
@@ -108076,43 +107999,17 @@ SCII213,Practical,Thursday,14:30,17:30,Online,2026-10-22,Online,
 SCII913,Practical,Thursday,14:30,17:30,Online,2026-10-22,Online,
 EDMP913,Tutorial,Thursday,14:30,15:30,Online,2026-10-29,Online,Numeracy and Mathematics II Tutorial
 MARK250,Lecture,Thursday,14:30,16:30,Online,2026-10-29,Online,Advertising Practice and Creative Strategies Lecture
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-03-05,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-03-05,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-03-05,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-03-12,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-03-12,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-03-12,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-03-19,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-03-19,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-03-19,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-03-26,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-03-26,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-03-26,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-04-02,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-04-02,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-04-02,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-04-09,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-04-09,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-04-09,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-04-16,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-04-16,Online,
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-04-30,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-04-30,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-04-30,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-05-07,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-05-07,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-05-07,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-05-14,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-05-14,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-05-14,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-05-21,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-05-21,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-05-21,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-05-28,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-05-28,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-05-28,Online,Aboriginal Education Seminar Practical
-CSIT375,Lecture,Thursday,15:30,17:30,Online,2026-06-04,Online,
-CSIT975,Lecture,Thursday,15:30,17:30,Online,2026-06-04,Online,
 EDMT906,Seminar\Practical,Thursday,15:30,16:30,Online,2026-06-04,Online,Aboriginal Education Seminar Practical
 SNUG301,TB,Thursday,15:30,17:30,Online,2026-06-04,Online,Managing Deterioration Tutorial
 CSIT998,Lecture,Thursday,15:30,17:30,Online,2026-07-30,Online,Professional Capstone Project Lecture
@@ -108826,59 +108723,46 @@ ENGL122,Tutorial,Friday,09:30,11:30,Online,2026-10-09,Online,The Modernists Tuto
 ENGL122,Tutorial,Friday,09:30,11:30,Online,2026-10-16,Online,The Modernists Tutorial
 ENGL122,Tutorial,Friday,09:30,11:30,Online,2026-10-23,Online,The Modernists Tutorial
 ENGL122,Tutorial,Friday,09:30,11:30,Online,2026-10-30,Online,The Modernists Tutorial
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-07-31,Online,Information Visualisation and Decision Support Lecture
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-07-31,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-07-31,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-08-07,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-08-07,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-08-07,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-08-07,Online,
 SNPG939,Workshop,Friday,10:30,12:30,Online,2026-08-07,Online,Psychoactive Substance and Mental Health Workshop
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-08-14,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-08-14,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-08-14,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-08-14,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-08-21,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-08-21,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-08-21,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-08-21,Online,
 SNPG939,Workshop,Friday,10:30,12:30,Online,2026-08-21,Online,Psychoactive Substance and Mental Health Workshop
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-08-28,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-08-28,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-08-28,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-08-28,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-09-04,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-09-04,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-09-04,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-09-04,Online,
 SNPG939,Workshop,Friday,10:30,12:30,Online,2026-09-04,Online,Psychoactive Substance and Mental Health Workshop
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-09-11,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-09-11,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-09-11,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-09-11,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-09-18,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-09-18,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-09-18,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-09-18,Online,
 SNPG939,Workshop,Friday,10:30,12:30,Online,2026-09-18,Online,Psychoactive Substance and Mental Health Workshop
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-09-25,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-09-25,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-09-25,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-09-25,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-10-09,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-10-09,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-10-09,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-10-09,Online,
 SNPG939,Workshop,Friday,10:30,12:30,Online,2026-10-09,Online,Psychoactive Substance and Mental Health Workshop
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-10-16,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-10-16,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-10-16,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-10-16,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-10-23,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-10-23,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-10-23,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-10-23,Online,
-CSIT922,Lecture,Friday,10:30,12:30,Online,2026-10-30,Online,Information Visualisation and Decision Support Lecture
 ECON353,Tutorial,Friday,10:30,12:30,Online,2026-10-30,Online,Data Analysis II Tutorial
 SCII213,Lecture,Friday,10:30,11:30,Online,2026-10-30,Online,
 SCII913,Lecture,Friday,10:30,11:30,Online,2026-10-30,Online,
@@ -108920,31 +108804,18 @@ SNUG391,Workshop,Friday,12:30,13:30,Online,2026-06-05,Online,Professional Experi
 SNUG391,Workshop,Friday,12:30,13:30,Online,2026-06-05,Online,Pathophysiology and Pharmacology for Nurses 2 Workshop
 SNUG391,Workshop,Friday,12:30,13:30,Online,2026-06-05,Online,Professional Experience Placement 4 Tutorial
 SOC 207,Tutorial,Friday,12:30,14:30,Online,2026-06-05,Online,Introduction to Social Theory Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-07-31,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-08-07,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-08-07,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-08-14,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-08-14,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-08-21,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-08-21,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-08-28,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-08-28,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-09-04,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-09-04,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-09-11,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-09-11,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-09-18,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-09-18,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-09-25,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-09-25,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-10-09,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-10-09,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-10-16,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-10-16,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-10-23,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-10-23,Online,Statistics For the Natural Sciences Lecture
 MGNT321,Tutorial,Friday,12:30,14:30,Online,2026-10-30,Online,Workplace Health and Safety Management Tutorial
-STAT252,Lecture,Friday,12:30,13:30,Online,2026-10-30,Online,Statistics For the Natural Sciences Lecture
 BUS 121,Computer Lab,Friday,13:30,15:30,Online,2025-12-12,Online,Statistics for Business Computer Lab
 SOWK408,Seminar,Friday,13:30,15:30,Online,2026-03-06,Online,Social Work Honours Research Seminar Practical
 MARK332,Computer Lab,Friday,13:30,15:30,Online,2026-03-13,Online,Digital and AI Marketing Communications Computer Lab
