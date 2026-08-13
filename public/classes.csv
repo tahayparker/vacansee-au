@@ -3837,7 +3837,6 @@ EXSC200,Workshop,Thursday,14:30,15:30,3-122,2026-05-07,Wollongong,Professional P
 05.14/26-PaulMcMahon,PaulMcMahon,Thursday,14:30,15:00,3-122,2026-05-14,Wollongong,Assessment Task - MMMB
 EXSC200,Workshop,Thursday,14:30,15:30,3-122,2026-05-21,Wollongong,Professional Practice Workshop B
 07.23/26-JasonStreat/01,JasonStreat,Thursday,15:30,18:00,3-122,2026-07-23,Wollongong,Dragons
-08.13/26-JasonStreat/01,JasonStreat,Thursday,15:30,17:30,3-122,2026-08-13,Wollongong,Dragons
 03.26/26-JasonStreat/01,JasonStreat,Thursday,16:00,17:30,3-122,2026-03-26,Wollongong,Illawarra Dragons
 06.15/26-DannieBurrell/01,DannieBurrell,Friday,06:00,00:00,3-122,2026-06-19,Wollongong,CTA Refresh - WK 30 - Mon-Sun block
 06.15/26-DannieBurrell/02,DannieBurrell,Friday,06:00,00:00,3-122,2026-06-26,Wollongong,CTA Refresh - WK 31 - Mon-Fri block
@@ -8581,7 +8580,6 @@ ENGG105,Tutorial,Thursday,15:30,17:30,3-237A,2026-05-28,Wollongong,
 DPEN105,Tutorial,Thursday,15:30,17:30,3-237A,2026-06-04,Wollongong,
 ENGG105,Tutorial,Thursday,15:30,17:30,3-237A,2026-06-04,Wollongong,
 06.10/26-JasonStreat/01,JasonStreat,Thursday,15:30,17:30,3-237A,2026-06-11,Wollongong,Dragons
-08.13/26-JasonStreat/01,JasonStreat,Thursday,15:30,17:30,3-237A,2026-08-13,Wollongong,Dragons
 07.21/26-ReneeStortz/01,ReneeStortz,Friday,06:00,00:00,3-237A,2026-07-24,Wollongong,Furniture Refresh
 ENGG252,Workshop,Friday,08:30,10:30,3-237A,2026-03-06,Wollongong,Engineering Fluid Mechanics Workshop
 ENGG252,Workshop,Friday,08:30,10:30,3-237A,2026-03-13,Wollongong,Engineering Fluid Mechanics Workshop
@@ -25906,6 +25904,7 @@ HAS 131,Tutorial,Wednesday,10:30,11:30,19-1064,2026-10-07,Wollongong,Introducing
 HAS 131,Tutorial,Wednesday,10:30,11:30,19-1064,2026-10-14,Wollongong,Introducing Crime and Justice Tutorial
 HAS 131,Tutorial,Wednesday,10:30,11:30,19-1064,2026-10-21,Wollongong,Introducing Crime and Justice Tutorial
 04.29/26-XantheKnox/01,XantheKnox,Wednesday,11:00,15:00,19-1064,2026-04-29,Wollongong,Enrolment and Progression Team Building
+09.23/26-ShaylaTa/01,ShaylaTa,Wednesday,12:00,13:00,19-1064,2026-09-23,Wollongong,Industry Engagement and Commerical Research
 OPS 920,Tutorial,Wednesday,12:30,14:30,19-1064,2026-02-11,Wollongong,Contemporary Issues in Supply Chain Management Tutorial
 OPS 920,Tutorial,Wednesday,12:30,14:30,19-1064,2026-02-18,Wollongong,Contemporary Issues in Supply Chain Management Tutorial
 OPS 920,Tutorial,Wednesday,12:30,14:30,19-1064,2026-02-25,Wollongong,Contemporary Issues in Supply Chain Management Tutorial
@@ -28357,6 +28356,16 @@ PREP032,Tutorial,Wednesday,10:30,12:30,19-2001,2026-05-06,Wollongong,Scientific 
 PREP032,Tutorial,Wednesday,10:30,12:30,19-2001,2026-05-13,Wollongong,Scientific Thinking
 PREP032,Tutorial,Wednesday,10:30,12:30,19-2001,2026-05-20,Wollongong,Scientific Thinking
 PREP032,Tutorial,Wednesday,10:30,12:30,19-2001,2026-05-27,Wollongong,Scientific Thinking
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-08-26,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-09-02,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-09-09,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-09-16,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-09-23,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-09-30,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-10-07,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-10-14,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-10-21,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,10:30,12:30,19-2001,2026-10-28,Wollongong,Data Storytelling & Visual Intelligence Tutorial
 EXSC200,Practical,Wednesday,13:30,15:30,19-2001,2026-03-04,Wollongong,Professional Practice Practical A
 EXSC200,Practical,Wednesday,13:30,15:30,19-2001,2026-03-11,Wollongong,Professional Practice Practical A
 EXSC200,Practical,Wednesday,13:30,15:30,19-2001,2026-03-18,Wollongong,Professional Practice Practical A
@@ -32956,32 +32965,6 @@ WCIV301,Tutorial,Friday,14:30,15:30,19-2106,2026-10-30,Wollongong,Thought and Re
 11.10/25-ReneeStortz/02,ReneeStortz,Monday,06:00,00:00,19-2110,2025-11-24,Wollongong,IPD - Furniture replacement
 05.04/26-MichaelCook/01,MichaelCook,Monday,06:00,08:00,19-2110,2026-05-04,Wollongong,Residual Current Device Testing for Building 19
 ENG 004,TA,Monday,08:30,12:30,19-2110,2026-03-02,Wollongong,English Studies 4 Tutorial
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-07-27,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-07-27,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-08-03,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-08-03,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-08-10,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-08-10,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-08-17,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-08-17,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-08-24,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-08-24,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-08-31,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-08-31,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-09-07,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-09-07,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-09-14,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-09-14,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-09-21,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-09-21,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-10-05,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-10-05,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-10-12,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-10-12,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-10-19,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-10-19,Wollongong,
-MATH339,Lecture,Monday,08:30,10:30,19-2110,2026-10-26,Wollongong,
-MATH839,Lecture,Monday,08:30,10:30,19-2110,2026-10-26,Wollongong,
 04.28/26-MarivicLagleva/04,MarivicLagleva,Monday,09:00,11:00,19-2110,2026-07-06,Wollongong,CCC Test 1-4 Resit
 LLB1197,Seminar,Monday,10:30,12:30,19-2110,2026-07-27,Wollongong,Ethics and Professional Responsibility Seminar
 LLB1197,Seminar,Monday,10:30,12:30,19-2110,2026-08-03,Wollongong,Ethics and Professional Responsibility Seminar
@@ -43583,6 +43566,7 @@ ASSH005,Tutorial,Tuesday,12:30,14:30,24-201,2026-01-06,Wollongong,Discovery and 
 ASSH005,Tutorial,Tuesday,12:30,14:30,24-201,2026-01-13,Wollongong,Discovery and Rediscovery in the 21st Century Tutorial
 ASSH005,Tutorial,Tuesday,12:30,14:30,24-201,2026-01-20,Wollongong,Discovery and Rediscovery in the 21st Century Tutorial
 00CAS3-DiscoveryDays-Yr12-Feb26/22,DiscoveryDays,Tuesday,12:30,14:30,24-201,2026-02-17,Wollongong,Discovery Days Year 12 - Bld 24
+09.23/26-ShaylaTa/02,ShaylaTa,Tuesday,12:30,13:30,24-201,2026-10-27,Wollongong,HDR Publication Journal
 MNPR911,Tutorial,Tuesday,13:30,15:30,24-201,2026-03-03,Wollongong,Acute Nursing Practice Tutorial
 MNPR911,Tutorial,Tuesday,13:30,15:30,24-201,2026-03-10,Wollongong,Acute Nursing Practice Tutorial
 MNPR911,Tutorial,Tuesday,13:30,15:30,24-201,2026-03-17,Wollongong,Acute Nursing Practice Tutorial
@@ -43676,6 +43660,16 @@ MEDI231,Tutorial,Wednesday,08:30,09:30,24-201,2026-05-13,Wollongong,Measurement 
 MEDI231,Tutorial,Wednesday,08:30,09:30,24-201,2026-05-20,Wollongong,Measurement of diet and health promotion Tutorial
 MEDI231,Tutorial,Wednesday,08:30,09:30,24-201,2026-05-27,Wollongong,Measurement of diet and health promotion Tutorial
 MEDI231,Tutorial,Wednesday,08:30,09:30,24-201,2026-06-03,Wollongong,Measurement of diet and health promotion Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-08-26,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-09-02,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-09-09,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-09-16,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-09-23,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-09-30,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-10-07,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-10-14,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-10-21,Wollongong,Data Storytelling & Visual Intelligence Tutorial
+MBAS920,Tutorial,Wednesday,08:30,10:30,24-201,2026-10-28,Wollongong,Data Storytelling & Visual Intelligence Tutorial
 BUS 101,Tutorial,Wednesday,09:30,10:30,24-201,2026-03-11,Wollongong,Principles of Responsible Business Tutorial
 BUS 101,Tutorial,Wednesday,09:30,10:30,24-201,2026-03-18,Wollongong,Principles of Responsible Business Tutorial
 BUS 101,Tutorial,Wednesday,09:30,10:30,24-201,2026-03-25,Wollongong,Principles of Responsible Business Tutorial
@@ -58361,6 +58355,7 @@ EXSC403,Workshop,Wednesday,08:30,11:30,32-G01,2026-06-03,Wollongong,Cardiorespir
 EXSC903,Workshop,Wednesday,08:30,11:30,32-G01,2026-06-03,Wollongong,Cardiorespiratory & Metabolic Clinical Exercise Physiology Workshop
 11.26/25-LukeMadigan/01,LukeMadigan,Wednesday,09:00,10:00,32-G01,2025-11-26,Wollongong,IAS - Athlete Education Session
 12.10/25-HollyFletcher,HollyFletcher,Wednesday,10:00,10:30,32-G01,2025-12-10,Wollongong,IMTS Data Base Management - IMTS
+08.19/26-SharynCasey,SharynCasey,Wednesday,10:00,11:00,32-G01,2026-08-19,Wollongong,Quarterly IPD Staff meeting - Infrastructure and Property Division
 DASH121,Lecture,Wednesday,10:30,12:30,32-G01,2026-06-24,Wollongong,Global Politics and Power Lecture
 DASH121,Lecture,Wednesday,10:30,12:30,32-G01,2026-07-01,Wollongong,Global Politics and Power Lecture
 DASH121,Lecture,Wednesday,10:30,12:30,32-G01,2026-07-08,Wollongong,Global Politics and Power Lecture
@@ -69622,29 +69617,9 @@ ENG 005,TC,Wednesday,08:30,12:30,41-204,2026-02-25,Wollongong,English Studies 5 
 ENG 005,TC,Wednesday,08:30,12:30,41-204,2026-03-04,Wollongong,English Studies 5 Tutorial (Group B)
 ENG 005,TC,Wednesday,08:30,12:30,41-204,2026-03-11,Wollongong,English Studies 5 Tutorial (Group B)
 ENG 005,TC,Wednesday,08:30,12:30,41-204,2026-03-18,Wollongong,English Studies 5 Tutorial (Group B)
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-08-26,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-09-02,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-09-09,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-09-16,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-09-23,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-09-30,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-10-07,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-10-14,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-10-21,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,08:30,10:30,41-204,2026-10-28,Wollongong,Data Storytelling & Visual Intelligence Tutorial
 12.10/25-AnnaSidis,AnnaSidis,Wednesday,09:00,16:00,41-204,2025-12-10,Wollongong,Academic Program planning day - Psychology
 04.22/26-MeredithKennedy,MeredithKennedy,Wednesday,09:00,12:30,41-204,2026-04-22,Wollongong,Room for supplementary exam - MIHS
 05.06/26-KyrieRodgers,KyrieRodgers,Wednesday,10:00,13:00,41-204,2026-05-06,Wollongong,To supervise students for a makeup exam - School of Nursing
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-08-26,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-09-02,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-09-09,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-09-16,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-09-23,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-09-30,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-10-07,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-10-14,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-10-21,Wollongong,Data Storytelling & Visual Intelligence Tutorial
-MBAS920,Tutorial,Wednesday,10:30,12:30,41-204,2026-10-28,Wollongong,Data Storytelling & Visual Intelligence Tutorial
 05.20/26-KayeRolls/01,KayeRolls,Wednesday,11:00,12:00,41-204,2026-05-20,Wollongong,Makeup exam
 07.29/26-NatalieAsquith,NatalieAsquith,Wednesday,12:00,14:00,41-204,2026-07-29,Wollongong,Team meeting - People & Culture
 07.01/26-MarianoRodrigo,MarianoRodrigo,Wednesday,13:00,16:00,41-204,2026-07-01,Wollongong,School meeting - SMAP
@@ -74733,6 +74708,7 @@ BIOL213,WG_CAS,Wednesday,08:30,17:30,43-G06,2026-04-08,Wollongong,BIOL213/813 mi
 06.13/26-EmmaJames/03,EmmaJames,Wednesday,08:30,18:00,43-G06,2026-06-24,Wollongong,Autumn exam
 07.20/26-EmmaJames/01,EmmaJames,Wednesday,08:30,17:30,43-G06,2026-07-22,Wollongong,SSCI Autumn Supplementary exams
 12.15/25-SuzanneMiddleton/01,SuzanneMiddleton,Wednesday,09:00,17:00,43-G06,2025-12-17,Wollongong,Supplementary and Deferred Exams
+08.19/26-RonaldSluyter,RonaldSluyter,Wednesday,09:00,12:00,43-G06,2026-08-19,Wollongong,BIOL214 In-session Exam (Access Plan Students) - Science
 02.25/26-ShonaRankin/01,ShonaRankin,Wednesday,09:30,11:30,43-G06,2026-02-25,Wollongong,Fieldwork safety inductions
 03.04/26-ShonaRankin/01,ShonaRankin,Wednesday,09:30,11:30,43-G06,2026-03-04,Wollongong,Fieldwork safety inductions
 07.29/26-HarryLangford,HarryLangford,Wednesday,09:30,10:30,43-G06,2026-07-29,Wollongong,FESS Workshop - SSCI
@@ -79449,6 +79425,32 @@ CACS300,S,Friday,12:30,15:30,67-208,2026-05-15,Wollongong,CACS300 - Break Out Ro
 00CAS2-Exams2026-Spring&T3/12,Exams2026,Monday,06:00,00:00,67-209,2026-11-09,Wollongong,Spring Exams 2026 - Bld 67
 00CAS2-Exams2026-Spring&T3/12,Exams2026,Monday,06:00,00:00,67-209,2026-11-16,Wollongong,Spring Exams 2026 - Bld 67
 01.19/26-CathCampbell,CathCampbell,Monday,08:30,13:30,67-209,2026-01-19,Wollongong,Hold supplementary Law exams - School of Law
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-07-27,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-07-27,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-08-03,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-08-03,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-08-10,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-08-10,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-08-17,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-08-17,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-08-24,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-08-24,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-08-31,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-08-31,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-09-07,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-09-07,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-09-14,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-09-14,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-09-21,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-09-21,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-10-05,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-10-05,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-10-12,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-10-12,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-10-19,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-10-19,Wollongong,
+MATH339,Lecture,Monday,08:30,10:30,67-209,2026-10-26,Wollongong,
+MATH839,Lecture,Monday,08:30,10:30,67-209,2026-10-26,Wollongong,
 EYFE301,Tutorial,Monday,09:30,10:30,67-209,2026-03-02,Wollongong,Early Intervention and the Community Context Tutorial
 EYFE301,Tutorial,Monday,09:30,10:30,67-209,2026-03-09,Wollongong,Early Intervention and the Community Context Tutorial
 EYFE301,Tutorial,Monday,09:30,10:30,67-209,2026-03-16,Wollongong,Early Intervention and the Community Context Tutorial
@@ -94419,6 +94421,7 @@ LLB1130,Seminar,Tuesday,10:30,12:30,400-106,2026-06-02,Liverpool,Criminal Law an
 08.18/26-ToniSeton/01,ToniSeton,Tuesday,10:30,11:30,400-106,2026-08-18,Liverpool,LLB3305 Assessments
 08.18/26-ToniSeton/01,ToniSeton,Tuesday,10:30,11:30,400-106,2026-09-15,Liverpool,LLB3305 Assessments
 08.18/26-ToniSeton/01,ToniSeton,Tuesday,10:30,11:30,400-106,2026-10-27,Liverpool,LLB3305 Assessments
+08.18/26-ToniSeton,ToniSeton,Tuesday,11:30,12:30,400-106,2026-08-18,Liverpool,LLB3305 room for students to do online seminar after quiz in same room - students will have own laptops - School of Law
 02.24/26-BelindaMunroe/01,BelindaMunroe,Tuesday,12:30,13:30,400-106,2026-02-24,Liverpool,Deffered Exam - SNUG331
 LLB1130,Seminar,Tuesday,13:30,15:30,400-106,2026-03-03,Liverpool,Criminal Law and Procedure A Seminar
 LLB1130,Seminar,Tuesday,13:30,15:30,400-106,2026-03-10,Liverpool,Criminal Law and Procedure A Seminar
