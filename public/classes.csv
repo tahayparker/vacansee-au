@@ -1440,16 +1440,13 @@ MECH950,Tutorial,Tuesday,10:30,11:30,1-G04,2026-10-20,Wollongong,
 ECTE471,Tutorial,Tuesday,10:30,11:30,1-G04,2026-10-27,Wollongong,
 ECTE871,Tutorial,Tuesday,10:30,11:30,1-G04,2026-10-27,Wollongong,
 MECH950,Tutorial,Tuesday,10:30,11:30,1-G04,2026-10-27,Wollongong,
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-08-25,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-01,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-08,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-15,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-22,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-29,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-06,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-13,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-20,Wollongong,Principles of Marketing Management Tutorial
-MARK804,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-27,Wollongong,Principles of Marketing Management Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-08-25,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-01,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-09-22,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-06,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-13,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-20,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
+FIN 945,Tutorial,Tuesday,11:30,13:30,1-G04,2026-10-27,Wollongong,Tokenised Assets and Decentralised Finance Tutorial
 LLB1100,Seminar,Tuesday,12:30,14:30,1-G04,2026-03-03,Wollongong,Foundations of Law Seminar
 LLB1100,Seminar,Tuesday,12:30,14:30,1-G04,2026-03-10,Wollongong,Foundations of Law Seminar
 LLB1100,Seminar,Tuesday,12:30,14:30,1-G04,2026-03-17,Wollongong,Foundations of Law Seminar
@@ -23215,6 +23212,7 @@ PREP031,Tutorial,Tuesday,13:30,15:30,19-1001,2026-07-07,Wollongong,Language for 
 PREP031,Tutorial,Tuesday,13:30,15:30,19-1001,2026-07-14,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Tuesday,13:30,15:30,19-1001,2026-07-21,Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Tuesday,13:30,15:30,19-1001,2026-07-28,Wollongong,Language for Learning Tutorial
+08.25/26-AeleeJun,AeleeJun,Tuesday,13:30,17:00,19-1001,2026-08-25,Wollongong,FIN222 sup-sup exam for Autumn 2026
 SOWK235,Tutorial,Tuesday,15:30,17:30,19-1001,2026-03-10,Wollongong,Fields of Practice: Mental Health Tutorial
 SOWK235,Tutorial,Tuesday,15:30,17:30,19-1001,2026-03-17,Wollongong,Fields of Practice: Mental Health Tutorial
 SOWK235,Tutorial,Tuesday,15:30,17:30,19-1001,2026-03-24,Wollongong,Fields of Practice: Mental Health Tutorial
@@ -28123,6 +28121,16 @@ MEDI150,Tutorial,Tuesday,10:30,11:30,19-2001,2026-05-05,Wollongong,Fundamental C
 MEDI150,Tutorial,Tuesday,10:30,11:30,19-2001,2026-05-12,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Tuesday,10:30,11:30,19-2001,2026-05-19,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Tuesday,10:30,11:30,19-2001,2026-06-02,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-08-25,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-09-01,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-09-08,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-09-15,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-09-22,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-09-29,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-10-06,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-10-13,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-10-20,Wollongong,Principles of Marketing Management Tutorial
+MARK804,Tutorial,Tuesday,11:30,13:30,19-2001,2026-10-27,Wollongong,Principles of Marketing Management Tutorial
 MEDI150,Tutorial,Tuesday,13:30,14:30,19-2001,2026-03-03,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Tuesday,13:30,14:30,19-2001,2026-03-10,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Tuesday,13:30,14:30,19-2001,2026-03-17,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
@@ -35777,7 +35785,7 @@ CSCI933,Lecture,Thursday,12:30,14:30,20-4,2026-06-04,Wollongong,
 08.06/26-LaraBlair,LaraBlair,Thursday,12:30,13:30,20-4,2026-08-06,Wollongong,UniClubs UniBible - Thursday Bible Talks - Student Engagement
 08.13/26-LaraBlair,LaraBlair,Thursday,12:30,13:30,20-4,2026-08-13,Wollongong,UniClubs UniBible - Thursday Bible Talks - Student Engagement
 08.20/26-LaraBlair,LaraBlair,Thursday,12:30,13:30,20-4,2026-08-20,Wollongong,UniClubs UniBible - Thursday Bible Talks - Student Engagement
-08.27/26-NatalieAllen/01,NatalieAllen,Thursday,12:30,13:30,20-4,2026-08-27,Wollongong,SMAH all staff forum
+08.27/26-NatalieAllen/01,NatalieAllen,Thursday,12:30,14:00,20-4,2026-08-27,Wollongong,SMAH all staff forum
 08.27/26-LyndseyFrigo-Smith,LyndseyFrigo,Thursday,14:00,16:00,20-4,2026-08-27,Wollongong,VPO All staff forum - Vice-Chancellor's Unit
 CSCI291,Lecture,Thursday,14:30,16:30,20-4,2026-03-05,Wollongong,Programming for Engineers Lecture
 CSCI291,Lecture,Thursday,14:30,16:30,20-4,2026-03-12,Wollongong,Programming for Engineers Lecture
@@ -57362,7 +57370,7 @@ BCM 331,Seminar,Wednesday,12:30,15:30,29-G09,2026-05-06,Wollongong,"Australian C
 BCM 331,Seminar,Wednesday,12:30,15:30,29-G09,2026-05-13,Wollongong,"Australian Content, Global Context"
 BCM 331,Seminar,Wednesday,12:30,15:30,29-G09,2026-05-20,Wollongong,"Australian Content, Global Context"
 BCM 331,Seminar,Wednesday,12:30,15:30,29-G09,2026-05-27,Wollongong,"Australian Content, Global Context"
-07.28/26-ElyseStanes/01,ElyseStanes,Wednesday,12:30,13:30,29-G09,2026-08-26,Wollongong,2027 Social Sciences Honours Information Session
+08.26/26-ElyseStanes/01,ElyseStanes,Wednesday,12:30,13:30,29-G09,2026-08-26,Wollongong,2027 Social Sciences Honours Information Session
 CACW107,Tutorial,Wednesday,13:30,15:30,29-G09,2026-07-29,Wollongong,"How Words Work ¿ Editing, Form and Style Tutorial"
 CACW107,Tutorial,Wednesday,13:30,15:30,29-G09,2026-08-05,Wollongong,"How Words Work ¿ Editing, Form and Style Tutorial"
 CACW107,Tutorial,Wednesday,13:30,15:30,29-G09,2026-08-12,Wollongong,"How Words Work ¿ Editing, Form and Style Tutorial"
@@ -67579,6 +67587,7 @@ PSYC234,Tutorial,Friday,11:30,12:30,41-104,2026-05-22,Wollongong,Biological Psyc
 PSYC234,Tutorial,Friday,11:30,12:30,41-104,2026-05-29,Wollongong,Biological Psychology and Learning Tutorial
 PSYC234,Tutorial,Friday,11:30,12:30,41-104,2026-06-05,Wollongong,Biological Psychology and Learning Tutorial
 07.24/26-EdwardKeenahan,EdwardKeenahan,Friday,12:00,16:00,41-104,2026-07-24,Wollongong,PSYC250 Deferred Exam - Psychology
+08.28/26-AshleaPellow/01,AshleaPellow,Friday,12:00,13:00,41-104,2026-08-28,Wollongong,Lunch & Learn
 03.06/26-DeborahNeich,DeborahNeich,Friday,12:30,13:30,41-104,2026-03-06,Wollongong,School campus visit - Future Students & International Engagement Division
 PSYC234,Tutorial,Friday,12:30,13:30,41-104,2026-03-13,Wollongong,Biological Psychology and Learning Tutorial
 PSYC234,Tutorial,Friday,12:30,13:30,41-104,2026-03-20,Wollongong,Biological Psychology and Learning Tutorial
@@ -93607,16 +93616,6 @@ OPS 911,Tutorial,Monday,17:30,19:30,390-250,2026-07-13,Sydney,Strategic Procurem
 OPS 911,Tutorial,Monday,17:30,19:30,390-250,2026-07-20,Sydney,Strategic Procurement Management Tutorial
 06.16/26-DulamdorjPurevtogtokh,DulamdorjPurevtogtokh,Tuesday,09:00,17:00,390-250,2026-06-16,Sydney,"Biamp Training event - Faculty of Arts, Society and Business"
 04.28/26-UjalaManandhar,UjalaManandhar,Tuesday,17:30,20:30,390-250,2026-04-28,Sydney,"MBA 908 Presentations - Faculty of Arts, Society and Business"
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-08-25,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-09-01,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-09-08,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-09-15,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-09-22,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-09-29,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-10-06,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-10-13,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-10-20,Sydney,Strategic Business Project Workshop
-MBA 908,Workshop,Tuesday,17:30,20:30,390-250,2026-10-27,Sydney,Strategic Business Project Workshop
 03.11/26-UjalaManandhar,UjalaManandhar,Wednesday,10:00,16:00,390-250,2026-03-11,Sydney,"Agent Day Event - Faculty of Arts, Society and Business"
 ACCY962,Tutorial,Wednesday,10:30,12:30,390-250,2026-08-26,Sydney,Auditing and Assurance Tutorial
 ACCY962,Tutorial,Wednesday,10:30,12:30,390-250,2026-09-02,Sydney,Auditing and Assurance Tutorial
@@ -94598,6 +94597,7 @@ MNPR800,Tutorial,Thursday,09:30,15:30,400-106,2026-01-22,Liverpool,Nursing Found
 MNPR800,Tutorial,Thursday,09:30,15:30,400-106,2026-01-29,Liverpool,Nursing Foundations Tutorial
 MNPR800,Tutorial,Thursday,09:30,15:30,400-106,2026-02-05,Liverpool,Nursing Foundations Tutorial
 MNPR800,Tutorial,Thursday,09:30,15:30,400-106,2026-02-12,Liverpool,Nursing Foundations Tutorial
+08.20/26-AKMKhan/01,AKMKhan,Thursday,09:30,10:30,400-106,2026-08-20,Liverpool,For SPRG-SOWK140-LP-OC-SP/01
 MNPR914,Workshop,Thursday,10:30,12:30,400-106,2026-03-12,Liverpool,Clinical Placement Experience 1 Workshop
 MNPR914,Workshop,Thursday,10:30,12:30,400-106,2026-03-26,Liverpool,Clinical Placement Experience 1 Workshop
 MNPR914,Workshop,Thursday,10:30,12:30,400-106,2026-04-16,Liverpool,Clinical Placement Experience 1 Workshop
@@ -105312,6 +105312,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-08-25,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-08-25,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-08-25,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-08-25,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-08-25,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-08-25,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-08-25,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-08-25,Online,Understanding Organisations Tutorial
@@ -105324,6 +105325,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-09-01,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-09-01,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-09-01,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-09-01,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-09-01,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-09-01,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-09-01,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-09-01,Online,Understanding Organisations Tutorial
@@ -105336,6 +105338,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-09-08,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-09-08,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-09-08,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-09-08,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-09-08,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-09-08,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-09-08,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-09-08,Online,Understanding Organisations Tutorial
@@ -105348,6 +105351,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-09-15,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-09-15,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-09-15,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-09-15,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-09-15,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-09-15,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-09-15,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-09-15,Online,Understanding Organisations Tutorial
@@ -105360,12 +105364,14 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-09-22,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-09-22,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-09-22,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-09-22,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-09-22,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-09-22,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-09-22,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-09-22,Online,Understanding Organisations Tutorial
 MGNT918,Tutorial,Tuesday,17:30,19:30,Online,2026-09-22,Online,Managing Employment Relations in Organisations Tutorial
 OPS 910,Tutorial,Tuesday,17:30,19:30,Online,2026-09-22,Online,Supply Chain Analytics Tutorial
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-09-29,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-09-29,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-09-29,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-09-29,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT918,Tutorial,Tuesday,17:30,19:30,Online,2026-09-29,Online,Managing Employment Relations in Organisations Tutorial
@@ -105375,6 +105381,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-10-06,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-10-06,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-10-06,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-10-06,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-10-06,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-10-06,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-10-06,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-10-06,Online,Understanding Organisations Tutorial
@@ -105387,6 +105394,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-10-13,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-10-13,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-10-13,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-10-13,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-10-13,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-10-13,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-10-13,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-10-13,Online,Understanding Organisations Tutorial
@@ -105399,6 +105407,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-10-20,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-10-20,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-10-20,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-10-20,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-10-20,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-10-20,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-10-20,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-10-20,Online,Understanding Organisations Tutorial
@@ -105409,6 +105418,7 @@ LLB1170,Seminar,Tuesday,17:30,19:30,Online,2026-10-27,Online,Law of Contract B S
 LLB2230,Seminar,Tuesday,17:30,19:30,Online,2026-10-27,Online,Administrative Law Seminar
 LLB3331,Seminar,Tuesday,17:30,19:30,Online,2026-10-27,Online,
 MARK804,Tutorial,Tuesday,17:30,19:30,Online,2026-10-27,Online,Principles of Marketing Management Tutorial
+MBA 908,Workshop,Tuesday,17:30,20:30,Online,2026-10-27,Online,Strategic Business Project Workshop
 MBA 909,Workshop,Tuesday,17:30,20:30,Online,2026-10-27,Online,Responsible Leadership for a Global World Workshop
 MBAS924,Tutorial,Tuesday,17:30,19:30,Online,2026-10-27,Online,AI-driven Customer Insights and Market Intelligence Tutorial
 MGNT220,Tutorial,Tuesday,17:30,19:30,Online,2026-10-27,Online,Understanding Organisations Tutorial
