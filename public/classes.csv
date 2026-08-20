@@ -12,6 +12,7 @@ SubCode,Class,Day,StartTime,EndTime,Room,Date,Campus,Description
 06.29/26-ReneeStortz/01,ReneeStortz,Monday,06:00,00:00,1-105,2026-07-13,Wollongong,Furniture Refresh and Building Works
 06.29/26-ReneeStortz/01,ReneeStortz,Monday,06:00,00:00,1-105,2026-07-20,Wollongong,Furniture Refresh and Building Works
 07.27/26-BernadetteSampson/01,BernadetteSampson,Monday,06:00,00:00,1-105,2026-07-27,Wollongong,IMTS AV Upgrade
+09.14/26-DavidGunawan,DavidGunawan,Monday,12:00,15:00,1-105,2026-09-14,Wollongong,INFO401 Final Presentation
 MECH442,Lecture,Monday,12:30,14:30,1-105,2026-03-02,Wollongong,
 MECH918,Lecture,Monday,12:30,14:30,1-105,2026-03-02,Wollongong,
 MECH442,Lecture,Monday,12:30,14:30,1-105,2026-03-09,Wollongong,
@@ -523,6 +524,7 @@ ENGG251,Tutorial,Friday,12:30,14:30,1-105,2026-06-05,Wollongong,Mechanics of Sol
 06.29/26-ReneeStortz/01,ReneeStortz,Saturday,06:00,00:00,1-105,2026-07-11,Wollongong,Furniture Refresh and Building Works
 06.29/26-ReneeStortz/01,ReneeStortz,Saturday,06:00,00:00,1-105,2026-07-18,Wollongong,Furniture Refresh and Building Works
 06.29/26-ReneeStortz/01,ReneeStortz,Saturday,06:00,00:00,1-105,2026-07-25,Wollongong,Furniture Refresh and Building Works
+08.22/26-MichaelCook/01,MichaelCook,Saturday,08:00,10:00,1-105,2026-08-22,Wollongong,Distribution Board 1FE2 Isolation
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-105,2025-12-07,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-105,2025-12-14,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-105,2025-12-21,Wollongong,Essential Air Conditioning works
@@ -692,6 +694,7 @@ BIOL420,Lecture,Friday,09:30,14:30,1-G01,2026-05-08,Wollongong,Biotechnology Hon
 12.01/25-PeterBennett/01,PeterBennett,Saturday,06:00,00:00,1-G01,2025-12-20,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Saturday,06:00,00:00,1-G01,2025-12-27,Wollongong,Essential Air Conditioning works
 06.20/26-MichaelCook/01,MichaelCook,Saturday,07:00,11:30,1-G01,2026-06-20,Wollongong,Power Outage - testing by ACJC Electrical
+08.22/26-MichaelCook/01,MichaelCook,Saturday,08:00,10:00,1-G01,2026-08-22,Wollongong,Distribution Board 1FE2 Isolation
 03.28/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,16:00,1-G01,2026-03-28,Wollongong,Meeting - EIS
 04.11/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,15:30,1-G01,2026-04-11,Wollongong,Meeting - EIS
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G01,2025-12-07,Wollongong,Essential Air Conditioning works
@@ -912,6 +915,7 @@ PREP032,Tutorial,Thursday,13:30,15:30,1-G02,2026-05-14,Wollongong,Scientific Thi
 PREP032,Tutorial,Thursday,13:30,15:30,1-G02,2026-05-21,Wollongong,Scientific Thinking
 PREP032,Tutorial,Thursday,13:30,15:30,1-G02,2026-05-28,Wollongong,Scientific Thinking
 08.06/26-MarianoRodrigo,MarianoRodrigo,Thursday,13:30,15:30,1-G02,2026-08-06,Wollongong,Student meetings - SMAP
+09.17/26-DavidGunawan,DavidGunawan,Thursday,13:30,15:30,1-G02,2026-09-17,Wollongong,STAT101 Mid-semester Exam
 12.01/25-PeterBennett/01,PeterBennett,Friday,06:00,00:00,1-G02,2025-12-05,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Friday,06:00,00:00,1-G02,2025-12-12,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Friday,06:00,00:00,1-G02,2025-12-19,Wollongong,Essential Air Conditioning works
@@ -955,6 +959,7 @@ PREP032,Tutorial,Friday,13:30,15:30,1-G02,2026-05-29,Wollongong,Scientific Think
 12.01/25-PeterBennett/01,PeterBennett,Saturday,06:00,00:00,1-G02,2025-12-27,Wollongong,Essential Air Conditioning works
 06.20/26-MichaelCook/01,MichaelCook,Saturday,07:00,11:30,1-G02,2026-06-20,Wollongong,Power Outage - testing by ACJC Electrical
 07.01/26-AbdulAzizMohammed/02,AbdulAzizMohammed,Saturday,08:00,19:00,1-G02,2026-07-04,Wollongong,"UOW Debating Society, Hosting Australasian Event"
+08.22/26-MichaelCook/01,MichaelCook,Saturday,08:00,10:00,1-G02,2026-08-22,Wollongong,Distribution Board 1FE2 Isolation
 07.11/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:00,14:30,1-G02,2026-07-11,Wollongong,Meeting - EIS
 05.16/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,14:30,1-G02,2026-05-16,Wollongong,Meeting - EIS
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G02,2025-12-07,Wollongong,Essential Air Conditioning works
@@ -1269,6 +1274,7 @@ PHYS963,Tutorial\Workshop,Friday,14:30,16:30,1-G03,2026-10-30,Wollongong,
 12.01/25-PeterBennett/01,PeterBennett,Saturday,06:00,00:00,1-G03,2025-12-27,Wollongong,Essential Air Conditioning works
 06.20/26-MichaelCook/01,MichaelCook,Saturday,07:00,11:30,1-G03,2026-06-20,Wollongong,Power Outage - testing by ACJC Electrical
 07.01/26-AbdulAzizMohammed/02,AbdulAzizMohammed,Saturday,08:00,19:00,1-G03,2026-07-04,Wollongong,"UOW Debating Society, Hosting Australasian Event"
+08.22/26-MichaelCook/01,MichaelCook,Saturday,08:00,10:00,1-G03,2026-08-22,Wollongong,Distribution Board 1FE2 Isolation
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G03,2025-12-07,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G03,2025-12-14,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G03,2025-12-21,Wollongong,Essential Air Conditioning works
@@ -1880,6 +1886,7 @@ ECTE351,Tutorial,Friday,15:30,17:30,1-G04,2026-10-23,Wollongong,Engineering Desi
 12.01/25-PeterBennett/01,PeterBennett,Saturday,06:00,00:00,1-G04,2025-12-27,Wollongong,Essential Air Conditioning works
 06.20/26-MichaelCook/01,MichaelCook,Saturday,07:00,11:30,1-G04,2026-06-20,Wollongong,Power Outage - testing by ACJC Electrical
 07.01/26-AbdulAzizMohammed/02,AbdulAzizMohammed,Saturday,08:00,19:00,1-G04,2026-07-04,Wollongong,"UOW Debating Society, Hosting Australasian Event"
+08.22/26-MichaelCook/01,MichaelCook,Saturday,08:00,10:00,1-G04,2026-08-22,Wollongong,Distribution Board 1FE2 Isolation
 SOWK923,Workshop,Saturday,13:30,17:30,1-G04,2026-03-14,Wollongong,Contemporary Responses to Mental Health and Disability Workshop
 SOWK923,Workshop,Saturday,13:30,17:30,1-G04,2026-03-28,Wollongong,Contemporary Responses to Mental Health and Disability Workshop
 SOWK923,Workshop,Saturday,13:30,17:30,1-G04,2026-04-11,Wollongong,Contemporary Responses to Mental Health and Disability Workshop
@@ -2627,6 +2634,7 @@ STAT291,Help Session,Friday,14:30,16:30,1-G05,2026-06-05,Wollongong,
 12.01/25-PeterBennett/01,PeterBennett,Saturday,06:00,00:00,1-G05,2025-12-27,Wollongong,Essential Air Conditioning works
 06.20/26-MichaelCook/01,MichaelCook,Saturday,07:00,11:30,1-G05,2026-06-20,Wollongong,Power Outage - testing by ACJC Electrical
 07.01/26-AbdulAzizMohammed/02,AbdulAzizMohammed,Saturday,08:00,19:00,1-G05,2026-07-04,Wollongong,"UOW Debating Society, Hosting Australasian Event"
+08.22/26-MichaelCook/01,MichaelCook,Saturday,08:00,10:00,1-G05,2026-08-22,Wollongong,Distribution Board 1FE2 Isolation
 SOWK923,Workshop,Saturday,13:30,17:30,1-G05,2026-03-14,Wollongong,Contemporary Responses to Mental Health and Disability Workshop
 SOWK923,Workshop,Saturday,13:30,17:30,1-G05,2026-03-28,Wollongong,Contemporary Responses to Mental Health and Disability Workshop
 SOWK923,Workshop,Saturday,13:30,17:30,1-G05,2026-04-11,Wollongong,Contemporary Responses to Mental Health and Disability Workshop
@@ -78329,6 +78337,7 @@ PSYC122,Tutorial,Monday,16:30,17:30,67-203,2026-10-12,Wollongong,Foundations of 
 PSYC122,Tutorial,Monday,16:30,17:30,67-203,2026-10-19,Wollongong,Foundations of Psychology B Tutorial
 PSYC122,Tutorial,Monday,16:30,17:30,67-203,2026-10-26,Wollongong,Foundations of Psychology B Tutorial
 08.17/26-ToniSeton,ToniSeton,Monday,17:30,19:30,67-203,2026-08-17,Wollongong,LLB3301 in session quiz - School of Law
+09.21/26-ToniSeaton,ToniSeaton,Monday,17:30,19:30,67-203,2026-09-21,Wollongong,LAW 334/381 Quiz
 12.01/25-CarolynSilveri/04,CarolynSilveri,Monday,18:00,20:00,67-203,2025-12-01,Wollongong,AIP Summer Meeting 2025 - Susanna Guatelli
 12.06/25-MarjoNiemela/04,MarjoNiemela,Tuesday,06:00,00:00,67-203,2025-12-09,Wollongong,IEEE - International Conference on Energy Technologies for Future Grids
 00CAS2-Exams2025-SpringS&D/07,Exams2025,Tuesday,06:00,00:00,67-203,2025-12-16,Wollongong,Spring Supp & Deferred Exams 2025 - Bld 67
@@ -78594,6 +78603,7 @@ LLB1115,Seminar,Wednesday,17:30,19:30,67-203,2026-05-13,Wollongong,Legal Skills 
 LLB1115,Seminar,Wednesday,17:30,19:30,67-203,2026-05-20,Wollongong,Legal Skills Seminar
 LLB1115,Seminar,Wednesday,17:30,19:30,67-203,2026-05-27,Wollongong,Legal Skills Seminar
 LLB1115,Seminar,Wednesday,17:30,19:30,67-203,2026-06-03,Wollongong,Legal Skills Seminar
+09.21/26-ToniSeaton,ToniSeaton,Wednesday,17:30,19:30,67-203,2026-09-23,Wollongong,LAW 334/381 Quiz
 12.01/25-CarolynSilveri/04,CarolynSilveri,Wednesday,18:00,20:00,67-203,2025-12-03,Wollongong,AIP Summer Meeting 2025 - Susanna Guatelli
 12.06/25-MarjoNiemela/04,MarjoNiemela,Thursday,06:00,00:00,67-203,2025-12-11,Wollongong,IEEE - International Conference on Energy Technologies for Future Grids
 00CAS2-Exams2025-SpringS&D/07,Exams2025,Thursday,06:00,00:00,67-203,2025-12-18,Wollongong,Spring Supp & Deferred Exams 2025 - Bld 67
@@ -79055,6 +79065,7 @@ PSYC358,Tutorial,Wednesday,08:30,10:30,67-208,2026-10-07,Wollongong,Applied Psyc
 PSYC358,Tutorial,Wednesday,08:30,10:30,67-208,2026-10-21,Wollongong,Applied Psychology Tutorial
 PSYC358,Tutorial,Wednesday,08:30,10:30,67-208,2026-10-28,Wollongong,Applied Psychology Tutorial
 04.22/26-SarinaMiller,SarinaMiller,Wednesday,09:00,10:00,67-208,2026-04-22,Wollongong,deferred quiz for students for applied for Academic Consideration - school of law
+09.02/26-JessFinnigan-Kellly/01,JessFinnigan,Wednesday,09:00,11:30,67-208,2026-09-02,Wollongong,Need Description
 BCM 113,Tutorial,Wednesday,10:30,12:30,67-208,2026-03-04,Wollongong,Media Ethics and Law Tutorial
 BCM 113,Tutorial,Wednesday,10:30,12:30,67-208,2026-03-11,Wollongong,Media Ethics and Law Tutorial
 BCM 113,Tutorial,Wednesday,10:30,12:30,67-208,2026-03-18,Wollongong,Media Ethics and Law Tutorial
@@ -84647,6 +84658,7 @@ ETS 101,L,Tuesday,10:30,12:30,30-115,2026-02-10,UOW College Wollongong,ETS Sessi
 11.25/25-SvitlanaNastenko/01,SvitlanaNastenko,Tuesday,12:30,13:30,30-115,2026-01-20,UOW College Wollongong,PREP033 PAL Session
 11.25/25-SvitlanaNastenko/01,SvitlanaNastenko,Tuesday,12:30,13:30,30-115,2026-01-27,UOW College Wollongong,PREP033 PAL Session
 07.28/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-115,2026-07-28,UOW College Wollongong,DSCI106 chemistry student consultation - UOWC
+08.25/26-SvitlanaNastenko/01,SvitlanaNastenko,Tuesday,12:30,14:30,30-115,2026-08-25,UOW College Wollongong,Conversation groups
 STOU004,KyotoSangoyo,Tuesday,13:00,15:00,30-115,2026-03-03,UOW College Wollongong,Kyoto Sangoyo University - Guest lecturer
 STOU006,Senshu,Tuesday,13:00,16:00,30-115,2026-08-11,UOW College Wollongong,Senshu University - English Classes
 STOU006,Senshu,Tuesday,13:00,16:00,30-115,2026-08-18,UOW College Wollongong,Senshu University - English Classes
@@ -84991,6 +85003,7 @@ STOU004,KaichiMirai,Tuesday,09:00,12:00,30-116,2026-03-31,UOW College Wollongong
 DSSC106,Lecture,Tuesday,10:30,12:30,30-116,2026-01-20,UOW College Wollongong,Academic Skills for Social Science Lecture
 08.11/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-116,2026-08-11,UOW College Wollongong,Peer learning - UOWC
 08.18/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-116,2026-08-18,UOW College Wollongong,Conversation Group Event - UOWC
+08.25/26-SvitlanaNastenko/01,SvitlanaNastenko,Tuesday,12:30,14:30,30-116,2026-08-25,UOW College Wollongong,Conversation groups
 STOU004,KyotoSangoyo,Tuesday,13:00,15:00,30-116,2026-03-03,UOW College Wollongong,Kyoto Sangoyo University - Guest lecturer
 DART108,Tutorial,Tuesday,13:30,15:30,30-116,2025-11-25,UOW College Wollongong,Age of Revolutions Tutorial
 DART108,Tutorial,Tuesday,13:30,15:30,30-116,2025-12-02,UOW College Wollongong,Age of Revolutions Tutorial
