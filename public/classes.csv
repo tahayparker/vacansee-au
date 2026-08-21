@@ -8849,6 +8849,7 @@ MATH283,Computer Lab,Wednesday,10:30,11:30,4-122,2026-06-03,Wollongong,
 MATH291,Computer Lab,Wednesday,10:30,11:30,4-122,2026-06-03,Wollongong,
 MTH8283,Computer Lab,Wednesday,10:30,11:30,4-122,2026-06-03,Wollongong,
 STAT291,Computer Lab,Wednesday,10:30,11:30,4-122,2026-06-03,Wollongong,
+MECH373,OC_CAS,Wednesday,10:30,12:30,4-122,2026-09-09,Wollongong,MECH373 Exam (100 cap)
 MATH283,Computer Lab,Wednesday,11:30,12:30,4-122,2026-03-11,Wollongong,
 MATH291,Computer Lab,Wednesday,11:30,12:30,4-122,2026-03-11,Wollongong,
 MTH8283,Computer Lab,Wednesday,11:30,12:30,4-122,2026-03-11,Wollongong,
@@ -9528,6 +9529,7 @@ MMMB201,Computer Lab,Wednesday,08:30,10:30,4-123,2026-10-28,Wollongong,Materials
 CMEA444,Computer Lab,Wednesday,10:30,13:30,4-123,2026-07-29,Wollongong,Multidisciplinary Engineering Design Computer Lab
 CMEA444,Computer Lab,Wednesday,10:30,13:30,4-123,2026-08-05,Wollongong,Multidisciplinary Engineering Design Computer Lab
 CMEA444,Computer Lab,Wednesday,10:30,13:30,4-123,2026-08-12,Wollongong,Multidisciplinary Engineering Design Computer Lab
+MECH373,OC_CAS,Wednesday,10:30,12:30,4-123,2026-09-09,Wollongong,MECH373 Exam (100 cap)
 DPEN103,Computer Lab,Wednesday,11:30,13:30,4-123,2026-03-11,Wollongong,Materials in Design Computer Lab
 ENGG103,Computer Lab,Wednesday,11:30,13:30,4-123,2026-03-11,Wollongong,Materials in Design Computer Lab
 ENGG909,Computer Lab,Wednesday,11:30,13:30,4-123,2026-03-11,Wollongong,
@@ -20010,9 +20012,6 @@ DPIT123,Computer Lab,Tuesday,11:30,14:30,17-103,2026-04-28,Wollongong,Computing 
 DPIT123,Computer Lab,Tuesday,11:30,14:30,17-103,2026-05-05,Wollongong,Computing and Cyber Security Fundamentals Computer Lab
 DPIT123,Computer Lab,Tuesday,11:30,14:30,17-103,2026-05-12,Wollongong,Computing and Cyber Security Fundamentals Computer Lab
 DPIT123,Computer Lab,Tuesday,11:30,14:30,17-103,2026-05-19,Wollongong,Computing and Cyber Security Fundamentals Computer Lab
-FIN 945,Computer Lab,Tuesday,11:30,13:30,17-103,2026-09-08,Wollongong,Tokenised Assets and Decentralised Finance Computer Lab
-FIN 945,Computer Lab,Tuesday,11:30,13:30,17-103,2026-09-15,Wollongong,Tokenised Assets and Decentralised Finance Computer Lab
-FIN 945,Computer Lab,Tuesday,11:30,13:30,17-103,2026-09-29,Wollongong,Tokenised Assets and Decentralised Finance Computer Lab
 04.07/26-SarahAndrews,SarahAndrews,Tuesday,13:00,18:00,17-103,2026-04-07,Wollongong,International Recruitment Calling - Student Growth & Engagement
 MATH131,Computer Lab,Tuesday,13:30,14:30,17-103,2026-05-26,Wollongong,Essentials of Numeracy and Mathematics for Educators Computer Lab
 DMHS160,Tutorial,Tuesday,13:30,15:30,17-103,2026-06-30,Wollongong,Scientific Literacy Tutorial
@@ -27915,6 +27914,7 @@ WCIV201,Tutorial,Thursday,14:30,15:30,19-1098,2026-05-14,Wollongong,Classics of 
 WCIV201,Tutorial,Thursday,14:30,15:30,19-1098,2026-05-21,Wollongong,Classics of the Middle Ages and Early Renaissance Tutorial
 WCIV201,Tutorial,Thursday,14:30,15:30,19-1098,2026-05-28,Wollongong,Classics of the Middle Ages and Early Renaissance Tutorial
 WCIV201,Tutorial,Thursday,14:30,15:30,19-1098,2026-06-04,Wollongong,Classics of the Middle Ages and Early Renaissance Tutorial
+08.27/26-SvitlanaNastenko/02,SvitlanaNastenko,Thursday,14:30,15:30,19-1098,2026-08-27,Wollongong,DPEN143 Consultations
 DPEN143,Help Session,Thursday,15:30,16:30,19-1098,2026-07-30,Wollongong,Help Session
 DPEN143,Help Session,Thursday,15:30,16:30,19-1098,2026-08-06,Wollongong,Help Session
 DPEN143,Help Session,Thursday,15:30,16:30,19-1098,2026-08-13,Wollongong,Help Session
@@ -57193,6 +57193,7 @@ SOWK912,Workshop,Saturday,13:30,17:30,29-G08,2026-05-16,Wollongong,Diversity in 
 05.24/26-ChristineHowe/01,ChristineHowe,Sunday,14:00,17:00,29-G08,2026-11-22,Wollongong,South Coast Writers Centre - Young Writers Collective and the Senior Young Writers Group
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Monday,06:00,14:30,29-G09,2026-02-16,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Monday,06:00,00:00,29-G09,2026-06-08,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
+10.12/26-EmmaPinfold/01,EmmaPinfold,Monday,08:00,11:30,29-G09,2026-10-12,Wollongong,Workshop - UOW Council Members and Executives
 02.02/26-SueDownie/01,SueDownie,Monday,08:30,17:30,29-G09,2026-02-02,Wollongong,MIHS Teaching Workshops
 11.24/25-AaronBurton/01,AaronBurton,Monday,09:00,17:00,29-G09,2025-11-24,Wollongong,ASPERA - Annual Academic Conference
 HAS 120,Tutorial,Monday,09:30,11:30,29-G09,2026-03-02,Wollongong,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
@@ -65188,6 +65189,9 @@ MARK205,Computer Lab,Tuesday,10:30,12:30,40-230,2026-05-12,Wollongong,Marketing 
 MARK205,Computer Lab,Tuesday,10:30,12:30,40-230,2026-05-19,Wollongong,Marketing Research and Consumer Insights Computer Lab
 MARK205,Computer Lab,Tuesday,10:30,12:30,40-230,2026-05-26,Wollongong,Marketing Research and Consumer Insights Computer Lab
 MARK205,Computer Lab,Tuesday,10:30,12:30,40-230,2026-06-02,Wollongong,Marketing Research and Consumer Insights Computer Lab
+FIN 945,Computer Lab,Tuesday,11:30,13:30,40-230,2026-09-08,Wollongong,Tokenised Assets and Decentralised Finance Computer Lab
+FIN 945,Computer Lab,Tuesday,11:30,13:30,40-230,2026-09-15,Wollongong,Tokenised Assets and Decentralised Finance Computer Lab
+FIN 945,Computer Lab,Tuesday,11:30,13:30,40-230,2026-09-29,Wollongong,Tokenised Assets and Decentralised Finance Computer Lab
 08.18/26-KianRayner,KianRayner,Tuesday,13:00,16:30,40-230,2026-08-18,Wollongong,TRI3 Enrolment Labs - ASB
 ACCY936,Tutorial,Tuesday,14:30,16:30,40-230,2026-02-10,Wollongong,Information Technology and Systems for Accounting Tutorial
 ACCY936,Tutorial,Tuesday,14:30,16:30,40-230,2026-02-17,Wollongong,Information Technology and Systems for Accounting Tutorial
@@ -67949,6 +67953,7 @@ MEDI150,Tutorial,Friday,10:30,11:30,41-107,2026-05-15,Wollongong,Fundamental Con
 MEDI150,Tutorial,Friday,10:30,11:30,41-107,2026-05-22,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Friday,10:30,11:30,41-107,2026-06-05,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 DASH100,Tutorial,Friday,10:30,12:30,41-107,2026-07-03,Wollongong,Learning in Higher Education Tutorial
+08.28/26-GayanikaWijetunga,GayanikaWijetunga,Friday,12:00,13:00,41-107,2026-08-28,Wollongong,Lunch and Learn
 02.20/26-MichelleFishburn,MichelleFishburn,Friday,12:30,14:30,41-107,2026-02-20,Wollongong,Supervision of assessable quiz - School of Nursing
 03.06/26-MichelleFishburn,MichelleFishburn,Friday,12:30,14:00,41-107,2026-03-06,Wollongong,Supervision of assessable quiz - School of Nursing
 05.22/26-ChristopherRichardson,ChristopherRichardson,Friday,13:30,14:30,41-107,2026-05-22,Wollongong,meeting - chemistry
@@ -69604,6 +69609,7 @@ MNPR921,T_CAS,Tuesday,11:30,15:30,41-208,2026-04-07,Wollongong,MNPR921 group pre
 03.09/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,41-208,2026-02-12,Wollongong,Residual Current Device Testing for Building 41
 09.11/26-MichaelCook/03,MichaelCook,Thursday,06:00,08:00,41-208,2026-09-17,Wollongong,RCD Testing - 41 SNM
 04.09/26-LizHalcomb,LizHalcomb,Thursday,12:30,13:30,41-208,2026-04-09,Wollongong,Meeting. - School of Nursing
+09.10/26-BronwynEverett/01,BronwynEverett,Thursday,14:00,16:00,41-208,2026-09-10,Wollongong,Staff Meeting
 09.11/26-MichaelCook/08,MichaelCook,Friday,06:00,08:00,41-208,2026-09-11,Wollongong,RCD Testing - 41 SNM
 09.11/26-MichaelCook/03,MichaelCook,Friday,06:00,08:00,41-208,2026-09-18,Wollongong,RCD Testing - 41 SNM
 03.09/26-MichaelCook/01,MichaelCook,Monday,06:00,08:00,41-257C,2026-02-09,Wollongong,Residual Current Device Testing for Building 41
@@ -75216,6 +75222,7 @@ MEDI160,Tutorial\Workshop,Thursday,11:30,12:30,67-101,2026-05-14,Wollongong,Scie
 MEDI160,Tutorial\Workshop,Thursday,11:30,12:30,67-101,2026-05-21,Wollongong,Scientific Literacy Tutorial Workshop
 MEDI160,Tutorial\Workshop,Thursday,11:30,12:30,67-101,2026-05-28,Wollongong,Scientific Literacy Tutorial Workshop
 MEDI160,Tutorial\Workshop,Thursday,11:30,12:30,67-101,2026-06-04,Wollongong,Scientific Literacy Tutorial Workshop
+08.27/26-SvitlanaNastenko/01,SvitlanaNastenko,Thursday,11:30,13:30,67-101,2026-08-27,Wollongong,DPEN143 Consultations
 06.18/26-HonglinChen/01,HonglinChen,Thursday,12:00,14:30,67-101,2026-06-18,Wollongong,Provost - CoP for education-focused academics
 08.20/26-ShaylaTa,ShaylaTa,Thursday,12:00,13:30,67-101,2026-08-20,Wollongong,SOB School Meeting - SOB Admin
 05.28/26-ShaylaTa,ShaylaTa,Thursday,12:30,13:30,67-101,2026-05-28,Wollongong,UEH Student Meet n Greet - Belinda Gibbons - SOB
@@ -82760,6 +82767,7 @@ PREP032,Computer Lab,Monday,15:30,17:30,30-110,2026-07-06,UOW College Wollongong
 PREP032,Computer Lab,Monday,15:30,17:30,30-110,2026-07-13,UOW College Wollongong,Scientific Thinking
 PREP032,Computer Lab,Monday,15:30,17:30,30-110,2026-07-20,UOW College Wollongong,Scientific Thinking
 PREP032,Computer Lab,Monday,15:30,17:30,30-110,2026-07-27,UOW College Wollongong,Scientific Thinking
+08.24/26-SvitlanaNastenko/03,SvitlanaNastenko,Monday,15:30,16:30,30-110,2026-08-24,UOW College Wollongong,PREP033 PALS Session
 06.15/26-SvitlanaNastenko,SvitlanaNastenko,Monday,16:30,20:30,30-110,2026-06-15,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 01.27/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,07:00,15:00,30-110,2026-01-27,UOW College Wollongong,Academic Summer Exams - UOWC
 PREP032,Computer Lab,Tuesday,08:30,10:30,30-110,2026-02-24,UOW College Wollongong,Language for Learning Computer Lab
@@ -84963,6 +84971,7 @@ STOU001,KyotoSangoyo,Monday,09:00,12:00,30-116,2026-02-23,UOW College Wollongong
 STOU001,KyotoSangoyo,Monday,09:00,12:00,30-116,2026-03-02,UOW College Wollongong,Kyoto Sangoyo University - Group Meeting
 05.29/26-SvitlanaNastenko/02,SvitlanaNastenko,Monday,09:00,13:00,30-116,2026-06-01,UOW College Wollongong,Academic Autumn Exams UOW College
 07.27/26-SvitlanaNastenko,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-07-27,UOW College Wollongong,Careers Workshop - UOWC
+08.24/26-SvitlanaNastenko/02,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-08-24,UOW College Wollongong,PREP033 PALS Session
 PREP032,Tutorial,Monday,13:30,15:30,30-116,2025-11-24,UOW College Wollongong,Scientific Thinking Tutorial
 PREP032,Tutorial,Monday,13:30,15:30,30-116,2025-12-01,UOW College Wollongong,Scientific Thinking Tutorial
 PREP032,Tutorial,Monday,13:30,15:30,30-116,2025-12-08,UOW College Wollongong,Scientific Thinking Tutorial
@@ -98113,6 +98122,7 @@ VNUR200,TI,Wednesday,12:30,15:30,400-319,2026-05-13,Liverpool,Vocational Nursing
 09.30/26-StephaneCordier/01,StephaneCordier,Wednesday,12:30,13:30,400-319,2026-09-30,Liverpool,Nursing Workshops
 10.14/26-StephaneCordier/01,StephaneCordier,Wednesday,12:30,13:30,400-319,2026-10-14,Liverpool,Nursing Workshops
 10.21/26-StephaneCordier/01,StephaneCordier,Wednesday,12:30,13:30,400-319,2026-10-21,Liverpool,Nursing Workshops
+09.23/26-SvitlanaNastenko/03,SvitlanaNastenko,Wednesday,13:00,16:00,400-319,2026-09-23,Liverpool,Academic Spring Exams
 VNUR300,TF,Wednesday,13:30,15:30,400-319,2026-03-04,Liverpool,Vocational Nursing Session 3
 VNUR300,TF,Wednesday,13:30,15:30,400-319,2026-03-11,Liverpool,Vocational Nursing Session 3
 VNUR300,TF,Wednesday,13:30,15:30,400-319,2026-03-18,Liverpool,Vocational Nursing Session 3
