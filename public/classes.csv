@@ -13,6 +13,7 @@ SubCode,Class,Day,StartTime,EndTime,Room,Date,Campus,Description
 06.29/26-ReneeStortz/01,ReneeStortz,Monday,06:00,00:00,1-105,2026-07-20,Wollongong,Furniture Refresh and Building Works
 07.27/26-BernadetteSampson/01,BernadetteSampson,Monday,06:00,00:00,1-105,2026-07-27,Wollongong,IMTS AV Upgrade
 09.14/26-DavidGunawan,DavidGunawan,Monday,12:00,15:00,1-105,2026-09-14,Wollongong,INFO401 Final Presentation
+10.12/26-DavidGunawan/01,DavidGunawan,Monday,12:00,15:00,1-105,2026-10-12,Wollongong,SMAP401 Final presentations
 MECH442,Lecture,Monday,12:30,14:30,1-105,2026-03-02,Wollongong,
 MECH918,Lecture,Monday,12:30,14:30,1-105,2026-03-02,Wollongong,
 MECH442,Lecture,Monday,12:30,14:30,1-105,2026-03-09,Wollongong,
@@ -10094,7 +10095,6 @@ MNPR918,Workshop,Tuesday,10:30,12:30,4-G31,2026-08-11,Wollongong,Clinical Placem
 MNPR918,Workshop,Tuesday,10:30,12:30,4-G31,2026-08-25,Wollongong,Clinical Placement Experience 2 Workshop
 MNPR918,Workshop,Tuesday,10:30,12:30,4-G31,2026-10-20,Wollongong,Clinical Placement Experience 2 Workshop
 MNPR918,Workshop,Tuesday,10:30,12:30,4-G31,2026-11-03,Wollongong,Clinical Placement Experience 2 Workshop
-09.01/26-MackenzieCini/01,MackenzieCini,Tuesday,11:30,14:30,4-G31,2026-09-01,Wollongong,Engineering Career Skills Workshop
 PGPH930,Tutorial,Tuesday,12:30,14:30,4-G31,2026-03-10,Wollongong,Observational Epidemiology and Understanding Causes Tutorial
 PGPH930,Tutorial,Tuesday,12:30,14:30,4-G31,2026-03-24,Wollongong,Observational Epidemiology and Understanding Causes Tutorial
 PGPH930,Tutorial,Tuesday,12:30,14:30,4-G31,2026-04-07,Wollongong,Observational Epidemiology and Understanding Causes Tutorial
@@ -20079,6 +20079,7 @@ PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-05-13,Wollongong,Quantita
 PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-05-20,Wollongong,Quantitative Methods in Psychology Computer Lab
 PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-05-27,Wollongong,Quantitative Methods in Psychology Computer Lab
 PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-06-03,Wollongong,Quantitative Methods in Psychology Computer Lab
+09.09/26-Xu-FengHuang,Xu,Wednesday,09:30,10:30,17-103,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 03.02/26-JeffyPhilip/01,JeffyPhilip,Wednesday,10:00,15:00,17-103,2026-03-04,Wollongong,Student Services - Enrolment Labs
 03.11/26-AlexGalbraith,AlexGalbraith,Wednesday,10:30,12:30,17-103,2026-03-11,Wollongong,Workshop - Excel. We will be meeting as an professional staff + a few academic staff to upskill ourselves in Microsoft excel and need a room that can hold all of us. - School of Nursing
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-04-22,Wollongong,Scientific Thinking
@@ -20087,6 +20088,7 @@ PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-06,Wollongong,Scientif
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-13,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-20,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-27,Wollongong,Scientific Thinking
+09.09/26-Xu-FengHuang,Xu,Wednesday,11:30,12:30,17-103,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 DSCI109,Computer Lab,Wednesday,13:30,15:30,17-103,2026-02-25,Wollongong,Global Challenges in Science Computer Lab
 PGPH901,Tutorial,Wednesday,13:30,15:30,17-103,2026-03-11,Wollongong,Foundations in Public Health Tutorial
 PGPH901,Tutorial,Wednesday,13:30,15:30,17-103,2026-03-18,Wollongong,Foundations in Public Health Tutorial
@@ -20427,6 +20429,7 @@ PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-13,Wollongong,Scientif
 PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-20,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-27,Wollongong,Scientific Thinking
 07.29/26-DazzVan Weersel,DazzVan Weersel,Wednesday,14:30,19:30,17-104,2026-07-29,Wollongong,Outbound Calling Conversion - Student Growth and Engagement Division
+09.09/26-Xu-FengHuang,Xu,Wednesday,14:30,15:30,17-104,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-104,2026-03-11,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-104,2026-03-18,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-104,2026-03-25,Wollongong,Language for Learning Computer Lab
@@ -21296,6 +21299,7 @@ DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-04-16,Wollongong,Networks 
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-04-23,Wollongong,Networks and Communications Computer Lab
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-05-14,Wollongong,Networks and Communications Computer Lab
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-05-21,Wollongong,Networks and Communications Computer Lab
+09.10/26-Xu-FengHuang,Xu,Thursday,11:30,12:30,17-106,2026-09-10,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 MEDI214,Computer Lab,Thursday,11:30,14:30,17-106,2026-10-08,Wollongong,Sport and Exercise Nutrition Computer Lab
 MEDI214,Computer Lab,Thursday,11:30,14:30,17-106,2026-10-15,Wollongong,Sport and Exercise Nutrition Computer Lab
 EDPD201,Computer Lab,Thursday,13:30,15:30,17-106,2026-04-09,Wollongong,Professional Development 1: The Learning Environment Computer Lab
@@ -21590,6 +21594,7 @@ EDPD201,Computer Lab,Thursday,08:30,10:30,17-108,2026-05-07,Wollongong,Professio
 07.20/26-JeffyPhilip/01,JeffyPhilip,Thursday,08:30,16:30,17-108,2026-07-23,Wollongong,Enrolment Lab Spring
 05.28/26-MeganHammersley,MeganHammersley,Thursday,09:00,10:30,17-108,2026-05-28,Wollongong,"In class assessment for a student requiring special provisions - Public Health, MIHS, SMAH"
 HAS 302,Computer Lab,Thursday,09:30,12:30,17-108,2026-05-14,Wollongong,Community Matters: Research and Responses Computer Lab
+09.10/26-Xu-FengHuang,Xu,Thursday,09:30,10:30,17-108,2026-09-10,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Thursday,10:30,12:30,17-108,2026-02-26,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Thursday,10:30,12:30,17-108,2026-03-05,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Thursday,10:30,12:30,17-108,2026-03-12,Wollongong,Language for Learning Computer Lab
@@ -21660,6 +21665,7 @@ EDPD201,Computer Lab,Thursday,15:30,17:30,17-108,2026-05-07,Wollongong,Professio
 00CAS2-Exams2026-Spring&T3/06,Exams2026,Friday,06:00,00:00,17-108,2026-11-20,Wollongong,Spring Exams 2026 - Bld 17
 07.20/26-JeffyPhilip/01,JeffyPhilip,Friday,08:30,16:30,17-108,2026-07-24,Wollongong,Enrolment Lab Spring
 HAS 302,Computer Lab,Friday,09:30,12:30,17-108,2026-05-15,Wollongong,Community Matters: Research and Responses Computer Lab
+09.11/26-Xu-FengHuang,Xu,Friday,09:30,10:30,17-108,2026-09-11,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-02-27,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-03-06,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-03-13,Wollongong,Language for Learning Computer Lab
@@ -21670,6 +21676,7 @@ PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-01,Wollongong,Language fo
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-08,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-22,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-29,Wollongong,Language for Learning Computer Lab
+09.11/26-Xu-FengHuang,Xu,Friday,11:30,12:30,17-108,2026-09-11,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 05.01/26-KateMaguire,KateMaguire,Friday,13:00,16:00,17-108,2026-05-01,Wollongong,Training - Student Services
 03.20/26-RoJayasinghe,RoJayasinghe,Friday,13:30,17:00,17-108,2026-03-20,Wollongong,Conversion Calling - FSIE
 05.08/26-DeanCutajar,DeanCutajar,Friday,18:30,20:00,17-108,2026-05-08,Wollongong,Computer based exam - School of Mathematics and Physics
@@ -25688,6 +25695,7 @@ MARK920,Tutorial,Tuesday,15:30,17:30,19-1064,2026-06-30,Wollongong,Social Market
 MARK920,Tutorial,Tuesday,15:30,17:30,19-1064,2026-07-07,Wollongong,Social Marketing Tutorial
 MARK920,Tutorial,Tuesday,15:30,17:30,19-1064,2026-07-14,Wollongong,Social Marketing Tutorial
 MARK920,Tutorial,Tuesday,15:30,17:30,19-1064,2026-07-21,Wollongong,Social Marketing Tutorial
+08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,16:00,17:30,19-1064,2026-08-25,Wollongong,Liberal Arts Society - Semester 2 Student Agora - UniClubs
 EDMS825,Tutorial\Workshop,Tuesday,16:30,18:30,19-1064,2026-03-03,Wollongong,English Method II Tutorial/Workshop
 EDMS825,Tutorial\Workshop,Tuesday,16:30,18:30,19-1064,2026-03-10,Wollongong,English Method II Tutorial/Workshop
 EDMS825,Tutorial\Workshop,Tuesday,16:30,18:30,19-1064,2026-03-17,Wollongong,English Method II Tutorial/Workshop
@@ -26791,6 +26799,19 @@ WCIV206,Tutorial,Thursday,14:30,15:30,19-1083,2026-10-29,Wollongong,Classics of 
 07.23/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-08-06,Wollongong,Senior Young Writers Group - South Coast Writers Centre
 07.23/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-08-13,Wollongong,Senior Young Writers Group - South Coast Writers Centre
 07.23/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-08-20,Wollongong,Senior Young Writers Group - South Coast Writers Centre
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-08-27,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-09-03,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-09-10,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-09-17,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-09-24,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-10-01,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-10-08,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-10-15,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-10-22,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-10-29,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-11-05,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-11-12,Wollongong,Senior Young Writers Group
+08.27/26-ChristineHowe/01,ChristineHowe,Thursday,16:00,18:00,19-1083,2026-11-19,Wollongong,Senior Young Writers Group
 07.01/26-AbdulAzizMohammed/02,AbdulAzizMohammed,Friday,08:00,19:00,19-1083,2026-07-03,Wollongong,"UOW Debating Society, Hosting Australasian Event"
 ENG 005,TE,Friday,08:30,12:30,19-1083,2026-02-27,Wollongong,English Studies 5 Tutorial
 ENG 005,TE,Friday,08:30,12:30,19-1083,2026-03-06,Wollongong,English Studies 5 Tutorial
@@ -30816,6 +30837,7 @@ PREP032,Tutorial,Tuesday,10:30,12:30,19-2040,2026-05-05,Wollongong,Scientific Th
 PREP032,Tutorial,Tuesday,10:30,12:30,19-2040,2026-05-12,Wollongong,Scientific Thinking
 PREP032,Tutorial,Tuesday,10:30,12:30,19-2040,2026-05-19,Wollongong,Scientific Thinking
 PREP032,Tutorial,Tuesday,10:30,12:30,19-2040,2026-05-26,Wollongong,Scientific Thinking
+08.25/26-ErnestasJanusas,ErnestasJanusas,Tuesday,11:00,12:00,19-2040,2026-08-25,Wollongong,Recurring divisional meetings due to expanded team size and lack of adequate meeting room space in building 17 - Enterprise Data
 PREP033,Tutorial,Tuesday,11:30,13:30,19-2040,2026-06-23,Wollongong,Mathematics for the Humanities
 PREP031,Tutorial,Tuesday,13:30,15:30,19-2040,2026-02-24,Wollongong,Language for Learning
 PREP031,Tutorial,Tuesday,13:30,15:30,19-2040,2026-03-03,Wollongong,Language for Learning
@@ -30883,6 +30905,11 @@ EYTE401,Tutorial,Wednesday,11:30,13:30,19-2040,2026-05-13,Wollongong,Contemporar
 EYTE401,Tutorial,Wednesday,11:30,13:30,19-2040,2026-05-20,Wollongong,Contemporary Theories and Practice in Early Childhood Tutorial
 EYTE401,Tutorial,Wednesday,11:30,13:30,19-2040,2026-05-27,Wollongong,Contemporary Theories and Practice in Early Childhood Tutorial
 EYTE401,Tutorial,Wednesday,11:30,13:30,19-2040,2026-06-03,Wollongong,Contemporary Theories and Practice in Early Childhood Tutorial
+08.26/26-SvitlanaNastenko/01,SvitlanaNastenko,Wednesday,12:30,13:30,19-2040,2026-08-26,Wollongong,PREP033 Block B consultations
+08.26/26-SvitlanaNastenko/01,SvitlanaNastenko,Wednesday,12:30,13:30,19-2040,2026-09-02,Wollongong,PREP033 Block B consultations
+08.26/26-SvitlanaNastenko/01,SvitlanaNastenko,Wednesday,12:30,13:30,19-2040,2026-09-09,Wollongong,PREP033 Block B consultations
+08.26/26-SvitlanaNastenko/01,SvitlanaNastenko,Wednesday,12:30,13:30,19-2040,2026-09-16,Wollongong,PREP033 Block B consultations
+09.23/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,19-2040,2026-09-23,Wollongong,PREP033 Blick B consultations - UOWC
 03.11/26-GeorgeTakacs,GeorgeTakacs,Wednesday,13:30,16:30,19-2040,2026-03-11,Wollongong,Physics class - Physics
 PREP032,Tutorial,Wednesday,13:30,15:30,19-2040,2026-04-22,Wollongong,Scientific Thinking
 PREP032,Tutorial,Wednesday,13:30,15:30,19-2040,2026-04-29,Wollongong,Scientific Thinking
@@ -31617,6 +31644,10 @@ INDS205,Tutorial,Thursday,09:30,11:30,19-2102,2026-05-07,Wollongong,Indigenous P
 INDS205,Tutorial,Thursday,09:30,11:30,19-2102,2026-05-14,Wollongong,Indigenous Peoples and the Environment Tutorial
 INDS205,Tutorial,Thursday,09:30,11:30,19-2102,2026-05-21,Wollongong,Indigenous Peoples and the Environment Tutorial
 INDS205,Tutorial,Thursday,09:30,11:30,19-2102,2026-05-28,Wollongong,Indigenous Peoples and the Environment Tutorial
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,09:30,11:30,19-2102,2026-08-27,Wollongong,PAL Sessions WUCB105 - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,09:30,11:30,19-2102,2026-09-03,Wollongong,PAL Sessions WUCB105 - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,09:30,11:30,19-2102,2026-09-10,Wollongong,PAL Sessions WUCB105 - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,09:30,11:30,19-2102,2026-09-17,Wollongong,PAL Sessions WUCB105 - UOWC
 PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-04-23,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-04-30,Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,11:30,13:30,19-2102,2026-05-07,Wollongong,Mathematics for the Humanities
@@ -34119,6 +34150,7 @@ CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-10-13,Wollongong,Web Development L
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-10-27,Wollongong,Web Development Lecture
 04.07/26-BradNixon/02,BradNixon,Tuesday,16:30,00:00,20-1,2026-04-07,Wollongong,Air conditioning works
 08.18/26-JulietDiLosa/01,JulietDiLosa,Tuesday,17:00,20:30,20-1,2026-08-18,Wollongong,Allan Sefton Memorial Lecture
+09.22/26-KatarinaMikac,KatarinaMikac,Tuesday,18:00,21:00,20-1,2026-09-22,Wollongong,Screening of a documentary - School of Science
 02.09/26-KarinKarr/01,KarinKarr,Wednesday,06:00,00:00,20-1,2026-02-11,Wollongong,Bayes on the Beach - Bayesian Statistical Conference
 00CAS3-DiscoveryDays-Yr12-Feb26/03,DiscoveryDays,Wednesday,06:00,14:30,20-1,2026-02-18,Wollongong,Discovery Days Year 12 - Bld 20
 00CAS6-Orientation-Autumn-GRS/02,Orientation,Wednesday,06:00,00:00,20-1,2026-02-25,Wollongong,HDR Induction - Autumn
@@ -37250,6 +37282,7 @@ EDKM201,Tutorial,Friday,08:30,09:30,21-114,2026-05-15,Wollongong,Mathematics Con
 EDKM201,Tutorial,Friday,08:30,09:30,21-114,2026-05-22,Wollongong,Mathematics Content and Pedagogy 1 Tutorial
 EDKM201,Tutorial,Friday,08:30,09:30,21-114,2026-05-29,Wollongong,Mathematics Content and Pedagogy 1 Tutorial
 EDKM201,Tutorial,Friday,08:30,09:30,21-114,2026-06-05,Wollongong,Mathematics Content and Pedagogy 1 Tutorial
+09.11/26-ElyMarceau,ElyMarceau,Friday,09:00,11:30,21-114,2026-09-11,Wollongong,PSYC410 research group - Psychology
 EDKM201,Tutorial,Friday,09:30,10:30,21-114,2026-03-06,Wollongong,Mathematics Content and Pedagogy 1 Tutorial
 EDKM201,Tutorial,Friday,09:30,10:30,21-114,2026-03-13,Wollongong,Mathematics Content and Pedagogy 1 Tutorial
 EDKM201,Tutorial,Friday,09:30,10:30,21-114,2026-03-20,Wollongong,Mathematics Content and Pedagogy 1 Tutorial
@@ -41179,6 +41212,7 @@ HAS 121,Tutorial,Monday,15:30,17:30,24-103,2026-10-26,Wollongong,Human Developme
 03.30/26-LaraBlair,LaraBlair,Monday,17:30,21:30,24-103,2026-04-06,Wollongong,WUDFA - MiniMUN & Social Nights - Student Engagement
 03.30/26-LaraBlair,LaraBlair,Monday,17:30,21:30,24-103,2026-04-13,Wollongong,WUDFA - MiniMUN & Social Nights - Student Engagement
 03.30/26-LaraBlair,LaraBlair,Monday,17:30,21:30,24-103,2026-04-20,Wollongong,WUDFA - MiniMUN & Social Nights - Student Engagement
+08.24/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-08-24,Wollongong,TTS - Heat Tournament - UniClubs
 00CAS2-Exams2025-Spring/11,Exams2025,Tuesday,06:00,00:00,24-103,2025-11-25,Wollongong,Spring Exams 2025 - Block out Bld 24
 00CAS2-Exams2025-Spring/11,Exams2025,Tuesday,06:00,00:00,24-103,2025-12-02,Wollongong,Spring Exams 2025 - Block out Bld 24
 00CAS2-Exams2025-Spring/11,Exams2025,Tuesday,06:00,00:00,24-103,2025-12-09,Wollongong,Spring Exams 2025 - Block out Bld 24
@@ -43428,6 +43462,7 @@ INTS204,Tutorial,Tuesday,10:30,12:30,24-201,2026-10-06,Wollongong,Global Aid and
 INTS204,Tutorial,Tuesday,10:30,12:30,24-201,2026-10-13,Wollongong,Global Aid and Development: Challenges and Prospects Tutorial
 INTS204,Tutorial,Tuesday,10:30,12:30,24-201,2026-10-20,Wollongong,Global Aid and Development: Challenges and Prospects Tutorial
 INTS204,Tutorial,Tuesday,10:30,12:30,24-201,2026-10-27,Wollongong,Global Aid and Development: Challenges and Prospects Tutorial
+09.22/26-ElyMarceau,ElyMarceau,Tuesday,11:00,12:00,24-201,2026-09-22,Wollongong,PSYC410 research group - Psychology
 BCM 113,Tutorial,Tuesday,11:30,13:30,24-201,2026-03-03,Wollongong,Media Ethics and Law Tutorial
 BCM 113,Tutorial,Tuesday,11:30,13:30,24-201,2026-03-10,Wollongong,Media Ethics and Law Tutorial
 BCM 113,Tutorial,Tuesday,11:30,13:30,24-201,2026-03-17,Wollongong,Media Ethics and Law Tutorial
@@ -49278,6 +49313,7 @@ EXSC423,W_CAS,Monday,09:30,14:00,25-147,2026-11-09,Wollongong,Clinical Practicum
 06.02/26-MeaghanKoch,MeaghanKoch,Tuesday,09:00,13:00,25-147,2026-06-02,Wollongong,Exam Officer - interviews - Education Scheduling
 04.21/26-ChrisComerford,ChrisComerford,Tuesday,10:00,13:00,25-147,2026-04-21,Wollongong,Subject development meeting - School of Creative Arts and Humanities
 03.24/26-VanessaBolton/01,VanessaBolton,Tuesday,11:30,15:00,25-147,2026-03-24,Wollongong,Project Air - Meeting
+08.25/26-RenaeClark/01,RenaeClark,Tuesday,11:30,13:00,25-147,2026-08-25,Wollongong,Infrastructure Grant Ranking Meeting
 03.31/26-GuyDavidson,GuyDavidson,Tuesday,13:30,15:00,25-147,2026-03-31,Wollongong,HDR research proposal review - ASB/CAH
 POL 326,T,Tuesday,15:30,17:30,25-147,2026-03-10,Wollongong,Global Inequality Lecture - Streaming venue for academic use only
 POL 326,T,Tuesday,15:30,17:30,25-147,2026-03-17,Wollongong,Global Inequality Lecture - Streaming venue for academic use only
@@ -57614,6 +57650,7 @@ PSYP911,Lecture,Monday,09:00,17:00,29-G10,2026-02-23,Wollongong,Assessment Lectu
 PSYP932,Lecture,Monday,09:00,17:00,29-G10,2026-02-23,Wollongong,Psychotherapy A Lecture A
 PSYP934,Lecture,Monday,09:00,17:00,29-G10,2026-07-20,Wollongong,
 PSYP935,Lecture,Monday,09:00,17:00,29-G10,2026-07-20,Wollongong,Applied Interventions Lecture/Practical
+09.14/26-EmmaBignell,EmmaBignell,Monday,09:00,10:30,29-G10,2026-09-14,Wollongong,Chancellor Consultation Workshops - People & Culture
 05.25/26-BushraKhan/01,BushraKhan,Monday,09:30,11:30,29-G10,2026-05-25,Wollongong,Student Placement Presentations
 12.01/25-StephaniePerrett,StephaniePerrett,Monday,10:00,12:30,29-G10,2025-12-01,Wollongong,Education Swap Meet - TAEM + HIST and PHIL - ASSH - TAEM
 03.09/26-EllaLeimbach/01,EllaLeimbach,Monday,10:30,12:30,29-G10,2026-03-09,Wollongong,"Research seminars for Faculty of Arts, Society and Business"
@@ -57631,6 +57668,7 @@ HAS 354,Seminar,Monday,10:30,12:30,29-G10,2026-10-19,Wollongong,Innovative Justi
 HAS 354,Seminar,Monday,10:30,12:30,29-G10,2026-10-26,Wollongong,Innovative Justice Seminar
 06.29/26-GabriellaHolmes/01,GabriellaHolmes,Monday,11:00,13:30,29-G10,2026-06-29,Wollongong,Support and Wellbeing Unit team workshop
 12.01/25-KianRayner,KianRayner,Monday,12:30,15:30,29-G10,2025-12-01,Wollongong,Delegation Visit - BAL
+11.09/26-JannahSmithers,JannahSmithers,Monday,13:00,15:30,29-G10,2026-11-09,Wollongong,North Asia Performing Agent Familiarization - ASB Faculty Visit - Arts Society & Business
 LLB1115,Seminar,Monday,13:30,15:30,29-G10,2026-03-02,Wollongong,Legal Skills Seminar
 LLB1115,Seminar,Monday,13:30,15:30,29-G10,2026-03-09,Wollongong,Legal Skills Seminar
 LLB1115,Seminar,Monday,13:30,15:30,29-G10,2026-03-16,Wollongong,Legal Skills Seminar
@@ -57713,6 +57751,7 @@ PSYP935,Lecture,Tuesday,09:00,17:00,29-G10,2026-07-21,Wollongong,Applied Interve
 EXSC423,W_CAS,Tuesday,10:30,12:30,29-G10,2026-07-07,Wollongong,Clinical Practicum
 09.29/16-AlexaBrisbin/01,AlexaBrisbin,Tuesday,12:00,00:00,29-G10,2026-09-29,Wollongong,Creative and Performing Arts (CAPA) Days Workshops Bump in
 WUCB521,Lecture,Tuesday,12:30,15:30,29-G10,2026-08-11,Wollongong,Statistics for Business Lecture
+09.22/26-EmmaBignell,EmmaBignell,Tuesday,13:30,15:30,29-G10,2026-09-22,Wollongong,Chancellor Consultation Workshops - People & Culture
 02.04/26-AnnetteSloot/02,AnnetteSloot,Tuesday,14:00,17:00,29-G10,2026-02-03,Wollongong,Bump in - EIS Symposium
 08.04/26-AshannaRoberts/01,AshannaRoberts,Tuesday,14:00,21:00,29-G10,2026-08-04,Wollongong,Spotlight on Criminology - 29-G10
 EXSC402,Tutorial,Tuesday,14:30,16:30,29-G10,2026-03-10,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
@@ -57736,10 +57775,12 @@ EXSC902,Tutorial,Tuesday,14:30,16:30,29-G10,2026-05-26,Wollongong,Musculoskeleta
 EXSC402,Tutorial,Tuesday,14:30,16:30,29-G10,2026-06-02,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
 EXSC902,Tutorial,Tuesday,14:30,16:30,29-G10,2026-06-02,Wollongong,Musculoskeletal Clinical Exercise Physiology Tutorial
 07.28/26-StaceyThomas/01,StaceyThomas,Tuesday,14:30,17:30,29-G10,2026-07-28,Wollongong,University Leadership Group
+10.27/26-CourtneyBurns,CourtneyBurns,Tuesday,14:30,22:30,29-G10,2026-10-27,Wollongong,CNI Breakfast Meeting - Set Up - Student Recruitment & Access
 12.16/25-LukeMadigan/03,LukeMadigan,Tuesday,17:30,19:00,29-G10,2026-02-03,Wollongong,AIS - Athlete Education Workshops
 00CAS3-DiscoveryDays-Yr12-Feb26/14,DiscoveryDays,Wednesday,06:00,14:30,29-G10,2026-02-18,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Wednesday,06:00,00:00,29-G10,2026-06-10,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 09.29/16-AlexaBrisbin/02,AlexaBrisbin,Wednesday,06:00,00:00,29-G10,2026-09-30,Wollongong,Creative and Performing Arts (CAPA) Days Workshops (120 people)
+10.28/26-CourtneyBurns,CourtneyBurns,Wednesday,06:00,12:00,29-G10,2026-10-28,Wollongong,CNI Breakfast Meeting - Student Recruitment & Access
 02.04/26-AnnetteSloot/01,AnnetteSloot,Wednesday,07:00,17:00,29-G10,2026-02-04,Wollongong,EIS Symposium
 01.13/26-KarenWalton/01,KarenWalton,Wednesday,08:30,17:00,29-G10,2026-01-14,Wollongong,SMH - Teaching Intensive Week
 PSYP923,Lecture\Tutorial,Wednesday,08:30,12:00,29-G10,2026-03-04,Wollongong,Practicum Lecture\Tutorial
@@ -57764,6 +57805,7 @@ DSCI110,Tutorial,Wednesday,09:30,12:30,29-G10,2026-01-21,Wollongong,Foundation C
 DSCI106,Practical,Wednesday,09:30,12:30,29-G10,2026-04-22,Wollongong,Foundation Chemistry: Properties of Matter Practical
 DSCI106,Practical,Wednesday,09:30,12:30,29-G10,2026-05-06,Wollongong,Foundation Chemistry: Properties of Matter Practical
 DSCI106,Practical,Wednesday,09:30,12:30,29-G10,2026-05-20,Wollongong,Foundation Chemistry: Properties of Matter Practical
+09.16/26-EmmaBignell,EmmaBignell,Wednesday,09:30,11:30,29-G10,2026-09-16,Wollongong,Chancellor Consultation Workshops - People & Culture
 05.27/26-HonglinChen/01,HonglinChen,Wednesday,10:00,11:30,29-G10,2026-05-27,Wollongong,Promotion Application Workshop 1
 07.01/26-MartinKeyes,MartinKeyes,Wednesday,10:00,11:30,29-G10,2026-07-01,Wollongong,Room AV testing for July ULG event - BMC
 12.03/25-MichelleFaughlin/01,MichelleFaughlin,Wednesday,10:30,16:30,29-G10,2025-12-03,Wollongong,BAL End of Year Staff Update and Function
@@ -57896,6 +57938,7 @@ PSYP923,Lecture\Practical,Thursday,12:30,13:30,29-G10,2026-10-29,Wollongong,Prac
 PSYP924,Lecture\Practical,Thursday,12:30,13:30,29-G10,2026-10-29,Wollongong,Advanced Practicum Lecture Practical B
 04.09/26-SteveDarragh,SteveDarragh,Thursday,13:30,15:30,29-G10,2026-04-09,Wollongong,IPD Meeting - IPD
 05.14/26-JessFinnegan-Kelly,JessFinnegan,Thursday,13:30,20:30,29-G10,2026-05-14,Wollongong,Disability training - People and Culture Division
+09.22/26-EmmaBignell,EmmaBignell,Thursday,13:30,15:30,29-G10,2026-09-24,Wollongong,Chancellor Consultation Workshops - People & Culture
 12.11/25-AngelaFiakos/01,AngelaFiakos,Thursday,14:00,00:00,29-G10,2025-12-11,Wollongong,Provost Planning Session - Set-Up
 04.16/26-SteveDarragh,SteveDarragh,Thursday,14:00,16:00,29-G10,2026-04-16,Wollongong,IPD Meeting - IPD
 INDS123,T,Thursday,14:30,16:30,29-G10,2026-08-06,Wollongong,Indigenous Geographies: Working with Country Tutorial
@@ -57914,7 +57957,6 @@ INDS123,T,Thursday,14:30,16:30,29-G10,2026-09-17,Wollongong,Indigenous Geographi
 08.03/26-MichaelCook/02,MichaelCook,Friday,06:00,08:30,29-G10,2026-08-07,Wollongong,RCD Testing - BLD 29
 11.05.26-AlexaBrisbin/02,AlexaBrisbin,Friday,06:00,17:00,29-G10,2026-11-06,Wollongong,Social Sciences Experience Day - 120 students
 12.11/25-AngelaFiakos/02,AngelaFiakos,Friday,08:00,13:00,29-G10,2025-12-12,Wollongong,Provost Planning Session
-11.20/26-JazminEllul/01,JazminEllul,Friday,08:00,17:00,29-G10,2026-11-20,Wollongong,SOSS - Student Showcase
 01.13/26-KarenWalton/01,KarenWalton,Friday,08:30,17:00,29-G10,2026-01-16,Wollongong,SMH - Teaching Intensive Week
 SOWK305,Lecture\Seminar,Friday,08:30,10:30,29-G10,2026-03-06,Wollongong,Social Work Ethics Lecture/Seminar
 SOWK305,Lecture\Seminar,Friday,08:30,10:30,29-G10,2026-03-20,Wollongong,Social Work Ethics Lecture/Seminar
@@ -60415,6 +60457,7 @@ PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-08-11,Wollongong,Visual Percepti
 PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-08-18,Wollongong,Visual Perception Lecture
 PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-08-25,Wollongong,Visual Perception Lecture
 PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-09-01,Wollongong,Visual Perception Lecture
+09.08/26-SophieGailer,SophieGailer,Tuesday,13:30,15:30,35-G20,2026-09-08,Wollongong,School Meeting - SMAH
 PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-09-15,Wollongong,Visual Perception Lecture
 PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-09-22,Wollongong,Visual Perception Lecture
 PSYC328,Lecture,Tuesday,13:30,15:30,35-G20,2026-10-06,Wollongong,Visual Perception Lecture
@@ -62374,6 +62417,7 @@ POL 202,Tutorial,Wednesday,08:30,10:30,40-122,2026-05-13,Wollongong,Politics in 
 POL 202,Tutorial,Wednesday,08:30,10:30,40-122,2026-05-20,Wollongong,Politics in the USA Tutorial
 POL 202,Tutorial,Wednesday,08:30,10:30,40-122,2026-05-27,Wollongong,Politics in the USA Tutorial
 POL 202,Tutorial,Wednesday,08:30,10:30,40-122,2026-06-03,Wollongong,Politics in the USA Tutorial
+09.02/26-AnnabelClancy,AnnabelClancy,Wednesday,08:30,11:30,40-122,2026-09-02,Wollongong,In session invigilated exam - MIHS
 09.09/26-AdelleLiebenberg/02,AdelleLiebenberg,Wednesday,08:30,15:00,40-122,2026-09-09,Wollongong,HAS 961 - Intensive workshop
 08.05/26-OliviaMaksymczuk,OliviaMaksymczuk,Wednesday,09:00,10:00,40-122,2026-08-05,Wollongong,CNI breakfast + tour of potential rooms - Student Growth & Engagement
 MATH222,Lecture,Wednesday,10:30,12:30,40-122,2026-03-04,Wollongong,
@@ -64319,7 +64363,6 @@ SNUG107,Tutorial,Thursday,13:30,15:30,40-131,2026-04-30,Wollongong,Primary Healt
 SNUG107,Tutorial,Thursday,13:30,15:30,40-131,2026-05-07,Wollongong,Primary Health Care Tutorial
 SNUG107,Tutorial,Thursday,13:30,15:30,40-131,2026-05-14,Wollongong,Primary Health Care Tutorial
 SNUG107,Tutorial,Thursday,13:30,15:30,40-131,2026-05-21,Wollongong,Primary Health Care Tutorial
-09.17/26-ShaylaTa/01,ShaylaTa,Thursday,14:00,16:00,40-131,2026-09-17,Wollongong,annual economics public lecture
 SNUG107,Tutorial,Thursday,15:30,17:30,40-131,2026-03-05,Wollongong,Primary Health Care Tutorial
 SNUG107,Tutorial,Thursday,15:30,17:30,40-131,2026-03-12,Wollongong,Primary Health Care Tutorial
 SNUG107,Tutorial,Thursday,15:30,17:30,40-131,2026-03-19,Wollongong,Primary Health Care Tutorial
@@ -75374,6 +75417,7 @@ LLB1130,Seminar,Friday,11:30,13:30,67-101,2026-05-29,Wollongong,Criminal Law and
 LLB1130,Seminar,Friday,11:30,13:30,67-101,2026-06-05,Wollongong,Criminal Law and Procedure A Seminar
 12.22/25-BrontePetrolo/01,BrontePetrolo,Friday,12:00,00:00,67-101,2025-12-19,Wollongong,BUMP-IN Graduate Photo Day - Division of Student Life
 06.12/26-SvitlanaNastenko/01,SvitlanaNastenko,Friday,12:00,18:00,67-101,2026-06-12,Wollongong,College Graduation
+10.30/26-SvitlanaNastenko/02,SvitlanaNastenko,Friday,12:30,13:30,67-101,2026-10-30,Wollongong,UOW College - Graduation Ceremony
 EDMM101,Workshop,Friday,13:30,14:30,67-101,2026-03-06,Wollongong,Mathematics Foundations Workshop
 EDMM101,Workshop,Friday,13:30,14:30,67-101,2026-03-13,Wollongong,Mathematics Foundations Workshop
 EDMM101,Workshop,Friday,13:30,14:30,67-101,2026-03-20,Wollongong,Mathematics Foundations Workshop
@@ -75406,6 +75450,7 @@ DMHS100,Help Session,Friday,14:30,15:30,67-101,2026-05-08,Wollongong,Human Struc
 DMHS100,Help Session,Friday,14:30,15:30,67-101,2026-05-15,Wollongong,Human Structure and Function Help Session
 DMHS100,Help Session,Friday,14:30,15:30,67-101,2026-05-22,Wollongong,Human Structure and Function Help Session
 11.28/26-AshannaRoberts/01,AshannaRoberts,Friday,15:30,20:00,67-101,2025-11-28,Wollongong,The Surfing Australia Opening Ceremony
+10.30/26-SvitlanaNastenko/03,SvitlanaNastenko,Friday,15:30,18:00,67-101,2026-10-30,Wollongong,UOW College - Graduation Ceremony
 12.06/25-MarjoNiemela/02,MarjoNiemela,Friday,18:00,00:00,67-101,2025-12-05,Wollongong,IEEE - International Conference on Energy Technologies for Future Grids - BUMP-IN
 12.06/25-MarjoNiemela/03,MarjoNiemela,Saturday,06:00,00:00,67-101,2025-12-06,Wollongong,IEEE - International Conference on Energy Technologies for Future Grids - BUMP-IN
 12.22/25-BrontePetrolo/02,BrontePetrolo,Saturday,06:00,00:00,67-101,2025-12-20,Wollongong,BUMP-IN Graduate Photo Day - Division of Student Life
@@ -75871,6 +75916,7 @@ PSYP934,LP,Thursday,08:30,12:00,67-102,2026-10-22,Wollongong,
 PSYP935,Lecture\Practical,Thursday,08:30,12:00,67-102,2026-10-29,Wollongong,Applied Interventions Lecture/Practical
 05.07/26-AmberCroft/01,AmberCroft,Thursday,09:00,13:00,67-102,2026-05-07,Wollongong,DVCE - Workshop
 06.17/26-ElisaVohradsky/04,ElisaVohradsky,Thursday,09:00,11:30,67-102,2026-06-25,Wollongong,MATH305 exams
+09.10/26-ElyMarceau,ElyMarceau,Thursday,09:00,11:30,67-102,2026-09-10,Wollongong,PSYC410 research group - Psychology
 CHEM104,Workshop,Thursday,09:30,11:30,67-102,2026-03-12,Wollongong,Foundation Chemistry: Properties of Matter Tutorial\Workshop
 03.19/26-TaniaDunn/01,TaniaDunn,Thursday,09:30,11:30,67-102,2026-03-19,Wollongong,One off booking for INDS205
 CHEM104,Workshop,Thursday,09:30,11:30,67-102,2026-03-26,Wollongong,Foundation Chemistry: Properties of Matter Tutorial\Workshop
@@ -76341,6 +76387,7 @@ PSYP923,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-05-28,Wollongong,Prac
 PSYP924,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-05-28,Wollongong,Advanced Practicum Lecture Practical
 PSYP923,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-06-04,Wollongong,Practicum Lecture Practical
 PSYP924,Lecture\Practical,Thursday,12:30,13:30,67-104,2026-06-04,Wollongong,Advanced Practicum Lecture Practical
+09.17/26-ShaylaTa,ShaylaTa,Thursday,14:00,16:00,67-104,2026-09-17,Wollongong,annual economics public lecture - Alfredo Paloyo - SOB
 ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-08-13,Wollongong,In-class quiz/exam
 ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-08-27,Wollongong,In-class quiz/exam
 ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-09-10,Wollongong,In-class quiz/exam
@@ -77065,6 +77112,7 @@ CSIT988,Lecture,Friday,09:30,11:30,67-107,2026-06-05,Wollongong,
 03.06/26-SvitlanaNastenko,SvitlanaNastenko,Friday,11:30,12:30,67-107,2026-03-06,Wollongong,Graduation assembly for visiting Japanese students - UOWC
 06.12/26-SvitlanaNastenko/01,SvitlanaNastenko,Friday,12:00,18:00,67-107,2026-06-12,Wollongong,College Graduation
 07.17/26-LisaBourke/01,LisaBourke,Friday,12:00,15:00,67-107,2026-07-17,Wollongong,Orientation - Kooloobong Village
+10.30/26-SvitlanaNastenko/01,SvitlanaNastenko,Friday,12:30,18:00,67-107,2026-10-30,Wollongong,UOW College - Graduation Ceremony
 06.19/26-KristinaTanaskovska/01,KristinaTanaskovska,Friday,13:00,16:30,67-107,2026-06-19,Wollongong,SMH - Autumn Final Exams
 05.22/26-RebeccaCalleia,RebeccaCalleia,Friday,14:00,15:00,67-107,2026-05-22,Wollongong,Checking Accessibility Requirements - Student Support and Wellbeing
 06.26/26-SashikaMendis,SashikaMendis,Friday,14:00,15:00,67-107,2026-06-26,Wollongong,3MT practice run - RSD
@@ -79486,6 +79534,11 @@ PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-08,Wollongong,Mathematics fo
 PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-15,Wollongong,Mathematics for the Sciences B
 PREP042,Tutorial,Tuesday,10:30,12:30,67-209,2026-09-22,Wollongong,Mathematics for the Sciences B
 08.04/26-TrangNguyen/02,TrangNguyen,Tuesday,11:00,12:00,67-209,2026-08-04,Wollongong,Meeting UOW CCB Team
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,13:00,13:30,67-209,2026-08-25,Wollongong,PREP033 Block B consultations - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,13:00,13:30,67-209,2026-09-01,Wollongong,PREP033 Block B consultations - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,13:00,13:30,67-209,2026-09-08,Wollongong,PREP033 Block B consultations - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,13:00,13:30,67-209,2026-09-15,Wollongong,PREP033 Block B consultations - UOWC
+09.22/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,13:00,13:30,67-209,2026-09-22,Wollongong,PREP033 Block B consultations - UOWC
 05.18/26-SarinaMiller/01,SarinaMiller,Tuesday,13:30,15:30,67-209,2026-05-19,Wollongong,Novice Intervarsity Moot - Practice Competition
 PREP031,Tutorial,Tuesday,13:30,15:30,67-209,2026-07-28,Wollongong,Language for Learning Tutorial
 PREP033,Tutorial,Tuesday,13:30,15:30,67-209,2026-08-18,Wollongong,Mathematics for the Humanities
@@ -79549,6 +79602,7 @@ WUCB122,Tutorial,Wednesday,10:30,12:30,67-209,2026-09-02,Wollongong,Accounting P
 WUCB122,Tutorial,Wednesday,10:30,12:30,67-209,2026-09-09,Wollongong,Accounting Principles Tutorial
 WUCB122,Tutorial,Wednesday,10:30,12:30,67-209,2026-09-16,Wollongong,Accounting Principles Tutorial
 PREP033,Tutorial,Wednesday,10:30,12:30,67-209,2026-09-23,Wollongong,Mathematics for the Humanities
+09.23/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,67-209,2026-09-23,Wollongong,PREP033 Block B consultations - UOWC
 DASH130,Tutorial,Wednesday,13:30,15:30,67-209,2026-03-11,Wollongong,Social Determinants of Health Tutorial
 04.01/26-ToniSeton,ToniSeton,Wednesday,13:30,14:30,67-209,2026-04-01,Wollongong,AP student exams LLB3314 - School of Law
 04.15/26-SarinaMiller,SarinaMiller,Wednesday,13:30,14:30,67-209,2026-04-15,Wollongong,LLB3314 deferred quiz - school of law
@@ -80937,6 +80991,7 @@ GEOG336,Workshop,Friday,13:30,16:30,67-302,2026-04-10,Wollongong,Qualitative Res
 04.17/26-XiaopingLu,XiaopingLu,Friday,13:30,14:30,67-302,2026-04-17,Wollongong,MATH283 MSE - MAP
 GEOG336,Workshop,Friday,13:30,16:30,67-302,2026-05-08,Wollongong,Qualitative Research Design for Social Scientists Workshop
 GEOG336,Help Session,Friday,13:30,16:30,67-302,2026-05-15,Wollongong,Qualitative Research Design for Social Scientists Help Session
+LLB1170,S,Friday,13:30,15:30,67-302,2026-10-30,Wollongong,From 67-101
 MATH283,Workshop,Friday,14:30,17:00,67-302,2026-04-17,Wollongong,
 MATH291,Workshop,Friday,14:30,17:00,67-302,2026-04-17,Wollongong,
 MTH8283,Workshop,Friday,14:30,17:00,67-302,2026-04-17,Wollongong,
@@ -83115,10 +83170,13 @@ VNUR300,TA,Monday,08:30,15:30,30-111,2026-11-09,UOW College Wollongong,Vocationa
 VNUR300,TA,Monday,08:30,15:30,30-111,2026-11-16,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 12.15/25-SvitlanaNastenko,SvitlanaNastenko,Monday,10:00,13:30,30-111,2025-12-15,UOW College Wollongong,DART108 Deferred Quiz 2 – Access Plan students - UOWC
 STOU004,Kobe,Monday,12:00,14:00,30-111,2026-08-24,UOW College Wollongong,Kobe International Uni - Group meeting
+09.21/26-SvitlanaNastenko,SvitlanaNastenko,Monday,12:30,13:30,30-111,2026-09-21,UOW College Wollongong,PREP033 Block B PALS session - UOWC
 12.08/25-SvitlanaNastenko,SvitlanaNastenko,Monday,13:00,16:00,30-111,2025-12-08,UOW College Wollongong,WUCB160 Deferred Mid-session exam - UOWC
 01.05/26-SvitlanaNastenko,SvitlanaNastenko,Monday,13:30,14:00,30-111,2026-01-05,UOW College Wollongong,ELICOS Orientation Day Homestay Q&A Drop in session Intake 1 - UOWC
 05.25/26-SvitlanaNastenko/03,SvitlanaNastenko,Monday,13:30,15:30,30-111,2026-05-25,UOW College Wollongong,PREP033 Academic Autumn Exam
+08.24/26-SvitlanaNastenko,SvitlanaNastenko,Monday,14:00,15:00,30-111,2026-08-24,UOW College Wollongong,Homestay session + Activities - UOWC
 09.28/26-SvitlanaNastenko/03,SvitlanaNastenko,Monday,14:00,16:00,30-111,2026-09-28,UOW College Wollongong,Homestay Q&A Drop-in session
+09.21/26-SvitlanaNastenko,SvitlanaNastenko,Monday,15:30,16:30,30-111,2026-09-21,UOW College Wollongong,PREP033 Block B PALS session - UOWC
 06.15/26-SvitlanaNastenko,SvitlanaNastenko,Monday,16:30,20:30,30-111,2026-06-15,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 VNUR100,TB,Tuesday,08:30,15:30,30-111,2025-11-25,UOW College Wollongong,Vocational Nursing Session 1- Jul 25 Intake
 VNUR100,TB,Tuesday,08:30,15:30,30-111,2025-12-02,UOW College Wollongong,Vocational Nursing Session 1- Jul 25 Intake
@@ -83257,6 +83315,18 @@ STOU004,KaichiMirai,Wednesday,14:30,15:30,30-111,2026-04-01,UOW College Wollongo
 08.05/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-08-05,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-08-12,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-08-19,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-08-26,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-09-02,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-09-09,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-09-16,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-09-30,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-10-07,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-10-14,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-10-21,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-10-28,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-11-04,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-11-11,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-111,2026-11-18,UOW College Wollongong,Japanese Club session - UOWC
 ETS 100,TD,Thursday,08:30,12:30,30-111,2025-11-27,UOW College Wollongong,ETS Session 1 Tutorial
 ETS 100,TD,Thursday,08:30,12:30,30-111,2025-12-04,UOW College Wollongong,ETS Session 1 Tutorial
 ETS 100,TD,Thursday,08:30,12:30,30-111,2025-12-11,UOW College Wollongong,ETS Session 1 Tutorial
@@ -83387,6 +83457,8 @@ ETS 101,TE,Friday,08:30,12:30,30-111,2026-11-06,UOW College Wollongong,ETS18 Ses
 06.12/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:00,13:30,30-111,2026-06-12,UOW College Wollongong,English Teachers meeting - UOWC
 06.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,12:30,30-111,2026-06-26,UOW College Wollongong,Academic Supp Exams - UOWC
 08.21/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,14:00,30-111,2026-08-21,UOW College Wollongong,UOW Hong Kong - storing luggages - UOWC
+09.04/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,10:30,30-111,2026-09-04,UOW College Wollongong,Chemistry PALS session - UOWC
+09.04/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,10:30,30-111,2026-09-18,UOW College Wollongong,Chemistry PALS session - UOWC
 ETS 300,TG,Friday,10:30,12:30,30-111,2026-01-09,UOW College Wollongong,ETS Session 3 Tutorial
 BRDG001,TC,Friday,10:30,12:30,30-111,2026-01-16,UOW College Wollongong,Bridging for Advanced Mathematics Tutorial
 BRDG001,TC,Friday,10:30,12:30,30-111,2026-01-23,UOW College Wollongong,Bridging for Advanced Mathematics Tutorial
@@ -83438,6 +83510,19 @@ BRDG001,Tutorial,Friday,12:30,14:30,30-111,2026-10-02,UOW College Wollongong,Bri
 08.05/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-08-07,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-08-14,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-08-21,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-08-28,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-09-04,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-09-11,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-09-18,UOW College Wollongong,Japanese Club session - UOWC
+09.25/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-09-25,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-10-02,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-10-09,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-10-16,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-10-23,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-10-30,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-11-06,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-11-13,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-111,2026-11-20,UOW College Wollongong,Japanese Club session - UOWC
 IAS 101,TA,Monday,08:30,12:30,30-112,2026-01-12,UOW College Wollongong,Introduction to Academic Studies Tutorial
 IAS 101,TA,Monday,08:30,12:30,30-112,2026-01-19,UOW College Wollongong,Introduction to Academic Studies Tutorial
 IAS 101,TA,Monday,08:30,12:30,30-112,2026-02-02,UOW College Wollongong,Introduction to Academic Studies Tutorial
@@ -83641,6 +83726,19 @@ VOCL205,TB,Wednesday,09:00,16:00,30-112,2026-11-18,UOW College Wollongong,Vocati
 08.05/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-08-05,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-08-12,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-08-19,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-08-26,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-09-02,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-09-09,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-09-16,UOW College Wollongong,Japanese Club session - UOWC
+09.23/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-09-23,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-09-30,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-10-07,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-10-14,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-10-21,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-10-28,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-11-04,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-11-11,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-112,2026-11-18,UOW College Wollongong,Japanese Club session - UOWC
 VOCL205,TC,Thursday,09:00,15:00,30-112,2025-11-27,UOW College Wollongong,Vocational Session 5
 VOCL205,TC,Thursday,09:00,15:00,30-112,2025-12-04,UOW College Wollongong,Vocational Session 5
 VOCL205,TC,Thursday,09:00,15:00,30-112,2025-12-11,UOW College Wollongong,Vocational Session 5
@@ -83779,6 +83877,19 @@ EPU 101,HS,Friday,13:30,15:30,30-112,2026-08-14,UOW College Wollongong,E+U Gener
 08.05/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-08-07,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-08-14,UOW College Wollongong,Japanese Club session - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-08-21,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-08-28,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-09-04,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-09-11,UOW College Wollongong,Japanese Club session - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-09-18,UOW College Wollongong,Japanese Club session - UOWC
+09.23/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-09-25,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-10-02,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-10-09,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-10-16,UOW College Wollongong,Japanese Club session - UOWC
+09.30/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-10-23,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-10-30,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-11-06,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-11-13,UOW College Wollongong,Japanese Club session - UOWC
+10.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:00,18:00,30-112,2026-11-20,UOW College Wollongong,Japanese Club session - UOWC
 06.20/26-SvitlanaNastenko/01,SvitlanaNastenko,Saturday,08:30,10:30,30-112,2026-06-20,UOW College Wollongong,Mode cert IV fitness
 ETS 101,TF,Monday,08:30,10:30,30-113,2025-11-24,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TF,Monday,08:30,10:30,30-113,2025-12-01,UOW College Wollongong,ETS18 Session 1 Tutorial
@@ -83920,6 +84031,10 @@ PREP034,Workshop,Tuesday,12:30,13:30,30-113,2026-01-20,UOW College Wollongong,Ma
 07.14/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-08-04,UOW College Wollongong,Conversation Groups (Student Activity) - UOWC
 08.11/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-08-11,UOW College Wollongong,Conversation Groups and student Activities - UOWC
 08.11/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-08-18,UOW College Wollongong,Conversation Groups and student Activities - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-08-25,UOW College Wollongong,Conversation Groups and student Activities - UOWC
+09.01/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-09-01,UOW College Wollongong,Conversation Groups and student Activities - UOWC
+09.01/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-09-08,UOW College Wollongong,Conversation Groups and student Activities - UOWC
+09.01/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,14:30,30-113,2026-09-15,UOW College Wollongong,Conversation Groups and student Activities - UOWC
 01.27/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,13:00,17:30,30-113,2026-01-27,UOW College Wollongong,WUCB122 Academic Summer Exams - UOWC
 ETS 101,L,Tuesday,13:30,15:30,30-113,2025-11-25,UOW College Wollongong,ETS18 Session 1 Lecture
 ETS 101,L,Tuesday,13:30,15:30,30-113,2025-12-02,UOW College Wollongong,ETS18 Session 1 Lecture
@@ -84070,6 +84185,10 @@ ETS 300,TD,Thursday,11:30,12:30,30-113,2026-08-13,UOW College Wollongong,Student
 07.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-07-30,UOW College Wollongong,WUCB521 consultations - UOWC
 08.13/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-08-13,UOW College Wollongong,WUCB521 consultations - UOWC
 08.13/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-08-20,UOW College Wollongong,WUCB521 consultations - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-08-27,UOW College Wollongong,WUCB521 consultations - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-09-03,UOW College Wollongong,WUCB521 consultations - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-09-10,UOW College Wollongong,WUCB521 consultations - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-113,2026-09-17,UOW College Wollongong,WUCB521 consultations - UOWC
 12.18/25-SvitlanaNastenko,SvitlanaNastenko,Thursday,13:30,15:30,30-113,2025-12-18,UOW College Wollongong,Official farewell ELICOS Intake 8 - UOWC
 ETS 300,TF,Thursday,13:30,15:30,30-113,2026-01-08,UOW College Wollongong,ETS Session 3 Tutorial
 ETS 300,TF,Thursday,13:30,15:30,30-113,2026-01-15,UOW College Wollongong,ETS Session 3 Tutorial
@@ -84982,6 +85101,9 @@ STOU001,KyotoSangoyo,Monday,09:00,12:00,30-116,2026-03-02,UOW College Wollongong
 05.29/26-SvitlanaNastenko/02,SvitlanaNastenko,Monday,09:00,13:00,30-116,2026-06-01,UOW College Wollongong,Academic Autumn Exams UOW College
 07.27/26-SvitlanaNastenko,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-07-27,UOW College Wollongong,Careers Workshop - UOWC
 08.24/26-SvitlanaNastenko/02,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-08-24,UOW College Wollongong,PREP033 PALS Session
+08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-08-31,UOW College Wollongong,PREP033 Block B PALS session - UOWC
+08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-09-07,UOW College Wollongong,PREP033 Block B PALS session - UOWC
+08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,12:30,13:30,30-116,2026-09-14,UOW College Wollongong,PREP033 Block B PALS session - UOWC
 PREP032,Tutorial,Monday,13:30,15:30,30-116,2025-11-24,UOW College Wollongong,Scientific Thinking Tutorial
 PREP032,Tutorial,Monday,13:30,15:30,30-116,2025-12-01,UOW College Wollongong,Scientific Thinking Tutorial
 PREP032,Tutorial,Monday,13:30,15:30,30-116,2025-12-08,UOW College Wollongong,Scientific Thinking Tutorial
@@ -85006,6 +85128,9 @@ ETS 101,TA,Monday,13:30,17:30,30-116,2026-06-15,UOW College Wollongong,ETS Sessi
 ETS 101,TA,Monday,13:30,17:30,30-116,2026-06-22,UOW College Wollongong,ETS Session 1
 08.17/26-SvitlanaNastenko,SvitlanaNastenko,Monday,13:30,15:30,30-116,2026-08-17,UOW College Wollongong,Rikkyo group - UOWC
 08.24/26-SvitlanaNastenko/03,SvitlanaNastenko,Monday,15:30,16:30,30-116,2026-08-24,UOW College Wollongong,PREP033 PALS Session
+08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,15:30,16:30,30-116,2026-08-31,UOW College Wollongong,PREP033 Block B PALS session - UOWC
+08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,15:30,16:30,30-116,2026-09-07,UOW College Wollongong,PREP033 Block B PALS session - UOWC
+08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,15:30,16:30,30-116,2026-09-14,UOW College Wollongong,PREP033 Block B PALS session - UOWC
 ENG 003,TB,Tuesday,08:30,12:30,30-116,2025-11-25,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TB,Tuesday,08:30,12:30,30-116,2025-12-02,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TB,Tuesday,08:30,12:30,30-116,2025-12-09,UOW College Wollongong,English Studies 3 Tutorial
@@ -86002,6 +86127,15 @@ ETS 101,TD,Thursday,10:30,12:30,30-118,2026-05-28,UOW College Wollongong,ETS Ses
 07.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-07-23,UOW College Wollongong,Pronunciation Support - UOWC
 07.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-07-30,UOW College Wollongong,Pronunciation Support - UOWC
 08.06/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-08-06,UOW College Wollongong,Pronunciation Support - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-08-27,UOW College Wollongong,Pronunciation Support - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-09-03,UOW College Wollongong,Pronunciation Support - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-09-10,UOW College Wollongong,Pronunciation Support - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-09-17,UOW College Wollongong,Pronunciation Support - UOWC
+10.22/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-10-22,UOW College Wollongong,Pronunciation Support - UOWC
+10.22/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-10-29,UOW College Wollongong,Pronunciation Support - UOWC
+10.22/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-11-05,UOW College Wollongong,Pronunciation Support - UOWC
+10.22/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-11-12,UOW College Wollongong,Pronunciation Support - UOWC
+11.19/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-118,2026-11-19,UOW College Wollongong,Pronunciation Support - UOWC
 STOU001,Rikkyo,Thursday,13:00,15:00,30-118,2026-08-13,UOW College Wollongong,Rikkyo Uni - Guided Project
 STOU001,Rikkyo,Thursday,13:00,15:00,30-118,2026-08-20,UOW College Wollongong,Rikkyo Uni - Guided Project
 ETS 200,TA,Thursday,13:30,17:30,30-118,2025-11-27,UOW College Wollongong,ETS Session 2
@@ -86357,6 +86491,10 @@ ETS 300,TD,Wednesday,10:30,12:30,30-119,2026-05-27,UOW College Wollongong,ETS Se
 07.22/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-07-29,UOW College Wollongong,PREP033 consultations - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-08-12,UOW College Wollongong,PREP033 consultations - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-08-19,UOW College Wollongong,PREP033 consultations - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-08-26,UOW College Wollongong,PREP033 consultations - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-09-02,UOW College Wollongong,PREP033 consultations - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-09-09,UOW College Wollongong,PREP033 consultations - UOWC
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-119,2026-09-16,UOW College Wollongong,PREP033 consultations - UOWC
 ETS 300,TA,Wednesday,13:30,17:30,30-119,2025-11-26,UOW College Wollongong,ETS Session 3
 ETS 300,TA,Wednesday,13:30,17:30,30-119,2025-12-03,UOW College Wollongong,ETS Session 3
 ETS 300,TA,Wednesday,13:30,17:30,30-119,2025-12-10,UOW College Wollongong,ETS Session 3
@@ -86722,6 +86860,10 @@ FSPW202,Tutorial,Tuesday,10:30,12:30,30-120,2026-05-19,UOW College Wollongong,En
 07.21/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-07-28,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
 08.11/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-08-11,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
 08.11/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-08-18,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-08-25,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-09-01,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-09-08,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,12:30,13:30,30-120,2026-09-15,UOW College Wollongong,PALS sessions PREP031 & PREP032 - UOWC
 STOU003,Dokkyo,Tuesday,13:30,16:30,30-120,2026-02-24,UOW College Wollongong,Dokkyo University
 PREP030,Tutorial,Tuesday,13:30,15:30,30-120,2026-03-03,UOW College Wollongong,Tertiary Academic Skills 2 Tutorial
 PREP030,Tutorial,Tuesday,13:30,15:30,30-120,2026-03-10,UOW College Wollongong,Tertiary Academic Skills 2 Tutorial
@@ -87591,6 +87733,7 @@ VNUR200,TA,Wednesday,08:30,15:30,30-G03,2026-11-18,UOW College Wollongong,Vocati
 07.08/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,10:30,12:00,30-G03,2026-07-08,UOW College Wollongong,Orientation – Diploma of Nursing July 2026 - Fitness Course Information - UOWC
 07.08/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,12:30,13:30,30-G03,2026-07-08,UOW College Wollongong,Settling In Session (for International Students) - UOWC
 08.12/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,13:30,15:30,30-G03,2026-08-12,UOW College Wollongong,DSCI112 mid session Exam AP students - UOWC
+09.23/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,16:00,18:00,30-G03,2026-09-23,UOW College Wollongong,Japanese Club session - UOWC
 PREP034,Tutorial,Thursday,08:30,10:30,30-G03,2025-11-27,UOW College Wollongong,Maths for the Sciences Tutorial
 PREP034,Tutorial,Thursday,08:30,10:30,30-G03,2025-12-04,UOW College Wollongong,Maths for the Sciences Tutorial
 PREP034,Tutorial,Thursday,08:30,10:30,30-G03,2025-12-11,UOW College Wollongong,Maths for the Sciences Tutorial
@@ -88009,6 +88152,10 @@ DASH110,Tutorial,Thursday,10:30,12:30,30-G04,2026-01-22,UOW College Wollongong,A
 07.23/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-07-30,UOW College Wollongong,DIPASSH PALS session - UOWC
 08.13/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-08-13,UOW College Wollongong,DIPASSH PALS session - UOWC
 08.13/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-08-20,UOW College Wollongong,DIPASSH PALS session - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-08-27,UOW College Wollongong,DIPASSH PALS session - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-09-03,UOW College Wollongong,DIPASSH PALS session - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-09-10,UOW College Wollongong,DIPASSH PALS session - UOWC
+08.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,12:30,13:30,30-G04,2026-09-17,UOW College Wollongong,DIPASSH PALS session - UOWC
 PREP031,Tutorial,Thursday,13:30,15:30,30-G04,2025-11-27,UOW College Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Thursday,13:30,15:30,30-G04,2025-12-04,UOW College Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Thursday,13:30,15:30,30-G04,2025-12-11,UOW College Wollongong,Language for Learning Tutorial
@@ -88115,6 +88262,8 @@ ENG 003,TE,Friday,08:30,12:30,30-G04,2026-11-06,UOW College Wollongong,English S
 08.14/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,10:30,30-G04,2026-08-14,UOW College Wollongong,Chemistry PALS session - UOWC
 08.14/26-SvitlanaNastenko,SvitlanaNastenko,Friday,10:30,13:30,30-G04,2026-08-14,UOW College Wollongong,Senshu Uni (8 students) luggage and bags. - UOWC
 08.07/26-SvitlanaNastenko,SvitlanaNastenko,Friday,12:30,13:30,30-G04,2026-08-07,UOW College Wollongong,Chemistry PALS session - UOWC
+08.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,12:30,13:30,30-G04,2026-08-28,UOW College Wollongong,Chemistry PALS session - UOWC
+08.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,12:30,13:30,30-G04,2026-09-11,UOW College Wollongong,Chemistry PALS session - UOWC
 STOU002,Meikai,Friday,13:30,16:30,30-G04,2026-02-27,UOW College Wollongong,Meikai University Group Meeting
 PREP033,Tutorial,Friday,13:30,15:30,30-G04,2026-04-24,UOW College Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Friday,13:30,15:30,30-G04,2026-05-01,UOW College Wollongong,Mathematics for the Humanities
@@ -88126,6 +88275,10 @@ PREP033,Tutorial,Friday,13:30,15:30,30-G04,2026-05-29,UOW College Wollongong,Mat
 08.07/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-08-07,UOW College Wollongong,Chemistry PALS session - UOWC
 08.07/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-08-14,UOW College Wollongong,Chemistry PALS session - UOWC
 08.07/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-08-21,UOW College Wollongong,Chemistry PALS session - UOWC
+08.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-08-28,UOW College Wollongong,Chemistry PALS session - UOWC
+08.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-09-04,UOW College Wollongong,Chemistry PALS session - UOWC
+08.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-09-11,UOW College Wollongong,Chemistry PALS session - UOWC
+08.28/26-SvitlanaNastenko,SvitlanaNastenko,Friday,16:30,17:30,30-G04,2026-09-18,UOW College Wollongong,Chemistry PALS session - UOWC
 ETS 300,TA,Monday,08:30,10:30,30-G05,2026-01-05,UOW College Wollongong,ETS Session 3 Tutorial
 ETS 300,TA,Monday,08:30,10:30,30-G05,2026-01-12,UOW College Wollongong,ETS Session 3 Tutorial
 ETS 300,TA,Monday,08:30,10:30,30-G05,2026-01-19,UOW College Wollongong,ETS Session 3 Tutorial
@@ -89172,6 +89325,7 @@ SEA 901,Lecture,Thursday,09:00,16:00,233-G12,2026-07-30,Innovation Campus,Founda
 03.26/26-Prakash/Gopal/01,Prakash,Thursday,14:30,16:00,233-G12,2026-03-26,Innovation Campus,ANCORS - Research Proposal Review
 07.02/26-EmmaPinfold/01,EmmaPinfold,Thursday,16:00,17:30,233-G12,2026-07-02,Innovation Campus,Council Member Booking
 03.05/26-GregKnight/01,GregKnight,Thursday,18:00,21:00,233-G12,2026-03-05,Innovation Campus,Renew Illawarra Pumped Hydro Project - Presentation by Dr Chris Waring
+08.28/26-StaceyBarabash,StaceyBarabash,Friday,08:00,16:00,233-G12,2026-08-28,Innovation Campus,Academic Leadership Blueprint Planning - Educational Excellence (Teaching & Learning)
 11.18/26-AnicaDamcevski/01,AnicaDamcevski,Friday,08:00,17:00,233-G12,2026-11-20,Innovation Campus,ANCORS - International Symposium Innovation in Ocean Governance
 02.13/26-AnicaDamcevski/01,AnicaDamcevski,Friday,08:30,16:30,233-G12,2026-02-13,Innovation Campus,Indonesian Masterclass NoNW
 03.19/26-AnicaDamcevski/01,AnicaDamcevski,Friday,08:30,16:30,233-G12,2026-03-20,Innovation Campus,Japanese and Australian government OPRI Discussions
