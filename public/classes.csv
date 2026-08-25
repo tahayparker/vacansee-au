@@ -40,6 +40,7 @@ MECH442,Lecture,Monday,12:30,14:30,1-105,2026-05-25,Wollongong,
 MECH918,Lecture,Monday,12:30,14:30,1-105,2026-05-25,Wollongong,
 MECH442,Lecture,Monday,12:30,14:30,1-105,2026-06-01,Wollongong,
 MECH918,Lecture,Monday,12:30,14:30,1-105,2026-06-01,Wollongong,
+08.31/26-ErinFilippi/01,ErinFilippi,Monday,14:00,15:00,1-105,2026-08-31,Wollongong,Timetabling Clash Avoidance Training
 MECH442,Tutorial,Monday,14:30,16:30,1-105,2026-03-02,Wollongong,
 MECH918,Tutorial,Monday,14:30,16:30,1-105,2026-03-02,Wollongong,
 MECH442,Tutorial,Monday,14:30,16:30,1-105,2026-03-09,Wollongong,
@@ -548,6 +549,7 @@ ENGG251,Tutorial,Friday,12:30,14:30,1-105,2026-06-05,Wollongong,Mechanics of Sol
 02.27/26-JakeGoetz/01,JakeGoetz,Monday,10:30,13:30,1-G01,2026-04-13,Wollongong,In-Class Test (Small Group Supervision - ENGL120
 06.01/26-DanijelaCancar/01,DanijelaCancar,Monday,12:00,16:00,1-G01,2026-06-01,Wollongong,Student Accessibility & Inclusion Exam
 00CAS2-Exams2026-Trmester2-S&D/01,Exams2026,Monday,13:00,00:00,1-G01,2026-08-24,Wollongong,TRI2 - Supplementary & Deferred Exams
+08.31/26-BelindaHoward,BelindaHoward,Monday,14:00,17:30,1-G01,2026-08-31,Wollongong,Exam for CIVL314 - EIS SOE
 05.04/26-JasonStreat/01,JasonStreat,Monday,16:00,17:30,1-G01,2026-05-04,Wollongong,Dragons
 12.01/25-PeterBennett/01,PeterBennett,Tuesday,06:00,00:00,1-G01,2025-12-02,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Tuesday,06:00,00:00,1-G01,2025-12-09,Wollongong,Essential Air Conditioning works
@@ -20084,7 +20086,6 @@ PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-05-13,Wollongong,Quantita
 PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-05-20,Wollongong,Quantitative Methods in Psychology Computer Lab
 PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-05-27,Wollongong,Quantitative Methods in Psychology Computer Lab
 PSYC250,Computer Lab,Wednesday,08:30,10:00,17-103,2026-06-03,Wollongong,Quantitative Methods in Psychology Computer Lab
-09.09/26-Xu-FengHuang,Xu,Wednesday,09:30,10:30,17-103,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 03.02/26-JeffyPhilip/01,JeffyPhilip,Wednesday,10:00,15:00,17-103,2026-03-04,Wollongong,Student Services - Enrolment Labs
 03.11/26-AlexGalbraith,AlexGalbraith,Wednesday,10:30,12:30,17-103,2026-03-11,Wollongong,Workshop - Excel. We will be meeting as an professional staff + a few academic staff to upskill ourselves in Microsoft excel and need a room that can hold all of us. - School of Nursing
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-04-22,Wollongong,Scientific Thinking
@@ -20093,7 +20094,6 @@ PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-06,Wollongong,Scientif
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-13,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-20,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-103,2026-05-27,Wollongong,Scientific Thinking
-09.09/26-Xu-FengHuang,Xu,Wednesday,11:30,12:30,17-103,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 DSCI109,Computer Lab,Wednesday,13:30,15:30,17-103,2026-02-25,Wollongong,Global Challenges in Science Computer Lab
 PGPH901,Tutorial,Wednesday,13:30,15:30,17-103,2026-03-11,Wollongong,Foundations in Public Health Tutorial
 PGPH901,Tutorial,Wednesday,13:30,15:30,17-103,2026-03-18,Wollongong,Foundations in Public Health Tutorial
@@ -20242,6 +20242,7 @@ PREP032,Computer Lab,Thursday,15:30,17:30,17-103,2026-05-28,Wollongong,Scientifi
 02.27/26-JeffyPhilip/01,JeffyPhilip,Friday,09:00,15:00,17-103,2026-02-27,Wollongong,Student Services - Enrolment Labs
 03.06/26-JeffyPhilip/02,JeffyPhilip,Friday,09:00,16:00,17-103,2026-03-06,Wollongong,Student Services - Enrolment Labs
 03.04/26-JeffyPhilip/01,JeffyPhilip,Friday,09:00,15:30,17-103,2026-03-13,Wollongong,Enrolment Lab
+08.29/26-DeanCutajar/01,DeanCutajar,Friday,10:00,12:00,17-103,2026-08-28,Wollongong,PHYS143 - AP Exam
 PREP031,Computer Lab,Friday,10:30,12:30,17-103,2026-05-15,Wollongong,Language for Learning Computer Lab
 05.29/26-MeganHammersley,MeganHammersley,Friday,10:30,12:30,17-103,2026-05-29,Wollongong,Student access plan assessment - MIHS
 05.01/26-DavidGunawan,DavidGunawan,Friday,11:30,13:30,17-103,2026-05-01,Wollongong,STAT201 MID SEMESTER EXAM - School of Mathematics and Physics
@@ -20410,6 +20411,7 @@ PREP032,Computer Lab,Tuesday,15:30,17:30,17-104,2026-09-22,Wollongong,Scientific
 03.30/26-JeffyPhillip/01,JeffyPhillip,Wednesday,08:30,12:30,17-104,2026-04-01,Wollongong,Student Frontline Services - New Hire Training
 03.30/26-JeffyPhillip/01,JeffyPhillip,Wednesday,08:30,12:30,17-104,2026-04-08,Wollongong,Student Frontline Services - New Hire Training
 07.20/26-JeffyPhilip/04,JeffyPhilip,Wednesday,08:30,16:30,17-104,2026-08-05,Wollongong,Enrolment Lab Spring
+09.09/26-Xu-FengHuang,Xu,Wednesday,08:30,10:30,17-104,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 03.04/26-JeffyPhilip/02,JeffyPhilip,Wednesday,09:00,12:30,17-104,2026-03-11,Wollongong,Enrolment Lab
 03.25/26-AshleyHall,AshleyHall,Wednesday,09:30,11:30,17-104,2026-03-25,Wollongong,Staff Training Intensive - Student Operations
 04.15/26-AshleyHall,AshleyHall,Wednesday,09:30,11:00,17-104,2026-04-15,Wollongong,Staff Training Intensive - Student Operations
@@ -20421,6 +20423,7 @@ PREP032,Computer Lab,Wednesday,10:30,12:30,17-104,2026-05-13,Wollongong,Scientif
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-104,2026-05-20,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-104,2026-05-27,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,10:30,12:30,17-104,2026-08-19,Wollongong,Scientific Thinking
+09.09/26-Xu-FengHuang,Xu,Wednesday,10:30,12:30,17-104,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 04.01/26-KateMaguire/01,KateMaguire,Wednesday,13:00,15:00,17-104,2026-04-01,Wollongong,AskUOW
 04.01/26-KateMaguire/01,KateMaguire,Wednesday,13:00,15:00,17-104,2026-04-08,Wollongong,AskUOW
 04.15/26-KateMaguire,KateMaguire,Wednesday,13:00,16:00,17-104,2026-04-15,Wollongong,Training - Student Services
@@ -20433,8 +20436,8 @@ PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-06,Wollongong,Scientif
 PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-13,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-20,Wollongong,Scientific Thinking
 PREP032,Computer Lab,Wednesday,13:30,15:30,17-104,2026-05-27,Wollongong,Scientific Thinking
+09.09/26-Xu-FengHuang,Xu,Wednesday,13:30,15:30,17-104,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 07.29/26-DazzVan Weersel,DazzVan Weersel,Wednesday,14:30,19:30,17-104,2026-07-29,Wollongong,Outbound Calling Conversion - Student Growth and Engagement Division
-09.09/26-Xu-FengHuang,Xu,Wednesday,14:30,15:30,17-104,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-104,2026-03-11,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-104,2026-03-18,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-104,2026-03-25,Wollongong,Language for Learning Computer Lab
@@ -21249,6 +21252,10 @@ PREP031,Computer Lab,Wednesday,13:30,15:30,17-106,2026-03-18,Wollongong,Language
 PREP031,Computer Lab,Wednesday,13:30,15:30,17-106,2026-03-25,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Wednesday,13:30,15:30,17-106,2026-04-01,Wollongong,Language for Learning Computer Lab
 05.06/26-KateMaguire,KateMaguire,Wednesday,13:30,14:30,17-106,2026-05-06,Wollongong,Training - Student Services
+SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-106,2026-08-26,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
+SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-106,2026-09-02,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
+SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-106,2026-09-09,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
+SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-106,2026-09-16,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
 MEDI231,Computer Lab,Wednesday,14:30,16:30,17-106,2026-04-29,Wollongong,Measurement of diet and health promotion Computer Lab
 MEDI231,Computer Lab,Wednesday,14:30,16:30,17-106,2026-05-06,Wollongong,Measurement of diet and health promotion Computer Lab
 08.03/26-DazzVan Weersel,DazzVan Weersel,Wednesday,14:30,19:30,17-106,2026-08-05,Wollongong,Outbound Calling Conversion - Student Growth and Engagement Division
@@ -21294,7 +21301,6 @@ EDPD201,Computer Lab,Thursday,10:30,12:30,17-106,2026-04-30,Wollongong,Professio
 EDPD201,Computer Lab,Thursday,10:30,12:30,17-106,2026-05-07,Wollongong,Professional Development 1: The Learning Environment Computer Lab
 PREP031,Computer Lab,Thursday,10:30,12:30,17-106,2026-05-28,Wollongong,Language for Learning Computer Lab
 MEDI151,Computer Lab,Thursday,10:30,11:30,17-106,2026-08-20,Wollongong,Healthy Ageing Practical
-09.17/26-Xu-FengHuang,Xu,Thursday,10:30,12:30,17-106,2026-09-17,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-02-26,Wollongong,Networks and Communications Computer Lab
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-03-05,Wollongong,Networks and Communications Computer Lab
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-03-12,Wollongong,Networks and Communications Computer Lab
@@ -21305,7 +21311,6 @@ DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-04-16,Wollongong,Networks 
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-04-23,Wollongong,Networks and Communications Computer Lab
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-05-14,Wollongong,Networks and Communications Computer Lab
 DPIT127,Computer Lab,Thursday,11:30,14:30,17-106,2026-05-21,Wollongong,Networks and Communications Computer Lab
-09.10/26-Xu-FengHuang,Xu,Thursday,11:30,12:30,17-106,2026-09-10,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 MEDI214,Computer Lab,Thursday,11:30,14:30,17-106,2026-10-08,Wollongong,Sport and Exercise Nutrition Computer Lab
 MEDI214,Computer Lab,Thursday,11:30,14:30,17-106,2026-10-15,Wollongong,Sport and Exercise Nutrition Computer Lab
 EDPD201,Computer Lab,Thursday,13:30,15:30,17-106,2026-04-09,Wollongong,Professional Development 1: The Learning Environment Computer Lab
@@ -21538,7 +21543,7 @@ MARK332,Computer Lab,Wednesday,08:30,10:30,17-108,2026-05-27,Wollongong,Digital 
 MARK332,Computer Lab,Wednesday,08:30,10:30,17-108,2026-06-03,Wollongong,Digital and AI Marketing Communications Computer Lab
 07.20/26-JeffyPhilip/01,JeffyPhilip,Wednesday,08:30,16:30,17-108,2026-07-22,Wollongong,Enrolment Lab Spring
 08.05/26-JessMarks,JessMarks,Wednesday,08:30,14:00,17-108,2026-08-05,Wollongong,T2 Exams - Exams
-09.16/26-Xu-FengHuang,Xu,Wednesday,08:30,10:30,17-108,2026-09-16,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
+09.09/26-Xu-FengHuang,Xu,Wednesday,08:30,10:30,17-108,2026-09-09,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 HAS 131,Computer Lab,Wednesday,09:30,10:30,17-108,2026-08-12,Wollongong,Introducing Crime and Justice Computer Lab
 08.19/26-KatherineRiley,KatherineRiley,Wednesday,10:00,16:00,17-108,2026-08-19,Wollongong,VR workshop - Nursing
 DSSC106,Tutorial,Wednesday,10:30,12:30,17-108,2026-02-25,Wollongong,Academic Skills for Social Science Tutorial
@@ -21556,7 +21561,6 @@ MARK332,Computer Lab,Wednesday,10:30,12:30,17-108,2026-05-20,Wollongong,Digital 
 MARK332,Computer Lab,Wednesday,10:30,12:30,17-108,2026-05-27,Wollongong,Digital and AI Marketing Communications Computer Lab
 MARK332,Computer Lab,Wednesday,10:30,12:30,17-108,2026-06-03,Wollongong,Digital and AI Marketing Communications Computer Lab
 HAS 131,Computer Lab,Wednesday,10:30,11:30,17-108,2026-08-12,Wollongong,Introducing Crime and Justice Computer Lab
-09.16/26-Xu-FengHuang,Xu,Wednesday,10:30,12:30,17-108,2026-09-16,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
 HAS 131,Computer Lab,Wednesday,12:30,13:30,17-108,2026-08-12,Wollongong,Introducing Crime and Justice Computer Lab
 11.26/25-KaraKing/02,KaraKing,Wednesday,13:00,15:00,17-108,2025-11-26,Wollongong,BAL Summer Orientation
 04.22/26-RoJayasinghe,RoJayasinghe,Wednesday,13:00,18:00,17-108,2026-04-22,Wollongong,Conversion Calling - FSIE
@@ -21574,7 +21578,6 @@ MARK332,Computer Lab,Wednesday,13:30,15:30,17-108,2026-05-20,Wollongong,Digital 
 MARK332,Computer Lab,Wednesday,13:30,15:30,17-108,2026-05-27,Wollongong,Digital and AI Marketing Communications Computer Lab
 MARK332,Computer Lab,Wednesday,13:30,15:30,17-108,2026-06-03,Wollongong,Digital and AI Marketing Communications Computer Lab
 HAS 131,Computer Lab,Wednesday,13:30,14:30,17-108,2026-08-12,Wollongong,Introducing Crime and Justice Computer Lab
-09.16/26-Xu-FengHuang,Xu,Wednesday,13:30,15:30,17-108,2026-09-16,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Wednesday,15:30,17:30,17-108,2026-02-25,Wollongong,Language for Learning Computer Lab
 MARK332,Computer Lab,Wednesday,15:30,17:30,17-108,2026-03-11,Wollongong,Digital and AI Marketing Communications Computer Lab
 MARK332,Computer Lab,Wednesday,15:30,17:30,17-108,2026-03-18,Wollongong,Digital and AI Marketing Communications Computer Lab
@@ -21601,10 +21604,9 @@ EDPD201,Computer Lab,Thursday,08:30,10:30,17-108,2026-04-09,Wollongong,Professio
 EDPD201,Computer Lab,Thursday,08:30,10:30,17-108,2026-04-30,Wollongong,Professional Development 1: The Learning Environment Computer Lab
 EDPD201,Computer Lab,Thursday,08:30,10:30,17-108,2026-05-07,Wollongong,Professional Development 1: The Learning Environment Computer Lab
 07.20/26-JeffyPhilip/01,JeffyPhilip,Thursday,08:30,16:30,17-108,2026-07-23,Wollongong,Enrolment Lab Spring
-09.17/26-Xu-FengHuang,Xu,Thursday,08:30,10:30,17-108,2026-09-17,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
+09.10/26-Xu-FengHuang,Xu,Thursday,08:30,10:30,17-108,2026-09-10,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 05.28/26-MeganHammersley,MeganHammersley,Thursday,09:00,10:30,17-108,2026-05-28,Wollongong,"In class assessment for a student requiring special provisions - Public Health, MIHS, SMAH"
 HAS 302,Computer Lab,Thursday,09:30,12:30,17-108,2026-05-14,Wollongong,Community Matters: Research and Responses Computer Lab
-09.10/26-Xu-FengHuang,Xu,Thursday,09:30,10:30,17-108,2026-09-10,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Thursday,10:30,12:30,17-108,2026-02-26,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Thursday,10:30,12:30,17-108,2026-03-05,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Thursday,10:30,12:30,17-108,2026-03-12,Wollongong,Language for Learning Computer Lab
@@ -21674,9 +21676,7 @@ EDPD201,Computer Lab,Thursday,15:30,17:30,17-108,2026-05-07,Wollongong,Professio
 00CAS2-Exams2026-Spring&T3/06,Exams2026,Friday,06:00,00:00,17-108,2026-11-13,Wollongong,Spring Exams 2026 - Bld 17
 00CAS2-Exams2026-Spring&T3/06,Exams2026,Friday,06:00,00:00,17-108,2026-11-20,Wollongong,Spring Exams 2026 - Bld 17
 07.20/26-JeffyPhilip/01,JeffyPhilip,Friday,08:30,16:30,17-108,2026-07-24,Wollongong,Enrolment Lab Spring
-09.18/26-Xu-FengHuang,Xu,Friday,08:30,10:30,17-108,2026-09-18,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
 HAS 302,Computer Lab,Friday,09:30,12:30,17-108,2026-05-15,Wollongong,Community Matters: Research and Responses Computer Lab
-09.11/26-Xu-FengHuang,Xu,Friday,09:30,10:30,17-108,2026-09-11,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-02-27,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-03-06,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-03-13,Wollongong,Language for Learning Computer Lab
@@ -21687,8 +21687,6 @@ PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-01,Wollongong,Language fo
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-08,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-22,Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Friday,10:30,12:30,17-108,2026-05-29,Wollongong,Language for Learning Computer Lab
-09.18/26-Xu-FengHuang,Xu,Friday,10:30,12:30,17-108,2026-09-18,Wollongong,"MEDI304 Practical Exam RA - School of Medical, Indigenous and Health Sciences"
-09.11/26-Xu-FengHuang,Xu,Friday,11:30,12:30,17-108,2026-09-11,Wollongong,"MEDI304 Mid session exam - School of Medical, Indigenous and Health Sciences"
 05.01/26-KateMaguire,KateMaguire,Friday,13:00,16:00,17-108,2026-05-01,Wollongong,Training - Student Services
 03.20/26-RoJayasinghe,RoJayasinghe,Friday,13:30,17:00,17-108,2026-03-20,Wollongong,Conversion Calling - FSIE
 05.08/26-DeanCutajar,DeanCutajar,Friday,18:30,20:00,17-108,2026-05-08,Wollongong,Computer based exam - School of Mathematics and Physics
@@ -22748,11 +22746,6 @@ DSCI109,Computer Lab,Wednesday,13:30,15:30,17-110B,2026-04-29,Wollongong,Global 
 PREP029,Lecture,Wednesday,13:30,15:30,17-110B,2026-05-06,Wollongong,Computing Studies Lecture
 PREP029,Lecture,Wednesday,13:30,15:30,17-110B,2026-05-13,Wollongong,Computing Studies Lecture
 PREP029,Lecture,Wednesday,13:30,15:30,17-110B,2026-05-20,Wollongong,Computing Studies Lecture
-SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-110B,2026-08-19,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
-SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-110B,2026-08-26,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
-SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-110B,2026-09-02,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
-SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-110B,2026-09-09,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
-SCII399,Tutorial\Practical,Wednesday,13:30,16:30,17-110B,2026-09-16,Wollongong,"Project Management in Earth, Atmospheric and Life Sciences Tutorial\Practical"
 CHEM360,Computer Lab,Wednesday,13:30,17:30,17-110B,2026-09-23,Wollongong,
 CHEM993,Computer Lab,Wednesday,13:30,17:30,17-110B,2026-09-23,Wollongong,
 12.10/25-RoJayasinghe,RoJayasinghe,Wednesday,14:00,17:30,17-110B,2025-12-10,Wollongong,Conversion Calling - FSIE
@@ -25082,6 +25075,12 @@ PHYS962,Lecture,Tuesday,13:30,15:30,19-1056,2026-05-26,Wollongong,
 PHYS356,Lecture,Tuesday,13:30,15:30,19-1056,2026-06-02,Wollongong,
 PHYS462,Lecture,Tuesday,13:30,15:30,19-1056,2026-06-02,Wollongong,
 PHYS962,Lecture,Tuesday,13:30,15:30,19-1056,2026-06-02,Wollongong,
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-1056,2026-09-22,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-1056,2026-09-29,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-1056,2026-10-06,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-1056,2026-10-13,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+10.20/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-1056,2026-10-20,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+10.20/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-1056,2026-10-27,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
 DSCI108,Lecture,Tuesday,15:30,17:30,19-1056,2026-06-23,Wollongong,"Evolution, Biodiversity and Environment Lecture"
 DSCI108,Lecture,Tuesday,15:30,17:30,19-1056,2026-06-30,Wollongong,"Evolution, Biodiversity and Environment Lecture"
 DSCI108,Lecture,Tuesday,15:30,17:30,19-1056,2026-07-07,Wollongong,"Evolution, Biodiversity and Environment Lecture"
@@ -29768,6 +29767,10 @@ EDMP918,Workshop,Tuesday,13:30,15:30,19-2003,2026-08-04,Wollongong,Language and 
 SNUG332,Tutorial,Tuesday,13:30,17:30,19-2003,2026-08-11,Wollongong,Skills Consolidation for Professional Practice
 EDMP918,Workshop,Tuesday,13:30,15:30,19-2003,2026-09-22,Wollongong,Language and Literacy Pedagogies III Workshop A
 07.21/26-SarahManning,SarahManning,Tuesday,14:00,15:00,19-2003,2026-07-21,Wollongong,Staff meeting - Provost Office
+08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-2003,2026-08-25,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-2003,2026-09-01,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-2003,2026-09-08,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
+08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,14:30,16:30,19-2003,2026-09-15,Wollongong,Uni Bible Group - Leaders Training (Tuesdays) - UniClubs
 04.28/26-GenevieveQuirk,GenevieveQuirk,Tuesday,16:00,18:00,19-2003,2026-04-28,Wollongong,Public holiday make up tutorial - HSI
 WUCB130,Workshop,Tuesday,16:30,17:30,19-2003,2025-12-09,Wollongong,Introduction to Management Workshop
 OPS 920,Tutorial,Tuesday,16:30,18:30,19-2003,2026-08-25,Wollongong,Contemporary Issues in Supply Chain Management Tutorial
@@ -38567,6 +38570,7 @@ EDMS832,Tutorial\Workshop,Wednesday,16:30,18:30,21-230,2026-10-21,Wollongong,Vis
 EDMS832,Tutorial\Workshop,Wednesday,16:30,18:30,21-230,2026-10-28,Wollongong,Visual Arts Method I Tutorial/Workshop
 04.01/26-RebeccaSini/01,RebeccaSini,Thursday,08:30,09:30,21-230,2026-04-02,Wollongong,Supplementary tutorial task for EDMM101
 04.01/26-RebeccaSini/01,RebeccaSini,Thursday,08:30,09:30,21-230,2026-05-07,Wollongong,Supplementary tutorial task for EDMM101
+08.27/26-KirstenCampbell/01,KirstenCampbell,Thursday,10:00,10:30,21-230,2026-08-27,Wollongong,Scope room storage
 EDMP916,Tutorial,Thursday,12:30,14:00,21-230,2026-03-05,Wollongong,The Arts in Education Tutorial
 EDMP916,Tutorial,Thursday,12:30,14:00,21-230,2026-03-12,Wollongong,The Arts in Education Tutorial
 EDMP916,Workshop,Thursday,12:30,14:00,21-230,2026-03-26,Wollongong,The Arts in Education Workshop B
@@ -41228,6 +41232,11 @@ HAS 121,Tutorial,Monday,15:30,17:30,24-103,2026-10-26,Wollongong,Human Developme
 03.30/26-LaraBlair,LaraBlair,Monday,17:30,21:30,24-103,2026-04-13,Wollongong,WUDFA - MiniMUN & Social Nights - Student Engagement
 03.30/26-LaraBlair,LaraBlair,Monday,17:30,21:30,24-103,2026-04-20,Wollongong,WUDFA - MiniMUN & Social Nights - Student Engagement
 08.24/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-08-24,Wollongong,TTS - Heat Tournament - UniClubs
+08.31/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-08-31,Wollongong,Table Top - Monday Board Game Night - UniClubs
+08.31/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-09-07,Wollongong,Table Top - Monday Board Game Night - UniClubs
+08.31/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-09-14,Wollongong,Table Top - Monday Board Game Night - UniClubs
+08.31/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-09-21,Wollongong,Table Top - Monday Board Game Night - UniClubs
+09.28/26-Abdul AzizMohammed,Abdul AzizMohammed,Monday,18:00,23:30,24-103,2026-09-28,Wollongong,Table Top - Monday Board Game Night - UniClubs
 00CAS2-Exams2025-Spring/11,Exams2025,Tuesday,06:00,00:00,24-103,2025-11-25,Wollongong,Spring Exams 2025 - Block out Bld 24
 00CAS2-Exams2025-Spring/11,Exams2025,Tuesday,06:00,00:00,24-103,2025-12-02,Wollongong,Spring Exams 2025 - Block out Bld 24
 00CAS2-Exams2025-Spring/11,Exams2025,Tuesday,06:00,00:00,24-103,2025-12-09,Wollongong,Spring Exams 2025 - Block out Bld 24
@@ -43550,6 +43559,12 @@ EDMS849,Lecture\Tutorial,Tuesday,16:30,18:30,24-201,2026-04-28,Wollongong,Humani
 08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-09-01,Wollongong,Anime and Manga Weeklies - UniClubs
 08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-09-08,Wollongong,Anime and Manga Weeklies - UniClubs
 08.25/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-09-15,Wollongong,Anime and Manga Weeklies - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-09-22,Wollongong,Anime and Manga Weeklies - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-09-29,Wollongong,Anime and Manga Weeklies - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-10-06,Wollongong,Anime and Manga Weeklies - UniClubs
+09.22/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-10-13,Wollongong,Anime and Manga Weeklies - UniClubs
+10.20/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-10-20,Wollongong,Anime and Manga Weeklies - UniClubs
+10.20/26-Abdul AzizMohammed,Abdul AzizMohammed,Tuesday,18:00,21:00,24-201,2026-10-27,Wollongong,Anime and Manga Weeklies - UniClubs
 03.02/26-BrookeDixon/01,BrookeDixon,Tuesday,18:30,21:30,24-201,2026-03-03,Wollongong,Colgate University Class - Jens Christensen
 03.02/26-BrookeDixon/01,BrookeDixon,Tuesday,18:30,21:30,24-201,2026-03-10,Wollongong,Colgate University Class - Jens Christensen
 03.02/26-BrookeDixon/01,BrookeDixon,Tuesday,18:30,21:30,24-201,2026-03-17,Wollongong,Colgate University Class - Jens Christensen
@@ -74605,6 +74620,7 @@ BIOL103,OC_CAS,Tuesday,08:00,17:30,43-G05,2026-09-08,Wollongong,ARC Future Grids
 04.14/26-ClaireOrlov/01,ClaireOrlov,Tuesday,13:30,16:30,43-G05,2026-05-05,Wollongong,SCII101 Access plan in-class quizzes
 04.14/26-ClaireOrlov/01,ClaireOrlov,Tuesday,13:30,16:30,43-G05,2026-05-19,Wollongong,SCII101 Access plan in-class quizzes
 09.15/26-EmmaJames,EmmaJames,Tuesday,17:30,19:30,43-G05,2026-09-15,Wollongong,BIOL241 Mid-session Quiz
+08.26/26-HarryLangford,HarryLangford,Wednesday,08:00,16:00,43-G05,2026-08-26,Wollongong,SCII399 - SSCI
 BIOL103,OC_CAS,Wednesday,08:00,17:30,43-G05,2026-09-09,Wollongong,ARC Future Grids Training Centre
 11.02/26-EmmaJames/01,EmmaJames,Wednesday,08:00,18:00,43-G05,2026-11-04,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Wednesday,08:00,18:00,43-G05,2026-11-11,Wollongong,2026 SSCI Spring exams
@@ -74703,6 +74719,7 @@ BIOL213,WG_CAS,Wednesday,08:30,17:30,43-G06,2026-04-08,Wollongong,BIOL213/813 mi
 04.29/26-MitchellSt Clair-Glover,MitchellSt Clair,Wednesday,11:30,13:00,43-G06,2026-04-29,Wollongong,Supplementary Exam #2 - BIOL340 - SSCI
 07.29/26LauraMothersdill/01,Biol 343 supplementary exam,Wednesday,12:00,14:00,43-G06,2026-07-29,Wollongong,Biol 343 supplementary exam
 08.26/26-HarryLangford/01,HarryLangford,Wednesday,12:30,13:30,43-G06,2026-08-26,Wollongong,MSQ for Biol 214
+08.26/26-HarryLangford,HarryLangford,Wednesday,13:30,16:00,43-G06,2026-08-26,Wollongong,SCII399 - SSCI
 11.02/26-EmmaJames/01,EmmaJames,Thursday,08:00,18:00,43-G06,2026-11-05,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/01,EmmaJames,Thursday,08:00,18:00,43-G06,2026-11-12,Wollongong,2026 SSCI Spring exams
 11.02/26-EmmaJames/02,EmmaJames,Thursday,08:00,18:00,43-G06,2026-11-19,Wollongong,2026 SSCI Spring exams
@@ -77888,6 +77905,7 @@ EDPS302,Tutorial,Tuesday,09:30,11:30,67-202,2026-10-20,Wollongong,Creating Posit
 06.02/26-BelindaHoward/01,BelindaHoward,Tuesday,10:30,11:30,67-202,2026-06-02,Wollongong,Shared Services Divisional Meeting – June 2026
 WUCB122,Workshop,Tuesday,10:30,11:30,67-202,2026-08-18,Wollongong,Accounting Principles Workshop
 WUCB122,Workshop,Tuesday,10:30,11:30,67-202,2026-09-01,Wollongong,Accounting Principles Workshop
+10.06/26-LyndseyFrigo-Smith,LyndseyFrigo,Tuesday,10:30,11:30,67-202,2026-10-06,Wollongong,VPO Leadership Group Meeting - Vice-Chancellor's Unit
 HAS 350,Seminar,Tuesday,11:30,13:30,67-202,2026-03-10,Wollongong,Social Determinants of Indigenous Health Seminar
 HAS 350,Seminar,Tuesday,11:30,13:30,67-202,2026-03-17,Wollongong,Social Determinants of Indigenous Health Seminar
 HAS 350,Seminar,Tuesday,11:30,13:30,67-202,2026-03-24,Wollongong,Social Determinants of Indigenous Health Seminar
@@ -85698,6 +85716,7 @@ WUCB105,Tutorial,Wednesday,15:30,17:30,30-117,2026-04-29,UOW College Wollongong,
 WUCB105,Tutorial,Wednesday,15:30,17:30,30-117,2026-05-06,UOW College Wollongong,Introductory Principles of Finance Tutorial
 WUCB105,Tutorial,Wednesday,15:30,17:30,30-117,2026-05-13,UOW College Wollongong,Introductory Principles of Finance Tutorial
 WUCB105,Tutorial,Wednesday,15:30,17:30,30-117,2026-05-20,UOW College Wollongong,Introductory Principles of Finance Tutorial
+08.26/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,15:30,16:30,30-117,2026-08-26,UOW College Wollongong,Wakayama Uni and Kanazawa Uni presentation - UOWC
 ENG 004,TD,Thursday,08:30,12:30,30-117,2025-11-27,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-117,2025-12-04,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-117,2025-12-11,UOW College Wollongong,English Studies 4 Tutorial
@@ -87986,6 +88005,7 @@ WUCB160,Workshop,Tuesday,10:30,11:30,30-G04,2025-12-16,UOW College Wollongong,Ec
 WUCB160,Workshop,Tuesday,10:30,11:30,30-G04,2026-01-06,UOW College Wollongong,Economic Essentials for Business Workshop
 WUCB160,Workshop,Tuesday,10:30,11:30,30-G04,2026-01-13,UOW College Wollongong,Economic Essentials for Business Workshop
 WUCB160,Workshop,Tuesday,10:30,11:30,30-G04,2026-01-20,UOW College Wollongong,Economic Essentials for Business Workshop
+08.25/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,10:30,12:30,30-G04,2026-08-25,UOW College Wollongong,PREP031 Block B class - UOWC
 WUCB160,Workshop,Tuesday,11:30,12:30,30-G04,2025-11-25,UOW College Wollongong,Economic Essentials for Business Workshop
 WUCB160,Workshop,Tuesday,11:30,12:30,30-G04,2025-12-02,UOW College Wollongong,Economic Essentials for Business Workshop
 WUCB160,Workshop,Tuesday,11:30,12:30,30-G04,2025-12-09,UOW College Wollongong,Economic Essentials for Business Workshop
@@ -101007,6 +101027,7 @@ MNPR917,T,Wednesday,08:30,10:30,400-507,2026-08-19,Liverpool,Emergency Booking -
 DPIT123,Lecture,Wednesday,08:30,10:30,400-507,2026-08-26,Liverpool,Computing and Cyber Security Fundamentals Lecture
 VNUR200,TG,Wednesday,08:30,10:30,400-507,2026-09-09,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TI,Wednesday,08:30,10:30,400-507,2026-09-16,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
+VNUR200,TA,Wednesday,08:30,15:30,400-507,2026-09-23,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR300,TC,Wednesday,08:30,15:30,400-507,2026-10-07,Liverpool,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TC,Wednesday,08:30,15:30,400-507,2026-10-14,Liverpool,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TC,Wednesday,08:30,15:30,400-507,2026-10-21,Liverpool,Vocational Nursing Session 3- Jul 26 Intake
