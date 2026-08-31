@@ -668,6 +668,7 @@ VOCL206,TA,Thursday,09:00,15:00,1-G01,2026-07-23,Wollongong,Vocational Session 6
 04.09/26-StevenDuong,StevenDuong,Thursday,10:00,12:00,1-G01,2026-04-09,Wollongong,Research Meeting - EIS/SCIT
 04.16/26-GuangmingJiang,GuangmingJiang,Thursday,11:00,13:00,1-G01,2026-04-16,Wollongong,exam - SOE
 08.06/26-KaylaMcgee,KaylaMcgee,Thursday,12:00,16:00,1-G01,2026-08-06,Wollongong,Partha Roy - Deferred Exam - School of Computing and Information Technology
+09.03/26-YuqianWang,YuqianWang,Thursday,13:00,14:00,1-G01,2026-09-03,Wollongong,wupa meeting - EIS
 08.13/26-MarianoRodrigo,MarianoRodrigo,Thursday,13:30,15:30,1-G01,2026-08-13,Wollongong,Student meetings - SMAP
 07.30/26-ZuoxiaYu,ZuoxiaYu,Thursday,14:00,16:00,1-G01,2026-07-30,Wollongong,Meeting with student - SCIT
 04.16/26-PhuongDo/02,PhuongDo,Thursday,15:30,17:30,1-G01,2026-04-16,Wollongong,ENVE311/923 mid-session exam access plan students
@@ -34154,7 +34155,9 @@ BALA202,Lecture,Tuesday,08:30,09:30,20-1,2026-07-28,Wollongong,Big Data and Visu
 MECH365,OC_CAS,Tuesday,08:30,10:30,20-1,2026-09-01,Wollongong,MECH365 Mid Session Quiz
 04.14/26-NeazSheikh,NeazSheikh,Tuesday,09:30,12:00,20-1,2026-04-14,Wollongong,Mid-Session Examination - School of Engineering
 04.28/26-MarianneSpinelli,MarianneSpinelli,Tuesday,09:30,13:30,20-1,2026-04-28,Wollongong,MNPR921 Extra session - School Of Nursing
+SPAN152,L,Tuesday,09:30,11:00,20-1,2026-09-08,Wollongong,SPAN152 - Exam
 10.12/26-SvitlanaNastenko/05,SvitlanaNastenko,Tuesday,09:30,12:30,20-1,2026-10-13,Wollongong,College Summer - Orientation
+SPAN152,L,Tuesday,09:30,11:00,20-1,2026-10-20,Wollongong,SPAN152 - Exam
 08.11/26-SharynCasey,SharynCasey,Tuesday,10:00,11:00,20-1,2026-08-11,Wollongong,Financial Services Divisional meeting - Financial Services
 09.02/26-BelindaHoward/06,BelindaHoward,Tuesday,10:00,11:30,20-1,2026-09-15,Wollongong,Visting HDR Students Lectures
 09.22/26-AnuStevens,AnuStevens,Tuesday,10:00,12:30,20-1,2026-09-22,Wollongong,careers event - careers
@@ -54254,7 +54257,7 @@ VCD 203,Practical,Friday,13:30,16:00,29-204,2026-10-30,Wollongong,Social Impact 
 01.31/26-Bus_Stop_Films/03,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-09-12,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/03,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-09-19,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-10-10,Wollongong,Bus Stop Films 2026
-01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-10-17,Wollongong,Bus Stop Films 2026
+10.17/26-AnnaJones/01,AnnaJones,Saturday,09:00,13:30,29-204,2026-10-17,Wollongong,Bus Stop Films - Open Day Workshop
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-10-24,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-10-31,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-204,2026-11-07,Wollongong,Bus Stop Films 2026
@@ -54705,7 +54708,7 @@ VCD 201,Tutorial\Practical,Friday,13:30,16:00,29-217,2026-05-29,Wollongong,Typog
 01.31/26-Bus_Stop_Films/03,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-09-12,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/03,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-09-19,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-10-10,Wollongong,Bus Stop Films 2026
-01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-10-17,Wollongong,Bus Stop Films 2026
+10.17/26-AnnaJones/01,AnnaJones,Saturday,09:00,13:30,29-217,2026-10-17,Wollongong,Bus Stop Films - Open Day Workshop
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-10-24,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-10-31,Wollongong,Bus Stop Films 2026
 01.31/26-Bus_Stop_Films/04,Bus_Stop_Films,Saturday,09:00,13:00,29-217,2026-11-07,Wollongong,Bus Stop Films 2026
@@ -55203,6 +55206,7 @@ BCM 216,Tutorial,Friday,13:30,15:30,29-219,2026-10-16,Wollongong,Transmedia Stor
 BCM 216,Tutorial,Friday,13:30,15:30,29-219,2026-10-23,Wollongong,Transmedia Storytelling Tutorial
 BCM 216,Tutorial,Friday,13:30,15:30,29-219,2026-10-30,Wollongong,Transmedia Storytelling Tutorial
 00CAS3-OpenDay-WG/02,OpenDay,Saturday,06:00,00:00,29-219,2026-06-27,Wollongong,"Open Day Wollongong - Bld 21, 25, 29"
+10.17/26-AnnaJones/02,AnnaJones,Saturday,09:00,13:30,29-219,2026-10-17,Wollongong,Bus Stop Films - Open Day Workshop
 CAVA124,Tutorial\Practical,Monday,09:30,12:30,29-220,2026-03-02,Wollongong,Introduction to Photography 1 Tutorial/Practical
 CAVA124,Tutorial\Practical,Monday,09:30,12:30,29-220,2026-03-09,Wollongong,Introduction to Photography 1 Tutorial/Practical
 CAVA124,Tutorial\Practical,Monday,09:30,12:30,29-220,2026-03-16,Wollongong,Introduction to Photography 1 Tutorial/Practical
@@ -56512,6 +56516,7 @@ BCM 216,Tutorial,Friday,13:30,15:30,29-G03,2026-10-23,Wollongong,Transmedia Stor
 BCM 216,Tutorial,Friday,13:30,15:30,29-G03,2026-10-30,Wollongong,Transmedia Storytelling Tutorial
 00CAS3-OpenDay-WG/02,OpenDay,Saturday,06:00,00:00,29-G03,2026-06-27,Wollongong,"Open Day Wollongong - Bld 21, 25, 29"
 06.17/26-AnnaJones/02,AnnaJones,Saturday,07:30,14:00,29-G03,2026-07-04,Wollongong,Bus Stop Films Workshop
+10.17/26-AnnaJones/03,AnnaJones,Saturday,13:00,13:30,29-G03,2026-10-17,Wollongong,Bus Stop Films - Open Day Workshop
 00CAS3-DiscoveryDays-Yr12-Feb26/04,DiscoveryDays,Monday,06:00,14:30,29-G04,2026-02-16,Wollongong,"Discovery Days Year 12 - Bld 25, 29"
 00CAS3-DiscoveryDays-Yr10-Jun26/02,DiscoveryDays,Monday,06:00,00:00,29-G04,2026-06-08,Wollongong,"Discovery Days Year 10 - Bld 25, 29, 35 (includes set up)"
 11.15/26-MatthewCrawford/02,MatthewCrawford,Monday,06:00,00:00,29-G04,2026-11-16,Wollongong,Rehearsals / NCP Vietnam
@@ -60604,6 +60609,7 @@ ECT8333,Lecture,Tuesday,10:30,12:30,35-G20,2026-05-26,Wollongong,
 ECTE333,Lecture,Tuesday,10:30,12:30,35-G20,2026-05-26,Wollongong,
 ECT8333,Lecture,Tuesday,10:30,12:30,35-G20,2026-06-02,Wollongong,
 ECTE333,Lecture,Tuesday,10:30,12:30,35-G20,2026-06-02,Wollongong,
+SPAN152,L,Tuesday,10:30,11:30,35-G20,2026-09-15,Wollongong,SPAN152 - Exam
 ECT8364,Lecture,Tuesday,11:30,13:30,35-G20,2026-07-28,Wollongong,
 ECTE364,Lecture,Tuesday,11:30,13:30,35-G20,2026-07-28,Wollongong,
 ECT8364,Lecture,Tuesday,11:30,13:30,35-G20,2026-08-04,Wollongong,
@@ -63584,6 +63590,7 @@ ACCY902,Tutorial,Friday,16:30,18:30,40-123,2026-07-24,Wollongong,Financial Accou
 00CAS3-DiscoveryDays-Yr10-Jun26/10,DiscoveryDays,Monday,06:00,00:00,40-124,2026-06-08,Wollongong,"Discovery Days Year 10 - Bld 40, 41, 43, 67 (includes set up)"
 07.07/26-MichaelCook/03,MichaelCook,Monday,06:00,08:00,40-124,2026-07-13,Wollongong,RCD Testing - Bld 40 wk 2 - 40-126 & 40-153 ok block booked (building works)
 00CAS5-Orientation-Spring/02,Orientation,Monday,06:00,00:00,40-124,2026-07-20,Wollongong,"Spring Orientation - Bld 25, 29, 40, 41, 67"
+09.07/26-ChristineO'Brien,ChristineO'Brien,Monday,08:30,12:30,40-124,2026-09-07,Wollongong,Supp exam - Business
 12.15/25-DanielleO'Neill/01,DanielleO'Neill,Monday,09:30,11:30,40-124,2025-12-15,Wollongong,MARK250 Deferred Assessment
 INTS311,Tutorial,Monday,10:30,12:30,40-124,2026-03-09,Wollongong,"Human Security, Global Capitalism and the Environment Tutorial"
 INTS311,Tutorial,Monday,10:30,12:30,40-124,2026-03-16,Wollongong,"Human Security, Global Capitalism and the Environment Tutorial"
@@ -73067,6 +73074,7 @@ BIOL241,Tutorial,Monday,16:30,17:30,43-101,2026-10-26,Wollongong,Biodiversity of
 07.20/26-EmmaJames/01,EmmaJames,Tuesday,08:30,17:30,43-101,2026-07-21,Wollongong,SSCI Autumn Supplementary exams
 12.15/25-SuzanneMiddleton/01,SuzanneMiddleton,Tuesday,09:00,17:00,43-101,2025-12-16,Wollongong,Supplementary and Deferred Exams
 07.07/26-EmmaJames,EmmaJames,Tuesday,09:00,12:00,43-101,2026-07-07,Wollongong,EmpowerHER Stem: DNA session - SSCI
+09.29/26-JulietDiLosa/01,JulietDiLosa,Tuesday,09:00,15:00,43-101,2026-09-29,Wollongong,EmpowerHER Junior program
 BIOL240,Practical,Tuesday,09:30,12:30,43-101,2026-03-17,Wollongong,Biodiversity of Marine and Freshwater Organisms Practical
 BIOL240,Practical,Tuesday,09:30,12:30,43-101,2026-03-24,Wollongong,Biodiversity of Marine and Freshwater Organisms Practical
 BIOL240,Practical,Tuesday,09:30,12:30,43-101,2026-03-31,Wollongong,Biodiversity of Marine and Freshwater Organisms Practical
