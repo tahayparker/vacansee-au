@@ -34808,7 +34808,7 @@ CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-10-13,Wollongong,Web Development L
 CSIT884,Lecture,Tuesday,14:30,15:30,20-1,2026-10-27,Wollongong,Web Development Lecture
 04.07/26-BradNixon/02,BradNixon,Tuesday,16:30,00:00,20-1,2026-04-07,Wollongong,Air conditioning works
 08.18/26-JulietDiLosa/01,JulietDiLosa,Tuesday,17:00,20:30,20-1,2026-08-18,Wollongong,Allan Sefton Memorial Lecture
-09.22/26-KatarinaMikac,KatarinaMikac,Tuesday,18:00,21:00,20-1,2026-09-22,Wollongong,Screening of a documentary - School of Science
+09.22/26-KatarinaMikac,KatarinaMikac,Tuesday,17:00,21:00,20-1,2026-09-22,Wollongong,Screening of a documentary - School of Science
 02.09/26-KarinKarr/01,KarinKarr,Wednesday,06:00,00:00,20-1,2026-02-11,Wollongong,Bayes on the Beach - Bayesian Statistical Conference
 00CAS3-DiscoveryDays-Yr12-Feb26/03,DiscoveryDays,Wednesday,06:00,14:30,20-1,2026-02-18,Wollongong,Discovery Days Year 12 - Bld 20
 00CAS6-Orientation-Autumn-GRS/02,Orientation,Wednesday,06:00,00:00,20-1,2026-02-25,Wollongong,HDR Induction - Autumn
@@ -59977,6 +59977,7 @@ DPEN100,Computer Lab,Thursday,08:30,10:30,35-129,2026-10-22,Wollongong,
 ENGG100,Computer Lab,Thursday,08:30,10:30,35-129,2026-10-22,Wollongong,
 DPEN100,Computer Lab,Thursday,08:30,10:30,35-129,2026-10-29,Wollongong,
 ENGG100,Computer Lab,Thursday,08:30,10:30,35-129,2026-10-29,Wollongong,
+11.05/26-JeffMoscrop/01,JeffMoscrop,Thursday,09:00,16:00,35-129,2026-11-05,Wollongong,Final Year Thesis Presentations - SOE
 ECT8333,Practical,Thursday,09:30,12:30,35-129,2026-03-12,Wollongong,
 ECTE333,Practical,Thursday,09:30,12:30,35-129,2026-03-12,Wollongong,
 ECTE474,Practical,Thursday,09:30,12:30,35-129,2026-03-19,Wollongong,
@@ -66457,7 +66458,6 @@ ECON353,Tutorial,Friday,13:30,15:30,40-230,2026-10-16,Wollongong,Data Analysis I
 ECON353,Tutorial,Friday,13:30,15:30,40-230,2026-10-23,Wollongong,Data Analysis II Tutorial
 ECON353,Tutorial,Friday,13:30,15:30,40-230,2026-10-30,Wollongong,Data Analysis II Tutorial
 OPS 270,W,Friday,14:30,16:30,40-230,2026-05-01,Wollongong,Makeup Class for OPS 270 Easter/ Anzac Day
-09.18/26-MichaelCook/01,MichaelCook,Friday,18:00,00:00,40-230,2026-09-18,Wollongong,Replacing distribution boards
 00CAS2-Exams2025-SpringS&D/02,Exams2025,Saturday,06:00,00:00,40-230,2025-12-13,Wollongong,Spring Supp & Deferred Exams 2025 - Set Up 40-230
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-230,2026-06-13,Wollongong,Autumn Exams 2026 - Bld 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-230,2026-06-20,Wollongong,Autumn Exams 2026 - Bld 40
@@ -66520,7 +66520,6 @@ PREP031,Computer Lab,Tuesday,15:30,17:30,40-231,2026-06-23,Wollongong,Language f
 00CAS2-Exams2026-Spring&T3/09,Exams2026,Friday,06:00,00:00,40-231,2026-11-13,Wollongong,Spring Exams 2026 - Bld 40
 00CAS2-Exams2026-Spring&T3/09,Exams2026,Friday,06:00,00:00,40-231,2026-11-20,Wollongong,Spring Exams 2026 - Bld 40
 06.05/26-KianRayner,KianRayner,Friday,09:30,10:30,40-231,2026-06-05,Wollongong,FIN241 Supplementary Exams - ASB
-09.18/26-MichaelCook/01,MichaelCook,Friday,18:00,00:00,40-231,2026-09-18,Wollongong,Replacing distribution boards
 00CAS2-Exams2025-SpringS&D/01,Exams2025,Saturday,06:00,00:00,40-231,2025-12-13,Wollongong,Spring Supp & Deferred Exams 2025 - Set Up Bld 17 & 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-231,2026-06-13,Wollongong,Autumn Exams 2026 - Bld 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-231,2026-06-20,Wollongong,Autumn Exams 2026 - Bld 40
@@ -66654,7 +66653,6 @@ BALA202,Computer Lab,Friday,15:30,17:30,40-232,2026-10-09,Wollongong,Big Data an
 BALA202,Computer Lab,Friday,15:30,17:30,40-232,2026-10-16,Wollongong,Big Data and Visual Analytics for Business Computer Lab
 BALA202,Computer Lab,Friday,15:30,17:30,40-232,2026-10-23,Wollongong,Big Data and Visual Analytics for Business Computer Lab
 BALA202,Computer Lab,Friday,15:30,17:30,40-232,2026-10-30,Wollongong,Big Data and Visual Analytics for Business Computer Lab
-09.18/26-MichaelCook/01,MichaelCook,Friday,18:00,00:00,40-232,2026-09-18,Wollongong,Replacing distribution boards
 00CAS2-Exams2025-SpringS&D/01,Exams2025,Saturday,06:00,00:00,40-232,2025-12-13,Wollongong,Spring Supp & Deferred Exams 2025 - Set Up Bld 17 & 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-232,2026-06-13,Wollongong,Autumn Exams 2026 - Bld 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-232,2026-06-20,Wollongong,Autumn Exams 2026 - Bld 40
@@ -67021,7 +67019,6 @@ FIN 244,Tutorial,Friday,15:30,17:30,40-233,2026-05-15,Wollongong,Sustainable Fin
 FIN 244,Tutorial,Friday,15:30,17:30,40-233,2026-05-22,Wollongong,Sustainable Finance Tutorial
 FIN 244,Tutorial,Friday,15:30,17:30,40-233,2026-05-29,Wollongong,Sustainable Finance Tutorial
 FIN 244,Tutorial,Friday,15:30,17:30,40-233,2026-06-05,Wollongong,Sustainable Finance Tutorial
-09.18/26-MichaelCook/01,MichaelCook,Friday,18:00,00:00,40-233,2026-09-18,Wollongong,Replacing distribution boards
 00CAS2-Exams2025-SpringS&D/01,Exams2025,Saturday,06:00,00:00,40-233,2025-12-13,Wollongong,Spring Supp & Deferred Exams 2025 - Set Up Bld 17 & 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-233,2026-06-13,Wollongong,Autumn Exams 2026 - Bld 40
 00CAS2-Exams2026-Autumn/08,Exams2026,Saturday,06:00,00:00,40-233,2026-06-20,Wollongong,Autumn Exams 2026 - Bld 40
@@ -87812,7 +87809,6 @@ ENG 003,TA,Monday,08:30,12:30,30-119,2026-08-24,UOW College Wollongong,English S
 ENG 003,TA,Monday,08:30,12:30,30-119,2026-08-31,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TA,Monday,08:30,12:30,30-119,2026-09-07,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TA,Monday,08:30,12:30,30-119,2026-09-14,UOW College Wollongong,English Studies 3 Tutorial
-VNUR300,TA,Monday,08:30,18:30,30-119,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-119,2026-09-28,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-119,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-119,2026-10-12,UOW College Wollongong,Academic Spring Exams
@@ -87862,6 +87858,7 @@ ETS 200,TA,Monday,13:30,17:30,30-119,2025-12-01,UOW College Wollongong,ETS Sessi
 ETS 200,TA,Monday,13:30,17:30,30-119,2025-12-08,UOW College Wollongong,ETS Session 2
 ETS 200,TA,Monday,13:30,17:30,30-119,2025-12-15,UOW College Wollongong,ETS Session 2
 STOU003,KaichiTokorozawa,Monday,13:30,16:30,30-119,2026-08-03,UOW College Wollongong,Kaichi Tokorozawa Primary - English classes
+09.21/26-SvitlanaNastenko,SvitlanaNastenko,Monday,13:30,17:30,30-119,2026-09-21,UOW College Wollongong,ETS2 Exam - UOWC
 DSSC107,Tutorial,Monday,14:30,16:30,30-119,2026-02-23,UOW College Wollongong,Principles of Responsible Business Tutorial
 DSSC107,Tutorial,Monday,14:30,16:30,30-119,2026-03-02,UOW College Wollongong,Principles of Responsible Business Tutorial
 DSSC107,Tutorial,Monday,14:30,16:30,30-119,2026-03-09,UOW College Wollongong,Principles of Responsible Business Tutorial
@@ -88304,7 +88301,6 @@ ENG 004,TA,Monday,08:30,12:30,30-120,2026-08-24,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-120,2026-08-31,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TA,Monday,08:30,12:30,30-120,2026-09-07,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TA,Monday,08:30,12:30,30-120,2026-09-14,UOW College Wollongong,English Studies 4 Tutorial
-VNUR300,TA,Monday,08:30,18:30,30-120,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-09-28,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-10-12,UOW College Wollongong,Academic Spring Exams
@@ -88356,6 +88352,7 @@ ETS 101,TA,Monday,13:30,17:30,30-120,2026-08-24,UOW College Wollongong,ETS18 Ses
 ETS 101,TA,Monday,13:30,17:30,30-120,2026-08-31,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TA,Monday,13:30,17:30,30-120,2026-09-07,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TA,Monday,13:30,17:30,30-120,2026-09-14,UOW College Wollongong,ETS18 Session 1 Tutorial
+09.21/26-SvitlanaNastenko,SvitlanaNastenko,Monday,13:30,17:30,30-120,2026-09-21,UOW College Wollongong,ETS2 Exam - UOWC
 ETS 200,TD,Monday,15:30,17:30,30-120,2025-11-24,UOW College Wollongong,ETS Session 2
 ETS 200,TD,Monday,15:30,17:30,30-120,2025-12-01,UOW College Wollongong,ETS Session 2
 ETS 200,TD,Monday,15:30,17:30,30-120,2025-12-08,UOW College Wollongong,ETS Session 2
@@ -90981,6 +90978,7 @@ SEA 920,Lecture,Friday,10:30,12:30,233-112,2026-06-05,Innovation Campus,Ocean La
 09.23/26-GregoryKnight/01,GregoryKnight,Wednesday,18:00,21:00,233-G01,2026-09-23,Innovation Campus,Managing a Home Battery
 10.06/26-RachaelHornby/01,RachaelHornby,Thursday,08:30,17:30,233-G01,2026-10-08,Innovation Campus,ANCORS – Quentin Hanich - Management Procedures in Tuna RFMOs Workshop
 10.06/26-RachaelHornby/01,RachaelHornby,Friday,08:30,17:30,233-G01,2026-10-09,Innovation Campus,ANCORS – Quentin Hanich - Management Procedures in Tuna RFMOs Workshop
+09.25/26-ViktoriaStaunton/01,ViktoriaStaunton,Friday,12:30,14:30,233-G01,2026-09-25,Innovation Campus,Youth of the Streets Event
 11.28/25-MichaelCook/01,MichaelCook,Saturday,06:00,15:00,233-G01,2025-11-29,Innovation Campus,IPD - Installation of RCDs
 12.06/25-MichaelCook/01,MichaelCook,Saturday,06:00,15:00,233-G01,2025-12-06,Innovation Campus,Building 233 Power Outage
 02.07/26-MichaelCook/01,MichaelCook,Saturday,06:00,10:00,233-G01,2026-02-07,Innovation Campus,Distribution Board G-C Isolation/ Power Shutdown Bld 233
