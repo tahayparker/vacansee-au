@@ -12191,6 +12191,7 @@ ECT8364,Practical,Friday,08:30,11:30,6-227,2026-09-25,Wollongong,
 ECTE364,Practical,Friday,08:30,11:30,6-227,2026-09-25,Wollongong,
 ECT8364,Practical,Friday,08:30,11:30,6-227,2026-10-16,Wollongong,
 ECTE364,Practical,Friday,08:30,11:30,6-227,2026-10-16,Wollongong,
+10.23/26-MonicaBain,MonicaBain,Friday,08:30,11:30,6-227,2026-10-23,Wollongong,ECTE364 labs Qinghua - EIS - SOE
 ECT8364,Practical,Friday,08:30,11:30,6-227,2026-10-30,Wollongong,
 ECTE364,Practical,Friday,08:30,11:30,6-227,2026-10-30,Wollongong,
 ECTE471,Practical,Friday,11:30,13:30,6-227,2026-08-14,Wollongong,
@@ -16581,7 +16582,6 @@ MEDI222,Practical,Friday,15:30,17:30,13-UniActive Pool/01,2026-05-01,Wollongong,
 00CAS3-DiscoveryDays-Yr12-Feb26/07,DiscoveryDays,Monday,06:00,09:30,14-G01,2026-02-16,Wollongong,Discovery Days Year 12 - 14-G01
 00CAS5-Orientation-Autumn/02,Orientation,Monday,06:00,14:00,14-G01,2026-02-23,Wollongong,"Autumn Orientation - Bld 1, 14, 3, 32, 35, 4, 8"
 00CAS5-Orientation-Spring/01,Orientation,Monday,06:00,00:00,14-G01,2026-07-20,Wollongong,"Spring Orientation - Bld 1, 14, 3, 32, 35, 4, 6, 8"
-09.28/26-MonicaBain/01,MonicaBain,Monday,08:00,18:00,14-G01,2026-09-28,Wollongong,SOE Symposium
 MECH326,Lecture,Monday,08:30,10:30,14-G01,2026-03-02,Wollongong,Dynamics of Mechanisms Lecture
 MECH326,Lecture,Monday,08:30,10:30,14-G01,2026-03-09,Wollongong,Dynamics of Mechanisms Lecture
 MECH326,Lecture,Monday,08:30,10:30,14-G01,2026-03-16,Wollongong,Dynamics of Mechanisms Lecture
@@ -54049,6 +54049,7 @@ MEDI991,Lecture,Thursday,15:30,17:30,28-101,2026-05-07,Wollongong,Medicine 1 Lec
 MEDI991,Lecture,Thursday,15:30,17:30,28-101,2026-05-21,Wollongong,Medicine 1 Lecture
 MEDI991,Case Base Lecture,Thursday,15:30,16:30,28-101,2026-05-28,Wollongong,Medicine 1 Clinical Based Lecture
 08.13/26-GeorgiaSimmons,GeorgiaSimmons,Thursday,16:00,20:00,28-101,2026-08-13,Wollongong,WUMSS Social Event - GSM
+09.24/26-GeorgiaSimmons,GeorgiaSimmons,Thursday,16:30,20:30,28-101,2026-09-24,Wollongong,Student workshop - GSM
 03.19/26-GeorgiaSimmons,GeorgiaSimmons,Thursday,17:00,20:30,28-101,2026-03-19,Wollongong,GSM Students Careers Expo - GSM
 03.26/26-GeorgiaSimmons/01,GeorgiaSimmons,Thursday,17:30,20:30,28-101,2026-03-26,Wollongong,GSM Careers Night
 05.21/26-GeorgiaSimmons,GeorgiaSimmons,Thursday,17:30,21:00,28-101,2026-05-21,Wollongong,Student learning - GSM
@@ -83366,7 +83367,6 @@ PREP031,Computer Lab,Friday,10:30,12:30,30-103,2026-01-23,UOW College Wollongong
 06.01/26-SvitlanaNastenko/01,SvitlanaNastenko,Monday,08:30,19:30,30-108,2026-06-01,UOW College Wollongong,Autumn Academic Exams UOW College
 VNUR300,TA,Monday,08:30,18:30,30-108,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-108,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-108,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-108,2026-10-12,UOW College Wollongong,Academic Spring Exams
 02.02/26-SvitlanaNastenko,SvitlanaNastenko,Monday,09:00,12:00,30-108,2026-02-02,UOW College Wollongong,DMHS Theory Final Exam - UOWC
 DPIT115,Computer Lab,Monday,10:30,13:30,30-108,2025-11-24,UOW College Wollongong,Data Management & Security
@@ -83441,8 +83441,6 @@ DSCI116,Lecture,Tuesday,08:30,10:30,30-108,2026-01-20,UOW College Wollongong,Ear
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Tuesday,08:30,17:30,30-108,2026-05-26,UOW College Wollongong,Academic Autumn Exams UOW College
 06.16/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,16:30,30-108,2026-06-16,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 VNUR300,TB,Tuesday,08:30,18:30,30-108,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-108,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-108,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-108,2026-10-13,UOW College Wollongong,Academic Spring Exams
 DSCI116,Practical,Tuesday,10:30,12:30,30-108,2025-11-25,UOW College Wollongong,Earth's Interconnected Spheres Practical
 DSCI116,Practical,Tuesday,10:30,12:30,30-108,2025-12-02,UOW College Wollongong,Earth's Interconnected Spheres Practical
@@ -83569,7 +83567,6 @@ DPIT128,Computer Lab,Wednesday,08:30,11:30,30-108,2026-09-02,UOW College Wollong
 DPIT128,Computer Lab,Wednesday,08:30,11:30,30-108,2026-09-09,UOW College Wollongong,Introduction to Web Technology Computer Lab
 DPIT128,Computer Lab,Wednesday,08:30,11:30,30-108,2026-09-16,UOW College Wollongong,Introduction to Web Technology Computer Lab
 VNUR300,TC,Wednesday,08:30,18:30,30-108,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-108,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-108,2026-10-14,UOW College Wollongong,Academic Spring Exams
 08.05/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,09:30,12:30,30-108,2026-08-05,UOW College Wollongong,Peer Coaching Sessions - UOWC
 DPIT127,Computer Lab,Wednesday,10:30,13:30,30-108,2025-11-26,UOW College Wollongong,Networks and Communications
@@ -83659,8 +83656,6 @@ DPIT115,Computer Lab,Thursday,08:30,11:30,30-108,2026-09-03,UOW College Wollongo
 DPIT115,Computer Lab,Thursday,08:30,11:30,30-108,2026-09-10,UOW College Wollongong,Data Management & Security Computer Lab
 DPIT115,Computer Lab,Thursday,08:30,11:30,30-108,2026-09-17,UOW College Wollongong,Data Management & Security Computer Lab
 VNUR300,TA,Thursday,08:30,18:30,30-108,2026-09-24,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TA,Thursday,08:30,18:30,30-108,2026-10-01,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TA,Thursday,08:30,18:30,30-108,2026-10-08,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TA,Thursday,08:30,18:30,30-108,2026-10-15,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 DPIT114,Computer Lab,Thursday,09:30,12:30,30-108,2026-02-26,UOW College Wollongong,System Analysis Computer Lab
 DPIT114,Computer Lab,Thursday,09:30,12:30,30-108,2026-03-05,UOW College Wollongong,System Analysis Computer Lab
@@ -83753,8 +83748,6 @@ PREP032,Computer Lab,Thursday,17:30,19:30,30-108,2026-05-28,UOW College Wollongo
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Friday,08:30,17:30,30-108,2026-05-29,UOW College Wollongong,Academic Autumn Exams UOW College
 06.16/26-SvitlanaNastenko,SvitlanaNastenko,Friday,08:30,16:30,30-108,2026-06-19,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 VNUR300,TB,Friday,08:30,18:30,30-108,2026-09-25,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TB,Friday,08:30,18:30,30-108,2026-10-02,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TB,Friday,08:30,18:30,30-108,2026-10-09,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TB,Friday,08:30,18:30,30-108,2026-10-16,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 DPIT121,Computer Lab,Friday,09:30,12:30,30-108,2026-02-27,UOW College Wollongong,Object Oriented Design and Programming Computer Lab
 DPIT121,Computer Lab,Friday,09:30,12:30,30-108,2026-03-06,UOW College Wollongong,Object Oriented Design and Programming Computer Lab
@@ -83833,7 +83826,6 @@ PREP032,Tutorial,Monday,08:30,10:30,30-109,2026-05-18,UOW College Wollongong,Lan
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Monday,08:30,17:30,30-109,2026-05-25,UOW College Wollongong,Academic Autumn Exams UOW College
 VNUR300,TA,Monday,08:30,18:30,30-109,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-109,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-109,2026-10-05,UOW College Wollongong,Academic Spring Exams
 DSCI116,Lecture,Monday,08:30,10:30,30-109,2026-10-19,UOW College Wollongong,Earth's Interconnected Spheres
 DSCI116,Lecture,Monday,08:30,10:30,30-109,2026-10-26,UOW College Wollongong,Earth's Interconnected Spheres
 DSCI116,Lecture,Monday,08:30,10:30,30-109,2026-11-02,UOW College Wollongong,Earth's Interconnected Spheres
@@ -83911,8 +83903,6 @@ PREP032,Computer Lab,Monday,15:30,17:30,30-109,2026-11-16,UOW College Wollongong
 DSCI116,Lecture,Tuesday,08:30,10:30,30-109,2025-12-16,UOW College Wollongong,Earth's Interconnected Spheres Lecture
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Tuesday,08:30,17:30,30-109,2026-05-26,UOW College Wollongong,Academic Autumn Exams UOW College
 VNUR300,TB,Tuesday,08:30,18:30,30-109,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-109,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-109,2026-10-06,UOW College Wollongong,Academic Spring Exams
 PREP032,Computer Lab,Tuesday,10:30,12:30,30-109,2025-11-25,UOW College Wollongong,Scientific Thinking Computer Lab
 PREP032,Computer Lab,Tuesday,10:30,12:30,30-109,2025-12-02,UOW College Wollongong,Scientific Thinking Computer Lab
 PREP032,Computer Lab,Tuesday,10:30,12:30,30-109,2025-12-09,UOW College Wollongong,Scientific Thinking Computer Lab
@@ -84019,8 +84009,6 @@ DSSC106,Computer Lab,Wednesday,08:30,10:30,30-109,2026-09-02,UOW College Wollong
 DSSC106,Computer Lab,Wednesday,08:30,10:30,30-109,2026-09-09,UOW College Wollongong,Academic Skills for Social Science Computer Lab
 DSSC106,Computer Lab,Wednesday,08:30,10:30,30-109,2026-09-16,UOW College Wollongong,Academic Skills for Social Science Computer Lab
 VNUR300,TC,Wednesday,08:30,18:30,30-109,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-109,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-109,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-109,2026-10-14,UOW College Wollongong,Academic Spring Exams
 PREP032,Computer Lab,Wednesday,10:30,12:30,30-109,2025-11-26,UOW College Wollongong,Scientific Thinking Computer Lab
 PREP032,Computer Lab,Wednesday,10:30,12:30,30-109,2025-12-03,UOW College Wollongong,Scientific Thinking Computer Lab
@@ -84132,8 +84120,6 @@ DSCI116,Lecture,Thursday,08:30,10:30,30-109,2026-09-03,UOW College Wollongong,Ea
 DSCI116,Lecture,Thursday,08:30,10:30,30-109,2026-09-10,UOW College Wollongong,Earth's Interconnected Spheres Lecture
 DSCI116,Lecture,Thursday,08:30,10:30,30-109,2026-09-17,UOW College Wollongong,Earth's Interconnected Spheres Lecture
 VNUR300,TA,Thursday,08:30,18:30,30-109,2026-09-24,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TA,Thursday,08:30,18:30,30-109,2026-10-01,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TA,Thursday,08:30,18:30,30-109,2026-10-08,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 DPIT115,Computer Lab,Thursday,08:30,11:30,30-109,2026-10-22,UOW College Wollongong,Data Management & Security
 DPIT115,Computer Lab,Thursday,08:30,11:30,30-109,2026-10-29,UOW College Wollongong,Data Management & Security
 DPIT115,Computer Lab,Thursday,08:30,11:30,30-109,2026-11-05,UOW College Wollongong,Data Management & Security
@@ -84220,8 +84206,6 @@ PREP031,Computer Lab,Thursday,15:30,17:30,30-109,2026-11-19,UOW College Wollongo
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Friday,08:30,17:30,30-109,2026-05-29,UOW College Wollongong,Academic Autumn Exams UOW College
 06.17/26-SvitlanaNastenko,SvitlanaNastenko,Friday,08:30,16:30,30-109,2026-06-19,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 VNUR300,TB,Friday,08:30,18:30,30-109,2026-09-25,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TB,Friday,08:30,18:30,30-109,2026-10-02,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TB,Friday,08:30,18:30,30-109,2026-10-09,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TB,Friday,08:30,18:30,30-109,2026-10-16,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2025-11-28,UOW College Wollongong,Introduction to Web Technology
 DPIT128,Computer Lab,Friday,09:30,12:30,30-109,2025-12-05,UOW College Wollongong,Introduction to Web Technology
@@ -84286,7 +84270,6 @@ PREP031,Computer Lab,Friday,15:30,17:30,30-109,2026-03-27,UOW College Wollongong
 06.15/26-SvitlanaNastenko,SvitlanaNastenko,Monday,08:30,16:30,30-110,2026-06-15,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 VNUR300,TA,Monday,08:30,18:30,30-110,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-110,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-110,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-110,2026-10-12,UOW College Wollongong,Academic Spring Exams
 02.02/26-SvitlanaNastenko,SvitlanaNastenko,Monday,09:00,12:00,30-110,2026-02-02,UOW College Wollongong,DMHS Theory Final Exam - UOWC
 03.16/26-SvitlanaNastenko,SvitlanaNastenko,Monday,10:30,13:30,30-110,2026-03-16,UOW College Wollongong,Supplementary exam for DPIT110 (Summer) - UOWC
@@ -84317,8 +84300,6 @@ PREP032,Computer Lab,Tuesday,08:30,10:30,30-110,2026-02-24,UOW College Wollongon
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Tuesday,08:30,17:30,30-110,2026-05-26,UOW College Wollongong,Academic Autumn Exams UOW College
 06.15/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,16:30,30-110,2026-06-16,UOW College Wollongong,Academic Supp/deferred exams - UOWC
 VNUR300,TB,Tuesday,08:30,18:30,30-110,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-110,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-110,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-110,2026-10-13,UOW College Wollongong,Academic Spring Exams
 DPIT110,Computer Lab,Tuesday,10:30,13:30,30-110,2025-11-25,UOW College Wollongong,Fundamental Programming with Python Computer Lab
 DPIT110,Computer Lab,Tuesday,10:30,13:30,30-110,2025-12-02,UOW College Wollongong,Fundamental Programming with Python Computer Lab
@@ -84422,8 +84403,6 @@ DSSC106,Tutorial,Wednesday,08:30,10:30,30-110,2026-05-13,UOW College Wollongong,
 DSSC106,Tutorial,Wednesday,08:30,10:30,30-110,2026-05-20,UOW College Wollongong,Academic Skills for Social Science Tutorial
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Wednesday,08:30,17:30,30-110,2026-05-27,UOW College Wollongong,Academic Autumn Exams UOW College
 VNUR300,TC,Wednesday,08:30,18:30,30-110,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-110,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-110,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-110,2026-10-14,UOW College Wollongong,Academic Spring Exams
 PREP031,Computer Lab,Wednesday,10:30,12:30,30-110,2026-02-25,UOW College Wollongong,Language for Learning Computer Lab
 PREP031,Computer Lab,Wednesday,10:30,12:30,30-110,2026-03-04,UOW College Wollongong,Language for Learning Computer Lab
@@ -84495,8 +84474,6 @@ PREP029,Computer Lab,Wednesday,15:30,17:30,30-110,2026-05-20,UOW College Wollong
 01.27/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,07:00,15:00,30-110,2026-01-29,UOW College Wollongong,Academic Summer Exams - UOWC
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Thursday,08:30,17:30,30-110,2026-05-28,UOW College Wollongong,Academic Autumn Exams UOW College
 VNUR300,TA,Thursday,08:30,18:30,30-110,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-110,2026-10-01,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TA,Thursday,08:30,18:30,30-110,2026-10-08,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TA,Thursday,08:30,18:30,30-110,2026-10-15,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 DPIT123,Computer Lab,Thursday,09:30,12:30,30-110,2026-02-26,UOW College Wollongong,Computing and Cyber Security Fundamentals Computer Lab
 DPIT123,Computer Lab,Thursday,09:30,12:30,30-110,2026-03-05,UOW College Wollongong,Computing and Cyber Security Fundamentals Computer Lab
@@ -84596,8 +84573,6 @@ PREP031,Computer Lab,Thursday,15:30,17:30,30-110,2026-11-19,UOW College Wollongo
 05.29/26-SvitlanaNastenko/03,SvitlanaNastenko,Friday,08:30,17:30,30-110,2026-05-29,UOW College Wollongong,Academic Autumn Exams UOW College
 08.14/26-SvitlanaNastenko,SvitlanaNastenko,Friday,08:30,13:30,30-110,2026-08-14,UOW College Wollongong,Senshu Uni (8 students) luggage and bags - UOWC
 VNUR300,TB,Friday,08:30,18:30,30-110,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-110,2026-10-02,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
-VNUR300,TB,Friday,08:30,18:30,30-110,2026-10-09,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 VNUR300,TB,Friday,08:30,18:30,30-110,2026-10-16,UOW College Wollongong,Vocational Nursing Session 3- Jul 26 Intake
 01.09/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,11:30,30-110,2026-01-09,UOW College Wollongong,DSCI112 supplementary assessment - UOWC
 WUCT001,Computer Lab,Friday,10:30,12:30,30-110,2026-03-27,UOW College Wollongong,Tertiary Academic Skills Computer Lab
@@ -85454,7 +85429,6 @@ ENG 004,TA,Monday,08:30,12:30,30-113,2026-08-31,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-113,2026-09-07,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-113,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-113,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-113,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-113,2026-10-12,UOW College Wollongong,Academic Spring Exams
 ENG 004,TA,Monday,08:30,12:30,30-113,2026-10-19,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TA,Monday,08:30,12:30,30-113,2026-10-26,UOW College Wollongong,English Studies 4 Tutorial
@@ -85530,8 +85504,6 @@ ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-08-25,UOW College Wollongong,English 
 ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-09-01,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-09-08,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-113,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-10-20,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,30-113,2026-10-27,UOW College Wollongong,English Studies 4 Tutorial
@@ -85618,7 +85590,6 @@ PREP031,Tutorial,Wednesday,08:30,10:30,30-113,2026-09-02,UOW College Wollongong,
 09.09/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,08:30,10:30,30-113,2026-09-09,UOW College Wollongong,ES4 group activities - UOWC
 VNUR300,TC,Wednesday,08:30,18:30,30-113,2026-09-23,UOW College Wollongong,Academic Spring Exams
 ENG 005,TC,Wednesday,08:30,12:30,30-113,2026-09-30,UOW College Wollongong,English Studies 5 Tutorial
-VNUR300,TC,Wednesday,08:30,18:30,30-113,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-113,2026-10-14,UOW College Wollongong,Academic Spring Exams
 ENG 004,TC,Wednesday,08:30,12:30,30-113,2026-10-21,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TC,Wednesday,08:30,12:30,30-113,2026-10-28,UOW College Wollongong,English Studies 4 Tutorial
@@ -85712,8 +85683,6 @@ ENG 004,TD,Thursday,08:30,12:30,30-113,2026-08-27,UOW College Wollongong,English
 ENG 004,TD,Thursday,08:30,12:30,30-113,2026-09-03,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-113,2026-09-10,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-113,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-113,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-113,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-113,2026-10-15,UOW College Wollongong,Academic Spring Exams
 ENG 004,TD,Thursday,08:30,12:30,30-113,2026-10-22,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-113,2026-10-29,UOW College Wollongong,English Studies 4 Tutorial
@@ -85816,8 +85785,6 @@ ENG 005,TE,Friday,08:30,12:30,30-113,2026-06-12,UOW College Wollongong,English S
 ENG 005,TE,Friday,08:30,12:30,30-113,2026-06-19,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TE,Friday,08:30,12:30,30-113,2026-06-26,UOW College Wollongong,English Studies 5 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-113,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-113,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-113,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-113,2026-10-16,UOW College Wollongong,Academic Spring Exams
 ENG 004,TE,Friday,08:30,12:30,30-113,2026-10-23,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TE,Friday,08:30,12:30,30-113,2026-10-30,UOW College Wollongong,English Studies 4 Tutorial
@@ -85870,7 +85837,6 @@ PREP030,Tutorial,Monday,08:30,10:30,30-114,2026-03-30,UOW College Wollongong,Ter
 ENG 005,TA,Monday,08:30,12:30,30-114,2026-08-10,UOW College Wollongong,English Studies 5 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-114,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-114,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-114,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-114,2026-10-12,UOW College Wollongong,Academic Spring Exams
 ETS 100,TA,Monday,08:30,12:30,30-114,2026-11-09,UOW College Wollongong,ETS Access Tutorial
 ETS 100,TA,Monday,08:30,12:30,30-114,2026-11-16,UOW College Wollongong,ETS Access Tutorial
@@ -85952,8 +85918,6 @@ ETS 100,TB,Tuesday,08:30,12:30,30-114,2026-08-25,UOW College Wollongong,ETS18 Se
 ETS 100,TB,Tuesday,08:30,12:30,30-114,2026-09-01,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 100,TB,Tuesday,08:30,12:30,30-114,2026-09-08,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-114,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-114,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-114,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-114,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ETS 100,TB,Tuesday,08:30,12:30,30-114,2026-11-10,UOW College Wollongong,ETS Access Tutorial
 ETS 100,TB,Tuesday,08:30,12:30,30-114,2026-11-17,UOW College Wollongong,ETS Access Tutorial
@@ -86066,8 +86030,6 @@ ENG 003,TC,Wednesday,08:30,12:30,30-114,2026-08-26,UOW College Wollongong,Englis
 ENG 003,TC,Wednesday,08:30,12:30,30-114,2026-09-02,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TC,Wednesday,08:30,12:30,30-114,2026-09-09,UOW College Wollongong,English Studies 3 Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-114,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-114,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-114,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-114,2026-10-14,UOW College Wollongong,Academic Spring Exams
 ETS 300,TC,Wednesday,08:30,12:30,30-114,2026-11-11,UOW College Wollongong,ETS Session 3 Tutorial
 ETS 300,TC,Wednesday,08:30,12:30,30-114,2026-11-18,UOW College Wollongong,ETS Session 3 Tutorial
@@ -86139,8 +86101,6 @@ ENG 004,TD,Thursday,08:30,12:30,30-114,2026-08-27,UOW College Wollongong,English
 ENG 004,TD,Thursday,08:30,12:30,30-114,2026-09-03,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-114,2026-09-10,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-114,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-114,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-114,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-114,2026-10-15,UOW College Wollongong,Academic Spring Exams
 PREP041,Tutorial,Thursday,08:30,10:30,30-114,2026-10-22,UOW College Wollongong,Mathematics for the Sciences A
 PREP041,Tutorial,Thursday,08:30,10:30,30-114,2026-10-29,UOW College Wollongong,Mathematics for the Sciences A
@@ -86227,8 +86187,6 @@ ENG 005,TE,Friday,08:30,12:30,30-114,2026-08-07,UOW College Wollongong,English S
 ENG 005,TE,Friday,08:30,12:30,30-114,2026-08-14,UOW College Wollongong,English Studies 5 Tutorial
 ETS 100,TE,Friday,08:30,12:30,30-114,2026-08-21,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-114,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-114,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-114,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-114,2026-10-16,UOW College Wollongong,Academic Spring Exams
 ETS 100,TE,Friday,08:30,12:30,30-114,2026-11-13,UOW College Wollongong,ETS Access Tutorial
 ETS 100,TE,Friday,08:30,12:30,30-114,2026-11-20,UOW College Wollongong,ETS Access Tutorial
@@ -86261,7 +86219,6 @@ ENG 004,TA,Monday,08:30,12:30,30-115,2026-03-23,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-115,2026-03-30,UOW College Wollongong,English Studies 4 Tutorial
 VNUR100,TA,Monday,08:30,15:30,30-115,2026-07-20,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR300,TA,Monday,08:30,18:30,30-115,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-115,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-115,2026-10-12,UOW College Wollongong,Academic Spring Exams
 PREP030,Tutorial,Monday,08:30,10:30,30-115,2026-10-19,UOW College Wollongong,Launch
 PREP030,Tutorial,Monday,08:30,10:30,30-115,2026-10-26,UOW College Wollongong,Launch
@@ -86375,8 +86332,6 @@ ENG 005,TB,Tuesday,08:30,12:30,30-115,2026-08-04,UOW College Wollongong,English 
 ETS 101,TB,Tuesday,08:30,12:30,30-115,2026-08-25,UOW College Wollongong,ETS18 Session 1 Tutorial
 09.01/26-SvitlanaNastenko,SvitlanaNastenko,Tuesday,08:30,12:30,30-115,2026-09-01,UOW College Wollongong,ELICOS ES4 combined classes presentation - UOWC
 ETS 100,TB,Tuesday,08:30,12:30,30-115,2026-09-15,UOW College Wollongong,ETS18 Session 1 Tutorial
-VNUR300,TB,Tuesday,08:30,18:30,30-115,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-115,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-115,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ETS 101,TB,Tuesday,08:30,12:30,30-115,2026-10-20,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TB,Tuesday,08:30,12:30,30-115,2026-10-27,UOW College Wollongong,ETS18 Session 1 Tutorial
@@ -86468,8 +86423,6 @@ VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-09-02,UOW College Wollongong,Vocati
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-09-09,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-09-16,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR300,TC,Wednesday,08:30,18:30,30-115,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-115,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-115,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-115,2026-10-14,UOW College Wollongong,Academic Spring Exams
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-10-21,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-115,2026-10-28,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86550,8 +86503,6 @@ VNUR200,TB,Thursday,08:30,15:30,30-115,2026-09-03,UOW College Wollongong,Vocatio
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-09-10,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 ETS 100,TD,Thursday,08:30,12:30,30-115,2026-09-17,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-115,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-115,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-115,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-115,2026-10-15,UOW College Wollongong,Academic Spring Exams
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-10-22,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-115,2026-10-29,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86633,8 +86584,6 @@ VNUR200,TC,Friday,08:30,15:30,30-115,2026-09-04,UOW College Wollongong,Vocationa
 VNUR200,TC,Friday,08:30,15:30,30-115,2026-09-11,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-115,2026-09-18,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR300,TB,Friday,08:30,18:30,30-115,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-115,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-115,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-115,2026-10-16,UOW College Wollongong,Academic Spring Exams
 VNUR200,TC,Friday,08:30,15:30,30-115,2026-10-23,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-115,2026-10-30,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86680,7 +86629,6 @@ ENG 004,TA,Monday,08:30,12:30,30-116,2026-09-07,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-116,2026-09-14,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-116,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-116,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-116,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-116,2026-10-12,UOW College Wollongong,Academic Spring Exams
 PREP027,Lecture,Monday,08:30,10:30,30-116,2026-10-19,UOW College Wollongong,Business and Consumer Studies
 PREP027,Lecture,Monday,08:30,10:30,30-116,2026-10-26,UOW College Wollongong,Business and Consumer Studies
@@ -86766,8 +86714,6 @@ ENG 004,TB,Tuesday,08:30,12:30,30-116,2026-09-01,UOW College Wollongong,English 
 ENG 004,TB,Tuesday,08:30,12:30,30-116,2026-09-08,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,30-116,2026-09-15,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-116,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-116,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-116,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-116,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ETS 101,TB,Tuesday,08:30,12:30,30-116,2026-10-20,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TB,Tuesday,08:30,12:30,30-116,2026-10-27,UOW College Wollongong,ETS18 Session 1 Tutorial
@@ -86860,8 +86806,6 @@ VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-09-02,UOW College Wollongong,Vocati
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-09-09,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-09-16,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR300,TC,Wednesday,08:30,18:30,30-116,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-116,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-116,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-116,2026-10-14,UOW College Wollongong,Academic Spring Exams
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-10-21,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TA,Wednesday,08:30,15:30,30-116,2026-10-28,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -86945,8 +86889,6 @@ VNUR200,TB,Thursday,08:30,15:30,30-116,2026-08-27,UOW College Wollongong,Vocatio
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-09-03,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-09-10,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR300,TA,Thursday,08:30,18:30,30-116,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-116,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-116,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-116,2026-10-15,UOW College Wollongong,Academic Spring Exams
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-10-22,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,30-116,2026-10-29,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -87021,8 +86963,6 @@ VNUR200,TC,Friday,08:30,15:30,30-116,2026-09-04,UOW College Wollongong,Vocationa
 VNUR200,TC,Friday,08:30,15:30,30-116,2026-09-11,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-116,2026-09-18,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR300,TB,Friday,08:30,18:30,30-116,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-116,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-116,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-116,2026-10-16,UOW College Wollongong,Academic Spring Exams
 VNUR200,TC,Friday,08:30,15:30,30-116,2026-10-23,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TC,Friday,08:30,15:30,30-116,2026-10-30,UOW College Wollongong,Vocational Nursing Session 2 - Feb 24 Intake
@@ -87066,7 +87006,6 @@ ENG 005,TA,Monday,08:30,12:30,30-117,2026-06-22,UOW College Wollongong,English S
 VNUR100,TA,Monday,08:30,15:30,30-117,2026-08-24,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR300,TA,Monday,08:30,18:30,30-117,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-117,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-117,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-117,2026-10-12,UOW College Wollongong,Academic Spring Exams
 ENG 005,TA,Monday,08:30,12:30,30-117,2026-10-19,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TA,Monday,08:30,12:30,30-117,2026-10-26,UOW College Wollongong,English Studies 5 Tutorial
@@ -87136,8 +87075,6 @@ ETS 100,TB,Tuesday,08:30,12:30,30-117,2026-08-25,UOW College Wollongong,ETS18 Se
 ETS 100,TB,Tuesday,08:30,12:30,30-117,2026-09-01,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 100,TB,Tuesday,08:30,12:30,30-117,2026-09-08,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-117,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-117,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-117,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-117,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ENG 005,TB,Tuesday,08:30,12:30,30-117,2026-10-20,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TB,Tuesday,08:30,12:30,30-117,2026-10-27,UOW College Wollongong,English Studies 5 Tutorial
@@ -87226,8 +87163,6 @@ PREP031,Tutorial,Wednesday,08:30,10:30,30-117,2026-08-26,UOW College Wollongong,
 PREP031,Tutorial,Wednesday,08:30,10:30,30-117,2026-09-09,UOW College Wollongong,Language for Learning Tutorial
 PREP031,Tutorial,Wednesday,08:30,10:30,30-117,2026-09-16,UOW College Wollongong,Language for Learning Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-117,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-117,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-117,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-117,2026-10-14,UOW College Wollongong,Academic Spring Exams
 ENG 005,TC,Wednesday,08:30,12:30,30-117,2026-10-21,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TC,Wednesday,08:30,12:30,30-117,2026-10-28,UOW College Wollongong,English Studies 5 Tutorial
@@ -87307,8 +87242,6 @@ ETS 100,TD,Thursday,08:30,12:30,30-117,2026-08-27,UOW College Wollongong,ETS18 S
 ETS 100,TD,Thursday,08:30,12:30,30-117,2026-09-03,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 100,TD,Thursday,08:30,12:30,30-117,2026-09-10,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-117,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-117,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-117,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-117,2026-10-15,UOW College Wollongong,Academic Spring Exams
 ENG 005,TD,Thursday,08:30,12:30,30-117,2026-10-22,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TD,Thursday,08:30,12:30,30-117,2026-10-29,UOW College Wollongong,English Studies 5 Tutorial
@@ -87384,8 +87317,6 @@ ENG 004,TE,Friday,08:30,12:30,30-117,2026-08-21,UOW College Wollongong,English S
 ENG 004,TE,Friday,08:30,12:30,30-117,2026-08-28,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TE,Friday,08:30,12:30,30-117,2026-09-04,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-117,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-117,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-117,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-117,2026-10-16,UOW College Wollongong,Academic Spring Exams
 ENG 005,TE,Friday,08:30,12:30,30-117,2026-10-23,UOW College Wollongong,English Studies 5 Tutorial
 ENG 005,TE,Friday,08:30,12:30,30-117,2026-10-30,UOW College Wollongong,English Studies 5 Tutorial
@@ -87417,7 +87348,6 @@ PREP031,Tutorial,Monday,08:30,10:30,30-118,2026-07-27,UOW College Wollongong,Lan
 VNUR100,TA,Monday,08:30,15:30,30-118,2026-08-24,UOW College Wollongong,Vocational Nursing Session 1- Jul 24 Intake
 VNUR300,TA,Monday,08:30,18:30,30-118,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-118,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-118,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-118,2026-10-12,UOW College Wollongong,Academic Spring Exams
 05.29/26-SvitlanaNastenko/02,SvitlanaNastenko,Monday,09:00,13:00,30-118,2026-06-01,UOW College Wollongong,Academic Autumn Exams UOW College
 STOU001,Rikkyo,Monday,09:00,12:00,30-118,2026-08-03,UOW College Wollongong,Rikkyo Uni - Guided Project
@@ -87539,8 +87469,6 @@ PREP033,Tutorial,Tuesday,08:30,10:30,30-118,2026-07-14,UOW College Wollongong,Ma
 PREP033,Tutorial,Tuesday,08:30,10:30,30-118,2026-07-21,UOW College Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Tuesday,08:30,10:30,30-118,2026-07-28,UOW College Wollongong,Mathematics for the Humanities
 VNUR300,TB,Tuesday,08:30,18:30,30-118,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-118,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-118,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-118,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ETS 200,TB,Tuesday,08:30,12:30,30-118,2026-10-20,UOW College Wollongong,ETS Session 2
 ETS 200,TB,Tuesday,08:30,12:30,30-118,2026-10-27,UOW College Wollongong,ETS Session 2
@@ -87628,8 +87556,6 @@ ENG 004,TC,Wednesday,08:30,12:30,30-118,2026-09-02,UOW College Wollongong,Englis
 ENG 004,TC,Wednesday,08:30,12:30,30-118,2026-09-09,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TC,Wednesday,08:30,12:30,30-118,2026-09-16,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-118,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-118,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-118,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-118,2026-10-14,UOW College Wollongong,Academic Spring Exams
 ETS 200,TC,Wednesday,08:30,12:30,30-118,2026-10-21,UOW College Wollongong,ETS Session 2
 ETS 200,TC,Wednesday,08:30,12:30,30-118,2026-10-28,UOW College Wollongong,ETS Session 2
@@ -87713,8 +87639,6 @@ ENG 004,TD,Thursday,08:30,12:30,30-118,2026-08-27,UOW College Wollongong,English
 ENG 004,TD,Thursday,08:30,12:30,30-118,2026-09-03,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-118,2026-09-10,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-118,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-118,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-118,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-118,2026-10-15,UOW College Wollongong,Academic Spring Exams
 ETS 101,TD,Thursday,08:30,12:30,30-118,2026-10-22,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TD,Thursday,08:30,12:30,30-118,2026-10-29,UOW College Wollongong,ETS18 Session 1 Tutorial
@@ -87843,8 +87767,6 @@ ETS 300,TC,Friday,08:30,12:30,30-118,2026-06-19,UOW College Wollongong,ETS Sessi
 ETS 101,TE,Friday,08:30,12:30,30-118,2026-08-21,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 101,TE,Friday,08:30,12:30,30-118,2026-08-28,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-118,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-118,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-118,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-118,2026-10-16,UOW College Wollongong,Academic Spring Exams
 ETS 200,TE,Friday,08:30,12:30,30-118,2026-10-23,UOW College Wollongong,ETS Session 2
 ETS 200,TE,Friday,08:30,12:30,30-118,2026-10-30,UOW College Wollongong,ETS Session 2
@@ -87911,7 +87833,6 @@ ENG 003,TA,Monday,08:30,12:30,30-119,2026-08-31,UOW College Wollongong,English S
 ENG 003,TA,Monday,08:30,12:30,30-119,2026-09-07,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TA,Monday,08:30,12:30,30-119,2026-09-14,UOW College Wollongong,English Studies 3 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-119,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-119,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-119,2026-10-12,UOW College Wollongong,Academic Spring Exams
 02.02/26-SvitlanaNastenko,SvitlanaNastenko,Monday,09:00,12:00,30-119,2026-02-02,UOW College Wollongong,Adcademic Summer exams - UOWC
 STOU002,VCE LHLHS,Monday,09:00,12:00,30-119,2026-08-10,UOW College Wollongong,VCE LHLHS (China) - English classes
@@ -88012,8 +87933,6 @@ ENG 003,TB,Tuesday,08:30,12:30,30-119,2026-09-01,UOW College Wollongong,English 
 ENG 003,TB,Tuesday,08:30,12:30,30-119,2026-09-08,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TB,Tuesday,08:30,12:30,30-119,2026-09-15,UOW College Wollongong,English Studies 3 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-119,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-119,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-119,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-119,2026-10-13,UOW College Wollongong,Academic Spring Exams
 ETS 200,TB,Tuesday,08:30,12:30,30-119,2026-10-20,UOW College Wollongong,ETS Session 2
 ETS 200,TB,Tuesday,08:30,12:30,30-119,2026-10-27,UOW College Wollongong,ETS Session 2
@@ -88107,8 +88026,6 @@ ENG 003,TC,Wednesday,08:30,12:30,30-119,2026-08-26,UOW College Wollongong,Englis
 ENG 003,TC,Wednesday,08:30,12:30,30-119,2026-09-02,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TC,Wednesday,08:30,12:30,30-119,2026-09-09,UOW College Wollongong,English Studies 3 Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-119,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-119,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-119,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-119,2026-10-14,UOW College Wollongong,Academic Spring Exams
 ETS 200,TC,Wednesday,08:30,12:30,30-119,2026-10-21,UOW College Wollongong,ETS Session 2
 ETS 200,TC,Wednesday,08:30,12:30,30-119,2026-10-28,UOW College Wollongong,ETS Session 2
@@ -88229,8 +88146,6 @@ ENG 003,TD,Thursday,08:30,12:30,30-119,2026-09-03,UOW College Wollongong,English
 ENG 003,TD,Thursday,08:30,12:30,30-119,2026-09-10,UOW College Wollongong,English Studies 3 Tutorial
 ENG 003,TD,Thursday,08:30,12:30,30-119,2026-09-17,UOW College Wollongong,English Studies 3 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-119,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-119,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-119,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-119,2026-10-15,UOW College Wollongong,Academic Spring Exams
 PREP031,Tutorial,Thursday,08:30,10:30,30-119,2026-10-22,UOW College Wollongong,Language for Learning
 PREP031,Tutorial,Thursday,08:30,10:30,30-119,2026-10-29,UOW College Wollongong,Language for Learning
@@ -88369,8 +88284,6 @@ ENG 004,TE,Friday,08:30,12:30,30-119,2026-09-04,UOW College Wollongong,English S
 ENG 004,TE,Friday,08:30,12:30,30-119,2026-09-11,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TE,Friday,08:30,12:30,30-119,2026-09-18,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-119,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-119,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-119,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-119,2026-10-16,UOW College Wollongong,Academic Spring Exams
 ETS 200,TE,Friday,08:30,12:30,30-119,2026-10-23,UOW College Wollongong,ETS Session 2
 ETS 200,TE,Friday,08:30,12:30,30-119,2026-10-30,UOW College Wollongong,ETS Session 2
@@ -88413,7 +88326,6 @@ ENG 004,TA,Monday,08:30,12:30,30-120,2026-08-31,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-120,2026-09-07,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TA,Monday,08:30,12:30,30-120,2026-09-14,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-120,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-120,2026-10-12,UOW College Wollongong,Academic Spring Exams
 02.02/26-SvitlanaNastenko,SvitlanaNastenko,Monday,09:00,12:00,30-120,2026-02-02,UOW College Wollongong,Adcademic Summer exams - UOWC
 STOU002,VCE LHLHS,Monday,09:00,12:00,30-120,2026-08-10,UOW College Wollongong,VCE LHLHS (China) - English classes
@@ -88511,8 +88423,6 @@ ENG 004,TB,Tuesday,08:30,12:30,30-120,2026-09-01,UOW College Wollongong,English 
 ENG 004,TB,Tuesday,08:30,12:30,30-120,2026-09-08,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,30-120,2026-09-15,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-120,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-120,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-120,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-120,2026-10-13,UOW College Wollongong,Academic Spring Exams
 PREP031,Tutorial,Tuesday,08:30,10:30,30-120,2026-10-20,UOW College Wollongong,Language for Learning
 PREP031,Tutorial,Tuesday,08:30,10:30,30-120,2026-10-27,UOW College Wollongong,Language for Learning
@@ -88595,8 +88505,6 @@ ENG 004,TC,Wednesday,08:30,12:30,30-120,2026-08-26,UOW College Wollongong,Englis
 ENG 004,TC,Wednesday,08:30,12:30,30-120,2026-09-02,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TC,Wednesday,08:30,12:30,30-120,2026-09-09,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-120,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-120,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-120,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-120,2026-10-14,UOW College Wollongong,Academic Spring Exams
 01.28/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,09:00,12:00,30-120,2026-01-28,UOW College Wollongong,PREP033 Final Exam Access Plan - UOWC
 STOU005,KaichiHigh,Wednesday,09:00,12:00,30-120,2026-08-05,UOW College Wollongong,Kaichi High - English classes
@@ -88694,8 +88602,6 @@ FSPW202,Tutorial,Thursday,08:30,10:30,30-120,2026-08-27,UOW College Wollongong,E
 ENG 004,TD,Thursday,08:30,12:30,30-120,2026-09-03,UOW College Wollongong,English Studies 4 Tutorial
 FSPW202,Tutorial,Thursday,08:30,10:30,30-120,2026-09-10,UOW College Wollongong,English for Academic Study 2 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-120,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-120,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-120,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-120,2026-10-15,UOW College Wollongong,Academic Spring Exams
 WUCB130,Tutorial,Thursday,08:30,10:30,30-120,2026-10-22,UOW College Wollongong,Introduction to Management
 WUCB130,Tutorial,Thursday,08:30,10:30,30-120,2026-10-29,UOW College Wollongong,Introduction to Management
@@ -88809,8 +88715,6 @@ ETS 100,TE,Friday,08:30,12:30,30-120,2026-09-04,UOW College Wollongong,ETS18 Ses
 ETS 100,TE,Friday,08:30,12:30,30-120,2026-09-11,UOW College Wollongong,ETS18 Session 1 Tutorial
 ETS 100,TE,Friday,08:30,12:30,30-120,2026-09-18,UOW College Wollongong,ETS18 Session 1 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-120,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-120,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-120,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-120,2026-10-16,UOW College Wollongong,Academic Spring Exams
 PREP031,Tutorial,Friday,08:30,10:30,30-120,2026-10-23,UOW College Wollongong,Language for Learning
 PREP031,Tutorial,Friday,08:30,10:30,30-120,2026-10-30,UOW College Wollongong,Language for Learning
@@ -88840,7 +88744,6 @@ ENG 004,TA,Monday,08:30,12:30,30-121,2026-09-07,UOW College Wollongong,English S
 ENG 004,TA,Monday,08:30,12:30,30-121,2026-09-14,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Monday,08:30,18:30,30-121,2026-09-21,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-121,2026-09-28,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Monday,08:30,18:30,30-121,2026-10-05,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Monday,08:30,18:30,30-121,2026-10-12,UOW College Wollongong,Academic Spring Exams
 02.02/26-SvitlanaNastenko,SvitlanaNastenko,Monday,09:00,12:00,30-121,2026-02-02,UOW College Wollongong,Adcademic Summer exams - UOWC
 STOU002,VCE LHLHS,Monday,09:00,12:00,30-121,2026-08-10,UOW College Wollongong,VCE LHLHS (China) - English classes
@@ -88968,8 +88871,6 @@ ENG 004,TB,Tuesday,08:30,12:30,30-121,2026-09-01,UOW College Wollongong,English 
 ENG 004,TB,Tuesday,08:30,12:30,30-121,2026-09-08,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TB,Tuesday,08:30,12:30,30-121,2026-09-15,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Tuesday,08:30,18:30,30-121,2026-09-22,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-121,2026-09-29,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Tuesday,08:30,18:30,30-121,2026-10-06,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Tuesday,08:30,18:30,30-121,2026-10-13,UOW College Wollongong,Academic Spring Exams
 STOU002,VCE LHLHS,Tuesday,09:00,12:00,30-121,2026-08-11,UOW College Wollongong,VCE LHLHS (China) - English classes
 ETS 300,TC,Tuesday,10:30,12:30,30-121,2026-01-06,UOW College Wollongong,ETS Session 3 Tutorial
@@ -89053,8 +88954,6 @@ ENG 004,TC,Wednesday,08:30,12:30,30-121,2026-08-26,UOW College Wollongong,Englis
 ENG 004,TC,Wednesday,08:30,12:30,30-121,2026-09-09,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TC,Wednesday,08:30,12:30,30-121,2026-09-16,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TC,Wednesday,08:30,18:30,30-121,2026-09-23,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-121,2026-09-30,UOW College Wollongong,Academic Spring Exams
-VNUR300,TC,Wednesday,08:30,18:30,30-121,2026-10-07,UOW College Wollongong,Academic Spring Exams
 VNUR300,TC,Wednesday,08:30,18:30,30-121,2026-10-14,UOW College Wollongong,Academic Spring Exams
 08.05/26-SvitlanaNastenko,SvitlanaNastenko,Wednesday,09:00,12:00,30-121,2026-08-05,UOW College Wollongong,Rillyo Uni prof - UOWC
 STOU002,VCE LHLHS,Wednesday,09:00,12:00,30-121,2026-08-12,UOW College Wollongong,VCE LHLHS (China) - English classes
@@ -89203,8 +89102,6 @@ FSPW202,Tutorial,Thursday,08:30,10:30,30-121,2026-09-03,UOW College Wollongong,E
 ENG 004,TD,Thursday,08:30,12:30,30-121,2026-09-10,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TD,Thursday,08:30,12:30,30-121,2026-09-17,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TA,Thursday,08:30,18:30,30-121,2026-09-24,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-121,2026-10-01,UOW College Wollongong,Academic Spring Exams
-VNUR300,TA,Thursday,08:30,18:30,30-121,2026-10-08,UOW College Wollongong,Academic Spring Exams
 VNUR300,TA,Thursday,08:30,18:30,30-121,2026-10-15,UOW College Wollongong,Academic Spring Exams
 PREP033,Tutorial,Thursday,08:30,10:30,30-121,2026-10-22,UOW College Wollongong,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,08:30,10:30,30-121,2026-10-29,UOW College Wollongong,Mathematics for the Humanities
@@ -89334,8 +89231,6 @@ ENG 004,TE,Friday,08:30,12:30,30-121,2026-09-04,UOW College Wollongong,English S
 ENG 004,TE,Friday,08:30,12:30,30-121,2026-09-11,UOW College Wollongong,English Studies 4 Tutorial
 ENG 004,TE,Friday,08:30,12:30,30-121,2026-09-18,UOW College Wollongong,English Studies 4 Tutorial
 VNUR300,TB,Friday,08:30,18:30,30-121,2026-09-25,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-121,2026-10-02,UOW College Wollongong,Academic Spring Exams
-VNUR300,TB,Friday,08:30,18:30,30-121,2026-10-09,UOW College Wollongong,Academic Spring Exams
 VNUR300,TB,Friday,08:30,18:30,30-121,2026-10-16,UOW College Wollongong,Academic Spring Exams
 STOU002,VCE LHLHS,Friday,09:00,12:00,30-121,2026-08-07,UOW College Wollongong,VCE LHLHS (China) - English classes
 STOU002,VCE LHLHS,Friday,09:00,12:00,30-121,2026-08-14,UOW College Wollongong,VCE LHLHS (China) - English classes
@@ -96349,6 +96244,8 @@ WUCB160,Lecture,Thursday,13:30,15:30,400-105,2026-08-13,Liverpool,Economic Essen
 WUCB160,Lecture,Thursday,13:30,15:30,400-105,2026-08-20,Liverpool,Economic Essentials for Business Lecture
 WUCB160,Lecture,Thursday,13:30,15:30,400-105,2026-08-27,Liverpool,Economic Essentials for Business Lecture
 WUCB160,Lecture,Thursday,13:30,15:30,400-105,2026-09-10,Liverpool,Economic Essentials for Business Lecture
+WUCB521,Tutorial,Thursday,13:30,15:30,400-105,2026-10-22,Liverpool,Statistics for Business
+WUCB521,Tutorial,Thursday,13:30,15:30,400-105,2026-10-29,Liverpool,Statistics for Business
 04.30/26-CathCampbell,CathCampbell,Thursday,15:30,20:30,400-105,2026-04-30,Liverpool,Reschedule classes for LLB1100 which were scheduled for the PH on 27 April - School of Law
 HAS 121,Tutorial,Thursday,15:30,17:30,400-105,2026-08-06,Liverpool,Human Development in Social Context Tutorial
 HAS 121,Tutorial,Thursday,15:30,17:30,400-105,2026-08-13,Liverpool,Human Development in Social Context Tutorial
@@ -97005,6 +96902,9 @@ WUCB130,Tutorial,Tuesday,12:30,14:30,400-107,2026-09-08,Liverpool,Introduction t
 WUCB130,Tutorial,Tuesday,12:30,14:30,400-107,2026-09-15,Liverpool,Introduction to Management Tutorial
 SNUG205,Tutorial,Tuesday,13:30,17:30,400-107,2026-07-14,Liverpool,Continuing Care
 SNUG205,Tutorial,Tuesday,13:30,17:30,400-107,2026-07-21,Liverpool,Continuing Care
+WUCB105,Tutorial,Tuesday,13:30,15:30,400-107,2026-10-20,Liverpool,Introductory Principles of Finance
+WUCB105,Tutorial,Tuesday,13:30,15:30,400-107,2026-10-27,Liverpool,Introductory Principles of Finance
+WUCB105,Tutorial,Tuesday,13:30,15:30,400-107,2026-11-03,Liverpool,Introductory Principles of Finance
 HAS 120,Tutorial,Tuesday,14:30,16:30,400-107,2026-03-03,Liverpool,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
 HAS 120,Tutorial,Tuesday,14:30,16:30,400-107,2026-03-10,Liverpool,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
 HAS 120,Tutorial,Tuesday,14:30,16:30,400-107,2026-03-17,Liverpool,Becoming a Social Scientist: Interdisciplinary Competencies Tutorial
@@ -100523,6 +100423,8 @@ SNUG106,Tutorial,Monday,13:30,17:30,400-320,2026-07-20,Liverpool,Nursing Care of
 PREP031,Tutorial,Monday,13:30,15:30,400-320,2026-10-19,Liverpool,Language for Learning
 PREP031,Tutorial,Monday,13:30,15:30,400-320,2026-10-26,Liverpool,Language for Learning
 PREP031,Tutorial,Monday,13:30,15:30,400-320,2026-11-02,Liverpool,Language for Learning
+PREP030,Tutorial,Monday,13:30,15:30,400-320,2026-11-09,Liverpool,Launch
+PREP030,Tutorial,Monday,13:30,15:30,400-320,2026-11-16,Liverpool,Launch
 00CAS2-LiverpoolExams2026-Autumn/02,LiverpoolExams2026,Tuesday,06:00,00:00,400-320,2026-06-16,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Autumn/03,LiverpoolExams2026,Tuesday,06:00,00:00,400-320,2026-06-23,Liverpool,Liverpool Autumn Exams 2026
 VNUR200,TB,Tuesday,08:30,10:30,400-320,2026-01-13,Liverpool,Vocational Nursing Session 2
@@ -100739,6 +100641,9 @@ SNUG302,Tutorial,Thursday,08:30,10:30,400-320,2026-08-06,Liverpool,Leadership in
 SNUG302,Tutorial,Thursday,08:30,12:30,400-320,2026-08-13,Liverpool,Leadership in Nursing
 SNUG302,Tutorial,Thursday,08:30,10:30,400-320,2026-10-22,Liverpool,Leadership in Nursing
 SNUG302,Tutorial,Thursday,08:30,10:30,400-320,2026-10-29,Liverpool,Leadership in Nursing
+DSSC107,Tutorial,Thursday,08:30,10:30,400-320,2026-11-05,Liverpool,Principles of Responsible Business
+DSSC107,Tutorial,Thursday,08:30,10:30,400-320,2026-11-12,Liverpool,Principles of Responsible Business
+DSSC107,Tutorial,Thursday,08:30,10:30,400-320,2026-11-19,Liverpool,Principles of Responsible Business
 01.29/26-SvitlanaNastenko,SvitlanaNastenko,Thursday,09:00,12:00,400-320,2026-01-29,Liverpool,DSSC107 Academic Summer Exams - UOWC
 01.22/25-JustinLuzuriaga/01,JustinLuzuriaga,Thursday,09:30,15:30,400-320,2026-01-22,Liverpool,"Ready, Set, Succeed: Jumping Into Second Year Nursing Workshop"
 WUCB120,Workshop,Thursday,10:30,11:30,400-320,2026-02-26,Liverpool,Accounting for Decision Making Workshop
@@ -100757,6 +100662,9 @@ SNUG112,Tutorial,Thursday,10:30,12:30,400-320,2026-09-03,Liverpool,Fundamentals 
 SNUG112,Tutorial,Thursday,10:30,12:30,400-320,2026-09-10,Liverpool,Fundamentals of Nursing 2
 SNUG112,Tutorial,Thursday,10:30,12:30,400-320,2026-09-17,Liverpool,Fundamentals of Nursing 2
 SNUG112,Tutorial,Thursday,10:30,12:30,400-320,2026-10-29,Liverpool,Fundamentals of Nursing 2
+DSSC107,Lecture,Thursday,10:30,12:30,400-320,2026-11-05,Liverpool,Principles of Responsible Business
+DSSC107,Lecture,Thursday,10:30,12:30,400-320,2026-11-12,Liverpool,Principles of Responsible Business
+DSSC107,Lecture,Thursday,10:30,12:30,400-320,2026-11-19,Liverpool,Principles of Responsible Business
 05.07/26-MichelleFishburn,MichelleFishburn,Thursday,12:30,13:30,400-320,2026-05-07,Liverpool,Supervision of assessable quiz - School of Nursing
 DPIT114,Computer Lab,Thursday,12:30,15:30,400-320,2026-08-20,Liverpool,System Analysis Computer Lab
 SNUG206,Tutorial,Thursday,13:30,15:30,400-320,2026-01-29,Liverpool,Mental Health-Psychiatric Nursing Care Tutorial
@@ -101413,6 +101321,11 @@ WUCB160,Workshop,Monday,13:30,14:30,400-325,2026-05-18,Liverpool,Economic Essent
 DSCI106,Lecture,Monday,13:30,16:30,400-325,2026-07-20,Liverpool,Foundation Chemistry: Properties of Matter Lecture
 DSCI106,Lecture,Monday,13:30,16:30,400-325,2026-08-10,Liverpool,Foundation Chemistry: Properties of Matter Lecture
 DSCI106,Lecture,Monday,13:30,16:30,400-325,2026-09-14,Liverpool,Foundation Chemistry: Properties of Matter Lecture
+WUCB521,Lecture,Monday,13:30,16:30,400-325,2026-10-19,Liverpool,Statistics for Business
+WUCB521,Lecture,Monday,13:30,16:30,400-325,2026-10-26,Liverpool,Statistics for Business
+WUCB521,Lecture,Monday,13:30,16:30,400-325,2026-11-02,Liverpool,Statistics for Business
+WUCB521,Lecture,Monday,13:30,16:30,400-325,2026-11-09,Liverpool,Statistics for Business
+WUCB521,Lecture,Monday,13:30,16:30,400-325,2026-11-16,Liverpool,Statistics for Business
 SNUG101,Tutorial,Monday,14:30,16:30,400-325,2026-03-02,Liverpool,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Monday,14:30,16:30,400-325,2026-03-09,Liverpool,Fundamentals of Nursing 1 Tutorial
 SNUG101,Tutorial,Monday,14:30,16:30,400-325,2026-03-16,Liverpool,Fundamentals of Nursing 1 Tutorial
@@ -101522,6 +101435,8 @@ SNUG302,Tutorial,Tuesday,13:30,15:30,400-325,2026-09-01,Liverpool,Leadership in 
 SNUG302,Tutorial,Tuesday,13:30,15:30,400-325,2026-09-08,Liverpool,Leadership in Nursing
 SNUG332,Tutorial,Tuesday,13:30,15:30,400-325,2026-10-20,Liverpool,Skills Consolidation for Professional Practice
 SNUG332,Tutorial,Tuesday,13:30,15:30,400-325,2026-10-27,Liverpool,Skills Consolidation for Professional Practice
+WUCB105,Tutorial,Tuesday,13:30,15:30,400-325,2026-11-10,Liverpool,Introductory Principles of Finance
+WUCB105,Tutorial,Tuesday,13:30,15:30,400-325,2026-11-17,Liverpool,Introductory Principles of Finance
 VNUR300,TD,Wednesday,08:30,13:30,400-325,2026-01-28,Liverpool,Vocational Nursing Session 3
 VNUR300,TD,Wednesday,08:30,13:30,400-325,2026-02-04,Liverpool,Vocational Nursing Session 3
 VNUR300,TD,Wednesday,08:30,13:30,400-325,2026-02-11,Liverpool,Vocational Nursing Session 3
@@ -101735,6 +101650,9 @@ SNUG302,Tutorial,Thursday,13:30,15:30,400-325,2026-09-10,Liverpool,Leadership in
 SNUG302,Tutorial,Thursday,13:30,15:30,400-325,2026-09-17,Liverpool,Leadership in Nursing
 SNUG302,Tutorial,Thursday,13:30,15:30,400-325,2026-10-22,Liverpool,Leadership in Nursing
 SNUG302,Tutorial,Thursday,13:30,15:30,400-325,2026-10-29,Liverpool,Leadership in Nursing
+WUCB521,Tutorial,Thursday,13:30,15:30,400-325,2026-11-05,Liverpool,Statistics for Business
+WUCB521,Tutorial,Thursday,13:30,15:30,400-325,2026-11-12,Liverpool,Statistics for Business
+WUCB521,Tutorial,Thursday,13:30,15:30,400-325,2026-11-19,Liverpool,Statistics for Business
 SNUG221,Tutorial,Thursday,15:30,17:30,400-325,2026-01-29,Liverpool,Pathophysiology and Pharmacology for Nurses 1 Tutorial
 SNUG221,Tutorial,Thursday,15:30,17:30,400-325,2026-02-05,Liverpool,Pathophysiology and Pharmacology for Nurses 1 Tutorial
 SNUG221,Tutorial,Thursday,15:30,17:30,400-325,2026-02-12,Liverpool,Pathophysiology and Pharmacology for Nurses 1 Tutorial
@@ -101922,6 +101840,9 @@ MGNT110,Workshop,Monday,13:30,15:30,400-505,2026-05-11,Liverpool,Introduction to
 MGNT110,Workshop,Monday,13:30,15:30,400-505,2026-05-18,Liverpool,Introduction to Management Workshop
 MGNT110,Workshop,Monday,13:30,15:30,400-505,2026-05-25,Liverpool,Introduction to Management Workshop
 MGNT110,Workshop,Monday,13:30,15:30,400-505,2026-06-01,Liverpool,Introduction to Management Workshop
+PREP030,Tutorial,Monday,13:30,15:30,400-505,2026-10-19,Liverpool,Launch
+PREP030,Tutorial,Monday,13:30,15:30,400-505,2026-10-26,Liverpool,Launch
+PREP030,Tutorial,Monday,13:30,15:30,400-505,2026-11-02,Liverpool,Launch
 00CAS2-LiverpoolExams2026-Autumn/02,LiverpoolExams2026,Tuesday,06:00,00:00,400-505,2026-06-16,Liverpool,Liverpool Autumn Exams 2026
 00CAS2-LiverpoolExams2026-Spring/02,LiverpoolExams2026,Tuesday,06:00,00:00,400-505,2026-11-10,Liverpool,Liverpool Spring Exams 2026
 00CAS2-LiverpoolExams2026-Spring/03,LiverpoolExams2026,Tuesday,06:00,00:00,400-505,2026-11-17,Liverpool,Liverpool Spring Exams 2026
@@ -102844,6 +102765,7 @@ WUCB105,Lecture,Tuesday,09:30,12:30,400-507,2026-08-25,Liverpool,Introductory Pr
 WUCB105,Lecture,Tuesday,09:30,12:30,400-507,2026-09-01,Liverpool,Introductory Principles of Finance Lecture
 WUCB105,Lecture,Tuesday,09:30,12:30,400-507,2026-09-08,Liverpool,Introductory Principles of Finance Lecture
 WUCB105,Lecture,Tuesday,09:30,12:30,400-507,2026-09-15,Liverpool,Introductory Principles of Finance Lecture
+MEDI112,Lecture,Tuesday,09:30,11:30,400-507,2026-10-20,Liverpool,Introduction to Anatomy and Physiology
 PREP033,Tutorial,Tuesday,11:30,13:30,400-507,2026-04-28,Liverpool,Mathematics for the Humanities Tutorial
 PREP033,Tutorial,Tuesday,11:30,13:30,400-507,2026-05-05,Liverpool,Mathematics for the Humanities Tutorial
 PREP033,Tutorial,Tuesday,11:30,13:30,400-507,2026-05-12,Liverpool,Mathematics for the Humanities Tutorial
@@ -103862,6 +103784,8 @@ VNUR100,TA,Thursday,08:30,15:30,400-633,2026-06-18,Liverpool,Vocational Nursing 
 VNUR200,TB,Thursday,08:30,15:30,400-633,2026-07-23,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,400-633,2026-08-27,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
 VNUR200,TB,Thursday,08:30,15:30,400-633,2026-09-10,Liverpool,Vocational Nursing Session 2 - Feb 24 Intake
+DSSC107,Tutorial,Thursday,08:30,10:30,400-633,2026-10-22,Liverpool,Principles of Responsible Business
+DSSC107,Tutorial,Thursday,08:30,10:30,400-633,2026-10-29,Liverpool,Principles of Responsible Business
 02.19/26-AdamDavies,AdamDavies,Thursday,09:30,13:00,400-633,2026-02-19,Liverpool,Uni Bible Group Meeting - Chaplaincy
 LLB3302,Seminar,Thursday,10:30,12:30,400-633,2026-03-05,Liverpool,Law of Business Organisations Seminar
 LLB3302,Seminar,Thursday,10:30,12:30,400-633,2026-03-12,Liverpool,Law of Business Organisations Seminar
@@ -103878,6 +103802,8 @@ LLB3302,Seminar,Thursday,10:30,12:30,400-633,2026-05-28,Liverpool,Law of Busines
 LLB3302,Seminar,Thursday,10:30,12:30,400-633,2026-06-04,Liverpool,Law of Business Organisations Seminar
 PREP033,Tutorial,Thursday,10:30,12:30,400-633,2026-09-03,Liverpool,Mathematics for the Humanities
 PREP033,Tutorial,Thursday,10:30,12:30,400-633,2026-09-17,Liverpool,Mathematics for the Humanities
+DSSC107,Lecture,Thursday,10:30,12:30,400-633,2026-10-22,Liverpool,Principles of Responsible Business
+DSSC107,Lecture,Thursday,10:30,12:30,400-633,2026-10-29,Liverpool,Principles of Responsible Business
 03.19/26-LesleyTyte/01,LesleyTyte,Thursday,12:30,13:30,400-633,2026-03-19,Liverpool,Liverpool Campus Opening Event
 08.20/26-AlexandraHeath/01,AlexandraHeath,Thursday,12:30,13:30,400-633,2026-08-20,Liverpool,Deferred exam - SNUG-113
 LLB3300,Seminar,Thursday,13:30,15:30,400-633,2026-03-05,Liverpool,Remedies and Civil Procedure Seminar
