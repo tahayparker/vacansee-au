@@ -27,7 +27,7 @@ export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl;
   const baseUrl = getBaseUrl(req);
 
-  // Signup disabled → not an authorized account.
+  // Signup disabled -> not an authorized account.
   if (searchParams.get("error_code") === "signup_disabled") {
     const url = new URL("/unauthorized", baseUrl);
     url.searchParams.set("auth_error", "signup_disabled");
@@ -35,30 +35,58 @@ export async function GET(req: NextRequest) {
   }
 
   const code = searchParams.get("code");
-  if (!code) {
-    const url = new URL("/auth/login", baseUrl);
-    url.searchParams.set(
-      "error",
-      "Authentication process failed. No code received.",
-    );
-    return NextResponse.redirect(url);
-  }
+  const token_hash = searchParams.get("token_hash");
+  const type = searchParams.get("type");
+  const next = searchParams.get("next");
 
   const supabase = await createClient();
-  const { error } = await supabase.auth.exchangeCodeForSession(code);
 
-  if (error) {
-    if (isDev) console.error("[Callback] Exchange error:", error.message);
-    const url = new URL("/auth/login", baseUrl);
-    url.searchParams.set(
-      "error",
-      `Authentication failed: ${error.message}. Please try again.`,
-    );
-    return NextResponse.redirect(url);
+  // Handle OTP / Magic Link token_hash
+  if (token_hash && type) {
+    const { error } = await supabase.auth.verifyOtp({
+      token_hash,
+      type: type as any,
+    });
+    if (error) {
+      const url = new URL("/auth/login", baseUrl);
+      url.searchParams.set("error", error.message);
+      return NextResponse.redirect(url);
+    }
+    if (type === "recovery") {
+      return NextResponse.redirect(new URL("/auth/reset-password", baseUrl));
+    }
+    const dest = next ? safeRedirectPath(next) : "/";
+    return NextResponse.redirect(new URL(dest, baseUrl));
   }
 
-  const redirectPath = safeRedirectPath(
-    req.cookies.get("supabase-redirect-path")?.value,
+  // Handle PKCE code exchange
+  if (code) {
+    const { error } = await supabase.auth.exchangeCodeForSession(code);
+    if (error) {
+      if (isDev) console.error("[Callback] Exchange error:", error.message);
+      const url = new URL("/auth/login", baseUrl);
+      url.searchParams.set(
+        "error",
+        `Authentication failed: ${error.message}. Please try again.`,
+      );
+      return NextResponse.redirect(url);
+    }
+
+    if (type === "recovery" || next === "/auth/reset-password") {
+      return NextResponse.redirect(new URL("/auth/reset-password", baseUrl));
+    }
+
+    const redirectPath = next
+      ? safeRedirectPath(next)
+      : safeRedirectPath(req.cookies.get("supabase-redirect-path")?.value);
+    return NextResponse.redirect(new URL(redirectPath, baseUrl));
+  }
+
+  const url = new URL("/auth/login", baseUrl);
+  url.searchParams.set(
+    "error",
+    searchParams.get("error_description") ||
+      "Authentication failed. No authorization code received.",
   );
-  return NextResponse.redirect(new URL(redirectPath, baseUrl));
+  return NextResponse.redirect(url);
 }
