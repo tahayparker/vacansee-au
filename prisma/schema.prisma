@@ -10,6 +10,57 @@ datasource db {
 }
 
 model Rooms {
+  id        Int    @id @default(autoincrement())
+  Name      String
+  ShortCode String
+  Capacity  Int?
+
+  @@index([ShortCode])
+  @@index([Name])
+}
+
+model Teacher {
+  id    Int    @id @default(autoincrement())
+  Name  String
+  Email String
+  Phone String
+}
+
+model Timings {
+  id        Int    @id @default(autoincrement())
+  SubCode   String
+  Class     String
+  Day       String
+  StartTime String
+  EndTime   String
+  Room      String
+  Teacher   String
+
+  @@index([Day, StartTime, EndTime])
+  @@index([Room])
+  @@index([Day])
+}
+
+model RawTimings {
+  id              Int    @id @default(autoincrement())
+  SubCode         String
+  SubName         String
+  TypeWithSection String
+  Day             String
+  StartTime       String
+  EndTime         String
+  Location        String
+  Lecturer        String
+  Type            String
+  TypeFull        String
+  SelectionOption String
+  SemesterId      String
+
+  @@index([SubCode])
+  @@index([Day])
+}
+
+model AU_Rooms {
   id              Int     @id @default(autoincrement())
   Name            String
   Building        String
@@ -24,31 +75,38 @@ model Rooms {
   RearImage       String?
 
   @@index([Building])
-  @@index([Name])
   @@index([Campus])
+  @@index([Name])
   @@map("AU-Rooms")
 }
 
-model Timings {
-  id        Int    @id @default(autoincrement())
-  SubCode   String
-  Class     String
-  Day       String
-  StartTime String
-  EndTime   String
-  Room      String
-  // Resolved calendar date for this occurrence (ISO YYYY-MM-DD from the scraper).
-  Date      String @default("")
-  Campus    String @default("")
+model AU_Timings {
+  id          Int    @id @default(autoincrement())
+  SubCode     String
+  Class       String
+  Day         String
+  StartTime   String
+  EndTime     String
+  Room        String
+  Campus      String @default("")
+  Date        String @default("")
   Description String @default("")
 
-  // Composite indexes for common query patterns
   @@index([Day, StartTime, EndTime])
   @@index([Date, StartTime, EndTime])
   @@index([Room])
   @@index([Date, Room])
   @@index([Day])
   @@index([Campus])
-  // Shared Supabase project with the Dubai app: namespace the table.
   @@map("AU-Timings")
+}
+
+model AU_Teacher {
+  id    Int    @id @default(autoincrement())
+  Name  String
+  Email String
+  Phone String
+
+  @@index([Name])
+  @@map("AU-Teacher")
 }
