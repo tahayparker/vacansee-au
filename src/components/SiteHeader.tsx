@@ -295,7 +295,7 @@ export default function SiteHeader({
               }
             }}
           >
-            <DoorOpen className="h-6 w-6 text-purple-500" />
+            <DoorOpen className="h-7 w-7 text-purple-500 shrink-0" />
             <span className={`sm:inline text-xl mt-1 ${qurovaFont.className}`}>
               vacansee-au
             </span>
@@ -575,12 +575,12 @@ export default function SiteHeader({
                                 user.user_metadata?.picture
                               }
                               alt={userDisplayName}
-                              width={32}
-                              height={32}
-                              className="rounded-full flex-shrink-0 object-cover"
+                              width={20}
+                              height={20}
+                              className="w-5 h-5 rounded-full flex-shrink-0 object-cover"
                             />
                           ) : (
-                            <UserRound className="h-8 w-8 flex-shrink-0" />
+                            <UserRound className="h-5 w-5 flex-shrink-0" />
                           )}
                           <span className="flex-grow text-base font-medium">
                             Profile
