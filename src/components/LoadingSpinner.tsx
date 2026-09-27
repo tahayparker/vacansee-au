@@ -80,7 +80,7 @@ export function LoadingSpinner({
   className,
   centered = false,
   fullHeight = false,
-}: LoadingSpinnerProps): JSX.Element {
+}: LoadingSpinnerProps): React.JSX.Element {
   const spinnerElement = (
     <div
       className={cn(
@@ -144,7 +144,7 @@ export function LoadingSpinner({
  * Loading spinner specifically for full-page loading
  * Uses large size and full height by default
  */
-export function FullPageLoader({ message }: { message?: string }): JSX.Element {
+export function FullPageLoader({ message }: { message?: string }): React.JSX.Element {
   return <LoadingSpinner size="large" message={message} fullHeight />;
 }
 
@@ -157,7 +157,7 @@ export function InlineLoader({
 }: {
   message?: string;
   className?: string;
-}): JSX.Element {
+}): React.JSX.Element {
   return (
     <LoadingSpinner
       size="small"
@@ -174,7 +174,7 @@ export function ButtonLoader({
   className,
 }: {
   className?: string;
-}): JSX.Element {
+}): React.JSX.Element {
   return (
     <div
       className={cn(
@@ -199,7 +199,7 @@ export function LoadingOverlay({
   isLoading: boolean;
   message?: string;
   children: React.ReactNode;
-}): JSX.Element {
+}): React.JSX.Element {
   return (
     <div className="relative">
       {children}
