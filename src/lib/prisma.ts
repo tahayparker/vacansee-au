@@ -26,8 +26,21 @@ function createPrisma(): PrismaClient {
   });
 }
 
-const prisma = globalForPrisma.prisma ?? createPrisma();
+const rawPrisma = globalForPrisma.prisma ?? createPrisma();
 
-if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
+if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = rawPrisma;
+
+// In vacansee-au, transparently proxy .rooms and .timings to .aU_Rooms and .aU_Timings
+// so existing queries map to Australia tables while keeping the schema unified.
+export const prisma = new Proxy(rawPrisma, {
+  get(target: any, prop: string | symbol) {
+    if (prop === "rooms") return target.aU_Rooms;
+    if (prop === "timings") return target.aU_Timings;
+    return target[prop];
+  },
+}) as unknown as PrismaClient & {
+  rooms: PrismaClient["aU_Rooms"];
+  timings: PrismaClient["aU_Timings"];
+};
 
 export default prisma;
