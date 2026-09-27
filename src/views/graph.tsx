@@ -176,7 +176,7 @@ export default function GraphPage() {
         <h1 className="text-3xl md:text-4xl font-bold text-center md:text-left text-white flex-shrink-0">
           Room Availability Graph
         </h1>
-        <div className="flex items-center justify-center md:justify-end gap-2 flex-grow">
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-center md:justify-end gap-2 w-full md:w-auto">
           <CampusMultiSelect
             variant="button"
             selected={selectedCampuses}
@@ -198,9 +198,9 @@ export default function GraphPage() {
               </Button>
             </PopoverTrigger>
             <PopoverContent
-              align="end"
+              align="center"
               sideOffset={8}
-              className="w-auto p-0 bg-black/80 backdrop-blur-md border-white/20"
+              className="w-auto p-0 bg-black/80 backdrop-blur-md border-white/20 max-w-[calc(100vw-2rem)]"
             >
               <Calendar
                 mode="single"
