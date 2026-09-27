@@ -139,8 +139,7 @@ export default function Profile() {
   if (isLoading) {
     return (
       <div
-        className="flex flex-col items-center justify-center gap-4 w-full px-4"
-        style={{ minHeight: "calc(100vh - 80px)" }}
+        className="flex flex-col items-center justify-center gap-4 w-full px-4 pt-20 md:pt-24 pb-12 min-h-screen"
       >
         <LoadingSpinner size="medium" message="Loading profile..." />
       </div>
@@ -149,8 +148,7 @@ export default function Profile() {
 
   return (
     <div
-      className="flex flex-col items-center justify-center gap-4 w-full px-4"
-      style={{ minHeight: "calc(100vh - 80px)" }}
+      className="flex flex-col items-center justify-start md:justify-center gap-4 w-full px-4 pt-20 md:pt-24 pb-12 min-h-screen"
     >
       <style jsx>{`
         :global(.pc-card-wrapper:hover),
@@ -277,21 +275,23 @@ export default function Profile() {
           <div className="h-px bg-white/10 my-2" />
 
           <div className="space-y-2">
-            <div className="flex items-center justify-between gap-2">
-              <span className="text-md text-white">Onboarding</span>
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+              <div>
+                <span className="text-md text-white font-medium">Onboarding</span>
+                <p className="text-sm text-white/60 mt-0.5">
+                  See the welcome tour again to revisit key features.
+                </p>
+              </div>
               <Button
                 onClick={handleResetOnboarding}
                 disabled={resetting}
                 variant="outline"
-                className="w-[180px] flex items-center gap-2"
+                className="flex items-center gap-2 w-full sm:w-auto shrink-0 justify-center text-sm"
               >
-                <RotateCcw className="h-4 w-4" />
-                {resetting ? "Resetting…" : "Reset onboarding"}
+                <RotateCcw className="h-4 w-4 shrink-0" />
+                <span>{resetting ? "Resetting…" : "Reset onboarding"}</span>
               </Button>
             </div>
-            <p className="text-sm text-white/60">
-              See the welcome tour again to revisit key features.
-            </p>
             {resetDone && (
               <span className="text-xs text-green-400">
                 Reset. The tour will appear now.
