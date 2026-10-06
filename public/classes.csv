@@ -750,6 +750,7 @@ BIOL420,Lecture,Friday,09:30,14:30,1-G01,2026-05-08,Wollongong,Biotechnology Hon
 03.28/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,16:00,1-G01,2026-03-28,Wollongong,Meeting - EIS
 04.11/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,15:30,1-G01,2026-04-11,Wollongong,Meeting - EIS
 09.05/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,14:00,1-G01,2026-09-05,Wollongong,Meeting - EIS
+10.03/26-TaiPapesch-Ward,TaiPapesch,Saturday,12:30,19:00,1-G01,2026-10-03,Wollongong,Meeting - EIS
 09.26/26-TaiPapesch-Ward,TaiPapesch,Saturday,17:30,23:30,1-G01,2026-09-26,Wollongong,Meeting - EIS
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G01,2025-12-07,Wollongong,Essential Air Conditioning works
 12.01/25-PeterBennett/01,PeterBennett,Sunday,06:00,00:00,1-G01,2025-12-14,Wollongong,Essential Air Conditioning works
@@ -1060,7 +1061,7 @@ PREP030,Tutorial,Monday,08:30,10:30,1-G03,2026-07-06,Wollongong,Launch Tutorial
 PREP030,Tutorial,Monday,08:30,10:30,1-G03,2026-07-13,Wollongong,Launch Tutorial
 PREP030,Tutorial,Monday,08:30,10:30,1-G03,2026-07-27,Wollongong,Launch Tutorial
 04.28/26-MarivicLagleva/03,MarivicLagleva,Monday,09:00,11:00,1-G03,2026-06-15,Wollongong,GSM MEDI991(S3) CCC Block Test 4 + AP Rooms
-10.19/26-LipTeh/01,LipTeh,Monday,09:00,13:00,1-G03,2026-10-19,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
+10.19/26-LipTeh/01,LipTeh,Monday,09:00,17:00,1-G03,2026-10-19,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 09.07/26-MonicaBain,MonicaBain,Monday,10:00,13:30,1-G03,2026-09-07,Wollongong,Mid-exam MECH201 - access plan requirements - EIS - SOE
 PREP030,Tutorial,Monday,10:30,12:30,1-G03,2026-06-22,Wollongong,Launch Tutorial
 PREP030,Tutorial,Monday,10:30,12:30,1-G03,2026-06-29,Wollongong,Launch Tutorial
@@ -1074,7 +1075,6 @@ PREP030,Tutorial,Monday,10:30,12:30,1-G03,2026-07-27,Wollongong,Launch Tutorial
 00CAS5-Orientation-Autumn/02,Orientation,Tuesday,06:00,14:00,1-G03,2026-02-24,Wollongong,"Autumn Orientation - Bld 1, 14, 3, 32, 35, 4, 8"
 00CAS5-Orientation-Spring/01,Orientation,Tuesday,06:00,00:00,1-G03,2026-07-21,Wollongong,"Spring Orientation - Bld 1, 14, 3, 32, 35, 4, 6, 8"
 ETS 300,TB,Tuesday,08:30,12:30,1-G03,2026-05-19,Wollongong,ETS Session 3
-10.19/26-LipTeh/01,LipTeh,Tuesday,09:00,13:00,1-G03,2026-10-20,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 04.28/26-DavidGunawan,DavidGunawan,Tuesday,09:30,11:30,1-G03,2026-04-28,Wollongong,HONOURS PRESENTATION - School of Mathematics and Physics
 PREP030,Tutorial,Tuesday,10:30,12:30,1-G03,2026-06-23,Wollongong,Launch Tutorial
 PREP030,Tutorial,Tuesday,10:30,12:30,1-G03,2026-06-30,Wollongong,Launch Tutorial
@@ -1153,7 +1153,6 @@ MEDI963,Tutorial,Tuesday,14:30,16:30,1-G03,2026-06-02,Wollongong,Community and P
 ENG 004,TC,Wednesday,08:30,12:30,1-G03,2026-03-04,Wollongong,English Studies 4 Tutorial
 ENG 004,TC,Wednesday,08:30,12:30,1-G03,2026-03-18,Wollongong,English Studies 4 Tutorial
 PSYC251,OC_CAS,Wednesday,08:30,15:30,1-G03,2026-08-26,Wollongong,PSYC251 - In Class Quiz
-10.19/26-LipTeh/01,LipTeh,Wednesday,09:00,13:00,1-G03,2026-10-21,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 08.05/26-ChengLu,ChengLu,Wednesday,09:30,12:30,1-G03,2026-08-05,Wollongong,Deferred ENGG251 final exam - School of MMMBE
 09.09/26-SuzanneLarkin,SuzanneLarkin,Wednesday,09:30,15:30,1-G03,2026-09-09,Wollongong,Industry Project Workshop - SOE
 01.28/26-JiapingWang,JiapingWang,Wednesday,10:00,12:30,1-G03,2026-01-28,Wollongong,research group meeting - EIS
@@ -1231,7 +1230,7 @@ ENG 005,TD,Thursday,08:30,12:30,1-G03,2026-03-19,Wollongong,English Studies 5 Tu
 ENG 005,TD,Thursday,08:30,12:30,1-G03,2026-05-21,Wollongong,English Studies 5 Tutorial
 ENG 005,TD,Thursday,08:30,12:30,1-G03,2026-05-28,Wollongong,English Studies 5 Tutorial
 11.12/26-MonicaBain,MonicaBain,Thursday,08:30,12:30,1-G03,2026-11-12,Wollongong,Spring Exam MATE302/MATL907 SOE - EIS - SOE
-10.19/26-LipTeh/01,LipTeh,Thursday,09:00,13:00,1-G03,2026-10-22,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
+10.19/26-LipTeh/04,LipTeh,Thursday,09:00,18:00,1-G03,2026-10-22,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 03.24/26-EmilyGardner/03,EmilyGardner,Thursday,09:30,12:00,1-G03,2026-03-26,Wollongong,Student Focus Groups UOW Gender-based Violence project
 DSCI108,Practical,Thursday,09:30,12:30,1-G03,2026-05-07,Wollongong,"Evolution, Biodiversity and Environment Practical"
 DSCI108,Practical,Thursday,09:30,12:30,1-G03,2026-05-14,Wollongong,"Evolution, Biodiversity and Environment Practical"
@@ -1274,7 +1273,6 @@ DASH100,Tutorial,Friday,08:30,10:30,1-G03,2026-08-28,Wollongong,Learning in High
 DASH100,Tutorial,Friday,08:30,10:30,1-G03,2026-09-04,Wollongong,Learning in Higher Education Tutorial
 DASH100,Tutorial,Friday,08:30,10:30,1-G03,2026-09-11,Wollongong,Learning in Higher Education Tutorial
 DASH100,Tutorial,Friday,08:30,10:30,1-G03,2026-09-18,Wollongong,Learning in Higher Education Tutorial
-10.19/26-LipTeh/01,LipTeh,Friday,09:00,13:00,1-G03,2026-10-23,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 01.09/26-DavidGunawan,DavidGunawan,Friday,09:30,13:30,1-G03,2026-01-09,Wollongong,Supp Exam - School of Mathematics and Applied Statistics
 PHYS366,Lecture,Friday,09:30,11:30,1-G03,2026-03-06,Wollongong,
 PHYS966,Lecture,Friday,09:30,11:30,1-G03,2026-03-06,Wollongong,
@@ -15300,6 +15298,7 @@ CIVL365,OC_CAS,Tuesday,08:30,11:30,8-G24,2026-09-01,Wollongong,CIVL365 Mid sessi
 05.05/26-DanijelaCancar,DanijelaCancar,Tuesday,09:00,10:30,8-G24,2026-05-05,Wollongong,MMMB940 oral presentations on - EIS
 05.26/26-DanijelaCancar/01,DanijelaCancar,Tuesday,09:00,11:00,8-G24,2026-05-26,Wollongong,MMMB498/499 - Presentations
 MATH222,OC_CAS,Tuesday,09:00,11:30,8-G24,2026-06-23,Wollongong,Final Exam - MATH222
+10.19/26-LipTeh/02,LipTeh,Tuesday,09:00,17:00,8-G24,2026-10-20,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 08.11/26-KaylaMcgee,KaylaMcgee,Tuesday,10:00,13:00,8-G24,2026-08-11,Wollongong,Jack Yang - Deferred Exams. - School of Computing and Information Technology
 01.13/26-MingQiao/01,MingQiao,Tuesday,10:30,12:30,8-G24,2026-01-13,Wollongong,Guest lecture for HDR Students
 12.02/25-SusanLehmann,SusanLehmann,Tuesday,11:00,13:00,8-G24,2025-12-02,Wollongong,Ming Qiao - English Teaching - CMEA
@@ -26853,6 +26852,7 @@ ETS 200,TC,Friday,08:30,12:30,19-1067,2026-06-12,Wollongong,ETS Session 2
 ETS 200,TC,Friday,08:30,12:30,19-1067,2026-06-19,Wollongong,ETS Session 2
 ETS 200,TC,Friday,08:30,12:30,19-1067,2026-06-26,Wollongong,ETS Session 2
 ETS 100,TE,Friday,08:30,12:30,19-1067,2026-09-25,Wollongong,ETS18 Session 1 Tutorial
+10.19/26-LipTeh/05,LipTeh,Friday,09:00,17:30,19-1067,2026-10-23,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 SOWK410,Seminar,Friday,09:30,13:00,19-1067,2026-07-24,Wollongong,Supervised Professional Practice II Seminar
 08.21/26-SvitlanaNastenko,SvitlanaNastenko,Friday,09:30,10:30,19-1067,2026-08-21,Wollongong,Chemistry PALS session - UOWC
 SOWK410,Seminar,Friday,09:30,13:00,19-1067,2026-08-28,Wollongong,Supervised Professional Practice II Seminar
@@ -32826,6 +32826,7 @@ DPEN010,Tutorial,Wednesday,08:30,10:30,19-2104,2026-08-26,Wollongong,Enabling Ma
 DPEN010,Tutorial,Wednesday,08:30,10:30,19-2104,2026-09-02,Wollongong,Enabling Mathematics Tutorial
 DPEN010,Tutorial,Wednesday,08:30,10:30,19-2104,2026-09-09,Wollongong,Enabling Mathematics Tutorial
 DPEN010,Tutorial,Wednesday,08:30,10:30,19-2104,2026-09-16,Wollongong,Enabling Mathematics Tutorial
+10.19/26-LipTeh/03,LipTeh,Wednesday,09:00,17:30,19-2104,2026-10-21,Wollongong,CMEA498 Thesis A and CMEA499 Thesis B Oral Presentations
 MEDI150,Tutorial,Wednesday,09:30,10:30,19-2104,2026-03-04,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Wednesday,09:30,10:30,19-2104,2026-03-11,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
 MEDI150,Tutorial,Wednesday,09:30,10:30,19-2104,2026-03-18,Wollongong,Fundamental Concepts in Food and Nutrition Tutorial A
@@ -39908,6 +39909,7 @@ SOWK236,Workshop,Tuesday,09:30,12:30,22-G22,2026-09-22,Wollongong,Approaches and
 SOWK236,Workshop,Tuesday,09:30,12:30,22-G22,2026-10-06,Wollongong,Approaches and Skills: Group Work Seminar
 SOWK236,Workshop,Tuesday,09:30,12:30,22-G22,2026-10-13,Wollongong,Approaches and Skills: Group Work Seminar
 SOWK236,Workshop,Tuesday,09:30,12:30,22-G22,2026-10-20,Wollongong,Approaches and Skills: Group Work Seminar
+10.27/26-SueDownie,SueDownie,Tuesday,09:30,12:30,22-G22,2026-10-27,Wollongong,"Workshop - MIHS, SMAH"
 SMAH002,Help Session,Tuesday,10:30,11:30,22-G22,2026-01-06,Wollongong,"Health for Now, Health for the Future Help Session A"
 SNUG331,Tutorial,Tuesday,10:30,12:30,22-G22,2026-03-03,Wollongong,Pathophysiology and Pharmacology for Nurses 2 Tutorial
 SNUG331,Tutorial,Tuesday,10:30,12:30,22-G22,2026-03-10,Wollongong,Pathophysiology and Pharmacology for Nurses 2 Tutorial
@@ -47219,6 +47221,7 @@ INTS200,Tutorial,Tuesday,09:30,11:30,24-G01,2026-06-02,Wollongong,Model United N
 INTS800,Tutorial,Tuesday,09:30,11:30,24-G01,2026-06-02,Wollongong,Model United Nations Tutorial
 CSIT321,Workshop,Tuesday,09:30,11:30,24-G01,2026-09-01,Wollongong,Project Workshop
 CSIT321,Workshop,Tuesday,09:30,11:30,24-G01,2026-09-22,Wollongong,Project Workshop
+10.13/26-DougSweeney,DougSweeney,Tuesday,09:30,11:30,24-G01,2026-10-13,Wollongong,Division Meeting - Shared Services
 CSIT321,Workshop,Tuesday,09:30,11:30,24-G01,2026-10-20,Wollongong,Project Workshop
 10.06/26-AnnaNicholls,AnnaNicholls,Tuesday,10:00,12:30,24-G01,2026-10-06,Wollongong,Training - P&C
 DMHS160,Lecture,Tuesday,10:30,12:30,24-G01,2026-08-18,Wollongong,Scientific Literacy Lecture
@@ -50243,6 +50246,7 @@ POL 326,T,Tuesday,15:30,17:30,25-147,2026-06-02,Wollongong,Global Inequality Lec
 06.24/26-AmandaWebster,AmandaWebster,Wednesday,09:00,16:00,25-147,2026-06-24,Wollongong,Learning and Teaching Program meeting - School of Edducation
 09.23/26-MarkHutchings,MarkHutchings,Wednesday,10:30,12:00,25-147,2026-09-23,Wollongong,CAH HoSts catch up - SSD
 02.25/26-PennyHarris,PennyHarris,Wednesday,13:00,14:00,25-147,2026-02-25,Wollongong,meeting - TAEM
+10.07/26-TravisWall,TravisWall,Wednesday,13:00,14:00,25-147,2026-10-07,Wollongong,Meeting - CAH
 07.07/26-MichaelCook/01,MichaelCook,Thursday,06:00,08:00,25-147,2026-07-09,Wollongong,RCD Testing - BLD 25
 05.28/26-AhmedSaleem,AhmedSaleem,Thursday,09:30,11:00,25-147,2026-05-28,Wollongong,Meeting with my PhD student - School of Engineering
 09.10/26-TravisKing,TravisKing,Thursday,09:30,10:30,25-147,2026-09-10,Wollongong,Meeting - Project Air Strategy
@@ -51599,6 +51603,7 @@ MNPR927,Tutorial,Tuesday,08:30,10:30,25-159,2026-09-22,Wollongong,Sustainability
 MNPR927,Tutorial,Tuesday,08:30,10:30,25-159,2026-09-29,Wollongong,Sustainability Project
 MNPR927,Tutorial,Tuesday,08:30,10:30,25-159,2026-10-06,Wollongong,Sustainability Project
 07.21/26-Xu-FengHuang,Xu,Tuesday,09:00,17:00,25-159,2026-07-21,Wollongong,"e-ASIA research workshop - School of Medical, Indigenous and Health Sciences"
+10.27/26-SueDownie,SueDownie,Tuesday,09:30,12:30,25-159,2026-10-27,Wollongong,"Workshop - MIHS, SMAH"
 SNUG331,Tutorial,Tuesday,10:30,12:30,25-159,2026-01-27,Wollongong,Pathophysiology and Pharmacology for Nurses 2 Tutorial
 SNUG331,Tutorial,Tuesday,10:30,12:30,25-159,2026-02-03,Wollongong,Pathophysiology and Pharmacology for Nurses 2 Tutorial
 SNUG331,Tutorial,Tuesday,10:30,12:30,25-159,2026-02-10,Wollongong,Pathophysiology and Pharmacology for Nurses 2 Tutorial
@@ -64533,6 +64538,7 @@ PGPH911,Workshop,Tuesday,14:30,16:30,40-124,2026-08-25,Wollongong,Public Health 
 PGPH911,Workshop,Tuesday,14:30,16:30,40-124,2026-09-08,Wollongong,Public Health and Justice Tutorial
 PGPH911,Workshop,Tuesday,14:30,16:30,40-124,2026-09-22,Wollongong,Public Health and Justice Tutorial
 PGPH911,Workshop,Tuesday,14:30,16:30,40-124,2026-10-13,Wollongong,Public Health and Justice Tutorial
+10.27/26-JaneCarey,JaneCarey,Tuesday,14:30,16:30,40-124,2026-10-27,Wollongong,Teaching - Final Presentations for HIST389 - Creative Arts and Humanities
 PHIL219,Tutorial,Tuesday,15:30,16:30,40-124,2026-03-10,Wollongong,"Knowledge, Science and Understanding Tutorial"
 PHIL219,Tutorial,Tuesday,15:30,16:30,40-124,2026-03-17,Wollongong,"Knowledge, Science and Understanding Tutorial"
 PHIL219,Tutorial,Tuesday,15:30,16:30,40-124,2026-03-24,Wollongong,"Knowledge, Science and Understanding Tutorial"
@@ -68871,6 +68877,7 @@ CHEM964,Lecture,Friday,13:30,15:30,41-104,2026-06-05,Wollongong,Molecular Spectr
 04.28/26-SimoneFavelle,SimoneFavelle,Tuesday,11:00,13:00,41-105,2026-04-28,Wollongong,quiz space for PSYC327 students with an access plan - Psychology
 09.15/26-FrancesDe Blasio,FrancesDe Blasio,Tuesday,13:30,15:00,41-105,2026-09-15,Wollongong,Mid-Session Test for Access Plan inclusions - Psychology
 08.25/26-PeterLeeson,PeterLeeson,Tuesday,14:00,16:00,41-105,2026-08-25,Wollongong,Deferred exam - Psychology
+10.06/26-RoryDarkins,RoryDarkins,Tuesday,14:00,15:00,41-105,2026-10-06,Wollongong,Honours Health Psychology Group - Psychology
 03.17/26-JoelTeixeira,JoelTeixeira,Tuesday,14:30,15:30,41-105,2026-03-17,Wollongong,Honours experimental group meeting - Psychology
 03.31/26-JoelTeixeira,JoelTeixeira,Tuesday,14:30,15:30,41-105,2026-03-31,Wollongong,Honours experimental group meeting - Psychology
 04.28/26-JoelTeixeira,JoelTeixeira,Tuesday,14:30,15:30,41-105,2026-04-28,Wollongong,Honours experimental group meeting - Psychology
@@ -77746,6 +77753,7 @@ ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-09-10,Wollongong,In-class quiz/e
 ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-09-24,Wollongong,In-class quiz/exam
 ENGG954,OC_CAS,Thursday,14:30,15:30,67-104,2026-10-15,Wollongong,In-class quiz/exam
 04.30/26-MackenzieCini,MackenzieCini,Thursday,15:00,16:00,67-104,2026-04-30,Wollongong,Mining Society Event - Mining Society
+10.08/26-ElenaWalsh,ElenaWalsh,Thursday,16:30,18:00,67-104,2026-10-08,Wollongong,"Additional seating required for event - Annual Sophia Lecture - School of Liberal Arts, ASSH"
 06.04/26-MichaelMacartney/01,MichaelMacartney,Thursday,17:00,19:00,67-104,2026-06-04,Wollongong,Nutrition & Dietetics Symposium
 10.29/26-MarianneSpinelli/01,MarianneSpinelli,Thursday,17:00,20:00,67-104,2026-10-29,Wollongong,School of Science Bert Halpern Memorial Lecture
 07.06/26-JennyWang/03,JennyWang,Thursday,17:30,00:00,67-104,2026-07-09,Wollongong,13th Accounting History International Conference - ABS - Block out PM
@@ -79209,7 +79217,6 @@ EDPS302,Tutorial,Tuesday,09:30,11:30,67-202,2026-10-20,Wollongong,Creating Posit
 06.02/26-BelindaHoward/01,BelindaHoward,Tuesday,10:30,11:30,67-202,2026-06-02,Wollongong,Shared Services Divisional Meeting – June 2026
 WUCB122,Workshop,Tuesday,10:30,11:30,67-202,2026-08-18,Wollongong,Accounting Principles Workshop
 WUCB122,Workshop,Tuesday,10:30,11:30,67-202,2026-09-01,Wollongong,Accounting Principles Workshop
-10.06/26-LyndseyFrigo-Smith,LyndseyFrigo,Tuesday,10:30,11:30,67-202,2026-10-06,Wollongong,VPO Leadership Group Meeting - Vice-Chancellor's Unit
 HAS 350,Seminar,Tuesday,11:30,13:30,67-202,2026-03-10,Wollongong,Social Determinants of Indigenous Health Seminar
 HAS 350,Seminar,Tuesday,11:30,13:30,67-202,2026-03-17,Wollongong,Social Determinants of Indigenous Health Seminar
 HAS 350,Seminar,Tuesday,11:30,13:30,67-202,2026-03-24,Wollongong,Social Determinants of Indigenous Health Seminar
