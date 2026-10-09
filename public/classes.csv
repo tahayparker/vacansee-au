@@ -15,6 +15,7 @@ SubCode,Class,Day,StartTime,EndTime,Room,Date,Campus,Description
 MATH339,OC_CAS,Monday,08:30,10:30,1-105,2026-09-14,Wollongong,Math339 Exam
 09.07/26-MonicaBain,MonicaBain,Monday,10:00,12:30,1-105,2026-09-07,Wollongong,Mid-exam of MECH201 - EIS - SOE
 08.31/26-SvitlanaNastenko,SvitlanaNastenko,Monday,10:30,12:30,1-105,2026-08-31,Wollongong,PREP033 Block B Skills Test 1 - UOWC
+10.19/26-DavidGunawan,DavidGunawan,Monday,11:00,15:00,1-105,2026-10-19,Wollongong,HONOURS PRESENTATION - School of Mathematics and Physics
 09.14/26-DavidGunawan,DavidGunawan,Monday,12:00,15:00,1-105,2026-09-14,Wollongong,INFO401 Final Presentation
 10.12/26-DavidGunawan/01,DavidGunawan,Monday,12:00,15:00,1-105,2026-10-12,Wollongong,SMAP401 Final presentations
 MECH442,Lecture,Monday,12:30,14:30,1-105,2026-03-02,Wollongong,
@@ -5989,6 +5990,9 @@ CSCI318,Computer Lab,Wednesday,15:30,17:30,3-126,2026-09-02,Wollongong,Software 
 CSCI318,Computer Lab,Wednesday,15:30,17:30,3-126,2026-09-16,Wollongong,Software Engineering Practices & Principles Computer Lab
 CSCI318,Computer Lab,Wednesday,15:30,17:30,3-126,2026-10-07,Wollongong,Software Engineering Practices & Principles Computer Lab
 CSCI318,Computer Lab,Wednesday,15:30,17:30,3-126,2026-10-21,Wollongong,Software Engineering Practices & Principles Computer Lab
+PREP032,Computer Lab,Wednesday,15:30,17:30,3-126,2026-11-04,Wollongong,Scientific Thinking
+PREP032,Computer Lab,Wednesday,15:30,17:30,3-126,2026-11-11,Wollongong,Scientific Thinking
+PREP032,Computer Lab,Wednesday,15:30,17:30,3-126,2026-11-18,Wollongong,Scientific Thinking
 CSCI316,Computer Lab,Wednesday,16:30,18:30,3-126,2026-03-18,Wollongong,Big Data Mining Techniques and Implementation Computer Lab
 CSCI316,Computer Lab,Wednesday,16:30,18:30,3-126,2026-04-01,Wollongong,Big Data Mining Techniques and Implementation Computer Lab
 CSCI316,Computer Lab,Wednesday,16:30,18:30,3-126,2026-04-15,Wollongong,Big Data Mining Techniques and Implementation Computer Lab
@@ -66572,6 +66576,7 @@ OPS 270,W,Friday,14:30,16:30,40-230,2026-05-01,Wollongong,Makeup Class for OPS 2
 00CAS2-Exams2026-AutumnS&D/02,Exams2026,Monday,06:00,00:00,40-231,2026-07-20,Wollongong,"Autumn S&D Exams 2026 - Bld 24, 17 & 40 mon - thu"
 00CAS2-Exams2026-Spring&T3/09,Exams2026,Monday,06:00,00:00,40-231,2026-11-09,Wollongong,Spring Exams 2026 - Bld 40
 00CAS2-Exams2026-Spring&T3/09,Exams2026,Monday,06:00,00:00,40-231,2026-11-16,Wollongong,Spring Exams 2026 - Bld 40
+10.12/26-ShaylaTa,ShaylaTa,Monday,09:30,11:30,40-231,2026-10-12,Wollongong,Oriana Price MGNT949 Supplementary - SOB
 00CAS2-Exams2025-SpringS&D/04,Exams2025,Tuesday,06:00,00:00,40-231,2025-12-16,Wollongong,Spring Supp & Deferred Exams 2025 - Bld 17 & 40
 00CAS2-Exams2026-Autumn/09,Exams2026,Tuesday,06:00,00:00,40-231,2026-06-16,Wollongong,Autumn Exams 2026 - Bld 40
 00CAS2-Exams2026-Autumn/25,Exams2026,Tuesday,06:00,12:30,40-231,2026-06-23,Wollongong,Autumn Exams 2026 - Bld 40
